@@ -1,0 +1,6 @@
+NAME>>,<<CHINESE NAME>>,<<CONTINENT GMI
+America>>,<<美洲>>,<<AM-001
+Oceania>>,<<大洋洲>>,<<OA-001
+Asia>>,<<亚洲>>,<<AS-001
+Africa>>,<<非洲>>,<<AF-001
+Europe>>,<<欧洲>>,<<EU-001

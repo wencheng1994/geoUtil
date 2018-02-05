@@ -1,0 +1,6 @@
+NAME>>,<<CONTINENT FIPS>>,<<CONTINENT GMI
+America>>,<<AM>>,<<AM-001>>,<<AM-001
+Oceania>>,<<OA>>,<<OA-001>>,<<OA-001
+Asia>>,<<AS>>,<<AS-001>>,<<AS-001
+Africa>>,<<AF>>,<<AF-001>>,<<AF-001
+Europe>>,<<EU>>,<<EU-001>>,<<EU-001

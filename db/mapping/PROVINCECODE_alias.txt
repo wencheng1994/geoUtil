@@ -1,0 +1,2587 @@
+PROVINCE NAME>>,<<CHINESE NAME>>,<<PROVINCE GMI
+Azuay>>,<<Azuay>>,<<ECU-AZU
+El Oro>>,<<El Oro>>,<<ECU-EOR
+Loja>>,<<Loja>>,<<ECU-LOJ
+Zamora-Chinchipe>>,<<Zamora-Chinchipe>>,<<ECU-ZCH
+Gao>>,<<Gao>>,<<MLI-GAO
+Lambayeque>>,<<Lambayeque>>,<<PER-LMB
+Piura>>,<<Piura>>,<<PER-PIU
+Tumbes>>,<<Tumbes>>,<<PER-TMB
+South Georgia & the South Sandwich Is.>>,<<South Georgia & the South Sandwich Is.>>,<<SGS
+La Paz>>,<<La Paz>>,<<BOL-LPA
+Ocean Islands>>,<<Ocean Islands>>,<<CHL-PS1
+Galapagos>>,<<Galapagos>>,<<ECU-GLP
+Pitcairn Is.>>,<<Pitcairn Is.>>,<<PCN
+Apurimac>>,<<Apurimac>>,<<PER-APR
+Arequipa>>,<<Arequipa>>,<<PER-ARQ
+Cusco>>,<<Cusco>>,<<PER-CUS
+Madre de Dios>>,<<Madre de Dios>>,<<PER-MDD
+Puno>>,<<Puno>>,<<PER-PUN
+American Samoa>>,<<American Samoa>>,<<ASM
+Cook Is.>>,<<Cook Is.>>,<<COK
+Niue>>,<<Niue>>,<<NIU
+French Polynesia>>,<<French Polynesia>>,<<PYF
+Tokelau>>,<<Tokelau>>,<<TKL
+Tonga>>,<<Tonga>>,<<TON
+Jarvis I.>>,<<Jarvis I.>>,<<UMI-JVI
+Wallis & Futuna>>,<<Wallis & Futuna>>,<<WLF
+Samoa>>,<<Samoa>>,<<WSM
+Santa Cruz>>,<<Santa Cruz>>,<<ARG-SCR
+Tierra del Fuego>>,<<Tierra del Fuego>>,<<ARG-TDF
+Oruro>>,<<Oruro>>,<<BOL-ORU
+Aisen del General Carlos Ibanez del Campo>>,<<Aisen del General Carlos Ibanez del Campo>>,<<CHL-ADG
+Magallanes y de la Antartica Chilena>>,<<Magallanes y de la Antartica Chilena>>,<<CHL-MYA
+Tarapaca>>,<<Tarapaca>>,<<CHL-TRP
+Falkland Islands>>,<<Falkland Islands>>,<<FLK
+Moquegua>>,<<Moquegua>>,<<PER-MOQ
+Tacna>>,<<Tacna>>,<<PER-TAC
+San Juan>>,<<San Juan>>,<<ARG-SJU
+Antofagasta>>,<<Antofagasta>>,<<CHL-ANT
+Atacama>>,<<Atacama>>,<<CHL-ATC
+Coquimbo>>,<<Coquimbo>>,<<CHL-CQM
+Region Metropolitana>>,<<Region Metropolitana>>,<<CHL-RMT
+Valparaiso>>,<<Valparaiso>>,<<CHL-VLP
+Chubut>>,<<Chubut>>,<<ARG-CHB
+Mendoza>>,<<Mendoza>>,<<ARG-MND
+Neuquen>>,<<Neuquen>>,<<ARG-NEU
+Araucania>>,<<Araucania>>,<<CHL-ARC
+Bio-Bio>>,<<Bio-Bio>>,<<CHL-BIO
+Libertador General Bernardo O'Higgins>>,<<Libertador General Bernardo O'Higgins>>,<<CHL-LGB
+Los Lagos>>,<<Los Lagos>>,<<CHL-LLA
+Maule>>,<<Maule>>,<<CHL-MAU
+Bolivar>>,<<Bolivar>>,<<ECU-BLV
+Canar>>,<<Canar>>,<<ECU-CAN
+Cotopaxi>>,<<Cotopaxi>>,<<ECU-CTP
+Guayas>>,<<Guayas>>,<<ECU-GUA
+Los Rios>>,<<Los Rios>>,<<ECU-LRI
+Manabi>>,<<Manabi>>,<<ECU-MAN
+Acre>>,<<Acre>>,<<BRA-ACR
+Amazonas>>,<<Amazonas>>,<<COL-AMZ
+Ancash>>,<<Ancash>>,<<PER-ANC
+Cajamarca>>,<<Cajamarca>>,<<PER-CJM
+Huanuco>>,<<Huanuco>>,<<PER-HUA
+La Libertad>>,<<La Libertad>>,<<PER-LLB
+Pasco>>,<<Pasco>>,<<PER-PAS
+San Martin>>,<<San Martin>>,<<PER-SMR
+Ucayali>>,<<Ucayali>>,<<PER-UCY
+Chimborazo>>,<<Chimborazo>>,<<ECU-CHM
+Morona-Santiago>>,<<Morona-Santiago>>,<<ECU-MSN
+Napo>>,<<Napo>>,<<ECU-NAP
+Pichincha>>,<<Pichincha>>,<<ECU-PCH
+Pastaza>>,<<Pastaza>>,<<ECU-PST
+Tungurahua>>,<<Tungurahua>>,<<ECU-TNG
+Amazonas>>,<<Amazonas>>,<<PER-AMZ
+Loreto>>,<<Loreto>>,<<PER-LOR
+Ayacucho>>,<<Ayacucho>>,<<PER-AYC
+Callao>>,<<Callao>>,<<PER-CAL
+Huancavelica>>,<<Huancavelica>>,<<PER-HNC
+Ica>>,<<Ica>>,<<PER-ICA
+Junin>>,<<Junin>>,<<PER-JUN
+Lima>>,<<Lima>>,<<PER-LIM
+Pando>>,<<Pando>>,<<BOL-PAN
+Amazonas>>,<<Amazonas>>,<<BRA-AMZ
+Litigated Zone>>,<<Litigated Zone>>,<<BRA-LT1
+Maranhao>>,<<Maranhao>>,<<BRA-MRN
+Para>>,<<Para>>,<<BRA-PAR
+Rondonia>>,<<Rondonia>>,<<BRA-RND
+Tocantins>>,<<Tocantins>>,<<BRA-TCN
+Cochabamba>>,<<Cochabamba>>,<<BOL-CCH
+Chuquisaca>>,<<Chuquisaca>>,<<BOL-CHQ
+El Beni>>,<<El Beni>>,<<BOL-EBE
+Potosi>>,<<Potosi>>,<<BOL-POT
+Santa Cruz>>,<<Santa Cruz>>,<<BOL-SCR
+Tarija>>,<<Tarija>>,<<BOL-TAR
+Alto Paraguay>>,<<Alto Paraguay>>,<<PRY-APR
+Chaco>>,<<Chaco>>,<<PRY-CHA
+Nueva Asuncion>>,<<Nueva Asuncion>>,<<PRY-NAS
+Distrito Federal>>,<<Distrito Federal>>,<<BRA-DFD
+Goias>>,<<Goias>>,<<BRA-GOI
+Mato Grosso do Sul>>,<<Mato Grosso do Sul>>,<<BRA-MGD
+Minas Gerais>>,<<Minas Gerais>>,<<BRA-MGE
+Mato Grosso>>,<<Mato Grosso>>,<<BRA-MGR
+Buenos Aires>>,<<Buenos Aires>>,<<ARG-BAI
+Distrito Federal>>,<<Distrito Federal>>,<<ARG-DFD
+La Pampa>>,<<La Pampa>>,<<ARG-LPA
+Rio Negro>>,<<Rio Negro>>,<<ARG-RNE
+San Luis>>,<<San Luis>>,<<ARG-SLU
+Colonia>>,<<Colonia>>,<<URY-COL
+San Jose>>,<<San Jose>>,<<URY-SJO
+Cordoba>>,<<Cordoba>>,<<ARG-CRD
+Catamarca>>,<<Catamarca>>,<<ARG-CTM
+Jujuy>>,<<Jujuy>>,<<ARG-JUJ
+La Rioja>>,<<La Rioja>>,<<ARG-LRI
+Salta>>,<<Salta>>,<<ARG-SAL
+Santiago del Estero>>,<<Santiago del Estero>>,<<ARG-SDE
+Tucuman>>,<<Tucuman>>,<<ARG-TCM
+Chaco>>,<<Chaco>>,<<ARG-CHA
+Formosa>>,<<Formosa>>,<<ARG-FRM
+Boqueron>>,<<Boqueron>>,<<PRY-BQR
+Concepcion>>,<<Concepcion>>,<<PRY-CNC
+Cordillera>>,<<Cordillera>>,<<PRY-CRD
+Presidente Hayes>>,<<Presidente Hayes>>,<<PRY-PHA
+San Pedro>>,<<San Pedro>>,<<PRY-SPE
+Central>>,<<Central>>,<<PRY-CNT
+Guaira>>,<<Guaira>>,<<PRY-GUA
+Misiones>>,<<Misiones>>,<<PRY-MSN
+Neembucu>>,<<Neembucu>>,<<PRY-NMB
+Paraguari>>,<<Paraguari>>,<<PRY-PRG
+Corrientes>>,<<Corrientes>>,<<ARG-CRR
+Entre Rios>>,<<Entre Rios>>,<<ARG-ERI
+Santa Fe>>,<<Santa Fe>>,<<ARG-SFE
+Artigas>>,<<Artigas>>,<<URY-ART
+Flores>>,<<Flores>>,<<URY-FLR
+Paysandu>>,<<Paysandu>>,<<URY-PYS
+Rio Negro>>,<<Rio Negro>>,<<URY-RNE
+Salto>>,<<Salto>>,<<URY-SAL
+Soriano>>,<<Soriano>>,<<URY-SOR
+Rio Grande do Sul>>,<<Rio Grande do Sul>>,<<BRA-RGS
+Sao Paulo>>,<<Sao Paulo>>,<<BRA-SPA
+Cerro Largo>>,<<Cerro Largo>>,<<URY-CLA
+Durazno>>,<<Durazno>>,<<URY-DRZ
+Rivera>>,<<Rivera>>,<<URY-RIV
+Tacuarembo>>,<<Tacuarembo>>,<<URY-TCR
+Treinta y Tres>>,<<Treinta y Tres>>,<<URY-TYT
+Misiones>>,<<Misiones>>,<<ARG-MSN
+Parana>>,<<Parana>>,<<BRA-PAN
+Santa Catarina>>,<<Santa Catarina>>,<<BRA-SCT
+Amambay>>,<<Amambay>>,<<PRY-AMM
+Alto Parana>>,<<Alto Parana>>,<<PRY-APA
+Caaguazu>>,<<Caaguazu>>,<<PRY-CAA
+Caazapa>>,<<Caazapa>>,<<PRY-CAZ
+Canindeyu>>,<<Canindeyu>>,<<PRY-CNN
+Itapua>>,<<Itapua>>,<<PRY-ITA
+Canelones>>,<<Canelones>>,<<URY-CNL
+Florida>>,<<Florida>>,<<URY-FLD
+Lavalleja>>,<<Lavalleja>>,<<URY-LVL
+Maldonado>>,<<Maldonado>>,<<URY-MLD
+Montevideo>>,<<Montevideo>>,<<URY-MNT
+Rocha>>,<<Rocha>>,<<URY-ROC
+Ceara>>,<<Ceara>>,<<BRA-CEA
+Litigated Zone>>,<<Litigated Zone>>,<<BRA-LT2
+Litigated Zone>>,<<Litigated Zone>>,<<BRA-LT3
+Litigated Zone>>,<<Litigated Zone>>,<<BRA-LT4
+Piaui>>,<<Piaui>>,<<BRA-PIA
+St. Helena>>,<<St. Helena>>,<<SHN
+Alagoas>>,<<Alagoas>>,<<BRA-ALG
+Bahia>>,<<Bahia>>,<<BRA-BAH
+Espirito Santo>>,<<Espirito Santo>>,<<BRA-ESA
+Paraiba>>,<<Paraiba>>,<<BRA-PAA
+Pernambuco>>,<<Pernambuco>>,<<BRA-PRN
+Rio de Janeiro>>,<<Rio de Janeiro>>,<<BRA-RDJ
+Rio Grande do Norte>>,<<Rio Grande do Norte>>,<<BRA-RGN
+Sergipe>>,<<Sergipe>>,<<BRA-SRG
+Manitoba>>,<<马尼托巴>>,<<CAN-MNT
+Saskatchewan>>,<<萨斯喀彻温省>>,<<CAN-SSK
+Antioquia>>,<<Antioquia>>,<<COL-ANT
+Boyaca>>,<<Boyaca>>,<<COL-BOY
+Cordoba>>,<<Cordoba>>,<<COL-CRD
+Santander>>,<<Santander>>,<<COL-SNT
+Minnesota>>,<<明尼苏达>>,<<USA-MNN
+Montana>>,<<蒙大纳>>,<<USA-MNT
+North Dakota>>,<<北达科他州>>,<<USA-NDA
+Baker I.>>,<<Baker I.>>,<<UMI-BKI
+Howland I.>>,<<Howland I.>>,<<UMI-HWI
+Johnston Atoll>>,<<Johnston Atoll>>,<<UMI-JNA
+Midway Is.>>,<<Midway Is.>>,<<UMI-MDI
+Hawaii>>,<<夏威夷>>,<<USA-HAW
+Alberta>>,<<阿尔伯塔>>,<<CAN-ALB
+British Columbia>>,<<英属哥伦比亚>>,<<CAN-BCL
+Nunavut>>,<<努纳武特地区>>,<<CAN-NNV
+Northwest Territories>>,<<西北地区>>,<<CAN-NTR
+Yukon Territory>>,<<育空地区>>,<<CAN-YTR
+Idaho>>,<<爱达荷州>>,<<USA-IDA
+Washington>>,<<华盛顿>>,<<USA-WSH
+Baja California>>,<<Baja California>>,<<MEX-BCN
+Arizona>>,<<亚利桑那州>>,<<USA-ARZ
+California>>,<<加利福尼亚>>,<<USA-CAL
+Colorado>>,<<科罗拉多>>,<<USA-COL
+Nevada>>,<<内华达州>>,<<USA-NEV
+New Mexico>>,<<新墨西哥>>,<<USA-NME
+Oregon>>,<<俄勒冈>>,<<USA-ORE
+Utah>>,<<犹他州>>,<<USA-UTA
+Wyoming>>,<<怀俄明>>,<<USA-WYM
+Baja California Sur>>,<<Baja California Sur>>,<<MEX-BCS
+Coahuila>>,<<Coahuila>>,<<MEX-CDZ
+Chihuahua>>,<<Chihuahua>>,<<MEX-CHH
+Durango>>,<<Durango>>,<<MEX-DRN
+Sinaloa>>,<<Sinaloa>>,<<MEX-SIN
+Sonora>>,<<Sonora>>,<<MEX-SON
+Zacatecas>>,<<Zacatecas>>,<<MEX-ZCT
+Arkansas>>,<<阿肯色州>>,<<USA-ARK
+Iowa>>,<<爱荷华>>,<<USA-IOW
+Kansas>>,<<堪萨斯>>,<<USA-KAN
+Missouri>>,<<密苏里>>,<<USA-MOS
+Nebraska>>,<<内布拉斯加州>>,<<USA-NEB
+Oklahoma>>,<<奥克拉荷马>>,<<USA-OKL
+South Dakota>>,<<南达科他州>>,<<USA-SDA
+Nuevo Leon>>,<<Nuevo Leon>>,<<MEX-NLE
+San Luis Potosi>>,<<San Luis Potosi>>,<<MEX-SLP
+Tamaulipas>>,<<Tamaulipas>>,<<MEX-TML
+Louisiana>>,<<路易斯安那>>,<<USA-LOU
+Texas>>,<<德克萨斯>>,<<USA-TEX
+Aguascalientes>>,<<Aguascalientes>>,<<MEX-AGS
+Colima>>,<<Colima>>,<<MEX-COL
+Jalisco>>,<<Jalisco>>,<<MEX-JLS
+Michoacan>>,<<Michoacan>>,<<MEX-MDO
+Nayarit>>,<<Nayarit>>,<<MEX-NYR
+Campeche>>,<<Campeche>>,<<MEX-CMP
+Oaxaca>>,<<Oaxaca>>,<<MEX-OAX
+Puebla>>,<<Puebla>>,<<MEX-PUE
+Tabasco>>,<<Tabasco>>,<<MEX-TBS
+Tlaxcala>>,<<Tlaxcala>>,<<MEX-TLX
+Distrito Federal>>,<<Distrito Federal>>,<<MEX-DTD
+Guanajuato>>,<<Guanajuato>>,<<MEX-GNJ
+Guerrero>>,<<Guerrero>>,<<MEX-GRR
+Hidalgo>>,<<Hidalgo>>,<<MEX-HDL
+Mexico>>,<<Mexico>>,<<MEX-MEX
+Morelos>>,<<Morelos>>,<<MEX-MRL
+Queretaro>>,<<Queretaro>>,<<MEX-QDA
+Veracruz>>,<<Veracruz>>,<<MEX-VLL
+Baja Verapaz>>,<<Baja Verapaz>>,<<GTM-BVR
+Huehuetenango>>,<<Huehuetenango>>,<<GTM-HHT
+Peten>>,<<Peten>>,<<GTM-PET
+Quiche>>,<<Quiche>>,<<GTM-QUI
+Quezaltenango>>,<<Quezaltenango>>,<<GTM-QZL
+Retalhuleu>>,<<Retalhuleu>>,<<GTM-RTL
+San Marcos>>,<<San Marcos>>,<<GTM-SMR
+Chiapas>>,<<Chiapas>>,<<MEX-CHP
+Alta Verapaz>>,<<Alta Verapaz>>,<<GTM-AVR
+Chimaltenango>>,<<Chimaltenango>>,<<GTM-CHM
+Escuintla>>,<<Escuintla>>,<<GTM-ESC
+Guatemala>>,<<Guatemala>>,<<GTM-GTM
+Suchitepequez>>,<<Suchitepequez>>,<<GTM-SCH
+Sacatepequez>>,<<Sacatepequez>>,<<GTM-SCT
+Solola>>,<<Solola>>,<<GTM-SOL
+Totonicapan>>,<<Totonicapan>>,<<GTM-TTN
+El Progreso>>,<<El Progreso>>,<<GTM-EPR
+Santa Rosa>>,<<Santa Rosa>>,<<GTM-SRO
+Aruba>>,<<Aruba>>,<<ABW
+Netherlands Antilles>>,<<Netherlands Antilles>>,<<ANT
+La Guajira>>,<<La Guajira>>,<<COL-LGU
+Cienfuegos>>,<<Cienfuegos>>,<<CUB-CNF
+Isla de la Juventud>>,<<Isla de la Juventud>>,<<CUB-IDL
+Pinar del Rio>>,<<Pinar del Rio>>,<<CUB-PDR
+Sancti Spiritus>>,<<Sancti Spiritus>>,<<CUB-SSP
+Cayman Is.>>,<<Cayman Is.>>,<<CYM
+Falcon>>,<<Falcon>>,<<VEN-FLC
+Belize>>,<<Belize>>,<<BLZ-BLZ
+Cayo>>,<<Cayo>>,<<BLZ-CAY
+Corozal>>,<<Corozal>>,<<BLZ-CRZ
+Orange Walk>>,<<Orange Walk>>,<<BLZ-OWA
+Bermuda>>,<<Bermuda>>,<<BMU
+Quintana Roo>>,<<Quintana Roo>>,<<MEX-QRO
+Yucatan>>,<<Yucatan>>,<<MEX-YCT
+Cartago>>,<<Cartago>>,<<CRI-CRT
+Heredia>>,<<Heredia>>,<<CRI-HER
+Limon>>,<<Limon>>,<<CRI-LIM
+Puntarenas>>,<<Puntarenas>>,<<CRI-PNT
+San Jose>>,<<San Jose>>,<<CRI-SJO
+Bocas del Toro>>,<<Bocas del Toro>>,<<PAN-BDT
+Chiriqui>>,<<Chiriqui>>,<<PAN-CHR
+Alajuela>>,<<Alajuela>>,<<CRI-ALJ
+Guanacaste>>,<<Guanacaste>>,<<CRI-GNC
+Esmeraldas>>,<<Esmeraldas>>,<<ECU-ESM
+Cocle>>,<<Cocle>>,<<PAN-COC
+Colon>>,<<Colon>>,<<PAN-COL
+Herrera>>,<<Herrera>>,<<PAN-HRR
+Los Santos>>,<<Los Santos>>,<<PAN-LSN
+Panama>>,<<Panama>>,<<PAN-PAN
+Veraguas>>,<<Veraguas>>,<<PAN-VRG
+San Andres y Providencia>>,<<San Andres y Providencia>>,<<COL-SAY
+Atlantida>>,<<Atlantida>>,<<HND-ATL
+Colon>>,<<Colon>>,<<HND-COL
+Francisco Morazan>>,<<Francisco Morazan>>,<<HND-FMR
+Gracias a Dios>>,<<Gracias a Dios>>,<<HND-GAD
+Islas de la Bahia>>,<<Islas de la Bahia>>,<<HND-IDL
+Olancho>>,<<Olancho>>,<<HND-OLN
+Yoro>>,<<Yoro>>,<<HND-YOR
+Zelaya>>,<<Zelaya>>,<<NIC-ZEL
+Ahuachapan>>,<<Ahuachapan>>,<<SLV-AHC
+Cabanas>>,<<Cabanas>>,<<SLV-CBN
+Cuscatlan>>,<<Cuscatlan>>,<<SLV-CSC
+La Libertad>>,<<La Libertad>>,<<SLV-LLB
+La Paz>>,<<La Paz>>,<<SLV-LPA
+Sonsonate>>,<<Sonsonate>>,<<SLV-SNS
+San Salvador>>,<<San Salvador>>,<<SLV-SSL
+Valle>>,<<Valle>>,<<HND-VAL
+La Union>>,<<La Union>>,<<SLV-LUN
+Morazan>>,<<Morazan>>,<<SLV-MRZ
+San Miguel>>,<<San Miguel>>,<<SLV-SMI
+San Vicente>>,<<San Vicente>>,<<SLV-SVC
+Usulutan>>,<<Usulutan>>,<<SLV-USL
+Stann Creek>>,<<Stann Creek>>,<<BLZ-SCR
+Toledo>>,<<Toledo>>,<<BLZ-TOL
+Izabal>>,<<Izabal>>,<<GTM-IZB
+Comayagua>>,<<Comayagua>>,<<HND-CMY
+Cortes>>,<<Cortes>>,<<HND-CRT
+Intibuca>>,<<Intibuca>>,<<HND-INT
+La Paz>>,<<La Paz>>,<<HND-LPA
+Santa Barbara>>,<<Santa Barbara>>,<<HND-SBR
+Chiquimula>>,<<Chiquimula>>,<<GTM-CHQ
+Jalapa>>,<<Jalapa>>,<<GTM-JAL
+Jutiapa>>,<<Jutiapa>>,<<GTM-JUT
+Zacapa>>,<<Zacapa>>,<<GTM-ZAC
+Copan>>,<<Copan>>,<<HND-COP
+Lempira>>,<<Lempira>>,<<HND-LMP
+Ocotepeque>>,<<Ocotepeque>>,<<HND-OCT
+Chalatenango>>,<<Chalatenango>>,<<SLV-CHL
+Santa Ana>>,<<Santa Ana>>,<<SLV-SAN
+Carazo>>,<<Carazo>>,<<NIC-CAR
+Granada>>,<<Granada>>,<<NIC-GRN
+Jinotega>>,<<Jinotega>>,<<NIC-JNT
+Leon>>,<<Leon>>,<<NIC-LEO
+Managua>>,<<Managua>>,<<NIC-MAN
+Masaya>>,<<Masaya>>,<<NIC-MAS
+Rivas>>,<<Rivas>>,<<NIC-RIV
+Choluteca>>,<<Choluteca>>,<<HND-CHL
+El Paraiso>>,<<El Paraiso>>,<<HND-EPA
+Chinandega>>,<<Chinandega>>,<<NIC-CHN
+Esteli>>,<<Esteli>>,<<NIC-EST
+Madriz>>,<<Madriz>>,<<NIC-MDR
+Matagalpa>>,<<Matagalpa>>,<<NIC-MTG
+Nueva Segovia>>,<<Nueva Segovia>>,<<NIC-NSE
+Boaco>>,<<Boaco>>,<<NIC-BOA
+Chontales>>,<<Chontales>>,<<NIC-CHT
+Rio San Juan>>,<<Rio San Juan>>,<<NIC-RSJ
+Monte Cristi>>,<<Monte Cristi>>,<<DOM-MCR
+Puerto Plata>>,<<Puerto Plata>>,<<DOM-PPL
+Grand Anse>>,<<Grand Anse>>,<<HTI-GAN
+Nord-Ouest>>,<<Nord-Ouest>>,<<HTI-NOU
+Sud>>,<<Sud>>,<<HTI-SUD
+Turks & Caicos Is.>>,<<Turks & Caicos Is.>>,<<TCA
+Ciego de Avila>>,<<Ciego de Avila>>,<<CUB-CDA
+Camaguey>>,<<Camaguey>>,<<CUB-CMG
+Guantanamo>>,<<Guantanamo>>,<<CUB-GNT
+Granma>>,<<Granma>>,<<CUB-GRN
+Holguin>>,<<Holguin>>,<<CUB-HLG
+Las Tunas>>,<<Las Tunas>>,<<CUB-LTU
+Santiago de Cuba>>,<<Santiago de Cuba>>,<<CUB-SDC
+Guantanamo Bay>>,<<关塔那摩湾>>,<<USA-PS1
+Clarendon>>,<<Clarendon>>,<<JAM-CLR
+Hanover>>,<<Hanover>>,<<JAM-HNV
+Manchester>>,<<Manchester>>,<<JAM-MNC
+Saint Elizabeth>>,<<Saint Elizabeth>>,<<JAM-SEL
+Saint James>>,<<Saint James>>,<<JAM-SJA
+Trelawny>>,<<Trelawny>>,<<JAM-TRL
+Westmoreland>>,<<Westmoreland>>,<<JAM-WST
+Kingston>>,<<Kingston>>,<<JAM-KNG
+Portland>>,<<Portland>>,<<JAM-PRT
+Saint Ann>>,<<Saint Ann>>,<<JAM-SAN
+Saint Catherine>>,<<Saint Catherine>>,<<JAM-SCT
+Saint Mary>>,<<Saint Mary>>,<<JAM-SMA
+Saint Andrew>>,<<Saint Andrew>>,<<JAM-SND
+Saint Thomas>>,<<Saint Thomas>>,<<JAM-STH
+Artibonite>>,<<Artibonite>>,<<HTI-ART
+Centre>>,<<Centre>>,<<HTI-CNT
+Nord-Est>>,<<Nord-Est>>,<<HTI-NES
+Nord>>,<<Nord>>,<<HTI-NOR
+Ouest>>,<<Ouest>>,<<HTI-OUE
+Sud-Est>>,<<Sud-Est>>,<<HTI-SES
+Dajabon>>,<<Dajabon>>,<<DOM-DJB
+Espaillat>>,<<Espaillat>>,<<DOM-ESP
+Salcedo>>,<<Salcedo>>,<<DOM-SLC
+Santiago>>,<<Santiago>>,<<DOM-SNT
+Santiago Rodrigu>>,<<Santiago Rodrigu>>,<<DOM-SRD
+Valverde>>,<<Valverde>>,<<DOM-VLV
+Baoruco>>,<<Baoruco>>,<<DOM-BAO
+Barahona>>,<<Barahona>>,<<DOM-BRH
+Independencia>>,<<Independencia>>,<<DOM-IND
+La Estrelleta>>,<<La Estrelleta>>,<<DOM-LST
+Pedernales>>,<<Pedernales>>,<<DOM-PDR
+San Juan>>,<<San Juan>>,<<DOM-SJU
+Azua>>,<<Azua>>,<<DOM-AZU
+La Vega>>,<<La Vega>>,<<DOM-LVE
+Monsenor Novel>>,<<Monsenor Novel>>,<<DOM-MNV
+Peravia>>,<<Peravia>>,<<DOM-PER
+Distrito Nacional>>,<<Distrito Nacional>>,<<DOM-DNC
+Duarte>>,<<Duarte>>,<<DOM-DUA
+Hato Major>>,<<Hato Major>>,<<DOM-HMJ
+Monte Plata>>,<<Monte Plata>>,<<DOM-MPL
+Maria Trinidad S>>,<<Maria Trinidad S>>,<<DOM-MTS
+Samana>>,<<Samana>>,<<DOM-SAM
+San Cristobal>>,<<San Cristobal>>,<<DOM-SCR
+Santo Domingo>>,<<Santo Domingo>>,<<DOM-SDM
+Sanchez Ramirez>>,<<Sanchez Ramirez>>,<<DOM-SRM
+El Seibo>>,<<El Seibo>>,<<DOM-ESE
+La Altagracia>>,<<La Altagracia>>,<<DOM-LAL
+La Romana>>,<<La Romana>>,<<DOM-LRO
+San Pedro de Macor>>,<<San Pedro de Macor>>,<<DOM-SPD
+Caldas>>,<<Caldas>>,<<COL-CLD
+Cundinamarca>>,<<Cundinamarca>>,<<COL-CND
+Distrito Especial>>,<<Distrito Especial>>,<<COL-DES
+Quindio>>,<<Quindio>>,<<COL-QUI
+Risaralda>>,<<Risaralda>>,<<COL-RSR
+Tolima>>,<<Tolima>>,<<COL-TOL
+Caqueta>>,<<Caqueta>>,<<COL-CAQ
+Cauca>>,<<Cauca>>,<<COL-CAU
+Huila>>,<<Huila>>,<<COL-HUI
+Narino>>,<<Narino>>,<<COL-NAR
+Putumayo>>,<<Putumayo>>,<<COL-PTM
+Valle del Cauca>>,<<Valle del Cauca>>,<<COL-VDC
+Carchi>>,<<Carchi>>,<<ECU-CRC
+Imbabura>>,<<Imbabura>>,<<ECU-IMB
+Sucumbios>>,<<Sucumbios>>,<<ECU-SCM
+Atlantico>>,<<Atlantico>>,<<COL-ATL
+Bolivar>>,<<Bolivar>>,<<COL-BLV
+Cesar>>,<<Cesar>>,<<COL-CES
+Choco>>,<<Choco>>,<<COL-CHO
+Magdalena>>,<<Magdalena>>,<<COL-MGD
+Sucre>>,<<Sucre>>,<<COL-SUC
+Darien>>,<<Darien>>,<<PAN-DAR
+San Blas>>,<<San Blas>>,<<PAN-SBL
+Arauca>>,<<Arauca>>,<<COL-ARA
+Norde de Santander>>,<<Norde de Santander>>,<<COL-NDS
+Apure>>,<<Apure>>,<<VEN-APU
+Barinas>>,<<Barinas>>,<<VEN-BRN
+Merida>>,<<Merida>>,<<VEN-MER
+Tachira>>,<<Tachira>>,<<VEN-TCH
+Trujillo>>,<<Trujillo>>,<<VEN-TRJ
+Zulia>>,<<Zulia>>,<<VEN-ZUL
+Cojedes>>,<<Cojedes>>,<<VEN-CJD
+Carabobo>>,<<Carabobo>>,<<VEN-CRB
+Lara>>,<<Lara>>,<<VEN-LAR
+Portuguesa>>,<<Portuguesa>>,<<VEN-PRT
+Yaracuy>>,<<Yaracuy>>,<<VEN-YRC
+Casanare>>,<<Casanare>>,<<COL-CSN
+Guaviare>>,<<Guaviare>>,<<COL-GUA
+Guainia>>,<<Guainia>>,<<COL-GUI
+Meta>>,<<Meta>>,<<COL-MET
+Vaupes>>,<<Vaupes>>,<<COL-VAU
+Vichada>>,<<Vichada>>,<<COL-VCH
+Bahamas>>,<<Bahamas>>,<<BHS
+Connecticut>>,<<康涅狄格州>>,<<USA-CNN
+Massachusetts>>,<<马萨诸塞州>>,<<USA-MSS
+New Hampshire>>,<<新罕布什尔州>>,<<USA-NHM
+Rhode Island>>,<<罗德岛>>,<<USA-RHI
+Vermont>>,<<佛蒙特州>>,<<USA-VRM
+Ciudad de la Habana>>,<<Ciudad de la Habana>>,<<CUB-CHB
+La Habana>>,<<La Habana>>,<<CUB-LHB
+Matanzas>>,<<Matanzas>>,<<CUB-MTN
+Villa Clara>>,<<Villa Clara>>,<<CUB-VCL
+Alabama>>,<<阿拉巴马州>>,<<USA-ALB
+Florida>>,<<佛罗里达州>>,<<USA-FLA
+Georgia>>,<<佐治亚>>,<<USA-GEO
+Mississippi>>,<<密西西比州>>,<<USA-MSP
+South Carolina>>,<<南卡罗来纳州>>,<<USA-SCR
+Illinois>>,<<伊利诺斯>>,<<USA-ILL
+Indiana>>,<<印第安娜>>,<<USA-IND
+Kentucky>>,<<肯塔基>>,<<USA-KEN
+North Carolina>>,<<北卡罗来纳州>>,<<USA-NCR
+Ohio>>,<<俄亥俄州>>,<<USA-OHI
+Tennessee>>,<<田纳西州>>,<<USA-TNN
+Virginia>>,<<弗吉尼亚>>,<<USA-VRG
+Wisconsin>>,<<威斯康星州>>,<<USA-WIS
+West Virginia>>,<<西弗吉尼亚州>>,<<USA-WVR
+Delaware>>,<<特拉华>>,<<USA-DEL
+District of Columbia>>,<<哥伦比亚区>>,<<USA-DOC
+Maryland>>,<<马里兰州>>,<<USA-MRY
+New Jersey>>,<<新泽西>>,<<USA-NJR
+New York>>,<<纽约>>,<<USA-NYO
+Pennsylvania>>,<<宾夕法尼亚>>,<<USA-PEN
+Barbados>>,<<Barbados>>,<<BRB
+Dominica>>,<<Dominica>>,<<DMA
+Guadeloupe>>,<<Guadeloupe>>,<<GLP
+Grenada>>,<<Grenada>>,<<GRD
+St. Lucia>>,<<St. Lucia>>,<<LCA
+Martinique>>,<<Martinique>>,<<MTQ
+St. Vincent & the Grenadines>>,<<St. Vincent & the Grenadines>>,<<VCT
+Roraima>>,<<Roraima>>,<<BRA-ROR
+East Berbice-Corentyne>>,<<East Berbice-Corentyne>>,<<GUY-EBC
+Potaro-Siparuni>>,<<Potaro-Siparuni>>,<<GUY-PTS
+Upper Demerara-Berbice>>,<<Upper Demerara-Berbice>>,<<GUY-UDB
+Upper Takutu-Upper Essequibo>>,<<Upper Takutu-Upper Essequibo>>,<<GUY-UTE
+Nickerie>>,<<Nickerie>>,<<SUR-NCK
+Amazonas>>,<<Amazonas>>,<<VEN-AMZ
+Bolivar>>,<<Bolivar>>,<<VEN-BLV
+Anzoategui>>,<<Anzoategui>>,<<VEN-ANZ
+Aragua>>,<<Aragua>>,<<VEN-ARA
+Distrito Federal>>,<<Distrito Federal>>,<<VEN-DFD
+Dependencias Federales>>,<<Dependencias Federales>>,<<VEN-DFR
+Guarico>>,<<Guarico>>,<<VEN-GUA
+Monagas>>,<<Monagas>>,<<VEN-MNG
+Miranda>>,<<Miranda>>,<<VEN-MRN
+Neuva Esparta>>,<<Neuva Esparta>>,<<VEN-NES
+Sucre>>,<<Sucre>>,<<VEN-SUC
+Barima-Waini>>,<<Barima-Waini>>,<<GUY-BRW
+Cuyuni-Mazaruni>>,<<Cuyuni-Mazaruni>>,<<GUY-CYM
+Demerara-Mahaica>>,<<Demerara-Mahaica>>,<<GUY-DMM
+Essequibo Islands-West Demerara>>,<<Essequibo Islands-West Demerara>>,<<GUY-EID
+Mahaica-Berbice>>,<<Mahaica-Berbice>>,<<GUY-MHB
+Pomeroon-Supenaam>>,<<Pomeroon-Supenaam>>,<<GUY-PMS
+Trinidad & Tobago>>,<<Trinidad & Tobago>>,<<TTO
+Delta Amacuro>>,<<Delta Amacuro>>,<<VEN-DAM
+Anguilla>>,<<Anguilla>>,<<AIA
+Antigua & Barbuda>>,<<Antigua & Barbuda>>,<<ATG
+St. Kitts & Nevis>>,<<St. Kitts & Nevis>>,<<KNA
+Montserrat>>,<<Montserrat>>,<<MSR
+British Virgin Is.>>,<<British Virgin Is.>>,<<VGB
+Aguadilla>>,<<Aguadilla>>,<<PRI-AGD
+Arecibo>>,<<Arecibo>>,<<PRI-ARC
+Bayamon>>,<<Bayamon>>,<<PRI-BYM
+Guayama>>,<<Guayama>>,<<PRI-GYM
+Humacao>>,<<Humacao>>,<<PRI-HMC
+Mayag?ez>>,<<Mayag?ez>>,<<PRI-MYG
+Ponce>>,<<Ponce>>,<<PRI-PNC
+San Juan>>,<<San Juan>>,<<PRI-SJN
+Virgin Is.>>,<<Virgin Is.>>,<<VIR
+Amapa>>,<<Amapa>>,<<BRA-AMA
+Cayenne>>,<<Cayenne>>,<<GUF-CYN
+Saint-Laurent-du-Maroni>>,<<Saint-Laurent-du-Maroni>>,<<GUF-SLM
+Brokopondo>>,<<Brokopondo>>,<<SUR-BRK
+Marowijne>>,<<Marowijne>>,<<SUR-MRW
+Para>>,<<Para>>,<<SUR-PAR
+Sipaliwini>>,<<Sipaliwini>>,<<SUR-SPL
+Commewijne>>,<<Commewijne>>,<<SUR-CMM
+Coronie>>,<<Coronie>>,<<SUR-COR
+Paramaribo>>,<<Paramaribo>>,<<SUR-PRM
+Saramacca>>,<<Saramacca>>,<<SUR-SRM
+Wanica>>,<<Wanica>>,<<SUR-WNC
+Ontario>>,<<安大略>>,<<CAN-ONT
+Quebec>>,<<魁北克>>,<<CAN-QUE
+Vestgronland>>,<<Vestgronland>>,<<GRL-VST
+Maine>>,<<缅因州>>,<<USA-MAI
+Michigan>>,<<密歇根>>,<<USA-MCH
+New Brunswick>>,<<新不伦瑞克>>,<<CAN-NBR
+Nova Scotia>>,<<新斯科舍>>,<<CAN-NSC
+Newfoundland>>,<<纽芬兰>>,<<CAN-NWF
+Prince Edward Island>>,<<亲王爱德华岛屿>>,<<CAN-PEI
+St. Pierre & Miquelon>>,<<St. Pierre & Miquelon>>,<<SPM
+Nordgronland>>,<<Nordgronland>>,<<GRL-NRD
+Ostgronland>>,<<Ostgronland>>,<<GRL-OST
+Vestfirdhir>>,<<Vestfirdhir>>,<<ISL-VST
+Jan Mayen>>,<<Jan Mayen>>,<<SJM
+Faeroe Islands>>,<<Faeroe Islands>>,<<FRO
+Scotland>>,<<苏格兰>>,<<GBR-SCT
+Austurland>>,<<Austurland>>,<<ISL-AST
+Nordhurland Vestra>>,<<Nordhurland Vestra>>,<<ISL-NVS
+Nordhurland Eystra>>,<<Nordhurland Eystra>>,<<ISL-NYS
+Reykjavik>>,<<Reykjavik>>,<<ISL-RYK
+Sudhurland>>,<<Sudhurland>>,<<ISL-SDH
+Vesturland>>,<<Vesturland>>,<<ISL-VSL
+England>>,<<英格兰>>,<<GBR-ENG
+Northern Ireland>>,<<北爱尔兰>>,<<GBR-NIR
+Wales>>,<<威尔士>>,<<GBR-WLS
+Connacht>>,<<Connacht>>,<<IRL-CNN
+Leinster>>,<<Leinster>>,<<IRL-LEN
+Munster>>,<<Munster>>,<<IRL-MUN
+Ulster>>,<<Ulster>>,<<IRL-ULT
+Isle of Man>>,<<Isle of Man>>,<<XIM
+Guernsey>>,<<Guernsey>>,<<XGK
+Jersey>>,<<Jersey>>,<<XJE
+Cape Verde>>,<<Cape Verde>>,<<CPV
+Andalucia>>,<<Andalucia>>,<<ESP-AND
+Murcia>>,<<Murcia>>,<<ESP-MUR
+Ceuta>>,<<Ceuta>>,<<ESP-PS1
+Melilla>>,<<Melilla>>,<<ESP-PS2
+Valenciana>>,<<Valenciana>>,<<ESP-VLN
+Gibraltar>>,<<Gibraltar>>,<<GIB
+Centre-North>>,<<Centre-North>>,<<MAR-CNR
+Azores>>,<<Azores>>,<<PRT-AZR
+Adrar>>,<<Adrar>>,<<DZA-ADR
+Rio de Oro>>,<<Rio de Oro>>,<<ESH-RIR
+Saguia el Hamra>>,<<Saguia el Hamra>>,<<ESH-SGH
+Canarias>>,<<Canarias>>,<<ESP-CNR
+Madeira>>,<<Madeira>>,<<PRT-MDR
+Ain Temouchent>>,<<Ain Temouchent>>,<<DZA-ATM
+Oran>>,<<Oran>>,<<DZA-ORA
+Sidi bel Abbes>>,<<Sidi bel Abbes>>,<<DZA-SBA
+Tlemcen>>,<<Tlemcen>>,<<DZA-TLM
+Asturias>>,<<Asturias>>,<<ESP-AST
+Galicia>>,<<Galicia>>,<<ESP-GLC
+Aveiro>>,<<Aveiro>>,<<PRT-AVE
+Leiria>>,<<Leiria>>,<<PRT-LEI
+Viana do Castelo>>,<<Viana do Castelo>>,<<PRT-VDC
+Extremadura>>,<<Extremadura>>,<<ESP-EXT
+North-West>>,<<North-West>>,<<MAR-NWT
+Beja>>,<<Beja>>,<<PRT-BEJ
+Evora>>,<<Evora>>,<<PRT-EVO
+Faro>>,<<Faro>>,<<PRT-FAR
+Lisboa>>,<<Lisboa>>,<<PRT-LIS
+Portalegre>>,<<Portalegre>>,<<PRT-PRT
+Santarem>>,<<Santarem>>,<<PRT-SNT
+Setubal>>,<<Setubal>>,<<PRT-STB
+Braga>>,<<Braga>>,<<PRT-BRA
+Braganca>>,<<Braganca>>,<<PRT-BRG
+Castelo Branco>>,<<Castelo Branco>>,<<PRT-CBR
+Coimbra>>,<<Coimbra>>,<<PRT-CMB
+Guarda>>,<<Guarda>>,<<PRT-GUA
+Porto>>,<<Porto>>,<<PRT-POR
+Viseu>>,<<Viseu>>,<<PRT-VIS
+Vila Real>>,<<Vila Real>>,<<PRT-VRE
+Aragon>>,<<Aragon>>,<<ESP-ARG
+Castilla-La Mancha>>,<<Castilla-La Mancha>>,<<ESP-CLM
+Cantabria>>,<<Cantabria>>,<<ESP-CNT
+Castilla y Leon>>,<<Castilla y Leon>>,<<ESP-CYL
+La Rioja>>,<<La Rioja>>,<<ESP-LJR
+Madrid>>,<<Madrid>>,<<ESP-MDR
+Navarra>>,<<Navarra>>,<<ESP-NVR
+Pais Vasco>>,<<Pais Vasco>>,<<ESP-PSV
+Bechar>>,<<Bechar>>,<<DZA-BCH
+Naama>>,<<Naama>>,<<DZA-NAM
+Tindouf>>,<<Tindouf>>,<<DZA-TND
+Centre>>,<<Centre>>,<<MAR-CEN
+Centre-South>>,<<Centre-South>>,<<MAR-CSO
+Eastern>>,<<Eastern>>,<<MAR-EST
+South>>,<<South>>,<<MAR-SOU
+Tensift>>,<<Tensift>>,<<MAR-TNF
+Tiris Zemmour>>,<<Tiris Zemmour>>,<<MRT-TZM
+Boffa>>,<<Boffa>>,<<GIN-BOF
+Boke>>,<<Boke>>,<<GIN-BOK
+Brakna>>,<<Brakna>>,<<MRT-BRK
+Dakhlet Nouadhibou>>,<<Dakhlet Nouadhibou>>,<<MRT-DND
+Inchiri>>,<<Inchiri>>,<<MRT-INC
+Trarza>>,<<Trarza>>,<<MRT-TRR
+Dakar>>,<<Dakar>>,<<SEN-DKR
+Southern>>,<<Southern>>,<<SLE-STH
+Western Area>>,<<Western Area>>,<<SLE-WAR
+Conakry>>,<<Conakry>>,<<GIN-CNK
+Coyah>>,<<Coyah>>,<<GIN-COY
+Dalaba>>,<<Dalaba>>,<<GIN-DAL
+Forecariah>>,<<Forecariah>>,<<GIN-FRC
+Fria>>,<<Fria>>,<<GIN-FRI
+Kindia>>,<<Kindia>>,<<GIN-KIN
+Mamou>>,<<Mamou>>,<<GIN-MAM
+Pita>>,<<Pita>>,<<GIN-PIT
+Telimele>>,<<Telimele>>,<<GIN-TLM
+Northern>>,<<Northern>>,<<SLE-NRT
+Assaba>>,<<Assaba>>,<<MRT-ASB
+Guidimaka>>,<<Guidimaka>>,<<MRT-GDM
+Gorgol>>,<<Gorgol>>,<<MRT-GRG
+Diourbel>>,<<Diourbel>>,<<SEN-DRB
+Fatick>>,<<Fatick>>,<<SEN-FTC
+Kaolack>>,<<Kaolack>>,<<SEN-KLC
+Louga>>,<<Louga>>,<<SEN-LOU
+Saint-Louis>>,<<Saint-Louis>>,<<SEN-STL
+Thies>>,<<Thies>>,<<SEN-THI
+MacCarthy Island>>,<<MacCarthy Island>>,<<GMB-MIS
+Upper River>>,<<Upper River>>,<<GMB-URI
+Bissau>>,<<Bissau>>,<<GNB-BIS
+Biombo>>,<<Biombo>>,<<GNB-BMB
+Bolama>>,<<Bolama>>,<<GNB-BOL
+Cacheu>>,<<Cacheu>>,<<GNB-CAC
+Oio>>,<<Oio>>,<<GNB-OIO
+Quinara>>,<<Quinara>>,<<GNB-QNR
+Kolda>>,<<Kolda>>,<<SEN-KLD
+Banjul>>,<<Banjul>>,<<GMB-BNJ
+Kombo Saint Mary>>,<<Kombo Saint Mary>>,<<GMB-KSM
+Lower River>>,<<Lower River>>,<<GMB-LRI
+North Bank>>,<<North Bank>>,<<GMB-NBA
+Western>>,<<Western>>,<<GMB-WST
+Ziguinchor>>,<<Ziguinchor>>,<<SEN-ZGN
+Bafata>>,<<Bafata>>,<<GNB-BAF
+Gabu>>,<<Gabu>>,<<GNB-GAB
+Tombali>>,<<Tombali>>,<<GNB-TMB
+Gaoual>>,<<Gaoual>>,<<GIN-GAO
+Koundara>>,<<Koundara>>,<<GIN-KND
+Koubia>>,<<Koubia>>,<<GIN-KOB
+Labe>>,<<Labe>>,<<GIN-LAB
+Lelouma>>,<<Lelouma>>,<<GIN-LLM
+Mali>>,<<Mali>>,<<GIN-MLI
+Tougue>>,<<Tougue>>,<<GIN-TOU
+Tambacounda>>,<<Tambacounda>>,<<SEN-TMB
+Dinguiraye>>,<<Dinguiraye>>,<<GIN-DNG
+Siguiri>>,<<Siguiri>>,<<GIN-SIG
+Bamako>>,<<Bamako>>,<<MLI-BAM
+Kayes>>,<<Kayes>>,<<MLI-KAY
+Sikasso>>,<<Sikasso>>,<<MLI-SKS
+Adrar>>,<<Adrar>>,<<MRT-ADR
+Hodh ech Chargui>>,<<Hodh ech Chargui>>,<<MRT-HEC
+Hodh el Gharbi>>,<<Hodh el Gharbi>>,<<MRT-HEG
+Tagant>>,<<Tagant>>,<<MRT-TGN
+Houet>>,<<Houet>>,<<BFA-HUT
+Kenedougou>>,<<Kenedougou>>,<<BFA-KND
+Kossi>>,<<Kossi>>,<<BFA-KSS
+Mouhoun>>,<<Mouhoun>>,<<BFA-MHN
+Oudalan>>,<<Oudalan>>,<<BFA-ODL
+Soum>>,<<Soum>>,<<BFA-SOM
+Sourou>>,<<Sourou>>,<<BFA-SOR
+Mopti>>,<<Mopti>>,<<MLI-MOP
+Segou>>,<<Segou>>,<<MLI-SEG
+Bam>>,<<Bam>>,<<BFA-BAM
+Boulkiemde>>,<<Boulkiemde>>,<<BFA-BLK
+Bazega>>,<<Bazega>>,<<BFA-BZG
+Kadiogo>>,<<Kadiogo>>,<<BFA-KDG
+Oubritenga>>,<<Oubritenga>>,<<BFA-OBR
+Passore>>,<<Passore>>,<<BFA-PSS
+Sanguie>>,<<Sanguie>>,<<BFA-SNG
+Sissili>>,<<Sissili>>,<<BFA-SSS
+Yatenga>>,<<Yatenga>>,<<BFA-YTN
+Namentenga>>,<<Namentenga>>,<<BFA-NMT
+Sanmatenga>>,<<Sanmatenga>>,<<BFA-SNM
+Boulgou>>,<<Boulgou>>,<<BFA-BLG
+Ganzourgou>>,<<Ganzourgou>>,<<BFA-GNZ
+Kouritenga>>,<<Kouritenga>>,<<BFA-KRT
+Nahouri>>,<<Nahouri>>,<<BFA-NHR
+Zoundweogo>>,<<Zoundweogo>>,<<BFA-ZND
+Abidjan>>,<<Abidjan>>,<<CIV-ABD
+Grand-Lahou>>,<<Grand-Lahou>>,<<CIV-GRL
+San-Pedro>>,<<San-Pedro>>,<<CIV-SNP
+Sassandra>>,<<Sassandra>>,<<CIV-SSS
+Tabou>>,<<Tabou>>,<<CIV-TAB
+Grand Kru>>,<<Grand Kru>>,<<LBR-GKR
+Maryland>>,<<Maryland>>,<<LBR-MRY
+Sino>>,<<Sino>>,<<LBR-SIN
+Boundiali>>,<<Boundiali>>,<<CIV-BNL
+Korhogo>>,<<Korhogo>>,<<CIV-KRH
+Odienne>>,<<Odienne>>,<<CIV-ODN
+Tengrela>>,<<Tengrela>>,<<CIV-TNG
+Touba>>,<<Touba>>,<<CIV-TOU
+Beyla>>,<<Beyla>>,<<GIN-BEY
+Bomi>>,<<Bomi>>,<<LBR-BOM
+Bong>>,<<Bong>>,<<LBR-BON
+Grand Bassa>>,<<Grand Bassa>>,<<LBR-GBA
+Grand Cape Mount>>,<<Grand Cape Mount>>,<<LBR-GCM
+Lofa>>,<<Lofa>>,<<LBR-LOF
+Montserrado>>,<<Montserrado>>,<<LBR-MNT
+Margibi>>,<<Margibi>>,<<LBR-MRG
+Eastern>>,<<Eastern>>,<<SLE-EST
+Macenta>>,<<Macenta>>,<<GIN-MCN
+Nzerekore>>,<<Nzerekore>>,<<GIN-NZR
+Yomou>>,<<Yomou>>,<<GIN-YOM
+Nimba>>,<<Nimba>>,<<LBR-NIM
+Rivercess>>,<<Rivercess>>,<<LBR-RVR
+Dabola>>,<<Dabola>>,<<GIN-DAB
+Faranah>>,<<Faranah>>,<<GIN-FRN
+Gueckedou>>,<<Gueckedou>>,<<GIN-GCK
+Kerouane>>,<<Kerouane>>,<<GIN-KER
+Kankan>>,<<Kankan>>,<<GIN-KNK
+Kouroussa>>,<<Kouroussa>>,<<GIN-KRS
+Kissidougou>>,<<Kissidougou>>,<<GIN-KSS
+Mandiana>>,<<Mandiana>>,<<GIN-MND
+Bangolo>>,<<Bangolo>>,<<CIV-BNG
+Biankouma>>,<<Biankouma>>,<<CIV-BNK
+Danane>>,<<Danane>>,<<CIV-DAN
+Duekoue>>,<<Duekoue>>,<<CIV-DUK
+Guiglo>>,<<Guiglo>>,<<CIV-GUI
+Man>>,<<Man>>,<<CIV-MAN
+Seguela>>,<<Seguela>>,<<CIV-SEG
+Lola>>,<<Lola>>,<<GIN-LOL
+Grand Jide>>,<<Grand Jide>>,<<LBR-GJI
+Bouafle>>,<<Bouafle>>,<<CIV-BOU
+Mankono>>,<<Mankono>>,<<CIV-MNK
+Vavoua>>,<<Vavoua>>,<<CIV-VAV
+Zuenoula>>,<<Zuenoula>>,<<CIV-ZNL
+Daloa>>,<<Daloa>>,<<CIV-DAL
+Gagnoa>>,<<Gagnoa>>,<<CIV-GAG
+Issia>>,<<Issia>>,<<CIV-ISS
+Lakota>>,<<Lakota>>,<<CIV-LKT
+Sinfra>>,<<Sinfra>>,<<CIV-SNF
+Soubre>>,<<Soubre>>,<<CIV-SOB
+Bougouriba>>,<<Bougouriba>>,<<BFA-BGR
+Comoe>>,<<Comoe>>,<<BFA-COM
+Poni>>,<<Poni>>,<<BFA-PON
+Bouna>>,<<Bouna>>,<<CIV-BON
+Ferkessedougou>>,<<Ferkessedougou>>,<<CIV-FRK
+Katiola>>,<<Katiola>>,<<CIV-KAT
+Northern>>,<<Northern>>,<<GHA-NRT
+Upper East>>,<<Upper East>>,<<GHA-UPE
+Upper West>>,<<Upper West>>,<<GHA-UPW
+Agboville>>,<<Agboville>>,<<CIV-AGB
+Agnibilekrou>>,<<Agnibilekrou>>,<<CIV-AGN
+Bongouanou>>,<<Bongouanou>>,<<CIV-BGA
+Bondoukou>>,<<Bondoukou>>,<<CIV-BND
+Divo>>,<<Divo>>,<<CIV-DIV
+Oume>>,<<Oume>>,<<CIV-OUM
+Toumodi>>,<<Toumodi>>,<<CIV-TMD
+Tanda>>,<<Tanda>>,<<CIV-TND
+Tiassale>>,<<Tiassale>>,<<CIV-TSS
+Beoumi>>,<<Beoumi>>,<<CIV-BEM
+Bouake>>,<<Bouake>>,<<CIV-BOA
+Dabakala>>,<<Dabakala>>,<<CIV-DBK
+Daoukro>>,<<Daoukro>>,<<CIV-DKR
+Dimbokro>>,<<Dimbokro>>,<<CIV-DMB
+Mbahiakro>>,<<Mbahiakro>>,<<CIV-MBH
+Sakassou>>,<<Sakassou>>,<<CIV-SKS
+Yamoussoukro>>,<<Yamoussoukro>>,<<CIV-YMS
+Abengourou>>,<<Abengourou>>,<<CIV-ABN
+Aboisso>>,<<Aboisso>>,<<CIV-ABS
+Adzope>>,<<Adzope>>,<<CIV-ADZ
+Ashanti>>,<<Ashanti>>,<<GHA-ASH
+Brong-Ahafo>>,<<Brong-Ahafo>>,<<GHA-BAH
+Central>>,<<Central>>,<<GHA-CNT
+Eastern>>,<<Eastern>>,<<GHA-EST
+Western>>,<<Western>>,<<GHA-WST
+Basse-Kotto>>,<<Basse-Kotto>>,<<CAF-BKO
+Lobaye>>,<<Lobaye>>,<<CAF-LOB
+Ombella-Mpoko>>,<<Ombella-Mpoko>>,<<CAF-OMP
+Likouala>>,<<Likouala>>,<<COG-LIK
+Annaba>>,<<Annaba>>,<<DZA-ANN
+El Tarf>>,<<El Tarf>>,<<DZA-ETR
+Jijel>>,<<Jijel>>,<<DZA-JIJ
+Skikda>>,<<Skikda>>,<<DZA-SKK
+Equateur>>,<<Equateur>>,<<COD-EQT
+Extreme-Nord>>,<<Extreme-Nord>>,<<CMR-ENO
+Diffa>>,<<Diffa>>,<<NER-DIF
+Borno>>,<<Borno>>,<<NGA-BOR
+Tomskaya oblast'>>,<<Tomskaya oblast'>>,<<RUS-TOM
+Borkou-Ennedi-Tibesti>>,<<Borkou-Ennedi-Tibesti>>,<<TCD-BET
+Chari-Baguirmi>>,<<Chari-Baguirmi>>,<<TCD-CBG
+Kanem>>,<<Kanem>>,<<TCD-KAN
+Lac>>,<<Lac>>,<<TCD-LAC
+Kiribati>>,<<Kiribati>>,<<KIR
+Abia>>,<<Abia>>,<<NGA-ABI
+Akwa Ibom>>,<<Akwa Ibom>>,<<NGA-AKI
+Imo>>,<<Imo>>,<<NGA-IMO
+Rivers>>,<<Rivers>>,<<NGA-RVR
+Principe>>,<<Principe>>,<<STP-PRN
+Sao Tome>>,<<Sao Tome>>,<<STP-STO
+Estuaire>>,<<Estuaire>>,<<GAB-EST
+Centro Sur>>,<<Centro Sur>>,<<GNQ-CNS
+Kie-Ntem>>,<<Kie-Ntem>>,<<GNQ-KNT
+Litoral>>,<<Litoral>>,<<GNQ-LTR
+Wele-Nzas>>,<<Wele-Nzas>>,<<GNQ-WLN
+Batha>>,<<Batha>>,<<TCD-BAT
+Biltine>>,<<Biltine>>,<<TCD-BLT
+Guera>>,<<Guera>>,<<TCD-GUE
+Ouaddai>>,<<Ouaddai>>,<<TCD-OUA
+Littoral>>,<<Littoral>>,<<CMR-LTT
+Nord-Ouest>>,<<Nord-Ouest>>,<<CMR-NOU
+Ouest>>,<<Ouest>>,<<CMR-OUE
+Sud-Ouest>>,<<Sud-Ouest>>,<<CMR-SOU
+Bioko Norte>>,<<Bioko Norte>>,<<GNQ-BKN
+Bioko Sur>>,<<Bioko Sur>>,<<GNQ-BKS
+Benue>>,<<Benue>>,<<NGA-BEN
+Cross River>>,<<Cross River>>,<<NGA-CRI
+Taraba>>,<<Taraba>>,<<NGA-TAR
+Borgou>>,<<Borgou>>,<<BEN-BOR
+Kwara>>,<<Kwara>>,<<NGA-KWA
+Lagos>>,<<Lagos>>,<<NGA-LAG
+Niger>>,<<Niger>>,<<NGA-NIG
+Ogun>>,<<Ogun>>,<<NGA-OGU
+Ondo>>,<<Ondo>>,<<NGA-OND
+Osun>>,<<Osun>>,<<NGA-OSU
+Oyo>>,<<Oyo>>,<<NGA-OYO
+Zou>>,<<Zou>>,<<BEN-ZOU
+Greater Accra>>,<<Greater Accra>>,<<GHA-GAC
+Volta>>,<<Volta>>,<<GHA-VOL
+Amou>>,<<Amou>>,<<TGO-AMO
+Kloto>>,<<Kloto>>,<<TGO-KLT
+Ogou>>,<<Ogou>>,<<TGO-OGO
+Wawa>>,<<Wawa>>,<<TGO-WAW
+Zio>>,<<Zio>>,<<TGO-ZIO
+Atlantique>>,<<Atlantique>>,<<BEN-ATL
+Mono>>,<<Mono>>,<<BEN-MON
+Oueme>>,<<Oueme>>,<<BEN-OUE
+Golfe>>,<<Golfe>>,<<TGO-GLF
+Haho>>,<<Haho>>,<<TGO-HAH
+Lacs>>,<<Lacs>>,<<TGO-LAC
+Vo>>,<<Vo>>,<<TGO-VOO
+Yoto>>,<<Yoto>>,<<TGO-YOT
+Assoli>>,<<Assoli>>,<<TGO-ASL
+Bassar>>,<<Bassar>>,<<TGO-BSS
+Kozah>>,<<Kozah>>,<<TGO-KZH
+Nyala>>,<<Nyala>>,<<TGO-NYL
+Sotouboua>>,<<Sotouboua>>,<<TGO-SOT
+Tchaoudjo>>,<<Tchaoudjo>>,<<TGO-TCD
+Atakora>>,<<Atakora>>,<<BEN-ATK
+Binah>>,<<Binah>>,<<TGO-BNH
+Doufelgou>>,<<Doufelgou>>,<<TGO-DFL
+Keran>>,<<Keran>>,<<TGO-KRN
+Oti>>,<<Oti>>,<<TGO-OTI
+Tone>>,<<Tone>>,<<TGO-TON
+Anambra>>,<<Anambra>>,<<NGA-ANM
+Bauchi>>,<<Bauchi>>,<<NGA-BAU
+Delta>>,<<Delta>>,<<NGA-DEL
+Edo>>,<<Edo>>,<<NGA-EDO
+Enugu>>,<<Enugu>>,<<NGA-ENU
+Abuja Capital Territory (Abuja)>>,<<Abuja Capital Territory (Abuja)>>,<<NGA-FCT
+Kaduna>>,<<Kaduna>>,<<NGA-KAD
+Kogi>>,<<Kogi>>,<<NGA-KOG
+Plateau>>,<<Plateau>>,<<NGA-PLA
+Agadez>>,<<Agadez>>,<<NER-AGD
+Maradi>>,<<Maradi>>,<<NER-MAR
+Zinder>>,<<Zinder>>,<<NER-ZND
+Jigawa>>,<<Jigawa>>,<<NGA-JIG
+Kano>>,<<Kano>>,<<NGA-KAN
+Katsina>>,<<Katsina>>,<<NGA-KAT
+Sokoto>>,<<Sokoto>>,<<NGA-SOK
+Yobe>>,<<Yobe>>,<<NGA-YOB
+Gnagna>>,<<Gnagna>>,<<BFA-GNG
+Gourma>>,<<Gourma>>,<<BFA-GRM
+Seno>>,<<Seno>>,<<BFA-SEN
+Tapoa>>,<<Tapoa>>,<<BFA-TAP
+Dosso>>,<<Dosso>>,<<NER-DOS
+Niamey>>,<<Niamey>>,<<NER-NIA
+Tahoua>>,<<Tahoua>>,<<NER-TAH
+Kebbi>>,<<Kebbi>>,<<NGA-KEB
+Haute-Sangha>>,<<Haute-Sangha>>,<<CAF-HSN
+Sangha>>,<<Sangha>>,<<CAF-SNG
+Centre>>,<<Centre>>,<<CMR-CNT
+Est>>,<<Est>>,<<CMR-EST
+Sud>>,<<Sud>>,<<CMR-SUD
+Sangha>>,<<Sangha>>,<<COG-SNG
+Ogooue-Ivindo>>,<<Ogooue-Ivindo>>,<<GAB-OIV
+Woleu-Ntem>>,<<Woleu-Ntem>>,<<GAB-WNT
+Nana-Mambere>>,<<Nana-Mambere>>,<<CAF-NMM
+Ouham-Pende>>,<<Ouham-Pende>>,<<CAF-OPE
+Adamoua>>,<<Adamoua>>,<<CMR-ADM
+Nord>>,<<Nord>>,<<CMR-NOR
+Adamawa>>,<<Adamawa>>,<<NGA-ADM
+Logone Occidental>>,<<Logone Occidental>>,<<TCD-LOC
+Logone Oriental>>,<<Logone Oriental>>,<<TCD-LOR
+Mayo Kebi>>,<<Mayo Kebi>>,<<TCD-MKE
+Tandjile>>,<<Tandjile>>,<<TCD-TND
+Bamingui-Bangoran>>,<<Bamingui-Bangoran>>,<<CAF-BBN
+Gribingui>>,<<Gribingui>>,<<CAF-GRB
+Kemo-Gribingui>>,<<Kemo-Gribingui>>,<<CAF-KGR
+Ouaka>>,<<Ouaka>>,<<CAF-OUA
+Ouham>>,<<Ouham>>,<<CAF-OUH
+Vakaga>>,<<Vakaga>>,<<CAF-VAK
+Moyen-Chari>>,<<Moyen-Chari>>,<<TCD-MCH
+Salamat>>,<<Salamat>>,<<TCD-SLM
+Illizi>>,<<Illizi>>,<<DZA-ILL
+Tamanghasset>>,<<Tamanghasset>>,<<DZA-TMN
+Emilia-Romagna>>,<<Emilia-Romagna>>,<<ITA-ERM
+Liguria>>,<<Liguria>>,<<ITA-LIG
+Sardegna>>,<<Sardegna>>,<<ITA-SRD
+Toscana>>,<<Toscana>>,<<ITA-TSC
+Monaco>>,<<Monaco>>,<<MCO
+El Bayadh>>,<<El Bayadh>>,<<DZA-EBY
+El Oued>>,<<El Oued>>,<<DZA-EOD
+Ghardaia>>,<<Ghardaia>>,<<DZA-GHD
+Laghouat>>,<<Laghouat>>,<<DZA-LGH
+Ouargla>>,<<Ouargla>>,<<DZA-ORG
+Ghadamis>>,<<Ghadamis>>,<<LBY-GHD
+Madaniyin>>,<<Madaniyin>>,<<TUN-MDN
+Quibili>>,<<Quibili>>,<<TUN-QBL
+Tatawin>>,<<Tatawin>>,<<TUN-TTW
+Andorra>>,<<Andorra>>,<<AND
+Alger>>,<<Alger>>,<<DZA-ALG
+Boumerdes>>,<<Boumerdes>>,<<DZA-BMR
+Tizi Ouzou>>,<<Tizi Ouzou>>,<<DZA-TOU
+Tipaza>>,<<Tipaza>>,<<DZA-TPZ
+Isles Baleares>>,<<Isles Baleares>>,<<ESP-BLR
+Cataluna>>,<<Cataluna>>,<<ESP-CTL
+Ain Defla>>,<<Ain Defla>>,<<DZA-ADF
+Chlef>>,<<Chlef>>,<<DZA-CHL
+Mascara>>,<<Mascara>>,<<DZA-MSC
+Mostaganem>>,<<Mostaganem>>,<<DZA-MST
+Relizane>>,<<Relizane>>,<<DZA-RLZ
+Saida>>,<<Saida>>,<<DZA-SAI
+Tiaret>>,<<Tiaret>>,<<DZA-TIA
+Tissemsilt>>,<<Tissemsilt>>,<<DZA-TSS
+Bourdj Bou Arrer>>,<<Bourdj Bou Arrer>>,<<DZA-BBA
+Bejaia>>,<<Bejaia>>,<<DZA-BEJ
+Blida>>,<<Blida>>,<<DZA-BLI
+Bouira>>,<<Bouira>>,<<DZA-BOU
+Biskra>>,<<Biskra>>,<<DZA-BSK
+Djelfa>>,<<Djelfa>>,<<DZA-DJL
+Medea>>,<<Medea>>,<<DZA-MED
+M'Sila>>,<<M'Sila>>,<<DZA-MSL
+Setif>>,<<Setif>>,<<DZA-SET
+Batna>>,<<Batna>>,<<DZA-BAT
+Constantine>>,<<Constantine>>,<<DZA-CNS
+Guelma>>,<<Guelma>>,<<DZA-GUE
+Khenchela>>,<<Khenchela>>,<<DZA-KHN
+Mila>>,<<Mila>>,<<DZA-MIL
+Oum el Bouaghi>>,<<Oum el Bouaghi>>,<<DZA-OEB
+Souk Ahras>>,<<Souk Ahras>>,<<DZA-SAH
+Tebessa>>,<<Tebessa>>,<<DZA-TBS
+Tawzar>>,<<Tawzar>>,<<TUN-TWZ
+Aryanah>>,<<Aryanah>>,<<TUN-ARY
+Bajah>>,<<Bajah>>,<<TUN-BAJ
+Bin 'Arus>>,<<Bin 'Arus>>,<<TUN-BNR
+Banzart>>,<<Banzart>>,<<TUN-BNZ
+Jundubah>>,<<Jundubah>>,<<TUN-JND
+Nabul>>,<<Nabul>>,<<TUN-NAB
+Tunis>>,<<Tunis>>,<<TUN-TUN
+Al Kaf>>,<<Al Kaf>>,<<TUN-AKA
+Al Qasrayn>>,<<Al Qasrayn>>,<<TUN-AQS
+Qabis>>,<<Qabis>>,<<TUN-QAB
+Qafsah>>,<<Qafsah>>,<<TUN-QFS
+Sidi Bu Zayd>>,<<Sidi Bu Zayd>>,<<TUN-SBZ
+Safaqis>>,<<Safaqis>>,<<TUN-SFQ
+Silyanah>>,<<Silyanah>>,<<TUN-SLY
+Al Mahdiyah>>,<<Al Mahdiyah>>,<<TUN-AMH
+Al Munastir>>,<<Al Munastir>>,<<TUN-AMN
+Al Qayrawan>>,<<Al Qayrawan>>,<<TUN-AQY
+Susah>>,<<Susah>>,<<TUN-SUS
+Zaghwan>>,<<Zaghwan>>,<<TUN-ZGH
+Ionian Islands>>,<<Ionian Islands>>,<<GRC-IIS
+Peloponnisos>>,<<Peloponnisos>>,<<GRC-PLP
+Basilicata>>,<<Basilicata>>,<<ITA-BSL
+Calabria>>,<<Calabria>>,<<ITA-CLB
+Campania>>,<<Campania>>,<<ITA-CMP
+Molise>>,<<Molise>>,<<ITA-MOL
+Puglia>>,<<Puglia>>,<<ITA-PUG
+Sicilia>>,<<Sicilia>>,<<ITA-SIC
+Malta>>,<<Malta>>,<<MLT
+Croatia>>,<<Croatia>>,<<HRV
+Abruzzi>>,<<Abruzzi>>,<<ITA-ABR
+Lazio>>,<<Lazio>>,<<ITA-LAZ
+Marche>>,<<Marche>>,<<ITA-MRC
+Umbria>>,<<Umbria>>,<<ITA-UMB
+San Marino>>,<<San Marino>>,<<SMR
+Vatican City>>,<<Vatican City>>,<<VAT
+Durres>>,<<Durres>>,<<ALB-DRR
+Fier>>,<<Fier>>,<<ALB-FIE
+Lushnje>>,<<Lushnje>>,<<ALB-LSH
+Shkoder>>,<<Shkoder>>,<<ALB-SHK
+Tropoje>>,<<Tropoje>>,<<ALB-TRP
+Vlore>>,<<Vlore>>,<<ALB-VLO
+Bosnia & Herzegovina>>,<<Bosnia & Herzegovina>>,<<BIH
+Montenegro>>,<<Montenegro>>,<<MNE
+Serbia>>,<<Serbia>>,<<SRB-SRB
+Kolonje>>,<<Kolonje>>,<<ALB-KLN
+Korce>>,<<Korce>>,<<ALB-KOR
+Pogradec>>,<<Pogradec>>,<<ALB-PGR
+Thessalia>>,<<Thessalia>>,<<GRC-THS
+Macedonia>>,<<Macedonia>>,<<MKD
+Berat>>,<<Berat>>,<<ALB-BER
+Elbasan>>,<<Elbasan>>,<<ALB-ELB
+Gjirokaster>>,<<Gjirokaster>>,<<ALB-GJR
+Gramsh>>,<<Gramsh>>,<<ALB-GRM
+Permet>>,<<Permet>>,<<ALB-PRM
+Skrapar>>,<<Skrapar>>,<<ALB-SKR
+Sarande>>,<<Sarande>>,<<ALB-SRN
+Tepelene>>,<<Tepelene>>,<<ALB-TPL
+Ipiros>>,<<Ipiros>>,<<GRC-IPR
+Dibre>>,<<Dibre>>,<<ALB-DIB
+Kruje>>,<<Kruje>>,<<ALB-KRU
+Kukes>>,<<Kukes>>,<<ALB-KUK
+Librazhd>>,<<Librazhd>>,<<ALB-LBR
+Lezhe>>,<<Lezhe>>,<<ALB-LEZ
+Mat>>,<<Mat>>,<<ALB-MAT
+Mirdite>>,<<Mirdite>>,<<ALB-MRD
+Puke>>,<<Puke>>,<<ALB-PUK
+Tirane>>,<<Tirane>>,<<ALB-TIR
+Al Jufrah>>,<<Al Jufrah>>,<<LBY-AJF
+Al Kufrah>>,<<Al Kufrah>>,<<LBY-AKF
+Al Khums>>,<<Al Khums>>,<<LBY-AKH
+Ash Shati'>>,<<Ash Shati'>>,<<LBY-ASH
+Awbari>>,<<Awbari>>,<<LBY-AWB
+Murzuq>>,<<Murzuq>>,<<LBY-MRZ
+Misratah>>,<<Misratah>>,<<LBY-MSR
+Sabha>>,<<Sabha>>,<<LBY-SAB
+Zlitan>>,<<Zlitan>>,<<LBY-ZLT
+Al 'Aziziyah>>,<<Al 'Aziziyah>>,<<LBY-AAZ
+An Nuqat al Khams>>,<<An Nuqat al Khams>>,<<LBY-ANQ
+Az Zawiyah>>,<<Az Zawiyah>>,<<LBY-AZW
+Gharyan>>,<<Gharyan>>,<<LBY-GHR
+Sawfajjin>>,<<Sawfajjin>>,<<LBY-SWF
+Tarabulus>>,<<Tarabulus>>,<<LBY-TRB
+Tarhunah>>,<<Tarhunah>>,<<LBY-TRH
+Yafran>>,<<Yafran>>,<<LBY-YFR
+Al Fatih>>,<<Al Fatih>>,<<LBY-AFT
+Al Jabal al Akhdar>>,<<Al Jabal al Akhdar>>,<<LBY-AJB
+Ajdabiya>>,<<Ajdabiya>>,<<LBY-AJD
+Banghazi>>,<<Banghazi>>,<<LBY-BNG
+Surt>>,<<Surt>>,<<LBY-SUR
+Al Gharbiyah>>,<<Al Gharbiyah>>,<<EGY-AGH
+Al Isma'iliyah>>,<<Al Isma'iliyah>>,<<EGY-AIM
+Al Minufiyah>>,<<Al Minufiyah>>,<<EGY-AMN
+Al Qahirah>>,<<Al Qahirah>>,<<EGY-AQH
+Al Qalyubiyah>>,<<Al Qalyubiyah>>,<<EGY-AQL
+Ash Sharqiyah>>,<<Ash Sharqiyah>>,<<EGY-ASH
+As Suways>>,<<As Suways>>,<<EGY-ASW
+Ad Daqahliyah>>,<<Ad Daqahliyah>>,<<EGY-ADQ
+Bur Sa'id>>,<<Bur Sa'id>>,<<EGY-BSA
+Dumyat>>,<<Dumyat>>,<<EGY-DMY
+Marsa Matruh>>,<<Marsa Matruh>>,<<EGY-MNT
+Darnah>>,<<Darnah>>,<<LBY-DRN
+Tubruq>>,<<Tubruq>>,<<LBY-TBR
+Al Buhayrah>>,<<Al Buhayrah>>,<<EGY-ABH
+Al Fayyum>>,<<Al Fayyum>>,<<EGY-AFY
+Al Iskandariyah>>,<<Al Iskandariyah>>,<<EGY-AIS
+Al Jizah>>,<<Al Jizah>>,<<EGY-AJI
+Al Minya>>,<<Al Minya>>,<<EGY-AMI
+Bani Suwayf>>,<<Bani Suwayf>>,<<EGY-BSW
+Kafr ash Shaykh>>,<<Kafr ash Shaykh>>,<<EGY-KAS
+Aswan>>,<<Aswan>>,<<EGY-ASN
+Asyut>>,<<Asyut>>,<<EGY-ASY
+Al Wadi al Jadid>>,<<Al Wadi al Jadid>>,<<EGY-AWA
+Qina>>,<<Qina>>,<<EGY-QIN
+Suhaj>>,<<Suhaj>>,<<EGY-SUH
+Aegean Islands>>,<<Aegean Islands>>,<<GRC-AIS
+Central Greece and Evvoia>>,<<Central Greece and Evvoia>>,<<GRC-CGE
+Crete>>,<<Crete>>,<<GRC-CRT
+Aydin>>,<<Aydin>>,<<TUR-AYD
+Izmir>>,<<Izmir>>,<<TUR-IZM
+Khaskovo>>,<<Khaskovo>>,<<BGR-KHS
+Plovdiv>>,<<Plovdiv>>,<<BGR-PLD
+Macedonia>>,<<Macedonia>>,<<GRC-MCD
+Thraki>>,<<Thraki>>,<<GRC-THR
+Balikesir>>,<<Balikesir>>,<<TUR-BLK
+Canakkale>>,<<Canakkale>>,<<TUR-CNK
+Edirne>>,<<Edirne>>,<<TUR-EDR
+Kirklareli>>,<<Kirklareli>>,<<TUR-KRK
+Tekirdag>>,<<Tekirdag>>,<<TUR-TKR
+Grad Sofiya>>,<<Grad Sofiya>>,<<BGR-GSO
+Lovech>>,<<Lovech>>,<<BGR-LVC
+Mikhaylovgrad>>,<<Mikhaylovgrad>>,<<BGR-MKH
+Sofiya>>,<<Sofiya>>,<<BGR-SOF
+Dolj>>,<<Dolj>>,<<ROU-DOL
+Gorj>>,<<Gorj>>,<<ROU-GOR
+Mehedinti>>,<<Mehedinti>>,<<ROU-MHD
+Olt>>,<<Olt>>,<<ROU-OLT
+Teleorman>>,<<Teleorman>>,<<ROU-TLR
+Burgas>>,<<Burgas>>,<<BGR-BRG
+Razgrad>>,<<Razgrad>>,<<BGR-RZG
+Varna>>,<<Varna>>,<<BGR-VAR
+Bucuresti>>,<<Bucuresti>>,<<ROU-BUC
+Calarasi>>,<<Calarasi>>,<<ROU-CLR
+Dimbovita>>,<<Dimbovita>>,<<ROU-DMB
+Giurgiu>>,<<Giurgiu>>,<<ROU-GIU
+Ialomita>>,<<Ialomita>>,<<ROU-ILM
+Constanta>>,<<Constanta>>,<<ROU-CNS
+Bilecik>>,<<Bilecik>>,<<TUR-BLC
+Bursa>>,<<Bursa>>,<<TUR-BUR
+Istanbul>>,<<Istanbul>>,<<TUR-IST
+Kocaeli>>,<<Kocaeli>>,<<TUR-KOC
+Sakarya>>,<<Sakarya>>,<<TUR-SKR
+Ankara>>,<<Ankara>>,<<TUR-ANK
+Bolu>>,<<Bolu>>,<<TUR-BOL
+Cankiri>>,<<Cankiri>>,<<TUR-CNR
+Eskisehir>>,<<Eskisehir>>,<<TUR-ESK
+Kastamonu>>,<<Kastamonu>>,<<TUR-KST
+Zonguldak>>,<<Zonguldak>>,<<TUR-ZNG
+Kyrenia>>,<<Kyrenia>>,<<CYP-KYR
+Limassol>>,<<Limassol>>,<<CYP-LMS
+Larnaca>>,<<Larnaca>>,<<CYP-LRN
+Nicosia>>,<<Nicosia>>,<<CYP-NIC
+Paphos>>,<<Paphos>>,<<CYP-PPH
+Antalya>>,<<Antalya>>,<<TUR-ANT
+Konya>>,<<Konya>>,<<TUR-KON
+Afyon>>,<<Afyon>>,<<TUR-AFY
+Burdur>>,<<Burdur>>,<<TUR-BRD
+Denizli>>,<<Denizli>>,<<TUR-DNZ
+Isparta>>,<<Isparta>>,<<TUR-ISP
+Kutahya>>,<<Kutahya>>,<<TUR-KTH
+Manisa>>,<<Manisa>>,<<TUR-MAN
+Mugla>>,<<Mugla>>,<<TUR-MUG
+Usak>>,<<Usak>>,<<TUR-USA
+Abkhazia>>,<<Abkhazia>>,<<GEO-ABK
+Respublika Adygeya>>,<<Respublika Adygeya>>,<<RUS-ADY
+Karachayevo-Cherkesskaya Resp.>>,<<Karachayevo-Cherkesskaya Resp.>>,<<RUS-KCH
+Adiyaman>>,<<Adiyaman>>,<<TUR-ADY
+Elazig>>,<<Elazig>>,<<TUR-ELZ
+Gaziantep>>,<<Gaziantep>>,<<TUR-GZN
+Kahraman Maras>>,<<Kahraman Maras>>,<<TUR-KMA
+Malatya>>,<<Malatya>>,<<TUR-MLT
+Urfa>>,<<Urfa>>,<<TUR-URF
+Adana>>,<<Adana>>,<<TUR-ADA
+Icel>>,<<Icel>>,<<TUR-ICE
+Kirsehir>>,<<Kirsehir>>,<<TUR-KRS
+Kayseri>>,<<Kayseri>>,<<TUR-KYS
+Nigde>>,<<Nigde>>,<<TUR-NIG
+Nevsehir>>,<<Nevsehir>>,<<TUR-NVS
+Farmagusta>>,<<Farmagusta>>,<<CYP-FMG
+Al Biqa'>>,<<Al Biqa'>>,<<LBN-ABI
+Ash Shamal>>,<<Ash Shamal>>,<<LBN-ASH
+Bayrut>>,<<Bayrut>>,<<LBN-BYR
+Jabal Lubnan>>,<<Jabal Lubnan>>,<<LBN-JLB
+Al Ladhiqiyah>>,<<Al Ladhiqiyah>>,<<SYR-ALD
+Tartus>>,<<Tartus>>,<<SYR-TRT
+Hatay>>,<<Hatay>>,<<TUR-HAT
+Ar Raqqah>>,<<Ar Raqqah>>,<<SYR-ARQ
+Halab>>,<<Halab>>,<<SYR-HAL
+Hamah>>,<<Hamah>>,<<SYR-HAM
+Hims>>,<<Hims>>,<<SYR-HIM
+Idlib>>,<<Idlib>>,<<SYR-IDL
+Amasya>>,<<Amasya>>,<<TUR-AMS
+Corum>>,<<Corum>>,<<TUR-COR
+Giresun>>,<<Giresun>>,<<TUR-GRS
+Ordu>>,<<Ordu>>,<<TUR-ORD
+Sinop>>,<<Sinop>>,<<TUR-SIN
+Sivas>>,<<Sivas>>,<<TUR-SIV
+Samsun>>,<<Samsun>>,<<TUR-SMS
+Tokat>>,<<Tokat>>,<<TUR-TOK
+Yozgat>>,<<Yozgat>>,<<TUR-YZG
+Ajaria>>,<<Ajaria>>,<<GEO-AJR
+Artvin>>,<<Artvin>>,<<TUR-ART
+Erzurum>>,<<Erzurum>>,<<TUR-ERR
+Erzincan>>,<<Erzincan>>,<<TUR-ERZ
+Gumshane>>,<<Gumshane>>,<<TUR-GMS
+Rize>>,<<Rize>>,<<TUR-RIZ
+Trabzon>>,<<Trabzon>>,<<TUR-TRB
+Ingushskaya Respublika>>,<<Ingushskaya Respublika>>,<<RUS-ING
+Kabardino-Balkarskaya Resp.>>,<<Kabardino-Balkarskaya Resp.>>,<<RUS-KBK
+Respublika Severnaya Osetiya>>,<<Respublika Severnaya Osetiya>>,<<RUS-NOS
+Stavropol'skiy kray>>,<<Stavropol'skiy kray>>,<<RUS-STV
+T'bilisi>>,<<T'bilisi>>,<<GEO-TBL
+Agri>>,<<Agri>>,<<TUR-AGR
+Kars>>,<<Kars>>,<<TUR-KAR
+Al Hasakah>>,<<Al Hasakah>>,<<SYR-AHS
+Dayr az Zawr>>,<<Dayr az Zawr>>,<<SYR-DAZ
+Bingol>>,<<Bingol>>,<<TUR-BNG
+Diyarbakir>>,<<Diyarbakir>>,<<TUR-DYR
+Mardin>>,<<Mardin>>,<<TUR-MRD
+Mus>>,<<Mus>>,<<TUR-MUS
+Siirt>>,<<Siirt>>,<<TUR-SII
+Tunceli>>,<<Tunceli>>,<<TUR-TNC
+Dahuk>>,<<Dahuk>>,<<IRQ-DAH
+Bitlis>>,<<Bitlis>>,<<TUR-BTL
+Hakkari>>,<<Hakkari>>,<<TUR-HKK
+Van>>,<<Van>>,<<TUR-VAN
+At Ta'min>>,<<At Ta'min>>,<<IRQ-ATA
+Arbil>>,<<Arbil>>,<<IRQ-IRB
+Ninawa>>,<<Ninawa>>,<<IRQ-NIN
+Salah ad Din>>,<<Salah ad Din>>,<<IRQ-SAD
+Al Bahr al Ahmar>>,<<Al Bahr al Ahmar>>,<<EGY-ABA
+Al Madinah>>,<<Al Madinah>>,<<SAU-AMD
+Al Qasim>>,<<Al Qasim>>,<<SAU-AQA
+Al Qurayyat>>,<<Al Qurayyat>>,<<SAU-AQR
+Ha'il>>,<<Ha'il>>,<<SAU-HAI
+Tabuk>>,<<Tabuk>>,<<SAU-TAB
+Janub Sina'>>,<<Janub Sina'>>,<<EGY-JSI
+Shamal Sina'>>,<<Shamal Sina'>>,<<EGY-SSI
+Hadarom>>,<<Hadarom>>,<<ISR-HDR
+Al Mafraq>>,<<Al Mafraq>>,<<JOR-AMF
+'Amman>>,<<'Amman>>,<<JOR-AMM
+At Tafilah>>,<<At Tafilah>>,<<JOR-ATF
+Ma'an>>,<<Ma'an>>,<<JOR-MAA
+As Suwayda'>>,<<As Suwayda'>>,<<SYR-ASW
+Dimashq>>,<<Dimashq>>,<<SYR-DMS
+Gaza Strip>>,<<Gaza Strip>>,<<ISR-GAZ
+Hefa>>,<<Hefa>>,<<ISR-HEF
+Hamerkaz>>,<<Hamerkaz>>,<<ISR-HMR
+Hazafon>>,<<Hazafon>>,<<ISR-HZF
+Tel Aviv>>,<<Tel Aviv>>,<<ISR-TAV
+West Bank>>,<<West Bank>>,<<ISR-WBK
+Yerushalayim>>,<<Yerushalayim>>,<<ISR-YRS
+An Nabatiyah>>,<<An Nabatiyah>>,<<LBN-ANB
+Sayda>>,<<Sayda>>,<<LBN-SAY
+Irbid>>,<<Irbid>>,<<JOR-IRB
+Al Qunaytirah>>,<<Al Qunaytirah>>,<<SYR-AQN
+Dar'a>>,<<Dar'a>>,<<SYR-DAR
+Al Balqa'>>,<<Al Balqa'>>,<<JOR-ABA
+Al Karak>>,<<Al Karak>>,<<JOR-AKA
+Az Zarqa>>,<<Az Zarqa>>,<<JOR-AZR
+Al Anbar>>,<<Al Anbar>>,<<IRQ-AAN
+An Najaf>>,<<An Najaf>>,<<IRQ-ANA
+Babil>>,<<Babil>>,<<IRQ-BAB
+Baghdad>>,<<Baghdad>>,<<IRQ-BGH
+Karbala'>>,<<Karbala'>>,<<IRQ-KRB
+Al Hudud ash Shamaliyah>>,<<Al Hudud ash Shamaliyah>>,<<SAU-AHA
+Al Jawf>>,<<Al Jawf>>,<<SAU-AJA
+Al Istiwa'iyah>>,<<Al Istiwa'iyah>>,<<SDN-AIS
+Busoga>>,<<Busoga>>,<<UGA-BUS
+Central>>,<<Central>>,<<UGA-CNT
+Nile>>,<<Nile>>,<<UGA-NIL
+North Buganda>>,<<North Buganda>>,<<UGA-NRB
+Northern>>,<<Northern>>,<<UGA-NRT
+Western>>,<<Western>>,<<UGA-WST
+Haute-Kotto>>,<<Haute-Kotto>>,<<CAF-HKO
+Haut-Mbomou>>,<<Haut-Mbomou>>,<<CAF-HMB
+Mbomou>>,<<Mbomou>>,<<CAF-MBO
+A'ali an Nil>>,<<A'ali an Nil>>,<<SDN-AAN
+Bahr al Ghazal>>,<<Bahr al Ghazal>>,<<SDN-BAG
+Haut-Zaire>>,<<Haut-Zaire>>,<<COD-HZA
+Al Khartum>>,<<Al Khartum>>,<<SDN-AKH
+Ash Shamaliyah>>,<<Ash Shamaliyah>>,<<SDN-ASH
+Al Wusta>>,<<Al Wusta>>,<<SDN-AWU
+Darfur>>,<<Darfur>>,<<SDN-DRF
+Kurdufan>>,<<Kurdufan>>,<<SDN-KRD
+Baraka>>,<<Baraka>>,<<ERI-BRK
+Hamasen>>,<<Hamasen>>,<<ERI-HMS
+Sahil>>,<<Sahil>>,<<ERI-SHL
+Senhit>>,<<Senhit>>,<<ERI-SNH
+Seraye>>,<<Seraye>>,<<ERI-SRY
+Gonder>>,<<Gonder>>,<<ETH-GND
+Ash Sharqiyah>>,<<Ash Sharqiyah>>,<<SDN-ASR
+Al Bahah>>,<<Al Bahah>>,<<SAU-ABA
+'Asir>>,<<'Asir>>,<<SAU-ASI
+Jizan>>,<<Jizan>>,<<SAU-JIZ
+Makkah>>,<<Makkah>>,<<SAU-MKK
+Sa'dah>>,<<Sa'dah>>,<<YEM-SDH
+Akale Guzay>>,<<Akale Guzay>>,<<ERI-AGZ
+Denakil>>,<<Denakil>>,<<ERI-DNK
+Samhar>>,<<Samhar>>,<<ERI-SMH
+Tigray>>,<<Tigray>>,<<ETH-TGR
+Welo>>,<<Welo>>,<<ETH-WEO
+Al Hudaydah>>,<<Al Hudaydah>>,<<YEM-AHD
+Al Mahwit>>,<<Al Mahwit>>,<<YEM-AMW
+Dhamar>>,<<Dhamar>>,<<YEM-DHM
+Hajjah>>,<<Hajjah>>,<<YEM-HJJ
+San'a'>>,<<San'a'>>,<<YEM-SAN
+'Ali Sabih>>,<<'Ali Sabih>>,<<DJI-ASA
+Djibouti>>,<<Djibouti>>,<<DJI-DJI
+Dikhil>>,<<Dikhil>>,<<DJI-DKH
+Obock>>,<<Obock>>,<<DJI-OBC
+Tadjoura>>,<<Tadjoura>>,<<DJI-TDJ
+Ibb>>,<<Ibb>>,<<YEM-IBB
+Lahij>>,<<Lahij>>,<<YEM-LHJ
+Ta'izz>>,<<Ta'izz>>,<<YEM-TAZ
+Eastern>>,<<Eastern>>,<<KEN-EST
+Rift Valley>>,<<Rift Valley>>,<<KEN-RVL
+Western>>,<<Western>>,<<KEN-WST
+Eastern>>,<<Eastern>>,<<UGA-EST
+Karamoja>>,<<Karamoja>>,<<UGA-KRM
+Gamo Gofa>>,<<Gamo Gofa>>,<<ETH-GGO
+Gojam>>,<<Gojam>>,<<ETH-GOJ
+Ilubabor>>,<<Ilubabor>>,<<ETH-ILB
+Kefa>>,<<Kefa>>,<<ETH-KEF
+Shewa>>,<<Shewa>>,<<ETH-SHE
+Welega>>,<<Welega>>,<<ETH-WEL
+Arsi>>,<<Arsi>>,<<ETH-ARS
+Bale>>,<<Bale>>,<<ETH-BAL
+Harerge>>,<<Harerge>>,<<ETH-HRR
+Awdal>>,<<Awdal>>,<<SOM-AWD
+Woqooyi Galbeed>>,<<Woqooyi Galbeed>>,<<SOM-WGL
+Sidamo>>,<<Sidamo>>,<<ETH-SID
+North-Eastern>>,<<North-Eastern>>,<<KEN-NES
+Bakool>>,<<Bakool>>,<<SOM-BAK
+Bay>>,<<Bay>>,<<SOM-BAY
+Gedo>>,<<Gedo>>,<<SOM-GED
+Jubbada Dhexe>>,<<Jubbada Dhexe>>,<<SOM-JDH
+Shabeellaha Hoose>>,<<Shabeellaha Hoose>>,<<SOM-SHO
+Nordrhein-Westfalen>>,<<Nordrhein-Westfalen>>,<<DEU-NWS
+Drenthe>>,<<Drenthe>>,<<NLD-DRN
+Friesland>>,<<Friesland>>,<<NLD-FRS
+Gelderland>>,<<Gelderland>>,<<NLD-GLD
+Groningen>>,<<Groningen>>,<<NLD-GRN
+Limburg>>,<<Limburg>>,<<NLD-LMB
+Overijssel>>,<<Overijssel>>,<<NLD-OVR
+Troms>>,<<Troms>>,<<NOR-TRM
+Svalbard>>,<<Svalbard>>,<<SJM
+Baden-Wurttemberg>>,<<Baden-Wurttemberg>>,<<DEU-BWR
+Hessen>>,<<Hessen>>,<<DEU-HSS
+Hainaut>>,<<Hainaut>>,<<BEL-HAI
+Luxembourg>>,<<Luxembourg>>,<<BEL-LXM
+Namur>>,<<Namur>>,<<BEL-NAM
+Bremen>>,<<Bremen>>,<<DEU-BRM
+Niedersachsen>>,<<Niedersachsen>>,<<DEU-NDR
+Thuringen>>,<<Thuringen>>,<<DEU-THR
+Oost-Vlaanderen>>,<<Oost-Vlaanderen>>,<<BEL-OVL
+West-Vlaanderen>>,<<West-Vlaanderen>>,<<BEL-WVL
+Flevoland>>,<<Flevoland>>,<<NLD-FLV
+Zeeland>>,<<Zeeland>>,<<NLD-ZLN
+Antwerpen>>,<<Antwerpen>>,<<BEL-ANT
+Brabant>>,<<Brabant>>,<<BEL-BRB
+Bruxelles-Brussel>>,<<Bruxelles-Brussel>>,<<BEL-BRS
+Limburg>>,<<Limburg>>,<<BEL-LMB
+Nivelles>>,<<Nivelles>>,<<BEL-NVL
+Noord-Brabant>>,<<Noord-Brabant>>,<<NLD-NBR
+Utrecht>>,<<Utrecht>>,<<NLD-UTR
+Zuid-Holland>>,<<Zuid-Holland>>,<<NLD-ZHL
+Hamburg>>,<<Hamburg>>,<<DEU-HMB
+Schleswig-Holstein>>,<<Schleswig-Holstein>>,<<DEU-SHL
+Arhus>>,<<Arhus>>,<<DNK-ARH
+Fyn>>,<<Fyn>>,<<DNK-FYN
+Ribe>>,<<Ribe>>,<<DNK-RIB
+Ringkobing>>,<<Ringkobing>>,<<DNK-RNG
+Sonderjylland>>,<<Sonderjylland>>,<<DNK-SND
+Vejle>>,<<Vejle>>,<<DNK-VEJ
+Fribourg>>,<<Fribourg>>,<<CHE-FRB
+Geneve>>,<<Geneve>>,<<CHE-GEN
+Jura>>,<<Jura>>,<<CHE-JUR
+Neuchatel>>,<<Neuchatel>>,<<CHE-NCH
+Vaud>>,<<Vaud>>,<<CHE-VAU
+Piemonte>>,<<Piemonte>>,<<ITA-PMN
+Valle d'Aosta>>,<<Valle d'Aosta>>,<<ITA-VDA
+Aargau>>,<<Aargau>>,<<CHE-AAR
+Bern>>,<<Bern>>,<<CHE-BER
+Basel-Landschaft>>,<<Basel-Landschaft>>,<<CHE-BLN
+Basel-Stadt>>,<<Basel-Stadt>>,<<CHE-BST
+Luzern>>,<<Luzern>>,<<CHE-LZR
+Nidwalden>>,<<Nidwalden>>,<<CHE-NDW
+Obwalden>>,<<Obwalden>>,<<CHE-OBW
+Solothurn>>,<<Solothurn>>,<<CHE-SLT
+Valais>>,<<Valais>>,<<CHE-VAL
+Liege>>,<<Liege>>,<<BEL-LIE
+Rheinland-Pfalz>>,<<Rheinland-Pfalz>>,<<DEU-RPF
+Saarland>>,<<Saarland>>,<<DEU-SRL
+Diekirch>>,<<Diekirch>>,<<LUX-DKR
+Grevenmacher>>,<<Grevenmacher>>,<<LUX-GRV
+Luxembourg>>,<<Luxembourg>>,<<LUX-LXM
+Vorarlberg>>,<<Vorarlberg>>,<<AUT-VRR
+Appenzell Inner-Rhoden>>,<<Appenzell Inner-Rhoden>>,<<CHE-AIR
+Appenzell Ausser-Rhoden>>,<<Appenzell Ausser-Rhoden>>,<<CHE-ASR
+Sankt Gallen>>,<<Sankt Gallen>>,<<CHE-SGL
+Ticino>>,<<Ticino>>,<<CHE-TIC
+Lombardia>>,<<Lombardia>>,<<ITA-LMB
+Liechtenstein>>,<<Liechtenstein>>,<<LIE
+Glarus>>,<<Glarus>>,<<CHE-GLR
+Graubunden>>,<<Graubunden>>,<<CHE-GRB
+Schaffhausen>>,<<Schaffhausen>>,<<CHE-SCH
+Schwyz>>,<<Schwyz>>,<<CHE-SCW
+Thurgau>>,<<Thurgau>>,<<CHE-THR
+Uri>>,<<Uri>>,<<CHE-URI
+Zurich>>,<<Zurich>>,<<CHE-ZRC
+Zug>>,<<Zug>>,<<CHE-ZUG
+More Og Romsdal>>,<<More Og Romsdal>>,<<NOR-MOR
+Sor-Trondelag>>,<<Sor-Trondelag>>,<<NOR-STR
+Chukotskiy avtonomnyy okrug>>,<<Chukotskiy avtonomnyy okrug>>,<<RUS-CHU
+Alaska>>,<<阿拉斯加>>,<<USA-ALK
+Nordjylland>>,<<Nordjylland>>,<<DNK-NRD
+Viborg>>,<<Viborg>>,<<DNK-VBR
+Aust-Agder>>,<<Aust-Agder>>,<<NOR-AAG
+Hordaland>>,<<Hordaland>>,<<NOR-HRD
+Rogaland>>,<<Rogaland>>,<<NOR-RGL
+Sogn Og Fjordane>>,<<Sogn Og Fjordane>>,<<NOR-SOF
+Vest-Agder>>,<<Vest-Agder>>,<<NOR-VAG
+Akershus>>,<<Akershus>>,<<NOR-AKR
+Buskerud>>,<<Buskerud>>,<<NOR-BSK
+Hedmark>>,<<Hedmark>>,<<NOR-HDM
+Oppland>>,<<Oppland>>,<<NOR-OPP
+Oslo>>,<<Oslo>>,<<NOR-OSL
+Telemark>>,<<Telemark>>,<<NOR-TLM
+Vestfold>>,<<Vestfold>>,<<NOR-VST
+Gavleborgs>>,<<Gavleborgs>>,<<SWE-GVL
+Jonkopings>>,<<Jonkopings>>,<<SWE-JNK
+Kalmar>>,<<Kalmar>>,<<SWE-KLM
+Kopparbergs>>,<<Kopparbergs>>,<<SWE-KPP
+Kronobergs>>,<<Kronobergs>>,<<SWE-KRN
+Orebro>>,<<Orebro>>,<<SWE-ORB
+Ostergotlands>>,<<Ostergotlands>>,<<SWE-OST
+Sodermanlands>>,<<Sodermanlands>>,<<SWE-SDR
+Vastmanlands>>,<<Vastmanlands>>,<<SWE-VSM
+Ostfold>>,<<Ostfold>>,<<NOR-OST
+Alvsborgs>>,<<Alvsborgs>>,<<SWE-ALV
+Goteborgs Och Bohus>>,<<Goteborgs Och Bohus>>,<<SWE-GOB
+Hallands>>,<<Hallands>>,<<SWE-HLL
+Skaraborgs>>,<<Skaraborgs>>,<<SWE-SKR
+Varmlands>>,<<Varmlands>>,<<SWE-VRM
+Nordland>>,<<Nordland>>,<<NOR-NRD
+Nord-Trondelag>>,<<Nord-Trondelag>>,<<NOR-NTR
+Jamtlands>>,<<Jamtlands>>,<<SWE-JMT
+Norrbottens>>,<<Norrbottens>>,<<SWE-NRR
+Vasternorrlands>>,<<Vasternorrlands>>,<<SWE-VSR
+Vasterbottens>>,<<Vasterbottens>>,<<SWE-VST
+Ahvenanmaa>>,<<Ahvenanmaa>>,<<FIN-AHR
+Gotlands>>,<<Gotlands>>,<<SWE-GTL
+Stockholms>>,<<Stockholms>>,<<SWE-STC
+Uppsala>>,<<Uppsala>>,<<SWE-UPP
+Burgenland>>,<<Burgenland>>,<<AUT-BRG
+Steiermark>>,<<Steiermark>>,<<AUT-STR
+Vas>>,<<Vas>>,<<HUN-VAS
+Elblag>>,<<Elblag>>,<<POL-ELB
+Gdansk>>,<<Gdansk>>,<<POL-GDN
+Olsztyn>>,<<Olsztyn>>,<<POL-OLS
+Slupsk>>,<<Slupsk>>,<<POL-SLP
+Kaliningradskaya oblast'>>,<<Kaliningradskaya oblast'>>,<<RUS-KNG
+Slovenia>>,<<Slovenia>>,<<SVN
+Karnten>>,<<Karnten>>,<<AUT-KRN
+Oberosterreich>>,<<Oberosterreich>>,<<AUT-OBR
+Salzburg>>,<<Salzburg>>,<<AUT-SLZ
+Tirol>>,<<Tirol>>,<<AUT-TIR
+Zapadocesky>>,<<Zapadocesky>>,<<CZE-ZPD
+Bayern>>,<<Bayern>>,<<DEU-BYR
+Friuli-Venezia Giulia>>,<<Friuli-Venezia Giulia>>,<<ITA-FVG
+Trentino-Alto Adige>>,<<Trentino-Alto Adige>>,<<ITA-TAA
+Veneto>>,<<Veneto>>,<<ITA-VEN
+Niederosterreich>>,<<Niederosterreich>>,<<AUT-NDR
+Wien>>,<<Wien>>,<<AUT-WIE
+Jihocesky>>,<<Jihocesky>>,<<CZE-JHC
+Jihomoravsky>>,<<Jihomoravsky>>,<<CZE-JHM
+Stredocesky>>,<<Stredocesky>>,<<CZE-STR
+Severocesky>>,<<Severocesky>>,<<CZE-SVC
+Vychodocesky>>,<<Vychodocesky>>,<<CZE-VYC
+Walbrzych>>,<<Walbrzych>>,<<POL-WLB
+Berlin>>,<<Berlin>>,<<DEU-BER
+Brandenburg>>,<<Brandenburg>>,<<DEU-BRN
+Sachsen-Anhalt>>,<<Sachsen-Anhalt>>,<<DEU-SCA
+Sachsen>>,<<Sachsen>>,<<DEU-SCH
+Bornholm>>,<<Bornholm>>,<<DNK-BRN
+Koszalin>>,<<Koszalin>>,<<POL-KSZ
+Blekinge>>,<<Blekinge>>,<<SWE-BLK
+Mecklenburg-Vorpommern>>,<<Mecklenburg-Vorpommern>>,<<DEU-MKV
+Frederiksborg>>,<<Frederiksborg>>,<<DNK-FRD
+Kobenhavn>>,<<Kobenhavn>>,<<DNK-KBN
+Roskilde>>,<<Roskilde>>,<<DNK-RSK
+Staden Kobenhavn>>,<<Staden Kobenhavn>>,<<DNK-SKB
+Storstrom>>,<<Storstrom>>,<<DNK-STR
+Vestsjalland>>,<<Vestsjalland>>,<<DNK-VST
+Kristianstads>>,<<Kristianstads>>,<<SWE-KRS
+Malmohus>>,<<Malmohus>>,<<SWE-MLM
+Gorzow>>,<<Gorzow>>,<<POL-GRZ
+Jelenia Gora>>,<<Jelenia Gora>>,<<POL-JGO
+Legnica>>,<<Legnica>>,<<POL-LGN
+Leszno>>,<<Leszno>>,<<POL-LSZ
+Pila>>,<<Pila>>,<<POL-PIL
+Poznan>>,<<Poznan>>,<<POL-PZN
+Szczecin>>,<<Szczecin>>,<<POL-SZC
+Zielona Gora>>,<<Zielona Gora>>,<<POL-ZGO
+Bydgoszcz>>,<<Bydgoszcz>>,<<POL-BYD
+Czestochowa>>,<<Czestochowa>>,<<POL-CZS
+Kalisz>>,<<Kalisz>>,<<POL-KLS
+Konin>>,<<Konin>>,<<POL-KON
+Lodz>>,<<Lodz>>,<<POL-LOD
+Sieradz>>,<<Sieradz>>,<<POL-SRD
+Torun>>,<<Torun>>,<<POL-TOR
+Wloclawek>>,<<Wloclawek>>,<<POL-WLC
+Wroclaw>>,<<Wroclaw>>,<<POL-WRC
+Ciechanow>>,<<Ciechanow>>,<<POL-CCH
+Kielce>>,<<Kielce>>,<<POL-KIE
+Lomza>>,<<Lomza>>,<<POL-LOM
+Ostroleka>>,<<Ostroleka>>,<<POL-OST
+Plock>>,<<Plock>>,<<POL-PLC
+Piotrkow>>,<<Piotrkow>>,<<POL-PTR
+Skierniewice>>,<<Skierniewice>>,<<POL-SKR
+Warszawa>>,<<Warszawa>>,<<POL-WRS
+Lublin>>,<<Lublin>>,<<POL-LBL
+Radom>>,<<Radom>>,<<POL-RAD
+Siedlce>>,<<Siedlce>>,<<POL-SDL
+Tarnobrzeg>>,<<Tarnobrzeg>>,<<POL-TRN
+Baranya>>,<<Baranya>>,<<HUN-BRN
+Gyor-Moson-Sopron>>,<<Gyor-Moson-Sopron>>,<<HUN-GSP
+Somogy>>,<<Somogy>>,<<HUN-SMG
+Veszprem>>,<<Veszprem>>,<<HUN-VSZ
+Zala>>,<<Zala>>,<<HUN-ZAL
+Budapest>>,<<Budapest>>,<<HUN-BDP
+Bacs-Kiskun>>,<<Bacs-Kiskun>>,<<HUN-BKS
+Fejer>>,<<Fejer>>,<<HUN-FEJ
+Komarom-Esztergom>>,<<Komarom-Esztergom>>,<<HUN-KMR
+Pest>>,<<Pest>>,<<HUN-PES
+Tolna>>,<<Tolna>>,<<HUN-TOL
+Severomoravsky>>,<<Severomoravsky>>,<<CZE-SVM
+Nograd>>,<<Nograd>>,<<HUN-NGR
+Bielsko>>,<<Bielsko>>,<<POL-BLS
+Katowice>>,<<Katowice>>,<<POL-KTW
+Opole>>,<<Opole>>,<<POL-OPO
+Bratislava>>,<<Bratislava>>,<<SVK-BRS
+Stredoslovensky>>,<<Stredoslovensky>>,<<SVK-STR
+Zapadoslovensky>>,<<Zapadoslovensky>>,<<SVK-ZPD
+Borsod-Abauj-Zemplen>>,<<Borsod-Abauj-Zemplen>>,<<HUN-BAZ
+Szabolcs-Szatmar-Bereg>>,<<Szabolcs-Szatmar-Bereg>>,<<HUN-SSZ
+Krakow>>,<<Krakow>>,<<POL-KRK
+Krosno>>,<<Krosno>>,<<POL-KRS
+Nowy Sacz>>,<<Nowy Sacz>>,<<POL-NSA
+Rzeszow>>,<<Rzeszow>>,<<POL-RZS
+Tarnow>>,<<Tarnow>>,<<POL-TRW
+Vychodoslovensky>>,<<Vychodoslovensky>>,<<SVK-VYC
+Bekes>>,<<Bekes>>,<<HUN-BEK
+Csongrad>>,<<Csongrad>>,<<HUN-CSN
+Hajdu-Bihar>>,<<Hajdu-Bihar>>,<<HUN-HBI
+Heves>>,<<Heves>>,<<HUN-HEV
+Jasz-Nagykun-Szolnok>>,<<Jasz-Nagykun-Szolnok>>,<<HUN-SZL
+Arad>>,<<Arad>>,<<ROU-ARA
+Bihor>>,<<Bihor>>,<<ROU-BIH
+Caras-Severin>>,<<Caras-Severin>>,<<ROU-CSV
+Timis>>,<<Timis>>,<<ROU-TIM
+Lappi>>,<<Lappi>>,<<FIN-LAP
+Finnmark>>,<<Finnmark>>,<<NOR-FNN
+Murmanskaya oblast'>>,<<Murmanskaya oblast'>>,<<RUS-MRM
+Keski-Suomi>>,<<Keski-Suomi>>,<<FIN-KSU
+Kuopio>>,<<Kuopio>>,<<FIN-KUO
+Oulu>>,<<Oulu>>,<<FIN-OUL
+Vaasa>>,<<Vaasa>>,<<FIN-VAA
+Novgorodskaya oblast'>>,<<Novgorodskaya oblast'>>,<<RUS-NVG
+Pskovskaya oblast'>>,<<Pskovskaya oblast'>>,<<RUS-PSK
+Leningradskaya oblast'>>,<<Leningradskaya oblast'>>,<<RUS-SPT
+Kherson>>,<<Kherson>>,<<UKR-KRN
+Nikolayev>>,<<Nikolayev>>,<<UKR-MKL
+Brest>>,<<Brest>>,<<BLR-BRS
+Gomel'>>,<<Gomel'>>,<<BLR-GML
+Mogilev>>,<<Mogilev>>,<<BLR-MGL
+Vitebsk>>,<<Vitebsk>>,<<BLR-VTB
+Bryanskaya oblast'>>,<<Bryanskaya oblast'>>,<<RUS-BRY
+Smolenskaya oblast'>>,<<Smolenskaya oblast'>>,<<RUS-SML
+Chernigov>>,<<Chernigov>>,<<UKR-CHH
+Rovno>>,<<Rovno>>,<<UKR-RVN
+Przemysl>>,<<Przemysl>>,<<POL-PRZ
+Zamosc>>,<<Zamosc>>,<<POL-ZMS
+Botosani>>,<<Botosani>>,<<ROU-BTS
+Chernovtsy>>,<<Chernovtsy>>,<<UKR-CHV
+Ivano-Frankovsk>>,<<Ivano-Frankovsk>>,<<UKR-IVF
+Khmel'nitskiy>>,<<Khmel'nitskiy>>,<<UKR-KML
+L'viv>>,<<L'viv>>,<<UKR-LVV
+Ternopl'>>,<<Ternopl'>>,<<UKR-TRN
+Zakarpats'ka>>,<<Zakarpats'ka>>,<<UKR-ZKP
+Alba>>,<<Alba>>,<<ROU-ALB
+Bistrita-Nasaud>>,<<Bistrita-Nasaud>>,<<ROU-BNA
+Cluj>>,<<Cluj>>,<<ROU-CLU
+Hunedoara>>,<<Hunedoara>>,<<ROU-HND
+Maramures>>,<<Maramures>>,<<ROU-MRM
+Mures>>,<<Mures>>,<<ROU-MUR
+Salaj>>,<<Salaj>>,<<ROU-SAL
+Satu Mare>>,<<Satu Mare>>,<<ROU-SMA
+Arges>>,<<Arges>>,<<ROU-ARG
+Sibiu>>,<<Sibiu>>,<<ROU-SIB
+Vilcea>>,<<Vilcea>>,<<ROU-VIL
+Brasov>>,<<Brasov>>,<<ROU-BRS
+Covasna>>,<<Covasna>>,<<ROU-CVS
+Harghita>>,<<Harghita>>,<<ROU-HRG
+Iasi>>,<<Iasi>>,<<ROU-IAS
+Neamt>>,<<Neamt>>,<<ROU-NEA
+Prahova>>,<<Prahova>>,<<ROU-PRH
+Suceava>>,<<Suceava>>,<<ROU-SUC
+Bacau>>,<<Bacau>>,<<ROU-BAC
+Braila>>,<<Braila>>,<<ROU-BRA
+Buzau>>,<<Buzau>>,<<ROU-BUZ
+Galati>>,<<Galati>>,<<ROU-GAL
+Vaslui>>,<<Vaslui>>,<<ROU-VAS
+Vrancea>>,<<Vrancea>>,<<ROU-VRN
+Grodno>>,<<Grodno>>,<<BLR-GRD
+Minsk>>,<<Minsk>>,<<BLR-MNS
+Lithuania>>,<<Lithuania>>,<<LTU
+Bialystok>>,<<Bialystok>>,<<POL-BLY
+Biala Podlaska>>,<<Biala Podlaska>>,<<POL-BPD
+Chelm>>,<<Chelm>>,<<POL-CHL
+Suwalki>>,<<Suwalki>>,<<POL-SWL
+Volyn>>,<<Volyn>>,<<UKR-VLY
+Moldova>>,<<Moldova>>,<<MDA
+Tulcea>>,<<Tulcea>>,<<ROU-TUL
+Cherkassy>>,<<Cherkassy>>,<<UKR-CHK
+Kirovograd>>,<<Kirovograd>>,<<UKR-KVG
+Kiev>>,<<Kiev>>,<<UKR-KYV
+Odessa>>,<<Odessa>>,<<UKR-ODS
+Vinnitsa>>,<<Vinnitsa>>,<<UKR-VNT
+Zhitomir>>,<<Zhitomir>>,<<UKR-ZTM
+Estonia>>,<<Estonia>>,<<EST
+Hame>>,<<Hame>>,<<FIN-HAM
+Kymi>>,<<Kymi>>,<<FIN-KYM
+Mikkeli>>,<<Mikkeli>>,<<FIN-MKK
+Pohjois-Karjala>>,<<Pohjois-Karjala>>,<<FIN-PKR
+Turku Ja Pori>>,<<Turku Ja Pori>>,<<FIN-TJP
+Uusimaa>>,<<Uusimaa>>,<<FIN-UUS
+Latvia>>,<<Latvia>>,<<LVA
+Respublika Kareliya>>,<<Respublika Kareliya>>,<<RUS-KRL
+Arkhangel'skaya oblast'>>,<<Arkhangel'skaya oblast'>>,<<RUS-ARK
+Ivanovskaya oblast'>>,<<Ivanovskaya oblast'>>,<<RUS-IVN
+Kostromskaya oblast'>>,<<Kostromskaya oblast'>>,<<RUS-KST
+Nizhegorodskaya oblast'>>,<<Nizhegorodskaya oblast'>>,<<RUS-NZN
+Tverskaya oblast'>>,<<Tverskaya oblast'>>,<<RUS-TVR
+Vologodskaya oblast'>>,<<Vologodskaya oblast'>>,<<RUS-VLG
+Yaroslavskaya oblast'>>,<<Yaroslavskaya oblast'>>,<<RUS-YRS
+Kaluzhskaya oblast'>>,<<Kaluzhskaya oblast'>>,<<RUS-KLG
+Kurskaya oblast'>>,<<Kurskaya oblast'>>,<<RUS-KRS
+Lipetskaya oblast'>>,<<Lipetskaya oblast'>>,<<RUS-LPT
+Moskovskaya oblast'>>,<<Moskovskaya oblast'>>,<<RUS-MSC
+Orlovskaya oblast'>>,<<Orlovskaya oblast'>>,<<RUS-ORL
+Rostovskaya oblast'>>,<<Rostovskaya oblast'>>,<<RUS-RSV
+Tul'skaya oblast'>>,<<Tul'skaya oblast'>>,<<RUS-TUL
+Volgogradskaya oblast'>>,<<Volgogradskaya oblast'>>,<<RUS-VGG
+Sumy>>,<<Sumy>>,<<UKR-SUM
+Belgorodskaya oblast'>>,<<Belgorodskaya oblast'>>,<<RUS-BLG
+Krasnodarskiy kray>>,<<Krasnodarskiy kray>>,<<RUS-KSN
+Dnepropetrovsk>>,<<Dnepropetrovsk>>,<<UKR-DNP
+Donetsk>>,<<Donetsk>>,<<UKR-DNT
+Khar'kov>>,<<Khar'kov>>,<<UKR-KKV
+Crimean>>,<<Crimean>>,<<UKR-KRM
+Lugansk>>,<<Lugansk>>,<<UKR-LHN
+Poltava>>,<<Poltava>>,<<UKR-PLT
+Zaporozh'ye>>,<<Zaporozh'ye>>,<<UKR-ZPR
+Respublika Mordoviya>>,<<Respublika Mordoviya>>,<<RUS-MRD
+Penzenskaya oblast'>>,<<Penzenskaya oblast'>>,<<RUS-PNZ
+Ryazanskaya oblast'>>,<<Ryazanskaya oblast'>>,<<RUS-RYZ
+Tambovskaya oblast'>>,<<Tambovskaya oblast'>>,<<RUS-TMB
+Vladimirskaya oblast'>>,<<Vladimirskaya oblast'>>,<<RUS-VLD
+Voronezhskaya oblast'>>,<<Voronezhskaya oblast'>>,<<RUS-VRN
+Aktyubinsk>>,<<Aktyubinsk>>,<<KAZ-AKB
+Kustanay>>,<<Kustanay>>,<<KAZ-KST
+Kzyl-Orda>>,<<Kzyl-Orda>>,<<KAZ-KZO
+Turgay>>,<<Turgay>>,<<KAZ-TRG
+Respublika Bashkortostan>>,<<Respublika Bashkortostan>>,<<RUS-BSK
+Chelyabinskaya oblast'>>,<<Chelyabinskaya oblast'>>,<<RUS-CHL
+Kurganskaya oblast'>>,<<Kurganskaya oblast'>>,<<RUS-KUR
+Nenetskiy avtonomnyy okrug>>,<<Nenetskiy avtonomnyy okrug>>,<<RUS-NEN
+Yamalo-Nenetskiy avtonomnyy okrug>>,<<Yamalo-Nenetskiy avtonomnyy okrug>>,<<RUS-YMN
+Gur'yev>>,<<Gur'yev>>,<<KAZ-GRV
+Komi-Permyatskiy avton. okrug>>,<<Komi-Permyatskiy avton. okrug>>,<<RUS-KMP
+Respublika Komi>>,<<Respublika Komi>>,<<RUS-KOM
+Kirovskaya oblast'>>,<<Kirovskaya oblast'>>,<<RUS-KRV
+Respublika Mariy-El>>,<<Respublika Mariy-El>>,<<RUS-MRL
+Permskaya oblast'>>,<<Permskaya oblast'>>,<<RUS-PER
+Sverdlovskaya oblast'>>,<<Sverdlovskaya oblast'>>,<<RUS-SVD
+Udmurtskaya Respublika>>,<<Udmurtskaya Respublika>>,<<RUS-UDM
+Ural'sk>>,<<Ural'sk>>,<<KAZ-URL
+Astrakhanskaya oblast'>>,<<Astrakhanskaya oblast'>>,<<RUS-AST
+Chuvashskaya Respublika>>,<<Chuvashskaya Respublika>>,<<RUS-CHV
+Kalmykiya-Khal'mg Tangch>>,<<Kalmykiya-Khal'mg Tangch>>,<<RUS-KLM
+Orenburgskaya oblast'>>,<<Orenburgskaya oblast'>>,<<RUS-ORB
+Samarskaya oblast'>>,<<Samarskaya oblast'>>,<<RUS-SAM
+Saratovskaya oblast'>>,<<Saratovskaya oblast'>>,<<RUS-SRT
+Respublika Tatarstan>>,<<Respublika Tatarstan>>,<<RUS-TRT
+Ul'yanovskaya oblast'>>,<<Ul'yanovskaya oblast'>>,<<RUS-ULY
+Dzhezkazgan>>,<<Dzhezkazgan>>,<<KAZ-DZK
+Kokchetav>>,<<Kokchetav>>,<<KAZ-KKC
+Karaganda>>,<<Karaganda>>,<<KAZ-KRG
+North Kazakhstan>>,<<North Kazakhstan>>,<<KAZ-NKZ
+Pavlodar>>,<<Pavlodar>>,<<KAZ-PVL
+Tselinograd>>,<<Tselinograd>>,<<KAZ-TSL
+Khanty-Mansiyskiy avtonomnyy okrug>>,<<Khanty-Mansiyskiy avtonomnyy okrug>>,<<RUS-KHM
+Omskaya oblast'>>,<<Omskaya oblast'>>,<<RUS-OMS
+Tyumenskaya oblast'>>,<<Tyumenskaya oblast'>>,<<RUS-TYU
+Semipalatinsk>>,<<Semipalatinsk>>,<<KAZ-SMP
+Taldy Kurgan>>,<<Taldy Kurgan>>,<<KAZ-TKG
+East Kazakhstan>>,<<East Kazakhstan>>,<<KAZ-VKZ
+Bayan-Olgiy>>,<<Bayan-Olgiy>>,<<MNG-BOL
+Altayskiy kray>>,<<Altayskiy kray>>,<<RUS-ALT
+Respublika Altay>>,<<Respublika Altay>>,<<RUS-GAL
+Kemerovskaya oblast'>>,<<Kemerovskaya oblast'>>,<<RUS-KEM
+Respublika Khakasiya>>,<<Respublika Khakasiya>>,<<RUS-KHK
+Novosibirskaya oblast'>>,<<Novosibirskaya oblast'>>,<<RUS-NOV
+Xizang>>,<<西藏>>,<<CHN-XZN
+Gandaki>>,<<Gandaki>>,<<NPL-GND
+Ad Dakhiliyah>>,<<Ad Dakhiliyah>>,<<OMN-ADK
+Al Wusta>>,<<Al Wusta>>,<<OMN-AWS
+Ash Sharqiyah>>,<<Ash Sharqiyah>>,<<OMN-SHQ
+Banaadir>>,<<Banaadir>>,<<SOM-BND
+Galguduud>>,<<Galguduud>>,<<SOM-GLG
+Hiiraan>>,<<Hiiraan>>,<<SOM-HII
+Shabeellaha Dhexe>>,<<Shabeellaha Dhexe>>,<<SOM-SDH
+Zufar>>,<<Zufar>>,<<OMN-ZFR
+Najran>>,<<Najran>>,<<SAU-NJR
+Bari>>,<<Bari>>,<<SOM-BAR
+Mudug>>,<<Mudug>>,<<SOM-MUD
+Nugaal>>,<<Nugaal>>,<<SOM-NUG
+Sanaag>>,<<Sanaag>>,<<SOM-SAN
+Sool>>,<<Sool>>,<<SOM-SOL
+Togdheer>>,<<Togdheer>>,<<SOM-TGD
+Al Mahrah>>,<<Al Mahrah>>,<<YEM-AMR
+Al Bayda'>>,<<Al Bayda'>>,<<YEM-ABD
+Abyan>>,<<Abyan>>,<<YEM-ABY
+Aden>>,<<Aden>>,<<YEM-ADN
+Al Jawf>>,<<Al Jawf>>,<<YEM-AJW
+'Ataq>>,<<'Ataq>>,<<YEM-ATQ
+Hadhramaut>>,<<Hadhramaut>>,<<YEM-HDH
+Ma'rib>>,<<Ma'rib>>,<<YEM-MRB
+Undefined>>,<<Undefined>>,<<YEM-XXX
+Kohkiluyeh va buyer Ahmadi>>,<<Kohkiluyeh va buyer Ahmadi>>,<<IRN-BAV
+Bushehr>>,<<Bushehr>>,<<IRN-BUS
+Esfahan>>,<<Esfahan>>,<<IRN-ESF
+Fars>>,<<Fars>>,<<IRN-FAR
+Mazandaran>>,<<Mazandaran>>,<<IRN-MZN
+Semnan>>,<<Semnan>>,<<IRN-SMN
+Tehran>>,<<Tehran>>,<<IRN-TER
+Yazd>>,<<Yazd>>,<<IRN-YAZ
+Chahar Mahall va Bakhtiari>>,<<Chahar Mahall va Bakhtiari>>,<<IRN-CMV
+Khuzestan>>,<<Khuzestan>>,<<IRN-KHZ
+Lorestan>>,<<Lorestan>>,<<IRN-LRS
+Al Farwaniyah>>,<<Al Farwaniyah>>,<<KWT-AFR
+Al Ahmadi>>,<<Al Ahmadi>>,<<KWT-AHM
+Al Kuwayt>>,<<Al Kuwayt>>,<<KWT-AKW
+Hawalli>>,<<Hawalli>>,<<KWT-HWL
+Ar Riyad>>,<<Ar Riyad>>,<<SAU-ARI
+Ash Sharqiyah>>,<<Ash Sharqiyah>>,<<SAU-ASH
+Al Mintaqah al Gharbiyah>>,<<Al Mintaqah al Gharbiyah>>,<<BHR-AMG
+Al Manamah>>,<<Al Manamah>>,<<BHR-AMN
+Al Mintaqah ash Shamaliyah>>,<<Al Mintaqah ash Shamaliyah>>,<<BHR-AMS
+Al Mintaqah al Wusta>>,<<Al Mintaqah al Wusta>>,<<BHR-AMW
+Ar Rifa wa al Mintaqah al Janubiyah>>,<<Ar Rifa wa al Mintaqah al Janubiyah>>,<<BHR-ARM
+Jidd Hafs>>,<<Jidd Hafs>>,<<BHR-JHF
+Madinat Hamad>>,<<Madinat Hamad>>,<<BHR-MHM
+Madinat Isa>>,<<Madinat Isa>>,<<BHR-MIS
+Sitrah>>,<<Sitrah>>,<<BHR-STR
+Ilam>>,<<Ilam>>,<<IRN-ILA
+Al Basrah>>,<<Al Basrah>>,<<IRQ-ABS
+Al Muthanna>>,<<Al Muthanna>>,<<IRQ-AMT
+Al Qadisiyah>>,<<Al Qadisiyah>>,<<IRQ-AQD
+Dhi Qar>>,<<Dhi Qar>>,<<IRQ-DQA
+Maysan>>,<<Maysan>>,<<IRQ-MYS
+Wasit>>,<<Wasit>>,<<IRQ-WAS
+Al Jahrah>>,<<Al Jahrah>>,<<KWT-AJH
+Ra's al Khaymah>>,<<Ra's al Khaymah>>,<<ARE-RAK
+Umm al Qaywayn>>,<<Umm al Qaywayn>>,<<ARE-UAQ
+Hormozgan>>,<<Hormozgan>>,<<IRN-HRM
+Ad Dawhah>>,<<Ad Dawhah>>,<<QAT-ADW
+Ar Rayyan>>,<<Ar Rayyan>>,<<QAT-ARY
+Al-Wakrah>>,<<Al-Wakrah>>,<<QAT-AWK
+Jarayan al Batnah>>,<<Jarayan al Batnah>>,<<QAT-JAB
+Al Muharraq>>,<<Al Muharraq>>,<<BHR-AMH
+Juzur Hawar>>,<<Juzur Hawar>>,<<BHR-JHW
+Al Ghuwayriyah>>,<<Al Ghuwayriyah>>,<<QAT-AGH
+Al Jumayliyah>>,<<Al Jumayliyah>>,<<QAT-AJM
+Al Khawr>>,<<Al Khawr>>,<<QAT-AKH
+Ash Shamal>>,<<Ash Shamal>>,<<QAT-ASH
+Umm Salal>>,<<Umm Salal>>,<<QAT-USL
+Al Fujayrah>>,<<Al Fujayrah>>,<<ARE-AFJ
+'Ajman>>,<<'Ajman>>,<<ARE-AJM
+Ash Shariqah>>,<<Ash Shariqah>>,<<ARE-ASH
+Abu Zaby>>,<<Abu Zaby>>,<<ARE-AZA
+Dubayy>>,<<Dubayy>>,<<ARE-DBY
+Az Zahirah>>,<<Az Zahirah>>,<<OMN-AZR
+Armenia>>,<<Armenia>>,<<ARM
+Baku>>,<<Baku>>,<<AZE-BAK
+Hamadan>>,<<Hamadan>>,<<IRN-HMD
+Markazi>>,<<Markazi>>,<<IRN-MRK
+Zanjan>>,<<Zanjan>>,<<IRN-ZNJ
+Mangyshlak>>,<<Mangyshlak>>,<<KAZ-MGY
+Chechenskaya Respublika>>,<<Chechenskaya Respublika>>,<<RUS-CHG
+Respublika Dagestan>>,<<Respublika Dagestan>>,<<RUS-DGS
+Krasnovodsk>>,<<Krasnovodsk>>,<<TKM-KRS
+Nakhichevan>>,<<Nakhichevan>>,<<AZE-NKH
+Azarbayjan-e Bakhtari>>,<<Azarbayjan-e Bakhtari>>,<<IRN-AEB
+Azarbayjan-e Khavari>>,<<Azarbayjan-e Khavari>>,<<IRN-AEK
+Bakhtaran>>,<<Bakhtaran>>,<<IRN-BKH
+Gilan>>,<<Gilan>>,<<IRN-GIL
+Kordestan>>,<<Kordestan>>,<<IRN-KRD
+As Sulaymaniyah>>,<<As Sulaymaniyah>>,<<IRQ-ASL
+Diyala>>,<<Diyala>>,<<IRQ-DIY
+Khorasan>>,<<Khorasan>>,<<IRN-KHR
+Ashkhabad>>,<<Ashkhabad>>,<<TKM-ASH
+Tashauz>>,<<Tashauz>>,<<TKM-TSH
+Bukhara>>,<<Bukhara>>,<<UZB-BKH
+Khorezm>>,<<Khorezm>>,<<UZB-KHR
+Karakalpakstan>>,<<Karakalpakstan>>,<<UZB-KRK
+Navoi>>,<<Navoi>>,<<UZB-NAV
+Samarkand>>,<<Samarkand>>,<<UZB-SMK
+Badghis>>,<<Badghis>>,<<AFG-BDG
+Herat>>,<<Herat>>,<<AFG-HER
+Chardzhou>>,<<Chardzhou>>,<<TKM-CHZ
+Mary>>,<<Mary>>,<<TKM-MRY
+Kashkadar'ya>>,<<Kashkadar'ya>>,<<UZB-KSH
+Surkhandar'ya>>,<<Surkhandar'ya>>,<<UZB-SRK
+Bamian>>,<<Bamian>>,<<AFG-BAM
+Balkh>>,<<Balkh>>,<<AFG-BLK
+Faryab>>,<<Faryab>>,<<AFG-FRY
+Ghowr>>,<<Ghowr>>,<<AFG-GHW
+Jowzjan>>,<<Jowzjan>>,<<AFG-JWZ
+Sistan va Baluchestan>>,<<Sistan va Baluchestan>>,<<IRN-BVS
+Kerman>>,<<Kerman>>,<<IRN-KRM
+Al Batinah>>,<<Al Batinah>>,<<OMN-ABT
+Musandam>>,<<Musandam>>,<<OMN-MSN
+Masqat>>,<<Masqat>>,<<OMN-MSQ
+Farah>>,<<Farah>>,<<AFG-FAR
+Helmand>>,<<Helmand>>,<<AFG-HLM
+Nimruz>>,<<Nimruz>>,<<AFG-NMR
+Oruzgan>>,<<Oruzgan>>,<<AFG-ORZ
+Quandahar>>,<<Quandahar>>,<<AFG-QND
+Zabol>>,<<Zabol>>,<<AFG-ZAB
+Baluchistan>>,<<Baluchistan>>,<<PAK-BLC
+Xinjiang>>,<<新疆>>,<<CHN-XNJ
+Chandigarh>>,<<Chandigarh>>,<<IND-CHN
+Delhi>>,<<Delhi>>,<<IND-DEL
+Himachal Pradesh>>,<<Himachal Pradesh>>,<<IND-HPR
+Haryana>>,<<Haryana>>,<<IND-HRY
+Jammu & Kashmir>>,<<Jammu & Kashmir>>,<<IND-JAK
+Punjab>>,<<Punjab>>,<<IND-PNJ
+Azad Kashmir Province>>,<<Azad Kashmir Province>>,<<PAK-AKP
+Northern Areas>>,<<Northern Areas>>,<<PAK-NOR
+Ghazni>>,<<Ghazni>>,<<AFG-GHZ
+Paktia>>,<<Paktia>>,<<AFG-PAK
+Paktika>>,<<Paktika>>,<<AFG-PKT
+Rajasthan>>,<<Rajasthan>>,<<IND-RJS
+Federally Administered Tribal Areas>>,<<Federally Administered Tribal Areas>>,<<PAK-FAT
+Punjab>>,<<Punjab>>,<<PAK-PNJ
+Sind>>,<<Sind>>,<<PAK-SIN
+Alma-Ata>>,<<Alma-Ata>>,<<KAZ-ALA
+Bishkek>>,<<Bishkek>>,<<KGZ-BSK
+Issyk-Kul'>>,<<Issyk-Kul'>>,<<KGZ-ISK
+Naryn>>,<<Naryn>>,<<KGZ-NRN
+Osh>>,<<Osh>>,<<KGZ-OSH
+Talas>>,<<Talas>>,<<KGZ-TLS
+Andizhan>>,<<Andizhan>>,<<UZB-AND
+Fergana>>,<<Fergana>>,<<UZB-FRG
+Namangan>>,<<Namangan>>,<<UZB-NMG
+Badakhshan>>,<<Badakhshan>>,<<AFG-BDK
+Konarha>>,<<Konarha>>,<<AFG-KNR
+Konduz>>,<<Konduz>>,<<AFG-KNZ
+Nangarhar>>,<<Nangarhar>>,<<AFG-NNG
+Takhar>>,<<Takhar>>,<<AFG-TKH
+North-west Frontier>>,<<North-west Frontier>>,<<PAK-NWF
+Dushanbe>>,<<Dushanbe>>,<<TJK-DSH
+Kulyab>>,<<Kulyab>>,<<TJK-KLB
+Kurgan Tyube>>,<<Kurgan Tyube>>,<<TJK-KTB
+Baghlan>>,<<Baghlan>>,<<AFG-BGH
+Kabol>>,<<Kabol>>,<<AFG-KAB
+Kapisa>>,<<Kapisa>>,<<AFG-KAP
+Laghman>>,<<Laghman>>,<<AFG-LGH
+Lowgar>>,<<Lowgar>>,<<AFG-LWG
+Parvan>>,<<Parvan>>,<<AFG-PRV
+Samangan>>,<<Samangan>>,<<AFG-SMN
+Vardak>>,<<Vardak>>,<<AFG-VRD
+Chimkent>>,<<Chimkent>>,<<KAZ-CHM
+Dzhambul>>,<<Dzhambul>>,<<KAZ-DZM
+Khudzhand>>,<<Khudzhand>>,<<TJK-KDZ
+Dzhizak>>,<<Dzhizak>>,<<UZB-DZH
+Syrdar'ya>>,<<Syrdar'ya>>,<<UZB-SRD
+Tashkent>>,<<Tashkent>>,<<UZB-TSK
+Uttar Pradesh>>,<<Uttar Pradesh>>,<<IND-UPR
+Bheri>>,<<Bheri>>,<<NPL-BHE
+Dhawalagiri>>,<<Dhawalagiri>>,<<NPL-DHW
+Karnali>>,<<Karnali>>,<<NPL-KRN
+Lumbini>>,<<Lumbini>>,<<NPL-LMB
+Mahakali>>,<<Mahakali>>,<<NPL-MHK
+Rapti>>,<<Rapti>>,<<NPL-RAP
+Seti>>,<<Seti>>,<<NPL-SET
+Khulna>>,<<Khulna>>,<<BGD-KHL
+Rajshahi>>,<<Rajshahi>>,<<BGD-RJS
+Bihar>>,<<Bihar>>,<<IND-BIH
+West Bengal>>,<<West Bengal>>,<<IND-WBN
+Bagmati>>,<<Bagmati>>,<<NPL-BGM
+Janakpur>>,<<Janakpur>>,<<NPL-JNK
+Narayani>>,<<Narayani>>,<<NPL-NRY
+Sagarmatha>>,<<Sagarmatha>>,<<NPL-SGR
+Chhukha>>,<<Chhukha>>,<<BTN-CHH
+Daga>>,<<Daga>>,<<BTN-DAG
+Ha>>,<<Ha>>,<<BTN-HA_
+Paro>>,<<Paro>>,<<BTN-PAR
+Punakha>>,<<Punakha>>,<<BTN-PNK
+Samchi>>,<<Samchi>>,<<BTN-SMC
+Thimphu>>,<<Thimphu>>,<<BTN-THM
+Sikkim>>,<<Sikkim>>,<<IND-SKK
+Kosi>>,<<Kosi>>,<<NPL-KOS
+Mechi>>,<<Mechi>>,<<NPL-MEC
+Andhra Pradesh>>,<<Andhra Pradesh>>,<<IND-APR
+Kerala>>,<<Kerala>>,<<IND-KER
+Madhya Pradesh>>,<<Madhya Pradesh>>,<<IND-MPR
+Orissa>>,<<Orissa>>,<<IND-ORS
+Pondicherry>>,<<Pondicherry>>,<<IND-PND
+Tamil Nadu>>,<<Tamil Nadu>>,<<IND-TNA
+Haa Daalu>>,<<Haa Daalu>>,<<MDV-HDA
+Noonu>>,<<Noonu>>,<<MDV-NOO
+Lakshadweep>>,<<Lakshadweep>>,<<IND-LKS
+Aliff>>,<<Aliff>>,<<MDV-ALF
+Baa>>,<<Baa>>,<<MDV-BAA
+Daalu>>,<<Daalu>>,<<MDV-DAA
+Faafu>>,<<Faafu>>,<<MDV-FAA
+Gaafu Daalu>>,<<Gaafu Daalu>>,<<MDV-GDA
+Haa Aliff>>,<<Haa Aliff>>,<<MDV-HAL
+Raa>>,<<Raa>>,<<MDV-RAA
+Shaviyani>>,<<Shaviyani>>,<<MDV-SHV
+Gaafu Aliff>>,<<Gaafu Aliff>>,<<MDV-GAL
+Kaafu>>,<<Kaafu>>,<<MDV-KAA
+Laamu>>,<<Laamu>>,<<MDV-LAA
+Laviyani>>,<<Laviyani>>,<<MDV-LVY
+Meemu>>,<<Meemu>>,<<MDV-MEE
+Thaa>>,<<Thaa>>,<<MDV-THA
+Waavu>>,<<Waavu>>,<<MDV-WAA
+Daman & Diu>>,<<Daman & Diu>>,<<IND-DAD
+Dadra and Nagar Haveli>>,<<Dadra and Nagar Haveli>>,<<IND-DAN
+Gujarat>>,<<Gujarat>>,<<IND-GJR
+Goa>>,<<Goa>>,<<IND-GOA
+Karnataka>>,<<Karnataka>>,<<IND-KRN
+Maharashtra>>,<<Maharashtra>>,<<IND-MHR
+Central>>,<<Central>>,<<LKA-CEN
+Eastern>>,<<Eastern>>,<<LKA-EST
+North Central>>,<<North Central>>,<<LKA-NCN
+Northern>>,<<Northern>>,<<LKA-NTH
+North Western>>,<<North Western>>,<<LKA-NWS
+Sabaragamuwa>>,<<Sabaragamuwa>>,<<LKA-SBR
+Southern>>,<<Southern>>,<<LKA-STH
+Uva>>,<<Uva>>,<<LKA-UVA
+Western>>,<<Western>>,<<LKA-WST
+Micronesia>>,<<Micronesia>>,<<FSM
+Marshall Is.>>,<<Marshall Is.>>,<<MHL
+Karen State>>,<<Karen State>>,<<MMR-KSA
+Kayah State>>,<<Kayah State>>,<<MMR-KSE
+Mandalay>>,<<Mandalay>>,<<MMR-MND
+Pegu>>,<<Pegu>>,<<MMR-PEG
+Rangoon>>,<<Rangoon>>,<<MMR-RNG
+Mae Hong Son>>,<<Mae Hong Son>>,<<THA-MHS
+Wake I.>>,<<Wake I.>>,<<UMI-WKI
+Andaman and Nicobar Islands>>,<<Andaman and Nicobar Islands>>,<<IND-AAN
+Chumphon>>,<<Chumphon>>,<<THA-CHM
+Nakhon Si Thammarat>>,<<Nakhon Si Thammarat>>,<<THA-NST
+Phuket>>,<<Phuket>>,<<THA-PHK
+Phangnga>>,<<Phangnga>>,<<THA-PHN
+Ranong>>,<<Ranong>>,<<THA-RNN
+Surat Thani>>,<<Surat Thani>>,<<THA-STH
+Aceh>>,<<Aceh>>,<<IDN-ACE
+Sumatera Utara>>,<<Sumatera Utara>>,<<IDN-SUA
+Mon State>>,<<Mon State>>,<<MMR-MST
+Perak>>,<<Perak>>,<<MYS-PER
+Pulau Pinang>>,<<Pulau Pinang>>,<<MYS-PPN
+Kedah>>,<<Kedah>>,<<MYS-KED
+Perlis>>,<<Perlis>>,<<MYS-PRL
+Krabi>>,<<Krabi>>,<<THA-KRA
+Phatthalung>>,<<Phatthalung>>,<<THA-PHL
+Satun>>,<<Satun>>,<<THA-SAT
+Songkhla>>,<<Songkhla>>,<<THA-SNG
+Trang>>,<<Trang>>,<<THA-TRN
+Yala>>,<<Yala>>,<<THA-YAL
+Barisal>>,<<Barisal>>,<<BGD-BRS
+Bokeo>>,<<Bokeo>>,<<LAO-BOK
+Louang Namtha>>,<<Louang Namtha>>,<<LAO-LNM
+Arakan State>>,<<Arakan State>>,<<MMR-AST
+Chin State>>,<<Chin State>>,<<MMR-CST
+Irrawaddy>>,<<Irrawaddy>>,<<MMR-IRR
+Magwe>>,<<Magwe>>,<<MMR-MAG
+Shan State>>,<<Shan State>>,<<MMR-SST
+Chiang Rai>>,<<Chiang Rai>>,<<THA-CRA
+Xaignabouri>>,<<Xaignabouri>>,<<LAO-XGN
+Chiang Mai>>,<<Chiang Mai>>,<<THA-CMA
+Lampang>>,<<Lampang>>,<<THA-LMN
+Lamphun>>,<<Lamphun>>,<<THA-LMP
+Nan>>,<<Nan>>,<<THA-NAN
+Phayao>>,<<Phayao>>,<<THA-PHA
+Phrae>>,<<Phrae>>,<<THA-PHR
+Phitsanulok>>,<<Phitsanulok>>,<<THA-PHT
+Sukhothai>>,<<Sukhothai>>,<<THA-SKH
+Uttaradit>>,<<Uttaradit>>,<<THA-UTT
+Kanchanaburi>>,<<Kanchanaburi>>,<<THA-KNC
+Kamphaeng Phet>>,<<Kamphaeng Phet>>,<<THA-KPH
+Phichit>>,<<Phichit>>,<<THA-PHC
+Phetchabun>>,<<Phetchabun>>,<<THA-PHH
+Suphan Buri>>,<<Suphan Buri>>,<<THA-SBR
+Tak>>,<<Tak>>,<<THA-TAK
+Uthai Thani>>,<<Uthai Thani>>,<<THA-UTH
+Ang Thong>>,<<Ang Thong>>,<<THA-ATH
+Chai Nat>>,<<Chai Nat>>,<<THA-CNA
+Lop Buri>>,<<Lop Buri>>,<<THA-LBU
+Nakhon Nayok>>,<<Nakhon Nayok>>,<<THA-NNA
+Nakhon Sawan>>,<<Nakhon Sawan>>,<<THA-NSA
+Phra Nakhon Si Ayutthaya>>,<<Phra Nakhon Si Ayutthaya>>,<<THA-PNS
+Pathum Thani>>,<<Pathum Thani>>,<<THA-PTH
+Sing Buri>>,<<Sing Buri>>,<<THA-SBU
+Saraburi>>,<<Saraburi>>,<<THA-SRB
+Tenasserim>>,<<Tenasserim>>,<<MMR-TNS
+Krung Thep>>,<<Krung Thep>>,<<THA-KTH
+Nonthaburi>>,<<Nonthaburi>>,<<THA-NNT
+Nakhon Pathom>>,<<Nakhon Pathom>>,<<THA-NPT
+Phetchaburi>>,<<Phetchaburi>>,<<THA-PHB
+Prachuap Khiri Khan>>,<<Prachuap Khiri Khan>>,<<THA-PKK
+Ratchaburi>>,<<Ratchaburi>>,<<THA-RTC
+Samut Prakan>>,<<Samut Prakan>>,<<THA-SPR
+Samut Sakhon>>,<<Samut Sakhon>>,<<THA-SSH
+Samut Songkhram>>,<<Samut Songkhram>>,<<THA-SSN
+Hainan>>,<<海南>>,<<CHN-HAI
+Champasak>>,<<Champasak>>,<<LAO-CHM
+Saravan>>,<<Saravan>>,<<LAO-SRV
+Savannakhet>>,<<Savannakhet>>,<<LAO-SVN
+Sisaket>>,<<Sisaket>>,<<THA-SSK
+Ubon Ratchathani>>,<<Ubon Ratchathani>>,<<THA-URT
+Yasothon>>,<<Yasothon>>,<<THA-YST
+Quang Ninh>>,<<Quang Ninh>>,<<VNM-QNI
+Batdambang>>,<<Batdambang>>,<<KHM-BTD
+Kaoh Kong>>,<<Kaoh Kong>>,<<KHM-KKO
+Pouthisat>>,<<Pouthisat>>,<<KHM-PTH
+Siemreab-Otdar Meanchey>>,<<Siemreab-Otdar Meanchey>>,<<KHM-SOM
+Chon Buri>>,<<Chon Buri>>,<<THA-CBU
+Chachoengsao>>,<<Chachoengsao>>,<<THA-CHC
+Chanthaburi>>,<<Chanthaburi>>,<<THA-CHN
+Prachin Buri>>,<<Prachin Buri>>,<<THA-PBU
+Rayong>>,<<Rayong>>,<<THA-RYN
+Trat>>,<<Trat>>,<<THA-TRA
+Buriram>>,<<Buriram>>,<<THA-BRR
+Chaiyaphum>>,<<Chaiyaphum>>,<<THA-CHY
+Khon Kaen>>,<<Khon Kaen>>,<<THA-KKA
+Kalasin>>,<<Kalasin>>,<<THA-KLS
+Maha Sarakham>>,<<Maha Sarakham>>,<<THA-MSR
+Nakhon Ratchasima>>,<<Nakhon Ratchasima>>,<<THA-NRT
+Roi Et>>,<<Roi Et>>,<<THA-RET
+Surin>>,<<Surin>>,<<THA-SUR
+Kampong Cham>>,<<Kampong Cham>>,<<KHM-KCH
+Kampong Chhnang>>,<<Kampong Chhnang>>,<<KHM-KCN
+Kandal>>,<<Kandal>>,<<KHM-KND
+Kampong Spoe>>,<<Kampong Spoe>>,<<KHM-KSP
+Kampong Thum>>,<<Kampong Thum>>,<<KHM-KTH
+Phnum Penh>>,<<Phnum Penh>>,<<KHM-PPE
+Prey Veng>>,<<Prey Veng>>,<<KHM-PVE
+Preah Vihear>>,<<Preah Vihear>>,<<KHM-PVI
+Stoeng Treng>>,<<Stoeng Treng>>,<<KHM-STR
+Kracheh>>,<<Kracheh>>,<<KHM-KRC
+Tay Ninh>>,<<Tay Ninh>>,<<VNM-TNI
+Viangchan>>,<<Viangchan>>,<<LAO-VNG
+Vientiane>>,<<Vientiane>>,<<LAO-VNT
+Xiangkhoang>>,<<Xiangkhoang>>,<<LAO-XNG
+Loei>>,<<Loei>>,<<THA-LOE
+Nong Khai>>,<<Nong Khai>>,<<THA-NKH
+Sakon Nakhon>>,<<Sakon Nakhon>>,<<THA-SNK
+Udon Thani>>,<<Udon Thani>>,<<THA-UTA
+Houaphan>>,<<Houaphan>>,<<LAO-HPH
+Louangphrabang>>,<<Louangphrabang>>,<<LAO-LNG
+Oudomxai>>,<<Oudomxai>>,<<LAO-ODM
+Phongsali>>,<<Phongsali>>,<<LAO-PHN
+Lai Chau>>,<<Lai Chau>>,<<VNM-LCH
+Bac Thai>>,<<Bac Thai>>,<<VNM-BTH
+Lao Cai>>,<<Lao Cai>>,<<VNM-LCA
+Lang Son>>,<<Lang Son>>,<<VNM-LSO
+Son La>>,<<Son La>>,<<VNM-SLA
+Thanh Hoa>>,<<Thanh Hoa>>,<<VNM-THO
+Tuyen Quang>>,<<Tuyen Quang>>,<<VNM-TQN
+Yen Bai>>,<<Yen Bai>>,<<VNM-YBA
+Hoa Binh>>,<<Hoa Binh>>,<<VNM-HBN
+Hai Hung>>,<<Hai Hung>>,<<VNM-HHU
+Ha Noi>>,<<Ha Noi>>,<<VNM-HNO
+Ha Tay>>,<<Ha Tay>>,<<VNM-HTY
+Ninh Binh>>,<<Ninh Binh>>,<<VNM-NBN
+Nam Ha>>,<<Nam Ha>>,<<VNM-NHA
+Vinh Phu>>,<<Vinh Phu>>,<<VNM-VPH
+Ha Bac>>,<<Ha Bac>>,<<VNM-HBA
+Hai Phong>>,<<Hai Phong>>,<<VNM-HPH
+Thai Binh>>,<<Thai Binh>>,<<VNM-TBI
+Borikhamxai>>,<<Borikhamxai>>,<<LAO-BRK
+Khammouan>>,<<Khammouan>>,<<LAO-KHM
+Nakhon Phanom>>,<<Nakhon Phanom>>,<<THA-NPH
+Ha Tinh>>,<<Ha Tinh>>,<<VNM-HTN
+Nghe An>>,<<Nghe An>>,<<VNM-NAN
+Quang Binh>>,<<Quang Binh>>,<<VNM-QBN
+Mondol Kiri>>,<<Mondol Kiri>>,<<KHM-MKI
+Rotanokiri>>,<<Rotanokiri>>,<<KHM-RTN
+Dac Lac>>,<<Dac Lac>>,<<VNM-DLA
+Gia Lai>>,<<Gia Lai>>,<<VNM-GLA
+Khanh Hoa>>,<<Khanh Hoa>>,<<VNM-KHO
+Lam Dong>>,<<Lam Dong>>,<<VNM-LDO
+Ninh Thuan>>,<<Ninh Thuan>>,<<VNM-NTN
+Phu Yen>>,<<Phu Yen>>,<<VNM-PYN
+Song Be>>,<<Song Be>>,<<VNM-SBE
+Attapeu>>,<<Attapeu>>,<<LAO-ATT
+Xekong>>,<<Xekong>>,<<LAO-XKN
+Binh Dinh>>,<<Binh Dinh>>,<<VNM-BDN
+Kon Tum>>,<<Kon Tum>>,<<VNM-KTM
+Quang Nam-Da Nang>>,<<Quang Nam-Da Nang>>,<<VNM-QND
+Quang Ngai>>,<<Quang Ngai>>,<<VNM-QNG
+Quang Tri>>,<<Quang Tri>>,<<VNM-QTR
+Thua Thien Hue>>,<<Thua Thien Hue>>,<<VNM-TTH
+Riau>>,<<Riau>>,<<IDN-RIA
+Narathiwat>>,<<Narathiwat>>,<<THA-NRH
+Pattani>>,<<Pattani>>,<<THA-PTT
+Ba Ria-Vung Tau>>,<<Ba Ria-Vung Tau>>,<<VNM-BRV
+Binh Thuan>>,<<Binh Thuan>>,<<VNM-BTN
+Dong Nai>>,<<Dong Nai>>,<<VNM-DNA
+Johor>>,<<Johor>>,<<MYS-JOH
+Kuala Lumpur>>,<<Kuala Lumpur>>,<<MYS-KLL
+Kelantan>>,<<Kelantan>>,<<MYS-KLN
+Melaka>>,<<Melaka>>,<<MYS-MEL
+Negeri Sembilan>>,<<Negeri Sembilan>>,<<MYS-NSM
+Pahang>>,<<Pahang>>,<<MYS-PHN
+Selangor>>,<<Selangor>>,<<MYS-SLN
+Terengganu>>,<<Terengganu>>,<<MYS-TRN
+Singapore>>,<<Singapore>>,<<SGP
+Kampot>>,<<Kampot>>,<<KHM-KMP
+Svay Rieng>>,<<Svay Rieng>>,<<KHM-SRI
+Takev>>,<<Takev>>,<<KHM-TAK
+An Giang>>,<<An Giang>>,<<VNM-AGI
+Dong Thap>>,<<Dong Thap>>,<<VNM-DTH
+Ho Chi Minh>>,<<Ho Chi Minh>>,<<VNM-HCM
+Kien Giang>>,<<Kien Giang>>,<<VNM-KGI
+Long An>>,<<Long An>>,<<VNM-LAN
+Tien Giang>>,<<Tien Giang>>,<<VNM-TGI
+Ben Tre>>,<<Ben Tre>>,<<VNM-BTR
+Can Tho>>,<<Can Tho>>,<<VNM-CTH
+Minh Hai>>,<<Minh Hai>>,<<VNM-MHA
+Soc Trang>>,<<Soc Trang>>,<<VNM-STR
+Tra Vinh>>,<<Tra Vinh>>,<<VNM-TVN
+Vinh Long>>,<<Vinh Long>>,<<VNM-VLN
+Gansu>>,<<甘肃>>,<<CHN-GAN
+Ningxia>>,<<宁夏>>,<<CHN-NNG
+Qinghai>>,<<青海>>,<<CHN-QNG
+Shaanxi>>,<<陕西>>,<<CHN-SHA
+Shanxi>>,<<山西>>,<<CHN-SHX
+Kachin State>>,<<Kachin State>>,<<MMR-KST
+Dornogovi>>,<<Dornogovi>>,<<MNG-DRG
+Omnogovi>>,<<Omnogovi>>,<<MNG-OMN
+Chittagong>>,<<Chittagong>>,<<BGD-CHT
+Dhaka>>,<<Dhaka>>,<<BGD-DAK
+Arunachal Pradesh>>,<<Arunachal Pradesh>>,<<IND-APD
+Assam>>,<<Assam>>,<<IND-ASS
+Manipur>>,<<Manipur>>,<<IND-MNP
+Mizoram>>,<<Mizoram>>,<<IND-MZR
+Nagaland>>,<<Nagaland>>,<<IND-NGL
+Tripura>>,<<Tripura>>,<<IND-TRP
+Sagaing>>,<<Sagaing>>,<<MMR-SGN
+Bumthang>>,<<Bumthang>>,<<BTN-BMT
+Chirang>>,<<Chirang>>,<<BTN-CHR
+Geylegphug>>,<<Geylegphug>>,<<BTN-GYL
+Lhuntshi>>,<<Lhuntshi>>,<<BTN-LHN
+Shemgang>>,<<Shemgang>>,<<BTN-SHM
+Tongsa>>,<<Tongsa>>,<<BTN-TNG
+Wangdi Phodrang>>,<<Wangdi Phodrang>>,<<BTN-WNP
+Meghalaya>>,<<Meghalaya>>,<<IND-MGH
+Mongar>>,<<Mongar>>,<<BTN-MNG
+Pemagatsel>>,<<Pemagatsel>>,<<BTN-PMG
+Samdrup Jongkhar>>,<<Samdrup Jongkhar>>,<<BTN-SDJ
+Tashigang>>,<<Tashigang>>,<<BTN-TSH
+Guangxi>>,<<广西>>,<<CHN-GNG
+Guizhou>>,<<贵州>>,<<CHN-GUI
+Hubei>>,<<湖北>>,<<CHN-HUB
+Hunan>>,<<湖南>>,<<CHN-HUN
+Sichuan>>,<<四川>>,<<CHN-SCH
+Chongqing>>,<<重庆>>,<<CHN-CHQ
+Yunnan>>,<<云南>>,<<CHN-YNN
+Cao Bang>>,<<Cao Bang>>,<<VNM-CBA
+Ha Giang>>,<<Ha Giang>>,<<VNM-HGN
+Beijing>>,<<北京>>,<<CHN-BJN
+Hebei>>,<<河北>>,<<CHN-HEB
+Henan>>,<<河南>>,<<CHN-HEN
+Liaoning>>,<<辽宁>>,<<CHN-LNN
+Shandong>>,<<山东>>,<<CHN-SHD
+Tianjin>>,<<天津>>,<<CHN-TNJ
+Hwanghae-bukto>>,<<Hwanghae-bukto>>,<<PRK-HBK
+Hwanghae-namdo>>,<<Hwanghae-namdo>>,<<PRK-HNM
+P'yongyang-si>>,<<P'yongyang-si>>,<<PRK-PSI
+Taiwan>>,<<台湾>>,<<CHN-TWN
+Fujian>>,<<福建>>,<<CHN-FUJ
+Anhui>>,<<安徽>>,<<CHN-ANH
+Guangdong>>,<<广东>>,<<CHN-GND
+Jiangxi>>,<<江西>>,<<CHN-JNG
+Jiangsu>>,<<江苏>>,<<CHN-JNS
+Shanghai>>,<<上海>>,<<CHN-SHN
+Zhejiang>>,<<浙江>>,<<CHN-ZHJ
+Chugoku>>,<<中国>>,<<JPN-CGK
+Ch'ungch'ong-bukto>>,<<Ch'ungch'ong-bukto>>,<<KOR-CBK
+Inch'on-jikhalsi>>,<<Inch'on-jikhalsi>>,<<KOR-ICH
+Kangwon-do>>,<<Kangwon-do>>,<<KOR-KDO
+Kyonggi-do>>,<<Kyonggi-do>>,<<KOR-KGD
+Seoul-jikhalsi>>,<<Seoul-jikhalsi>>,<<KOR-SJK
+Hamgyong-bukto>>,<<Hamgyong-bukto>>,<<PRK-HBU
+Kangwon-do>>,<<Kangwon-do>>,<<PRK-KDO
+Kaesong-si>>,<<Kaesong-si>>,<<PRK-KSI
+Cholla-bukto>>,<<Cholla-bukto>>,<<KOR-CBU
+Cholla-namdo>>,<<Cholla-namdo>>,<<KOR-CNA
+Ch'ungch'ong-namdo>>,<<Ch'ungch'ong-namdo>>,<<KOR-CNM
+Kyongsang-bukto>>,<<Kyongsang-bukto>>,<<KOR-KBU
+Kyongsang-namdo>>,<<Kyongsang-namdo>>,<<KOR-KNA
+Kwangju-jikhalsi>>,<<Kwangju-jikhalsi>>,<<KOR-KWN
+Pusan-jikhalsi>>,<<Pusan-jikhalsi>>,<<KOR-PSN
+Taegu-jikhalsi>>,<<Taegu-jikhalsi>>,<<KOR-TGN
+Jilin>>,<<吉林>>,<<CHN-JIL
+Chagang-do>>,<<Chagang-do>>,<<PRK-CDO
+Hamgyong-namdo>>,<<Hamgyong-namdo>>,<<PRK-HNA
+P'yongan-bukto>>,<<P'yongan-bukto>>,<<PRK-PBU
+P'yongan-namdo>>,<<P'yongan-namdo>>,<<PRK-PNA
+Yanggang-do>>,<<Yanggang-do>>,<<PRK-YDO
+Kyushu>>,<<九洲>>,<<JPN-KYS
+Okinawa>>,<<冲绳>>,<<JPN-OKN
+Shikoku>>,<<四国>>,<<JPN-SHK
+Cheju-do>>,<<Cheju-do>>,<<KOR-CDO
+Brunei>>,<<Brunei>>,<<BRN
+Kalimantan Timur>>,<<Kalimantan Timur>>,<<IDN-KTI
+Sabah>>,<<Sabah>>,<<MYS-SAB
+Sarawak>>,<<Sarawak>>,<<MYS-SRW
+Central Visayas>>,<<Central Visayas>>,<<PHL-CVS
+Western Mindanao>>,<<Western Mindanao>>,<<PHL-WMN
+Western Visayas>>,<<Western Visayas>>,<<PHL-WVS
+Hong Kong>>,<<香港>>,<<CHN-HKG
+Macau>>,<<澳门>>,<<CHN-MAC
+Bicol>>,<<Bicol>>,<<PHL-BCL
+Cordillera Administrative Region>>,<<Cordillera Administrative Region>>,<<PHL-CAR
+Cagayan Valley>>,<<Cagayan Valley>>,<<PHL-CGV
+Central Luzon>>,<<Central Luzon>>,<<PHL-CLZ
+Ilocos>>,<<Ilocos>>,<<PHL-ILC
+National Capital Region>>,<<National Capital Region>>,<<PHL-NCR
+Southern Tagalog>>,<<Southern Tagalog>>,<<PHL-STG
+Sulawesi Utara>>,<<Sulawesi Utara>>,<<IDN-SUT
+Central Mindanao>>,<<Central Mindanao>>,<<PHL-CMN
+Eastern Visayas>>,<<Eastern Visayas>>,<<PHL-EVS
+Northern Mindanao>>,<<Northern Mindanao>>,<<PHL-NMN
+Southern Mindanao>>,<<Southern Mindanao>>,<<PHL-SMN
+Palau>>,<<Palau>>,<<PLW
+Nei Mongol>>,<<内蒙古>>,<<CHN-NMN
+Hentiy>>,<<Hentiy>>,<<MNG-HNT
+Evenkiyskiy avtonomnyy okrug>>,<<Evenkiyskiy avtonomnyy okrug>>,<<RUS-EVE
+Irkutskaya oblast'>>,<<Irkutskaya oblast'>>,<<RUS-IRK
+Krasnoyarskiy kray>>,<<Krasnoyarskiy kray>>,<<RUS-KRA
+Taymyrskiy(Dolgano-Nenetskiy) avt.okrug>>,<<Taymyrskiy(Dolgano-Nenetskiy) avt.okrug>>,<<RUS-TAY
+Arhangay>>,<<Arhangay>>,<<MNG-ARH
+Bayanhongor>>,<<Bayanhongor>>,<<MNG-BYN
+Dzavhan>>,<<Dzavhan>>,<<MNG-DZV
+Govi-Altay>>,<<Govi-Altay>>,<<MNG-GAL
+Hovd>>,<<Hovd>>,<<MNG-HOV
+Hovsgol>>,<<Hovsgol>>,<<MNG-HVS
+Uvs>>,<<Uvs>>,<<MNG-UVS
+Respublika Tyva>>,<<Respublika Tyva>>,<<RUS-TUV
+Bulgan>>,<<Bulgan>>,<<MNG-BLG
+Dundgovi>>,<<Dundgovi>>,<<MNG-DND
+Darhan>>,<<Darhan>>,<<MNG-DRH
+Ovorhangay>>,<<Ovorhangay>>,<<MNG-OVR
+Selenge>>,<<Selenge>>,<<MNG-SLN
+Tov>>,<<Tov>>,<<MNG-TOV
+Ulaanbaatar>>,<<Ulaanbaatar>>,<<MNG-ULN
+Respublika Buryatiya>>,<<Respublika Buryatiya>>,<<RUS-BUR
+Ust'-Ordynskiy Buryatskiy avt.okrug>>,<<Ust'-Ordynskiy Buryatskiy avt.okrug>>,<<RUS-UOB
+Heilongjiang>>,<<黑龙江>>,<<CHN-HLN
+Dornod>>,<<Dornod>>,<<MNG-DRN
+Suhbaatar>>,<<Suhbaatar>>,<<MNG-SHB
+Aginskiy Buryatskiy avtonomnyy okrug>>,<<Aginskiy Buryatskiy avtonomnyy okrug>>,<<RUS-AGB
+Amurskaya oblast'>>,<<Amurskaya oblast'>>,<<RUS-AMU
+Chitinskaya oblast'>>,<<Chitinskaya oblast'>>,<<RUS-CHI
+Primorskiy kray>>,<<Primorskiy kray>>,<<RUS-PRM
+Respublika Sakha(Yakutiya)>>,<<Respublika Sakha(Yakutiya)>>,<<RUS-YAK
+Yevreyskaya avtonomnaya oblast'>>,<<Yevreyskaya avtonomnaya oblast'>>,<<RUS-YEV
+Kamchatskaya oblast'>>,<<Kamchatskaya oblast'>>,<<RUS-KAM
+Khabarovskiy kray>>,<<Khabarovskiy kray>>,<<RUS-KHA
+Koryakskiy avtonomnyy okrug>>,<<Koryakskiy avtonomnyy okrug>>,<<RUS-KOR
+Magadanskaya oblast'>>,<<Magadanskaya oblast'>>,<<RUS-MAG
+Sakhalinskaya oblast'>>,<<Sakhalinskaya oblast'>>,<<RUS-SAK
+Guam>>,<<Guam>>,<<GUM
+Chubu>>,<<中部>>,<<JPN-CHB
+Hokkaido>>,<<北海道>>,<<JPN-HKK
+Kinki>>,<<近畿>>,<<JPN-KIN
+Kanto>>,<<关东>>,<<JPN-KNT
+Tohoku>>,<<东北>>,<<JPN-THO
+Northern Mariana Is.>>,<<Northern Mariana Is.>>,<<MNP
+French Southern Territories>>,<<French Southern Territories>>,<<ATF
+Fiji>>,<<Fiji>>,<<FJI
+Moyen-Ogooue>>,<<Moyen-Ogooue>>,<<GAB-MOG
+Ngounie>>,<<Ngounie>>,<<GAB-NGO
+Nyanga>>,<<Nyanga>>,<<GAB-NYN
+Ogooue-Maritime>>,<<Ogooue-Maritime>>,<<GAB-OMR
+Heard Island>>,<<Heard Island>>,<<HMD
+Bandundu>>,<<Bandundu>>,<<COD-BAN
+Kasai-Occidental>>,<<Kasai-Occidental>>,<<COD-KOC
+Antarctica>>,<<Antarctica>>,<<ATA
+Bouvet I.>>,<<Bouvet I.>>,<<NOR-BVT
+Wellington>>,<<Wellington>>,<<NZL-WLL
+Mbeya>>,<<Mbeya>>,<<TZA-MBE
+Rukwa>>,<<Rukwa>>,<<TZA-RUK
+Prince Edwards Islands>>,<<Prince Edwards Islands>>,<<ZAF-PS2
+Luapula>>,<<Luapula>>,<<ZMB-LUA
+Northern>>,<<Northern>>,<<ZMB-NRT
+Lunda Norte>>,<<Lunda Norte>>,<<AGO-LNO
+Lunda Sul>>,<<Lunda Sul>>,<<AGO-LSU
+Malanje>>,<<Malanje>>,<<AGO-MLN
+Luderitz>>,<<Luderitz>>,<<NAM-LDR
+Maltahohe>>,<<Maltahohe>>,<<NAM-MLT
+Zanzibar Central/South>>,<<Zanzibar Central/South>>,<<TZA-ZCN
+Northern Cape>>,<<Northern Cape>>,<<ZAF-NCP
+Western Cape>>,<<Western Cape>>,<<ZAF-WCP
+Kgalagadi>>,<<Kgalagadi>>,<<BWA-KGL
+Bethanien>>,<<Bethanien>>,<<NAM-BTH
+Karasburg>>,<<Karasburg>>,<<NAM-KRS
+Keetmanshoop>>,<<Keetmanshoop>>,<<NAM-KTM
+Mariental>>,<<Mariental>>,<<NAM-MRN
+Namaland>>,<<Namaland>>,<<NAM-NML
+Rehoboth>>,<<Rehoboth>>,<<NAM-RHB
+Windhoek>>,<<Windhoek>>,<<NAM-WND
+Bengo>>,<<Bengo>>,<<AGO-BEN
+Cuanza Norte>>,<<Cuanza Norte>>,<<AGO-CNO
+Cuanza Sul>>,<<Cuanza Sul>>,<<AGO-CSU
+Luanda>>,<<Luanda>>,<<AGO-LUA
+Uige>>,<<Uige>>,<<AGO-UIG
+Zaire>>,<<Zaire>>,<<AGO-ZAI
+Pool>>,<<Pool>>,<<COG-POO
+Bas-Zaire>>,<<Bas-Zaire>>,<<COD-BZA
+Kinshasa>>,<<Kinshasa>>,<<COD-KNS
+Cabinda>>,<<Cabinda>>,<<AGO-CBN
+Bouenza>>,<<Bouenza>>,<<COG-BOU
+Cuvette>>,<<Cuvette>>,<<COG-CVT
+Kouilou>>,<<Kouilou>>,<<COG-KOU
+Lekoumou>>,<<Lekoumou>>,<<COG-LEK
+Niari>>,<<Niari>>,<<COG-NIA
+Plateaux>>,<<Plateaux>>,<<COG-PLT
+Haut-Ogooue>>,<<Haut-Ogooue>>,<<GAB-HOG
+Ogooue-Lolo>>,<<Ogooue-Lolo>>,<<GAB-OLO
+Bie>>,<<Bie>>,<<AGO-BIE
+Benguela>>,<<Benguela>>,<<AGO-BNG
+Cuando Cubango>>,<<Cuando Cubango>>,<<AGO-CCB
+Cunene>>,<<Cunene>>,<<AGO-CUN
+Huambo>>,<<Huambo>>,<<AGO-HUA
+Huila>>,<<Huila>>,<<AGO-HUI
+Moxico>>,<<Moxico>>,<<AGO-MOX
+Namibe>>,<<Namibe>>,<<AGO-NAM
+Damaraland>>,<<Damaraland>>,<<NAM-DMR
+Kaokoland>>,<<Kaokoland>>,<<NAM-KKL
+Karibib>>,<<Karibib>>,<<NAM-KRB
+Omaruru>>,<<Omaruru>>,<<NAM-OMR
+Otjiwarongo>>,<<Otjiwarongo>>,<<NAM-OTJ
+Outjo>>,<<Outjo>>,<<NAM-OUT
+Owambo>>,<<Owambo>>,<<NAM-OWM
+Swakopmund>>,<<Swakopmund>>,<<NAM-SWK
+Boesmanland>>,<<Boesmanland>>,<<NAM-BSM
+Gobabis>>,<<Gobabis>>,<<NAM-GBB
+Grootfontein>>,<<Grootfontein>>,<<NAM-GRT
+Hereroland Oos>>,<<Hereroland Oos>>,<<NAM-HOO
+Hereroland Wes>>,<<Hereroland Wes>>,<<NAM-HWE
+Kavango>>,<<Kavango>>,<<NAM-KVN
+Okahandja>>,<<Okahandja>>,<<NAM-OKH
+Tsumeb>>,<<Tsumeb>>,<<NAM-TSM
+Tete>>,<<Tete>>,<<MOZ-TET
+Central>>,<<Central>>,<<ZMB-CNT
+Copperbelt>>,<<Copperbelt>>,<<ZMB-CPP
+Eastern>>,<<Eastern>>,<<ZMB-EST
+Lusaka>>,<<Lusaka>>,<<ZMB-LUS
+North-Western>>,<<North-Western>>,<<ZMB-NWS
+Southern>>,<<Southern>>,<<ZMB-STH
+Western>>,<<Western>>,<<ZMB-WST
+Mashonaland Central>>,<<Mashonaland Central>>,<<ZWE-MCN
+Chobe>>,<<Chobe>>,<<BWA-CHO
+Central>>,<<Central>>,<<BWA-CNT
+Ghanzi>>,<<Ghanzi>>,<<BWA-GHN
+North-East>>,<<North-East>>,<<BWA-NEA
+Ngamiland>>,<<Ngamiland>>,<<BWA-NGM
+Caprivi Oos>>,<<Caprivi Oos>>,<<NAM-COO
+Matabeleland North>>,<<Matabeleland North>>,<<ZWE-MNR
+Manica>>,<<Manica>>,<<MOZ-MAN
+Midlands>>,<<Midlands>>,<<ZWE-MDL
+Mashonaland East>>,<<Mashonaland East>>,<<ZWE-MEA
+Manicaland>>,<<Manicaland>>,<<ZWE-MNC
+Matabeleland South>>,<<Matabeleland South>>,<<ZWE-MSO
+Masvingo>>,<<Masvingo>>,<<ZWE-MSV
+Mashonaland West>>,<<Mashonaland West>>,<<ZWE-MWE
+Mwanza>>,<<Mwanza>>,<<TZA-MWN
+Shinyanga>>,<<Shinyanga>>,<<TZA-SHN
+Tabora>>,<<Tabora>>,<<TZA-TAB
+Ziwa Magharibi>>,<<Ziwa Magharibi>>,<<TZA-ZMG
+South Buganda>>,<<South Buganda>>,<<UGA-STB
+Kivu>>,<<Kivu>>,<<COD-KIV
+Kasai-Oriental>>,<<Kasai-Oriental>>,<<COD-KOR
+Shaba>>,<<Shaba>>,<<COD-SHA
+Cankuzo>>,<<Cankuzo>>,<<BDI-CNK
+Karuzi>>,<<Karuzi>>,<<BDI-KRZ
+Rutana>>,<<Rutana>>,<<BDI-RTN
+Ruyigi>>,<<Ruyigi>>,<<BDI-RUY
+Kigoma>>,<<Kigoma>>,<<TZA-KIG
+Bubanza>>,<<Bubanza>>,<<BDI-BBN
+Bujumbura>>,<<Bujumbura>>,<<BDI-BJM
+Bururi>>,<<Bururi>>,<<BDI-BUR
+Cibitoke>>,<<Cibitoke>>,<<BDI-CBT
+Gitega>>,<<Gitega>>,<<BDI-GIT
+Kayanza>>,<<Kayanza>>,<<BDI-KYN
+Makamba>>,<<Makamba>>,<<BDI-MKM
+Muramvya>>,<<Muramvya>>,<<BDI-MRM
+Ngozi>>,<<Ngozi>>,<<BDI-NGO
+Kirundo>>,<<Kirundo>>,<<BDI-KRN
+Muyinga>>,<<Muyinga>>,<<BDI-MYN
+Butare>>,<<Butare>>,<<RWA-BUT
+Byumba>>,<<Byumba>>,<<RWA-BYM
+Kibungo>>,<<Kibungo>>,<<RWA-KBN
+Southern>>,<<Southern>>,<<UGA-STH
+Cyangugu>>,<<Cyangugu>>,<<RWA-CYN
+Gikongoro>>,<<Gikongoro>>,<<RWA-GKN
+Gisenyi>>,<<Gisenyi>>,<<RWA-GSN
+Gitarama>>,<<Gitarama>>,<<RWA-GTR
+Kibuye>>,<<Kibuye>>,<<RWA-KIB
+Kigali>>,<<Kigali>>,<<RWA-KIG
+Ruhengeri>>,<<Ruhengeri>>,<<RWA-RHN
+Coast>>,<<Coast>>,<<KEN-COA
+Jubbada Hoose>>,<<Jubbada Hoose>>,<<SOM-JHO
+Dar es Salaam>>,<<Dar es Salaam>>,<<TZA-DES
+Morogoro>>,<<Morogoro>>,<<TZA-MRG
+Pemba North>>,<<Pemba North>>,<<TZA-PNR
+Pemba South>>,<<Pemba South>>,<<TZA-PSO
+Pwani>>,<<Pwani>>,<<TZA-PWA
+Zanzibar North>>,<<Zanzibar North>>,<<TZA-ZNR
+Zanzibar Urban/West>>,<<Zanzibar Urban/West>>,<<TZA-ZUR
+Northern>>,<<Northern>>,<<MWI-NRT
+Dodoma>>,<<Dodoma>>,<<TZA-DOD
+Iringa>>,<<Iringa>>,<<TZA-IRN
+Lindi>>,<<Lindi>>,<<TZA-LIN
+Mtwara>>,<<Mtwara>>,<<TZA-MTW
+Ruvuma>>,<<Ruvuma>>,<<TZA-RUV
+Singida>>,<<Singida>>,<<TZA-SNG
+Central>>,<<Central>>,<<KEN-CNT
+Nairobi Area>>,<<Nairobi Area>>,<<KEN-NAR
+Nyanza>>,<<Nyanza>>,<<KEN-NYN
+Arusha>>,<<Arusha>>,<<TZA-ARS
+Kilimanjaro>>,<<Kilimanjaro>>,<<TZA-KLM
+Mara>>,<<Mara>>,<<TZA-MAR
+Tanga>>,<<Tanga>>,<<TZA-TAN
+Comoros>>,<<Comoros>>,<<COM
+Cabo Delgado>>,<<Cabo Delgado>>,<<MOZ-CDL
+Niassa>>,<<Niassa>>,<<MOZ-NIA
+Nampula>>,<<Nampula>>,<<MOZ-NMP
+Sofala>>,<<Sofala>>,<<MOZ-SOF
+Zambezia>>,<<Zambezia>>,<<MOZ-ZMB
+Central>>,<<Central>>,<<MWI-CNT
+Southern>>,<<Southern>>,<<MWI-STH
+Juan De Nova I.>>,<<Juan De Nova I.>>,<<REU-JDI
+Kgatleng>>,<<Kgatleng>>,<<BWA-KGT
+Kweneng>>,<<Kweneng>>,<<BWA-KWN
+South-East>>,<<South-East>>,<<BWA-SEA
+Southern>>,<<Southern>>,<<BWA-STH
+Inhambane>>,<<Inhambane>>,<<MOZ-INH
+North West>>,<<North West>>,<<ZAF-NWS
+Berea>>,<<Berea>>,<<LSO-BER
+Maseru>>,<<Maseru>>,<<LSO-MAS
+Mafeteng>>,<<Mafeteng>>,<<LSO-MFT
+Mohale's Hoek>>,<<Mohale's Hoek>>,<<LSO-MHO
+Quthing>>,<<Quthing>>,<<LSO-QTH
+Eastern Cape>>,<<Eastern Cape>>,<<ZAF-ECP
+Free State>>,<<Free State>>,<<ZAF-OFS
+Gaza>>,<<Gaza>>,<<MOZ-GAZ
+Maputo>>,<<Maputo>>,<<MOZ-MAP
+Hhohho>>,<<Hhohho>>,<<SWZ-HHH
+Lubombo>>,<<Lubombo>>,<<SWZ-LBM
+Manzini>>,<<Manzini>>,<<SWZ-MNZ
+Shiselweni>>,<<Shiselweni>>,<<SWZ-SHS
+Gauteng>>,<<Gauteng>>,<<ZAF-GAT
+Mpumalanga>>,<<Mpumalanga>>,<<ZAF-MPM
+Northern>>,<<Northern>>,<<ZAF-NRT
+Butha-Buthe>>,<<Butha-Buthe>>,<<LSO-BBU
+Leribe>>,<<Leribe>>,<<LSO-LER
+Mokhotlong>>,<<Mokhotlong>>,<<LSO-MKH
+Qacha's Nek>>,<<Qacha's Nek>>,<<LSO-QNE
+Thaba Tseka>>,<<Thaba Tseka>>,<<LSO-THT
+KwaZulu/Natal>>,<<KwaZulu/Natal>>,<<ZAF-KNT
+British Indian Ocean Territory>>,<<British Indian Ocean Territory>>,<<IOT
+Naviyani>>,<<Naviyani>>,<<MDV-NVY
+Seenu>>,<<Seenu>>,<<MDV-SEE
+Mauritius>>,<<Mauritius>>,<<MUS
+Seychelles>>,<<Seychelles>>,<<SYC
+Antananarivo>>,<<Antananarivo>>,<<MDG-ANN
+Antsiranana>>,<<Antsiranana>>,<<MDG-ANT
+Fianarantsoa>>,<<Fianarantsoa>>,<<MDG-FNR
+Mahajanga>>,<<Mahajanga>>,<<MDG-MHJ
+Toamasina>>,<<Toamasina>>,<<MDG-TMS
+Toliara>>,<<Toliara>>,<<MDG-TOL
+Mayotte>>,<<Mayotte>>,<<MYT
+Reunion>>,<<Reunion>>,<<REU
+Glorioso Is.>>,<<Glorioso Is.>>,<<REU-GLI
+Northern Territory>>,<<北领地>>,<<AUS-NTR
+Cocos Is.>>,<<Cocos Is.>>,<<CCK
+Jawa Barat>>,<<Jawa Barat>>,<<IDN-JBA
+Jawa Tengah>>,<<Jawa Tengah>>,<<IDN-JTN
+Maluku>>,<<Maluku>>,<<IDN-MAL
+Sumatera Barat>>,<<Sumatera Barat>>,<<IDN-SBA
+Yogyakarta>>,<<Yogyakarta>>,<<IDN-YGY
+Timor-Leste>>,<<Timor-Leste>>,<<TLS
+Western Australia>>,<<澳大利亚西部>>,<<AUS-WAS
+Christmas I.>>,<<圣诞岛>>,<<CXR
+Bengkulu>>,<<Bengkulu>>,<<IDN-BNG
+Jambi>>,<<Jambi>>,<<IDN-JAM
+Jakarta Raya>>,<<Jakarta Raya>>,<<IDN-JRA
+Kalimantan Barat>>,<<Kalimantan Barat>>,<<IDN-KBA
+Lampung>>,<<Lampung>>,<<IDN-LMP
+Sumatera Selatan>>,<<Sumatera Selatan>>,<<IDN-SST
+Bali>>,<<Bali>>,<<IDN-BAL
+Jawa Timur>>,<<Jawa Timur>>,<<IDN-JTI
+Kalimantan Selatan>>,<<Kalimantan Selatan>>,<<IDN-KSL
+Kalimantan Tengah>>,<<Kalimantan Tengah>>,<<IDN-KTN
+Nusa Tenggara Barat>>,<<Nusa Tenggara Barat>>,<<IDN-NTB
+Nusa Tenggara Timur>>,<<Nusa Tenggara Timur>>,<<IDN-NTT
+Sulawesi Selatan>>,<<Sulawesi Selatan>>,<<IDN-SSL
+Sulawesi Tenggara>>,<<Sulawesi Tenggara>>,<<IDN-STG
+Sulawesi Tengah>>,<<Sulawesi Tengah>>,<<IDN-STN
+Australian Capital Territory>>,<<澳大利亚首都领地>>,<<AUS-ACT
+New South Wales>>,<<新南威尔士州>>,<<AUS-NSW
+South Australia>>,<<澳大利亚南部>>,<<AUS-SAS
+Victoria>>,<<维多利亚>>,<<AUS-VCT
+Irian Jaya>>,<<Irian Jaya>>,<<IDN-IJA
+Enga>>,<<Enga>>,<<PNG-ENG
+East Sepik>>,<<East Sepik>>,<<PNG-ESE
+Madang>>,<<Madang>>,<<PNG-MDN
+West Sepik>>,<<West Sepik>>,<<PNG-WSE
+Queensland>>,<<昆士兰>>,<<AUS-QNS
+Chimbu>>,<<Chimbu>>,<<PNG-CHM
+Eastern Highlands>>,<<Eastern Highlands>>,<<PNG-EHG
+Gulf>>,<<Gulf>>,<<PNG-GUL
+Northern Solomons>>,<<Northern Solomons>>,<<PNG-NSL
+Southern Highlands>>,<<Southern Highlands>>,<<PNG-SHG
+Western Highlands>>,<<Western Highlands>>,<<PNG-WHG
+Western>>,<<Western>>,<<PNG-WST
+Central>>,<<Central>>,<<PNG-CNT
+East New Britain>>,<<East New Britain>>,<<PNG-ENB
+Manus>>,<<Manus>>,<<PNG-MAN
+Milne Bay>>,<<Milne Bay>>,<<PNG-MBA
+Morobe>>,<<Morobe>>,<<PNG-MOR
+National Capital>>,<<National Capital>>,<<PNG-NCP
+New Ireland>>,<<New Ireland>>,<<PNG-NIR
+Northern>>,<<Northern>>,<<PNG-NRT
+West New Britain>>,<<West New Britain>>,<<PNG-WNB
+New Caledonia>>,<<New Caledonia>>,<<NCL
+Nauru>>,<<Nauru>>,<<NRU
+Solomon Is.>>,<<Solomon Is.>>,<<SLB
+Tuvalu>>,<<Tuvalu>>,<<TUV
+Vanuatu>>,<<Vanuatu>>,<<VUT
+Norfolk I.>>,<<Norfolk I.>>,<<NFK
+Hawke's Bay>>,<<Hawke's Bay>>,<<NZL-HBA
+Wanganui-Manawatu>>,<<Wanganui-Manawatu>>,<<NZL-WMN
+Auckland>>,<<Auckland>>,<<NZL-ACK
+Bay of Plenty>>,<<Bay of Plenty>>,<<NZL-BPL
+Canterbury>>,<<Canterbury>>,<<NZL-CNT
+East Cape>>,<<East Cape>>,<<NZL-ECP
+Nelson-Marlborough>>,<<Nelson-Marlborough>>,<<NZL-NMR
+Northland>>,<<Northland>>,<<NZL-NRT
+Taranaki>>,<<Taranaki>>,<<NZL-TRN
+Waikato>>,<<Waikato>>,<<NZL-WAK
+Westland>>,<<Westland>>,<<NZL-WST
+Tasmania>>,<<塔斯马尼亚>>,<<AUS-TSM
+Otago>>,<<Otago>>,<<NZL-OTG
+Southland>>,<<Southland>>,<<NZL-STH
+Basse-Normandie>>,<<下诺曼底>>,<<FRA-BNR
+Bretagne>>,<<布列塔尼>>,<<FRA-BRT
+Poitou-Charentes>>,<<普瓦图-夏朗德大区>>,<<FRA-PCH
+Pays de la Loire>>,<<卢瓦尔河地区>>,<<FRA-PDL
+Aquitaine>>,<<阿基坦>>,<<FRA-AQT
+Corse>>,<<科西嘉>>,<<FRA-COR
+Provence-Alpes-Cote d'Azur>>,<<普罗旺斯-阿尔卑斯>>,<<FRA-PAC
+Languedoc-Roussillon>>,<<朗格多克-鲁西荣>>,<<FRA-LNR
+Midi-Pyrenees>>,<<比利牛斯山>>,<<FRA-MPY
+Auvergne>>,<<奥弗涅>>,<<FRA-AVR
+Bourgogne>>,<<勃艮第>>,<<FRA-BOR
+Centre>>,<<中部>>,<<FRA-CEN
+Haute-Normandie>>,<<上诺曼底>>,<<FRA-HNR
+Ile-de-France>>,<<巴黎>>,<<FRA-IDF
+Limousin>>,<<利穆赞>>,<<FRA-LIM
+Rhone-Alpes>>,<<罗讷-阿尔卑斯>>,<<FRA-RHA
+Champagne-Ardenne>>,<<香槟-阿登>>,<<FRA-CHA
+Nord-Pas-de-Calais>>,<<北加莱海峡>>,<<FRA-NPC
+Picardie>>,<<庇卡底地区>>,<<FRA-PIC
+Franche-Comte>>,<<弗朗什孔泰>>,<<FRA-FRC
+Alsace>>,<<阿尔萨斯>>,<<FRA-ALS
+Lorraine>>,<<洛林>>,<<FRA-LOR
+Noord-Holland>>,<<Noord-Holland>>,<<NLD-NHL

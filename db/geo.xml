@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geo>
+   <geonames id="0" name="continents" path="/g5/geo/mapping/CONTINENTCODE.txt" alias="/g5/geo/mapping/CONTINENTCODE_alias.txt" names="NAME,CONTINENT GMI"/>
+   <geonames id="1" name="world" path="/g5/geo/mapping/COUNTRYCODE.txt" alias="/g5/geo/mapping/COUNTRYCODE_alias.txt" names="NAME" parent="CONTINENT GMI"/>
+   <geonames id="2" name="states" path="/g5/geo/mapping/PROVINCECODE.txt" alias="/g5/geo/mapping/PROVINCECODE_alias.txt" names="PROVINCE NAME,PROVINCE GMI" parent="COUNTRY GMI"/>
+   <geonames id="3" name="stateCapital" path="/g5/geo/mapping/POINTCODE.txt" alias="/g5/geo/mapping/POINTCODE_alias.txt" names="CITY NAME,PROVINCE NAME,COUNTRY GMI" parent="COUNTRY GMI"/>
+   <geonames id="4" name="citys" path="/g5/geo/mapping/CITYCODE.txt" alias="/g5/geo/mapping/CITYCODE_alias.txt" names="CITY NAME,PROVINCE NAME,COUNTRY GMI" parent="PROVINCE GMI"/>
+   <geonames id="5" name="prefectures" path="/g5/geo/mapping/PREFECTURECODE.txt" alias="/g5/geo/mapping/PREFECTURECODE_alias.txt" names="PREFECTURE NAME,PREFECTURE GMI" parent="CITY GMI"/>
+
+   <!--GeoNames.CONTINENT_LEVEL=0, GeoNames.COUNTRY_LEVEL=1, GeoNames.PROVINCE_LEVEL=2, GeoNames.CITY_LEVEL=4, GeoNames.POINT_LEVEL=3-->
+   <pair level="0" names="CONTINENT NAME"/>
+   <pair level="1" names="CONTINENT GMI,NAME,FIPS CODE,ISO 2 CHARACTOR CODE,ISO 3 CHARACTOR CODE,GMI CODE"/>
+   <pair level="2" names="PROVINCE NAME,PROVINCE FIPS,PROVINCE GMI"/>
+   <pair level="3" names="CITY NAME"/>
+   <pair level="1,2" names="COUNTRY NAME,COUNTRY FIPS,COUNTRY GMI"/>
+   <pair level="2,3" names="PROVINCE NAME,PROVINCE GMI"/>
+   <pair level="1,3" names="COUNTYR NAME,COUNTRY FIPS CODE,COUNTRY GMI"/>
+
+   <data id="continents" level="0" path="/g5/geo/data/Continent.txt"/>
+   <data id="world" level="1" parent="continents" path="/g5/geo/data/World.txt" />
+   <data id="australia" level="2" parent="world" path="/g5/geo/data/Australia.txt" gmi="AUS"/>
+   <data id="canada" level="2" parent="world" path="/g5/geo/data/Canada.txt" gmi="CAN"/>
+   <data id="china" level="2" parent="world" path="/g5/geo/data/China.txt" gmi="CHN"/>
+   <data id="france" level="2" parent="world" path="/g5/geo/data/France.txt" gmi="FRA"/>
+   <data id="japan" level="2" parent="world" path="/g5/geo/data/Japan.txt" gmi="JPN"/>
+   <data id="uk" level="2" parent="world" path="/g5/geo/data/UK.txt" gmi="GBR"/>
+   <data id="usa" level="2" parent="world" path="/g5/geo/data/USA.txt" gmi="USA"/>
+   <data id="states" level="2" parent="world" path="/g5/geo/data/States.txt"/>
+   <data id="stateCapital" level="3" parent="world" path="/g5/geo/data/StateCapital.txt"/>
+   <data id="gcitys" level="4" parent="states" path="/g5/geo/data/Citys.txt"/>
+   <data id="prefectures" level="5" parent="gcitys" path="/g5/geo/data/Prefecture.txt"/>
+</geo>

@@ -1,0 +1,1700 @@
+﻿CITY NAME>>,<<CHINESE NAME>>,<<CITY KEY
+Cuiaba>>,<<库亚巴>>,<<BRA001
+Brasilia>>,<<巴西利亚>>,<<BRA002
+Goiania>>,<<哥亚尼亚>>,<<BRA003
+Campo Grande>>,<<坎波格兰德>>,<<BRA004
+Pedro Juan Caballero>>,<<佩德罗胡安·洛佩拉>>,<<PRY001
+Salto del Guaira>>,<<萨尔托德尔瓜伊拉>>,<<PRY002
+Encarnacion>>,<<恩卡纳西翁>>,<<PRY004
+Posadas>>,<<波萨达斯>>,<<ARG001
+Puerto Maldonado>>,<<马尔多纳多港>>,<<PER001
+Cuzco>>,<<库斯科>>,<<PER002
+Abancay>>,<<阿班凯>>,<<PER003
+Puno>>,<<普诺>>,<<PER004
+Arequipa>>,<<阿雷基帕>>,<<PER005
+La Paz>>,<<拉巴斯>>,<<BOL001
+Apia>>,<<阿皮亚>>,<<WSM001
+Pago Pago>>,<<帕果-帕果>>,<<ASM001
+Papeete>>,<<帕皮提>>,<<PYF001
+Alofi>>,<<阿洛菲>>,<<NIU001
+Nuku' alofa>>,<<努库阿洛>>,<<TON001
+Puerto Aisen>>,<<波多黎各爱森>>,<<CHL001
+Comodoro Rivadavia>>,<<里瓦达维亚海军准将城>>,<<ARG002
+Rio Gallegos>>,<<力拓 盖乐葛斯>>,<<ARG003
+Punta Arenas>>,<<蓬塔阿雷纳斯>>,<<CHL002
+Ushuaia>>,<<乌斯怀亚>>,<<ARG004
+San Fernando>>,<<圣费尔南多>>,<<CHL003
+Talca>>,<<塔尔卡>>,<<CHL004
+Concepcion>>,<<康塞普西翁>>,<<CHL005
+Temuco>>,<<特木科>>,<<CHL006
+Neuquen>>,<<内乌肯>>,<<ARG005
+Puerto Montt>>,<<蒙特港>>,<<CHL007
+Antofagasta>>,<<安托法加斯塔>>,<<CHL008
+Copiapo>>,<<科皮亚波>>,<<CHL009
+La Serena>>,<<拉塞雷纳>>,<<CHL010
+San Juan>>,<<圣胡安>>,<<ARG006
+Mendoza>>,<<门多萨>>,<<ARG007
+Valparaiso>>,<<瓦尔帕莱索>>,<<CHL011
+Santiago>>,<<圣地亚哥>>,<<CHL012
+Coquimbo>>,<<科金博>>,<<CHL013
+Portoviejo>>,<<波托维耶霍>>,<<ECU001
+Guaranda>>,<<瓜兰达>>,<<ECU002
+Babahoyo>>,<<巴巴奥约>>,<<ECU003
+Guayaquil>>,<<瓜亚基尔>>,<<ECU004
+Azogues>>,<<阿索格斯>>,<<ECU005
+Leticia>>,<<莱蒂西亚>>,<<COL001
+Rio Branco>>,<<里奥布朗库>>,<<BRA005
+Cobija>>,<<科维哈>>,<<BOL002
+Baquerizo Moreno>>,<<巴克里索 莫雷诺>>,<<ECU006
+Cuenca>>,<<昆卡>>,<<ECU007
+Machala>>,<<马查拉>>,<<ECU008
+Tumbes>>,<<通贝斯>>,<<PER006
+Loja>>,<<洛哈>>,<<ECU009
+Zamora>>,<<萨莫拉>>,<<ECU010
+Piura>>,<<皮乌拉>>,<<PER007
+Chiclayo>>,<<奇克拉约>>,<<PER008
+Trujillo>>,<<特鲁希略>>,<<PER009
+Chachapoyas>>,<<查查波亚斯>>,<<PER011
+Cajamarca>>,<<卡哈马卡>>,<<PER012
+Pucallpa>>,<<普卡尔帕>>,<<PER013
+Chimbote>>,<<钦博特>>,<<PER014
+Huaraz>>,<<瓦拉斯>>,<<PER015
+Huanuco>>,<<瓦努科>>,<<PER016
+Cerro De Pasco>>,<<山的帕斯科>>,<<PER017
+Quito>>,<<基多>>,<<ECU011
+Tena>>,<<特纳>>,<<ECU013
+Ambato>>,<<安巴托>>,<<ECU014
+Puyo>>,<<普约>>,<<ECU015
+Riobamba>>,<<里奥班巴>>,<<ECU016
+Macas>>,<<马卡斯>>,<<ECU017
+Iquitos>>,<<伊基托斯>>,<<PER018
+Callao>>,<<卡亚俄>>,<<PER019
+Huancayo>>,<<万卡约>>,<<PER020
+Huancavelica>>,<<万卡韦利卡>>,<<PER021
+Ayacucho>>,<<阿亚库乔>>,<<PER022
+Ica>>,<<伊卡>>,<<PER023
+Moquegua>>,<<莫克瓜>>,<<PER024
+Tacna>>,<<塔克纳>>,<<PER025
+Iquique>>,<<伊基克>>,<<CHL014
+Lima>>,<<利马>>,<<PER026
+Belem>>,<<贝伦>>,<<BRA006
+Manaus>>,<<玛瑙斯>>,<<BRA008
+Porto Velho>>,<<波多韦柳>>,<<BRA009
+Palmas>>,<<帕尔马斯>>,<<BRA010
+Trinidad>>,<<特立尼达>>,<<BOL003
+Cochabamba>>,<<科恰班巴>>,<<BOL004
+Santa Cruz de La Sierra>>,<<圣克鲁斯山>>,<<BOL005
+Oruro>>,<<奥鲁罗>>,<<BOL006
+Potosi>>,<<波托西>>,<<BOL008
+Fortin Coronel Eugenia Garay>>,<<福丁科罗内尔合金尤金尼亚加>>,<<PRY008
+Tarija>>,<<塔里哈>>,<<BOL009
+Concepcion>>,<<康塞普西翁>>,<<PRY009
+Pozo Colorado>>,<<值得科罗拉多>>,<<PRY010
+San Pedro>>,<<圣佩德罗>>,<<PRY011
+Asuncion>>,<<亚松森>>,<<PRY012
+Artigas>>,<<阿提加斯>>,<<URY001
+Santa Fe>>,<<圣达菲>>,<<ARG008
+Parana>>,<<巴拉那河>>,<<ARG009
+Rosario>>,<<罗萨里奥>>,<<ARG010
+La Plata>>,<<拉普拉塔>>,<<ARG011
+San Jose De Mayo>>,<<圣何塞梅奥>>,<<URY002
+Colonia del Sacramento>>,<<萨克拉门托>>,<<URY003
+Canelones>>,<<卡内洛内斯>>,<<URY004
+Santa Rosa>>,<<圣罗莎>>,<<ARG012
+Bahia Blanca>>,<<布兰卡港>>,<<ARG013
+Viedma>>,<<别德马>>,<<ARG014
+Rawson>>,<<罗森>>,<<ARG015
+Buenos Aires>>,<<布宜诺斯艾利斯>>,<<ARG016
+San Salvador De Jujuy>>,<<圣萨尔瓦多的问题>>,<<ARG017
+Salta>>,<<萨尔塔省>>,<<ARG018
+San Miguel De Tucuman>>,<<圣米格尔-德图库曼>>,<<ARG019
+Santiago Del Estero>>,<<圣地亚哥-德尔埃斯特罗>>,<<ARG020
+Catamarca>>,<<的卡塔马卡>>,<<ARG021
+La Rioja>>,<<拉里奥哈>>,<<ARG022
+Cordoba>>,<<科尔多瓦>>,<<ARG023
+San Luis>>,<<圣路易斯>>,<<ARG024
+Caacupe>>,<<卡库佩>>,<<PRY013
+Coronel Oviedo>>,<<科罗内尔合金奥维耶多>>,<<PRY014
+Paraguari>>,<<巴拉瓜>>,<<PRY015
+Villarrica>>,<<比亚里卡>>,<<PRY016
+Formosa>>,<<福尔摩沙>>,<<ARG025
+Pilar>>,<<皮拉尔>>,<<PRY017
+Resistencia>>,<<雷西斯藤西亚>>,<<ARG026
+Corrientes>>,<<特斯>>,<<ARG027
+Ypacarai>>,<<伊帕卡拉伊>>,<<PRY018
+Caazapa>>,<<卡萨帕>>,<<PRY019
+San Juan Bautista>>,<<圣胡安包蒂斯塔>>,<<PRY020
+Salto>>,<<萨尔托>>,<<URY005
+Paysandu>>,<<派桑杜>>,<<URY006
+Fray Bentos>>,<<弗赖本托斯>>,<<URY007
+Mercedes>>,<<梅赛德斯>>,<<URY008
+Durazno>>,<<杜拉斯诺>>,<<URY009
+Trinidad>>,<<特立尼达>>,<<URY010
+Sao Paulo>>,<<圣保罗>>,<<BRA011
+Santos>>,<<桑托斯>>,<<BRA012
+Curitiba>>,<<库里蒂巴>>,<<BRA013
+Florianopolis>>,<<弗洛>>,<<BRA014
+Porto Alegre>>,<<阿雷格里港>>,<<BRA015
+Rivera>>,<<里维拉>>,<<URY011
+Tacuarembo>>,<<塔夸伦博>>,<<URY012
+Melo>>,<<梅洛>>,<<URY013
+Florida>>,<<佛罗里达>>,<<URY015
+Minas>>,<<米纳斯吉>>,<<URY016
+Rocha>>,<<罗卡>>,<<URY017
+Montevideo>>,<<蒙得维的亚>>,<<URY019
+Salvador>>,<<萨尔瓦多>>,<<BRA016
+Belo Horizonte>>,<<贝洛奥里藏特>>,<<BRA017
+Vitoria>>,<<维多利亚>>,<<BRA018
+Rio de Janeiro>>,<<里约热内卢>>,<<BRA019
+Niteroi>>,<<尼泰罗伊>>,<<BRA020
+Fortaleza>>,<<福塔雷萨>>,<<BRA022
+Teresina>>,<<特雷西纳>>,<<BRA023
+Natal>>,<<纳塔尔>>,<<BRA024
+Joao Pessoa>>,<<若昂佩索阿>>,<<BRA025
+Recife>>,<<累西腓>>,<<BRA026
+Maceio>>,<<马塞约>>,<<BRA027
+Aracaju>>,<<阿拉卡茹>>,<<BRA028
+Galveston>>,<<加尔维斯顿>>,<<USA001
+Yellowknife>>,<<耶洛奈夫>>,<<CAN001
+Juneau>>,<<朱诺>>,<<USA002
+Jackson>>,<<杰克逊>>,<<USA003
+Baton Rouge>>,<<巴吞鲁日>>,<<USA004
+New Orleans>>,<<新奥尔良>>,<<USA005
+Houston>>,<<休斯顿>>,<<USA006
+Prince Rupert>>,<<鲁伯特王子城>>,<<CAN002
+Whitehorse>>,<<怀特霍斯>>,<<CAN003
+Honolulu>>,<<火奴鲁鲁>>,<<USA010
+Hilo>>,<<希洛>>,<<USA011
+Edmonton>>,<<埃德蒙顿>>,<<CAN004
+Calgary>>,<<卡尔加里>>,<<CAN005
+Vancouver>>,<<温哥华>>,<<CAN006
+Victoria>>,<<维多利亚>>,<<CAN007
+Seattle>>,<<西雅图>>,<<USA013
+Olympia>>,<<奥林匹亚>>,<<USA014
+Portland>>,<<波特兰>>,<<USA015
+Bismarck>>,<<俾斯麦>>,<<USA016
+Churchill>>,<<丘吉尔>>,<<CAN009
+Saskatoon>>,<<萨斯卡通>>,<<CAN010
+Winnipeg>>,<<温尼伯>>,<<CAN012
+Helena>>,<<海伦娜>>,<<USA017
+Saint Paul>>,<<圣保罗>>,<<USA018
+Pierre>>,<<皮埃尔>>,<<USA019
+Minneapolis>>,<<明尼阿波利斯>>,<<USA020
+Des Moines>>,<<得梅因>>,<<USA021
+Lincoln>>,<<林肯>>,<<USA022
+Topeka>>,<<托皮卡>>,<<USA023
+Oklahoma City>>,<<俄克拉荷马城>>,<<USA024
+San Diego>>,<<圣地亚哥>>,<<USA025
+Mexicali>>,<<墨西卡利>>,<<MEX001
+Boise>>,<<博伊西>>,<<USA026
+Oakland>>,<<奥克兰>>,<<USA027
+Carson City>>,<<卡森城>>,<<USA029
+Sacramento>>,<<萨克拉门托>>,<<USA030
+San Francisco>>,<<旧金山>>,<<USA031
+San Jose>>,<<圣何塞>>,<<USA032
+Los Angeles>>,<<洛杉矶>>,<<USA033
+Cheyenne>>,<<夏延>>,<<USA034
+Salt Lake City>>,<<盐湖城>>,<<USA035
+Denver>>,<<丹佛>>,<<USA036
+Kansas City>>,<<堪萨斯城>>,<<USA037
+Jefferson City>>,<<杰佛逊市>>,<<USA039
+Santa Fe>>,<<圣达菲>>,<<USA040
+Little Rock>>,<<小石城>>,<<USA042
+Phoenix>>,<<凤凰城>>,<<USA043
+El Paso>>,<<厄尔巴索>>,<<USA044
+Hermosillo>>,<<埃莫西约>>,<<MEX002
+Chihuahua>>,<<奇瓦瓦>>,<<MEX003
+Culiacan>>,<<库利亚坎>>,<<MEX004
+La Paz>>,<<拉巴斯>>,<<MEX005
+Durango>>,<<杜兰戈>>,<<MEX006
+Zacatecas>>,<<萨卡特卡斯>>,<<MEX008
+Dallas>>,<<达拉斯>>,<<USA045
+Austin>>,<<奥斯汀>>,<<USA046
+San Antonio>>,<<圣安东尼奥>>,<<USA047
+Monterrey>>,<<蒙特雷>>,<<MEX009
+Saltillo>>,<<萨尔提略>>,<<MEX010
+Ciudad Victoria>>,<<维多利亚城>>,<<MEX011
+Aguascalientes>>,<<阿瓜斯卡连特斯>>,<<MEX012
+Tepic>>,<<特皮克>>,<<MEX013
+Guanajuato>>,<<瓜纳华托>>,<<MEX014
+Guadalajara>>,<<瓜达拉哈拉>>,<<MEX015
+Colima>>,<<科利马>>,<<MEX016
+Tampico>>,<<坦皮科>>,<<MEX017
+Campeche>>,<<坎佩切>>,<<MEX018
+Jalapa>>,<<哈拉巴>>,<<MEX019
+Tlaxcala>>,<<特拉斯卡拉>>,<<MEX020
+Puebla>>,<<普埃布拉>>,<<MEX021
+Oaxaca>>,<<瓦哈卡>>,<<MEX023
+Tuxtla Gutierrez>>,<<图斯特拉-古铁雷斯>>,<<MEX024
+Veracruz>>,<<韦拉克鲁斯>>,<<MEX025
+San Luis Potosi>>,<<圣路易斯波托西>>,<<MEX026
+Queretaro>>,<<克雷>>,<<MEX027
+Pachuca>>,<<帕丘卡>>,<<MEX028
+Morelia>>,<<莫雷利亚>>,<<MEX029
+Mexico City>>,<<墨西哥城>>,<<MEX030
+Toluca>>,<<托卢卡>>,<<MEX031
+Cuernavaca>>,<<库埃纳瓦卡>>,<<MEX032
+Acapulco>>,<<阿卡普尔科>>,<<MEX034
+Coban>>,<<科班>>,<<GTM001
+Huehuetenango>>,<<韦韦特南戈>>,<<GTM002
+Santa Cruz Del Quiche>>,<<圣克鲁斯德尔基切>>,<<GTM003
+San Marcos>>,<<圣马科斯>>,<<GTM004
+Totonicapan>>,<<托托尼卡潘>>,<<GTM005
+Quezaltenango>>,<<克萨尔特南戈>>,<<GTM006
+Solola>>,<<索洛拉>>,<<GTM007
+Retalhuleu>>,<<雷塔卢莱乌>>,<<GTM008
+Mazatenango>>,<<马萨特南戈>>,<<GTM009
+Salama>>,<<沙拉马>>,<<GTM010
+El Progreso>>,<<普罗格雷索>>,<<GTM011
+Chimaltenango>>,<<奇马尔特南戈>>,<<GTM012
+Guatemala>>,<<危地马拉>>,<<GTM013
+Antigua Guatemala>>,<<危地马拉安提瓜>>,<<GTM014
+Escuintla>>,<<埃斯昆特拉>>,<<GTM015
+Cuilapa>>,<<古依拉巴市>>,<<GTM016
+Pinar Del Rio>>,<<覆河>>,<<CUB001
+Santa Clara>>,<<圣克拉拉>>,<<CUB002
+Cienfuegos>>,<<西恩富戈斯>>,<<CUB003
+Sancti Spiritus>>,<<圣斯皮里图斯>>,<<CUB004
+Nueva Gerona>>,<<配备赫罗那>>,<<CUB005
+Ciego De Avila>>,<<谢戈德阿拉维>>,<<CUB006
+Halifax>>,<<哈利法克斯>>,<<CAN013
+Hamilton>>,<<汉密尔顿>>,<<BMU001
+Alajuela>>,<<阿拉胡埃拉>>,<<CRI001
+Heredia>>,<<埃雷迪亚>>,<<CRI002
+Puerto Limon>>,<<利蒙港>>,<<CRI003
+San Jose>>,<<圣何塞>>,<<CRI004
+Cartago>>,<<卡塔戈>>,<<CRI005
+Bocas del Toro>>,<<博卡斯-德尔托罗>>,<<PAN001
+David>>,<<大卫>>,<<PAN002
+Oranjestad>>,<<奥兰杰士塔>>,<<ABW001
+Willemstad>>,<<威廉斯塔德>>,<<ANT001
+Riohacha>>,<<里奥阿查>>,<<COL002
+Coro>>,<<科罗>>,<<VEN001
+Santiago>>,<<圣地亚哥>>,<<PAN003
+Chitre>>,<<契特雷>>,<<PAN004
+Las Tablas>>,<<拉斯维加斯重重的>>,<<PAN005
+San Carlos>>,<<圣卡洛斯>>,<<NIC001
+Liberia>>,<<利比里亚>>,<<CRI006
+Puntarenas>>,<<蓬塔雷纳斯>>,<<CRI007
+El Porvenir>>,<<埃尔波维尼尔>>,<<PAN006
+Colon>>,<<科隆>>,<<PAN007
+Panama>>,<<巴拿马>>,<<PAN008
+Penonome>>,<<佩诺诺梅>>,<<PAN009
+Esmeraldas>>,<<埃斯梅拉达斯>>,<<ECU018
+San Andres>>,<<圣安德烈斯>>,<<COL003
+Roatan>>,<<和尼加拉瓜>>,<<HND001
+Trujillo>>,<<特鲁希略>>,<<HND002
+La Ceiba>>,<<拉塞瓦>>,<<HND003
+Puerto Lempira>>,<<波伦皮拉>>,<<HND004
+Juticalpa>>,<<胡蒂尔卡帕>>,<<HND005
+Bluefields>>,<<布卢菲尔兹>>,<<NIC002
+San Francisco Gotera>>,<<旧金山戈特拉>>,<<SLV001
+Nacaome>>,<<纳考梅>>,<<HND006
+San Miguel>>,<<圣米格尔>>,<<SLV002
+Usulutan>>,<<乌苏卢坦>>,<<SLV003
+La Union>>,<<拉联盟>>,<<SLV004
+Choluteca>>,<<乔卢特卡>>,<<HND007
+Cojutepeque>>,<<科胡特佩克>>,<<SLV005
+Santa Ana>>,<<圣安娜>>,<<SLV006
+Ahuachapan>>,<<阿瓦查潘>>,<<SLV007
+Sensuntepeque>>,<<森孙特佩克>>,<<SLV008
+Sonsonate>>,<<松索纳特>>,<<SLV009
+San Salvador>>,<<圣萨尔瓦多>>,<<SLV010
+Nueva San Salvador>>,<<新圣萨尔瓦多>>,<<SLV011
+San Vicente>>,<<圣维森特>>,<<SLV012
+Zacatecoluca>>,<<扎卡约鲁东元>>,<<SLV013
+Punta Gorda>>,<<蓬塔戈尔达>>,<<BLZ001
+Puerto Barrios>>,<<巴里奥斯港>>,<<GTM017
+Zacapa>>,<<萨卡帕>>,<<GTM018
+Chiquimula>>,<<奇基穆拉>>,<<GTM019
+Santa Rosa>>,<<圣罗莎>>,<<HND008
+Jalapa>>,<<哈拉帕>>,<<GTM020
+Nueva Ocotepeque>>,<<努埃瓦奥科特佩克>>,<<HND009
+Jutiapa>>,<<胡蒂亚帕>>,<<GTM021
+Chalatenango>>,<<查拉特南戈>>,<<SLV014
+San Pedro Sula>>,<<圣佩德罗苏拉>>,<<HND010
+Yoro>>,<<约罗>>,<<HND011
+Santa Barbara>>,<<圣芭芭拉>>,<<HND012
+Gracias>>,<<格拉西亚斯>>,<<HND013
+Comayagua>>,<<科马亚瓜>>,<<HND014
+La Esperanza>>,<<拉埃斯佩兰萨>>,<<HND015
+La Paz>>,<<拉巴斯>>,<<HND016
+Tegucigalpa>>,<<特古西加尔巴>>,<<HND017
+Chinandega>>,<<奇南德加>>,<<NIC003
+Boaco>>,<<博阿科>>,<<NIC004
+Leon>>,<<莱昂>>,<<NIC005
+Managua>>,<<马那瓜>>,<<NIC006
+Juigalpa>>,<<惠加尔帕>>,<<NIC007
+Masaya>>,<<马萨亚>>,<<NIC008
+Granada>>,<<格拉纳达>>,<<NIC009
+Jinotepe>>,<<希诺特佩>>,<<NIC010
+Rivas>>,<<里瓦斯>>,<<NIC011
+Yuscaran>>,<<尤斯卡兰>>,<<HND018
+Ocotal>>,<<奥科塔尔>>,<<NIC012
+Somoto>>,<<索莫托>>,<<NIC013
+Jinotega>>,<<希诺特加>>,<<NIC014
+Esteli>>,<<艾斯>>,<<NIC015
+Matagalpa>>,<<马塔加尔帕>>,<<NIC016
+Merida>>,<<梅里达>>,<<MEX035
+Chetumal>>,<<切图马尔>>,<<MEX036
+Corozal>>,<<科罗萨尔>>,<<BLZ002
+Orange Walk>>,<<奥兰治城>>,<<BLZ003
+Belize>>,<<伯利兹>>,<<BLZ004
+Belmopan>>,<<贝尔莫潘>>,<<BLZ006
+Stann Creek Town>>,<<珀拉什奇亚镇>>,<<BLZ007
+Flores>>,<<弗洛雷斯>>,<<GTM022
+Port-De-Paix>>,<<和平港>>,<<HTI001
+Monte Cristi>>,<<蒙特Cristi>>,<<DOM001
+Puerto Plata>>,<<波多黎各Plata>>,<<DOM002
+Cap-Haitien>>,<<北部城市海地角>>,<<HTI002
+Santa Marta>>,<<圣玛尔塔>>,<<COL004
+Camaguey>>,<<卡马圭>>,<<CUB007
+Victoria De Las Tunas>>,<<维多利亚德拉斯图纳斯>>,<<CUB008
+Holguin>>,<<奥尔金市如是说>>,<<CUB009
+Manzanillo>>,<<曼萨尼约>>,<<CUB010
+Guantanamo>>,<<关塔那摩>>,<<CUB011
+Santiago De Cuba>>,<<古巴圣地亚哥>>,<<CUB012
+Jeremie>>,<<杰雷米>>,<<HTI003
+Les Cayes>>,<<莱凯>>,<<HTI004
+Falmouth>>,<<法尔茅斯>>,<<JAM001
+Montego Bay>>,<<蒙特哥湾>>,<<JAM002
+Lucea>>,<<卢西>>,<<JAM003
+Savanna La Mar>>,<<滨海萨凡纳>>,<<JAM004
+Mandeville>>,<<曼德维尔>>,<<JAM005
+Black River>>,<<布莱克河>>,<<JAM006
+St. Anns Bay>>,<<圣安娜湾>>,<<JAM008
+Port Maria>>,<<玛丽亚港>>,<<JAM009
+Port Antonio>>,<<安东尼奥港>>,<<JAM010
+Spanish Town>>,<<西班牙小镇>>,<<JAM011
+Kingston>>,<<金斯敦>>,<<JAM013
+Port Morant>>,<<港莫兰特>>,<<JAM014
+Fort-Liberte>>,<<自由堡>>,<<HTI005
+Dajabon>>,<<达哈翁>>,<<DOM003
+Gonaives>>,<<戈纳伊夫>>,<<HTI006
+Hinche>>,<<安什>>,<<HTI007
+Elias Pina>>,<<伊莱亚斯碧娜>>,<<DOM004
+Port-au-Prince>>,<<太子港>>,<<HTI008
+Jimani>>,<<希马尼>>,<<DOM005
+Jacmel>>,<<雅克梅勒>>,<<HTI009
+Pedernales>>,<<佩德纳莱斯>>,<<DOM006
+Sabaneta>>,<<萨瓦内塔>>,<<DOM008
+Santiago>>,<<圣地亚哥>>,<<DOM009
+Moca>>,<<莫卡>>,<<DOM010
+Salcedo>>,<<萨尔塞多>>,<<DOM011
+La Vega>>,<<拉维加>>,<<DOM012
+Bonao>>,<<波纳镇>>,<<DOM013
+San Juan>>,<<圣胡安>>,<<DOM014
+Bani>>,<<巴尼>>,<<DOM017
+Barahona>>,<<巴拉欧纳>>,<<DOM018
+San Francisco De Macoris>>,<<罗德马科里斯圣弗朗西斯科>>,<<DOM021
+Samana>>,<<沙门>>,<<DOM022
+Cotui>>,<<科特维>>,<<DOM023
+Monte Plata>>,<<蒙特普拉塔>>,<<DOM024
+Santo Domingo>>,<<圣多明哥>>,<<DOM025
+San Cristobal>>,<<圣克里斯托瓦尔>>,<<DOM026
+Hato Mayor>>,<<马约尔>>,<<DOM027
+El Seibo>>,<<萨尔瓦多西望>>,<<DOM028
+Higuey>>,<<伊圭>>,<<DOM029
+La Romana>>,<<拉罗马纳>>,<<DOM031
+Cali>>,<<卡利>>,<<COL005
+Popayan>>,<<博帕雍>>,<<COL006
+Florencia>>,<<弗洛伦西亚>>,<<COL007
+Pasto>>,<<帕斯托>>,<<COL008
+Mocoa>>,<<莫科阿>>,<<COL009
+Tulcan>>,<<图尔坎>>,<<ECU019
+Ibarra>>,<<伊瓦拉>>,<<ECU020
+Tunja>>,<<通哈>>,<<COL010
+Manizales>>,<<马尼萨莱斯>>,<<COL011
+Pereira>>,<<佩雷拉>>,<<COL012
+Armenia>>,<<亚美尼亚>>,<<COL013
+Villavicencio>>,<<比亚维森西奥>>,<<COL015
+Neiva>>,<<内瓦>>,<<COL016
+Bogota>>,<<波哥大>>,<<COL017
+Barranquilla>>,<<巴兰基亚>>,<<COL018
+Valledupar>>,<<巴耶杜帕尔>>,<<COL019
+Cartagena>>,<<卡塔赫纳>>,<<COL020
+Sincelejo>>,<<辛塞莱霍>>,<<COL021
+Monteria>>,<<蒙特里亚>>,<<COL022
+La Palma>>,<<拉帕尔玛>>,<<PAN010
+Medellin>>,<<麦德林>>,<<COL023
+Quibdo>>,<<基布多>>,<<COL024
+Maracaibo>>,<<马拉开波>>,<<VEN002
+Trujillo>>,<<特鲁希略>>,<<VEN003
+Merida>>,<<梅里达>>,<<VEN004
+Cucuta>>,<<库库塔>>,<<COL025
+San Cristobal>>,<<圣克里斯托瓦尔>>,<<VEN005
+Bucaramanga>>,<<布卡拉曼加>>,<<COL026
+Arauca>>,<<阿劳卡>>,<<COL027
+Puerto Ayacucho>>,<<波多黎各阿亚库乔>>,<<VEN006
+San Felipe>>,<<圣费利佩·>>,<<VEN007
+Maracay>>,<<马拉凯>>,<<VEN008
+Valencia>>,<<瓦伦西亚>>,<<VEN009
+Barquisimeto>>,<<巴基西梅托>>,<<VEN010
+San Carlos>>,<<圣卡洛斯>>,<<VEN011
+Guanare>>,<<瓜纳雷>>,<<VEN012
+Barinas>>,<<巴里纳斯>>,<<VEN013
+Yopal>>,<<约帕尔>>,<<COL028
+Puerto Inirida>>,<<伊尼里达港>>,<<COL029
+Mitu>>,<<米图>>,<<COL031
+Toronto>>,<<多伦多>>,<<CAN014
+Buffalo>>,<<布法罗>>,<<USA048
+Detroit>>,<<底特律>>,<<USA049
+Cleveland>>,<<克利夫兰>>,<<USA050
+Pittsburgh>>,<<匹兹堡>>,<<USA051
+Columbus>>,<<哥伦布>>,<<USA052
+Nassau>>,<<拿索>>,<<BHS001
+Montgomery>>,<<蒙哥马利>>,<<USA054
+Tallahassee>>,<<塔拉哈西>>,<<USA055
+Jacksonville>>,<<杰克逊维尔>>,<<USA056
+Tampa>>,<<坦帕>>,<<USA057
+Miami>>,<<迈阿密>>,<<USA058
+Matanzas>>,<<萨斯>>,<<CUB013
+Havana>>,<<哈瓦那>>,<<CUB014
+Milwaukee>>,<<密尔沃基>>,<<USA059
+Madison>>,<<麦迪逊>>,<<USA060
+Lansing>>,<<兰辛>>,<<USA061
+Indianapolis>>,<<印第安纳波利斯>>,<<USA063
+Springfield>>,<<斯普林菲尔德>>,<<USA064
+Cincinnati>>,<<辛辛那提>>,<<USA065
+Frankfort>>,<<法兰克福>>,<<USA066
+Nashville>>,<<纳什维尔>>,<<USA067
+Charleston>>,<<查尔斯顿>>,<<USA068
+Charlotte>>,<<夏洛特>>,<<USA069
+Columbia>>,<<哥伦比亚>>,<<USA070
+Atlanta>>,<<亚特兰大>>,<<USA071
+Baltimore>>,<<巴尔的摩>>,<<USA072
+Dover>>,<<多佛>>,<<USA073
+Annapolis>>,<<安纳波利斯>>,<<USA074
+Washington D.C.>>,<<华盛顿特区>>,<<USA075
+Richmond>>,<<里士满>>,<<USA076
+Norfolk>>,<<诺福克>>,<<USA077
+Raleigh>>,<<罗利>>,<<USA078
+Brooklyn>>,<<布鲁克林>>,<<USA079
+Chester>>,<<切斯特>>,<<USA080
+Rochester>>,<<罗切斯特>>,<<USA081
+Albany>>,<<奥尔巴尼>>,<<USA082
+Newark>>,<<纽瓦克>>,<<USA083
+New York>>,<<纽约>>,<<USA084
+Harrisburg>>,<<哈里斯堡>>,<<USA085
+Trenton>>,<<特伦顿>>,<<USA086
+Philadelphia>>,<<费城>>,<<USA087
+Augusta>>,<<奥古斯塔>>,<<USA088
+Montpelier>>,<<蒙彼利埃>>,<<USA089
+Concord>>,<<康科德>>,<<USA090
+Boston>>,<<波士顿>>,<<USA091
+Providence>>,<<普罗维登斯>>,<<USA092
+Hartford>>,<<哈特福德>>,<<USA093
+Caracas>>,<<加拉加斯>>,<<VEN014
+Los Teques>>,<<洛斯特克斯>>,<<VEN015
+Barcelona>>,<<巴塞罗那>>,<<VEN016
+San Juan De Los Morros>>,<<圣胡安德莫罗斯>>,<<VEN017
+Ciudad Bolivar>>,<<玻利瓦尔城>>,<<VEN018
+San Fernado de Apure>>,<<圣亚马孙催>>,<<VEN019
+Puerto Carreno>>,<<卡雷尼奥港>>,<<COL032
+Boa Vista>>,<<博阿维斯塔>>,<<BRA029
+Puerto La Cruz>>,<<红十字港>>,<<VEN020
+La Asuncion>>,<<拉亚松森>>,<<VEN021
+Cumana>>,<<库马纳>>,<<VEN022
+Maturin>>,<<马图林>>,<<VEN023
+Tucupita>>,<<土库比塔>>,<<VEN024
+Georgetown>>,<<乔治城>>,<<GUY001
+Nieuw Nickerie>>,<<新尼克里>>,<<SUR001
+Totness>>,<<托特尼斯>>,<<SUR002
+San Juan>>,<<圣胡安>>,<<PRI001
+The Valley>>,<<硅谷>>,<<AIA001
+Mayaguez>>,<<马亚圭斯>>,<<PRI002
+Ponce>>,<<庞塞>>,<<PRI003
+Plymouth>>,<<普利茅斯>>,<<MSR001
+Basse-Terre>>,<<巴斯特尔>>,<<GLP001
+Roseau>>,<<罗索>>,<<DMA001
+Fort-De-France>>,<<对于法兰西堡>>,<<MTQ001
+Bridgetown>>,<<布里奇顿>>,<<BRB001
+Saint George's>>,<<圣乔治>>,<<GRD001
+Onverwacht>>,<<翁弗瓦赫特>>,<<SUR003
+Nieuw Amsterdam>>,<<新阿姆斯特丹>>,<<SUR004
+Paramaribo>>,<<帕拉马里博>>,<<SUR005
+Groningen>>,<<格罗宁根>>,<<SUR006
+Albina>>,<<阿宾娜>>,<<SUR007
+Brokopondo>>,<<布罗科蓬多>>,<<SUR008
+Cayenne>>,<<卡宴>>,<<GUF001
+Macapa>>,<<马卡帕>>,<<BRA030
+Thule>>,<<海角>>,<<GRL001
+Moosonee>>,<<穆索尼>>,<<CAN015
+Saint John's>>,<<圣约翰>>,<<CAN016
+Quebec>>,<<魁北克>>,<<CAN017
+Montreal>>,<<蒙特利尔>>,<<CAN018
+Ottawa>>,<<渥太华>>,<<CAN019
+Godhavn>>,<<戈德港>>,<<GRL002
+Iqaluit>>,<<伊基克>>,<<CAN020
+Canaport>>,<<卡纳波特>>,<<CAN021
+Nuuk>>,<<努克>>,<<GRL003
+Sept-Iles>>,<<七岛市>>,<<CAN022
+Charlottetown>>,<<夏洛特敦>>,<<CAN023
+Fredericton>>,<<弗雷德里克顿>>,<<CAN024
+Schefferville>>,<<谢弗维尔>>,<<CAN025
+Saint John>>,<<圣约翰>>,<<CAN026
+Cherbourg>>,<<瑟堡>>,<<FRA001
+Brest>>,<<布雷斯特>>,<<FRA002
+Angmagssalik>>,<<安马赫夏利克>>,<<GRL005
+St. Peter Port>>,<<圣彼得港>>,<<GGY001
+St. Helier>>,<<圣赫利尔被捕>>,<<JEY001
+Caen>>,<<卡昂>>,<<FRA003
+Rennes>>,<<雷恩>>,<<FRA004
+Nantes>>,<<南特>>,<<FRA005
+Dundee>>,<<邓迪>>,<<GBR001
+Reykjavik>>,<<雷克雅未克>>,<<ISL001
+Southampton>>,<<南安普顿>>,<<GBR002
+Fawley>>,<<福利>>,<<GBR003
+Belfast>>,<<贝尔法斯特>>,<<GBR004
+Sheffield>>,<<谢菲尔德>>,<<GBR005
+Dublin>>,<<都柏林>>,<<IRL001
+Galway>>,<<戈尔韦>>,<<IRL002
+Birmingham>>,<<伯明翰>>,<<GBR006
+Cork>>,<<科克>>,<<IRL003
+London>>,<<伦敦>>,<<GBR007
+Teesport>>,<<提兹港>>,<<GBR009
+Edinburgh>>,<<爱丁堡>>,<<GBR010
+Glasgow>>,<<格拉斯哥>>,<<GBR011
+Douglas>>,<<道格拉斯>>,<<IMN001
+Leeds>>,<<利兹>>,<<GBR012
+Manchester>>,<<曼彻斯特>>,<<GBR013
+Cardiff>>,<<加的夫>>,<<GBR014
+Liverpool>>,<<利物浦>>,<<GBR015
+Ponta Delgada>>,<<蓬塔德尔加达>>,<<PRT001
+Oviedo>>,<<奥维耶多>>,<<ESP001
+Viana Do Castelo>>,<<维阿纳>>,<<PRT002
+Porto>>,<<波尔图>>,<<PRT003
+Aveiro>>,<<阿威罗>>,<<PRT004
+Leiria>>,<<莱里亚>>,<<PRT005
+Praia>>,<<佛得角普拉亚>>,<<CPV001
+Santa Cruz de Tenerife>>,<<圣克鲁斯内里费>>,<<ESP003
+Las Palmas>>,<<拉斯帕尔马斯>>,<<ESP004
+Zaragoza>>,<<萨拉戈萨>>,<<ESP005
+Valencia>>,<<瓦伦西亚>>,<<ESP006
+Funchal>>,<<丰沙尔>>,<<PRT006
+Laayoune>>,<<阿尤恩>>,<<ESH001
+Braganca>>,<<布拉干萨>>,<<PRT007
+Braga>>,<<布拉加>>,<<PRT008
+Vila Real>>,<<雷阿尔城>>,<<PRT009
+Viseu>>,<<维塞乌>>,<<PRT010
+Coimbra>>,<<葡国科英布拉>>,<<PRT012
+Castelo Branco>>,<<布朗库堡>>,<<PRT013
+Rabat>>,<<拉巴特>>,<<MAR001
+Santarem>>,<<圣塔伦>>,<<PRT015
+Merida>>,<<梅里达>>,<<ESP007
+Lisbon>>,<<里斯本>>,<<PRT016
+Evora>>,<<埃武拉>>,<<PRT017
+Setubal>>,<<塞图巴尔>>,<<PRT018
+Beja>>,<<贝贾>>,<<PRT019
+Seville>>,<<塞维利亚>>,<<ESP008
+Faro>>,<<法鲁>>,<<PRT020
+Bordeaux>>,<<波尔多>>,<<FRA006
+Santander>>,<<桑坦德>>,<<ESP009
+Pamplona>>,<<潘普洛纳>>,<<ESP010
+Logrono>>,<<洛格罗尼奥>>,<<ESP011
+Valladolid>>,<<巴拉多利德>>,<<ESP012
+Madrid>>,<<马德里>>,<<ESP013
+Toledo>>,<<托莱多>>,<<ESP014
+Bilbao>>,<<毕尔巴鄂>>,<<ESP015
+Vitoria>>,<<维多利亚>>,<<ESP016
+Melilla>>,<<梅利利亚>>,<<ESP017
+Murcia>>,<<穆尔西亚>>,<<ESP018
+Gibraltar>>,<<直布罗陀>>,<<GIB001
+Fes>>,<<非斯>>,<<MAR002
+Meknes>>,<<梅克内斯>>,<<MAR003
+Ceuta>>,<<休达>>,<<ESP019
+Oran>>,<<奥兰>>,<<DZA001
+Sidi-Bel-Abbes>>,<<西迪-贝勒-阿贝斯>>,<<DZA002
+Tlemcen>>,<<特莱姆森>>,<<DZA003
+Oujda>>,<<乌季达搭救>>,<<MAR004
+Casablanca>>,<<卡萨布兰卡>>,<<MAR005
+Marrakech>>,<<马拉喀什>>,<<MAR006
+Bechar>>,<<贝沙尔>>,<<DZA004
+Agadir>>,<<阿加迪尔>>,<<MAR007
+Adrar>>,<<阿德拉尔>>,<<DZA005
+Tindouf>>,<<廷杜夫>>,<<DZA006
+Kayes>>,<<卡伊>>,<<MLI001
+Boke>>,<<博凯>>,<<GIN001
+Robertsport>>,<<罗伯茨>>,<<LBR001
+Telimele>>,<<泰利梅莱>>,<<GIN002
+Fria>>,<<弗里亚>>,<<GIN003
+Boffa>>,<<博法>>,<<GIN004
+Kindia>>,<<金地亚>>,<<GIN005
+Conakry>>,<<科纳克里>>,<<GIN006
+Forecariah>>,<<福雷卡里亚>>,<<GIN007
+Makeni>>,<<马可尼就>>,<<SLE002
+Freetown>>,<<弗里敦>>,<<SLE003
+Pita>>,<<琵塔>>,<<GIN008
+Dalaba>>,<<达拉巴>>,<<GIN009
+Mamou>>,<<马木>>,<<GIN010
+Nouadhibou>>,<<努瓦迪布>>,<<MRT005
+Atar>>,<<阿塔尔>>,<<MRT006
+Akjoujt>>,<<阿克柔特>>,<<MRT007
+Aleg>>,<<阿列格>>,<<MRT009
+Thies>>,<<蒂斯>>,<<SEN001
+Dakar>>,<<达喀尔>>,<<SEN002
+Nouakchott>>,<<努瓦克肖特>>,<<MRT010
+Louga>>,<<卢加>>,<<SEN003
+Rosso>>,<<罗索>>,<<MRT011
+Saint Louis>>,<<圣路易>>,<<SEN004
+Diourbel>>,<<迪乌贝尔>>,<<SEN005
+Fatick>>,<<法蒂克>>,<<SEN006
+Kaolack>>,<<考拉克>>,<<SEN007
+Kerewan>>,<<凯雷万>>,<<GMB001
+Banjul>>,<<班珠尔>>,<<GMB002
+Bathurst>>,<<巴瑟斯特>>,<<GMB003
+Mansa Konko>>,<<曼萨孔科>>,<<GMB004
+Brikama>>,<<布里卡马>>,<<GMB005
+Ziguinchor>>,<<济金绍尔>>,<<SEN008
+Cacheu>>,<<卡谢乌>>,<<GNB002
+Bolama>>,<<博拉马区>>,<<GNB003
+Bissau>>,<<比绍>>,<<GNB004
+Georgetown>>,<<乔治城>>,<<GMB006
+Basse Santa Su>>,<<巴斯圣苏>>,<<GMB007
+Kolda>>,<<科尔达>>,<<SEN009
+Gabu>>,<<加布>>,<<GNB006
+Bafata>>,<<巴法塔>>,<<GNB007
+Tambacounda>>,<<坦巴昆达>>,<<SEN010
+Koundara>>,<<孔达拉>>,<<GIN011
+Mali>>,<<马里>>,<<GIN012
+Gaoual>>,<<加瓦尔>>,<<GIN013
+Labe>>,<<拉贝河>>,<<GIN015
+Segou>>,<<塞古>>,<<MLI002
+Bamako>>,<<巴马科>>,<<MLI003
+Siguiri>>,<<锡吉里>>,<<GIN016
+Sikasso>>,<<锡卡索>>,<<MLI004
+Dinguiraye>>,<<丁吉拉伊>>,<<GIN017
+Timbuktu>>,<<廷巴克图>>,<<MLI005
+Gao>>,<<加奥>>,<<MLI006
+Mopti>>,<<莫普提>>,<<MLI007
+Djibo>>,<<吉博>>,<<BFA002
+Tougan>>,<<图冈>>,<<BFA003
+Nouna>>,<<努纳>>,<<BFA004
+Ouahigouya>>,<<瓦希古亚>>,<<BFA006
+Yako>>,<<亚哥>>,<<BFA007
+Ouagadougou>>,<<瓦加杜古>>,<<BFA009
+Koudougou>>,<<库杜古>>,<<BFA011
+Kombissiri>>,<<孔比西里>>,<<BFA012
+Dori>>,<<多丽>>,<<BFA013
+Boulsa>>,<<布尔萨>>,<<BFA016
+Zorgo>>,<<佐尔戈>>,<<BFA017
+Tenkodogo>>,<<滕科多戈>>,<<BFA019
+Rivercess>>,<<里弗塞斯>>,<<LBR002
+Greenville>>,<<格林维尔>>,<<LBR003
+Sassandra>>,<<萨桑德拉>>,<<CIV001
+Barclayville>>,<<巴克利维尔>>,<<LBR004
+San Pedro>>,<<圣佩德罗>>,<<CIV002
+Tabou>>,<<塔布>>,<<CIV003
+Harper>>,<<哈珀>>,<<LBR005
+Boundiali>>,<<贾利>>,<<CIV005
+Odienne>>,<<奥迭内>>,<<CIV006
+Korhogo>>,<<霍戈>>,<<CIV007
+Voinjama>>,<<沃茵加马>>,<<LBR006
+Kenema>>,<<凯内马>>,<<SLE004
+Nzerekore>>,<<恩泽雷科雷>>,<<GIN018
+Yomou>>,<<约穆>>,<<GIN019
+Sanniquellie>>,<<桑尼凯利>>,<<LBR007
+Gbarnga>>,<<邦加>>,<<LBR008
+Kakata>>,<<卡卡塔>>,<<LBR009
+Bentol>>,<<本托尔>>,<<LBR010
+Buchanan>>,<<布坎南>>,<<LBR011
+Monrovia>>,<<蒙罗维亚>>,<<LBR012
+Dabola>>,<<达博拉>>,<<GIN020
+Kouroussa>>,<<库鲁萨>>,<<GIN021
+Kankan>>,<<康康>>,<<GIN022
+Faranah>>,<<法拉纳>>,<<GIN023
+Kerouane>>,<<凯鲁阿>>,<<GIN024
+Kissidougou>>,<<基西杜古>>,<<GIN025
+Beyla>>,<<贝依拉>>,<<GIN026
+Gueckedou>>,<<盖凯杜>>,<<GIN027
+Macenta>>,<<马森塔>>,<<GIN028
+Touba>>,<<图巴>>,<<CIV008
+Biankouma>>,<<比安库马>>,<<CIV009
+Bangolo>>,<<邦戈洛>>,<<CIV012
+Duekoue>>,<<迪埃奎市>>,<<CIV013
+Guiglo>>,<<吉格洛>>,<<CIV014
+Zwedru>>,<<绥德鲁>>,<<LBR013
+Mankono>>,<<芒科诺>>,<<CIV015
+Seguela>>,<<塞格拉>>,<<CIV016
+Vavoua>>,<<瓦武阿>>,<<CIV018
+Bouafle>>,<<布瓦夫莱>>,<<CIV019
+Daloa>>,<<达洛亚>>,<<CIV020
+Sinfra>>,<<辛弗拉城>>,<<CIV021
+Issia>>,<<伊西亚>>,<<CIV022
+Gagnoa>>,<<加尼奥阿>>,<<CIV023
+Lakota>>,<<拉科塔>>,<<CIV024
+Soubre>>,<<苏布雷>>,<<CIV025
+Bobo Dioulasso>>,<<博博迪乌拉索>>,<<BFA021
+Orodara>>,<<奥罗达拉>>,<<BFA022
+Diebougou>>,<<杰布古>>,<<BFA023
+Banfora>>,<<邦福拉>>,<<BFA024
+Gaoua>>,<<加瓦>>,<<BFA025
+Ferkessedougou>>,<<费尔凯塞杜古>>,<<CIV026
+Bouna>>,<<邦纳>>,<<CIV027
+Tanda>>,<<坦达>>,<<CIV028
+Yamoussoukro>>,<<亚穆苏克罗>>,<<CIV030
+Dimbokro>>,<<丁博克罗>>,<<CIV031
+Katiola>>,<<卡蒂奥拉>>,<<CIV037
+Bouake>>,<<布瓦凯>>,<<CIV038
+Beoumi>>,<<和贝乌米>>,<<CIV039
+Daoukro>>,<<达乌克罗>>,<<CIV042
+Abengourou>>,<<阿本古鲁>>,<<CIV043
+Adzope>>,<<阿索贝>>,<<CIV045
+Agboville>>,<<阿博维尔>>,<<CIV046
+Po>>,<<波河>>,<<BFA026
+Leo>>,<<利奥>>,<<BFA027
+Bolgatanga>>,<<博尔加坦加>>,<<GHA001
+Tamale>>,<<塔马利>>,<<GHA003
+Bondoukou>>,<<邦杜库>>,<<CIV047
+Sunyani>>,<<苏尼亚尼>>,<<GHA004
+Kumasi>>,<<库马西>>,<<GHA005
+Koforidua>>,<<科福里杜亚>>,<<GHA006
+Accra>>,<<阿克拉>>,<<GHA007
+Aboisso>>,<<阿波伊索>>,<<CIV048
+Abidjan>>,<<阿比让>>,<<CIV049
+Grand Lahou>>,<<格兰拉乌>>,<<CIV050
+Cape Coast>>,<<海岸角>>,<<GHA008
+Sekondi>>,<<塞康第>>,<<GHA009
+Biltine>>,<<比尔廷>>,<<TCD001
+Abeche>>,<<阿贝歇>>,<<TCD002
+Zinder>>,<<津德尔>>,<<NER001
+Maradi>>,<<马拉迪>>,<<NER002
+Ati>>,<<阿提>>,<<TCD003
+Katsina>>,<<卡齐纳>>,<<NGA001
+Mongo>>,<<蒙戈>>,<<TCD004
+Kano>>,<<卡诺>>,<<NGA002
+Dutse>>,<<杜泽>>,<<NGA003
+Umuahia>>,<<乌穆阿希亚>>,<<NGA004
+Uyo>>,<<乌约>>,<<NGA006
+Calabar>>,<<卡拉巴尔>>,<<NGA007
+Port Harcourt>>,<<哈科特港>>,<<NGA008
+Dudinka>>,<<杜金卡>>,<<RUS002
+Annaba>>,<<阿纳巴>>,<<DZA007
+Skikda>>,<<斯基克达>>,<<DZA008
+Jijel>>,<<吉杰尔>>,<<DZA009
+Bafoussam>>,<<巴富萨姆>>,<<CMR001
+Buea>>,<<布埃亚>>,<<CMR002
+Douala>>,<<杜阿拉>>,<<CMR003
+Malabo>>,<<马拉博>>,<<GNQ001
+Luba>>,<<班图语>>,<<GNQ002
+Ebolowa>>,<<埃博洛瓦>>,<<CMR004
+Bauchi>>,<<包奇>>,<<NGA009
+Jos>>,<<乔斯>>,<<NGA010
+Makurdi>>,<<马库尔迪>>,<<NGA011
+Bamenda>>,<<巴门达>>,<<CMR005
+Bata>>,<<巴塔>>,<<GNQ003
+Evinayong>>,<<埃维纳永>>,<<GNQ004
+Libreville>>,<<利伯维尔>>,<<GAB001
+Natitingou>>,<<纳蒂廷古>>,<<BEN001
+Parakou>>,<<帕拉库>>,<<BEN002
+Bassar>>,<<巴萨尔>>,<<TGO001
+Sotouboua>>,<<索图布阿>>,<<TGO002
+Oshogbo>>,<<奥绍博>>,<<NGA012
+Ibadan>>,<<伊巴丹>>,<<NGA013
+Akure>>,<<阿库雷>>,<<NGA014
+Abeokuta>>,<<阿贝奥库塔>>,<<NGA015
+Lagos>>,<<拉各斯>>,<<NGA016
+Ilorin>>,<<伊洛林>>,<<NGA017
+Abomey>>,<<阿波美>>,<<BEN003
+Kpalime>>,<<帕利梅>>,<<TGO003
+Lokossa>>,<<洛科萨>>,<<BEN004
+Porto Novo>>,<<波多诺伏>>,<<BEN005
+Cotonou>>,<<科托努>>,<<BEN006
+Lome>>,<<洛美>>,<<TGO004
+Kaduna>>,<<卡杜纳>>,<<NGA018
+Minna>>,<<明娜>>,<<NGA019
+Abuja>>,<<阿布贾>>,<<NGA020
+Enugu>>,<<埃努古>>,<<NGA022
+Benin City>>,<<贝宁城>>,<<NGA023
+Awka>>,<<奥卡>>,<<NGA025
+Agadez>>,<<阿加德兹市>>,<<NER003
+Tahoua>>,<<塔瓦>>,<<NER004
+Niamey>>,<<尼亚美>>,<<NER005
+Sokoto>>,<<索科>>,<<NGA026
+Dosso>>,<<尼日尔>>,<<NER006
+Birnin Kebbi>>,<<比尔宁凯比>>,<<NGA027
+Diapaga>>,<<贾帕加>>,<<BFA028
+Faya>>,<<贝尔-法亚>>,<<TCD005
+Bol>>,<<波尔>>,<<TCD007
+Ndjamena>>,<<恩贾梅纳>>,<<TCD008
+Maiduguri>>,<<迈杜古里>>,<<NGA028
+Damaturu>>,<<达马图鲁>>,<<NGA029
+Bozoum>>,<<博祖姆>>,<<CAF001
+Bouar>>,<<布阿尔>>,<<CAF002
+Bangui>>,<<班吉>>,<<CAF003
+Mobaye>>,<<莫巴伊>>,<<CAF004
+Bertoua>>,<<贝尔图阿>>,<<CMR006
+Berberati>>,<<贝贝拉蒂>>,<<CAF006
+Yaounde>>,<<雅温得>>,<<CMR007
+Nola>>,<<诺拉>>,<<CAF007
+Ebebiyin>>,<<埃贝比因>>,<<GNQ005
+Mongomo>>,<<蒙戈莫>>,<<GNQ006
+Oyem>>,<<奥耶姆>>,<<GAB002
+Makokou>>,<<马科库>>,<<GAB003
+Maroua>>,<<马鲁阿>>,<<CMR008
+Bongor>>,<<邦戈尔>>,<<TCD009
+Garoua>>,<<加鲁阿>>,<<CMR009
+Yola>>,<<约拉>>,<<NGA030
+Jalingo>>,<<贾林戈>>,<<NGA031
+Doba>>,<<多巴>>,<<TCD011
+Moundou>>,<<蒙杜>>,<<TCD012
+Ngaoundere>>,<<恩冈代雷>>,<<CMR010
+Am Timan>>,<<安提曼>>,<<TCD013
+Sarh>>,<<萨尔赫>>,<<TCD014
+Ndele>>,<<恩代莱>>,<<CAF008
+Kaga Bandoro>>,<<卡加班多罗>>,<<CAF009
+Bria>>,<<布里亚>>,<<CAF010
+Bossangoa>>,<<博桑戈阿>>,<<CAF011
+Sibut>>,<<锡布>>,<<CAF012
+Bambari>>,<<班巴里>>,<<CAF013
+Kebili>>,<<吉比利>>,<<TUN001
+Tataouine>>,<<泰塔>>,<<TUN003
+Ghadamis>>,<<古达米斯>>,<<LBY001
+In Salah>>,<<在沙拉>>,<<DZA011
+Tamanrasset>>,<<塔曼拉塞特>>,<<DZA012
+Blida>>,<<卜利达>>,<<DZA013
+Bouira>>,<<布维拉>>,<<DZA014
+Setif>>,<<塞提夫>>,<<DZA015
+M'sila>>,<<姆西拉>>,<<DZA017
+Djelfa>>,<<杰勒法>>,<<DZA018
+Laghouat>>,<<拉格瓦特>>,<<DZA019
+Tizi-Ouzou>>,<<提济乌祖省>>,<<DZA020
+Algiers>>,<<阿尔及尔>>,<<DZA021
+Bejaia>>,<<贝贾亚>>,<<DZA022
+Medea>>,<<美狄亚>>,<<DZA023
+Mostaganem>>,<<莫斯塔加纳姆>>,<<DZA024
+Tiaret>>,<<提亚雷特>>,<<DZA026
+Saida>>,<<赛达>>,<<DZA027
+Montpellier>>,<<蒙彼利埃>>,<<FRA007
+Toulouse>>,<<图卢兹>>,<<FRA008
+Marseille>>,<<马赛>>,<<FRA009
+Andorra La Valla>>,<<安道尔瓦拉>>,<<AND001
+Barcelona>>,<<巴塞罗那>>,<<ESP020
+Palma De Mallorca>>,<<马略卡岛>>,<<ESP021
+Genoa>>,<<热那亚>>,<<ITA001
+Florence>>,<<佛罗伦萨>>,<<ITA002
+Monaco>>,<<摩纳哥>>,<<MCO001
+Ajaccio>>,<<阿雅克>>,<<FRA010
+Constantine>>,<<康斯坦丁>>,<<DZA029
+Batna>>,<<巴特纳>>,<<DZA031
+Biskra>>,<<比斯克拉>>,<<DZA033
+Cagliari>>,<<卡利亚里>>,<<ITA003
+Bizerte>>,<<比塞大>>,<<TUN005
+Tunis>>,<<突尼斯>>,<<TUN007
+Beja>>,<<贝贾>>,<<TUN008
+Jendouba>>,<<坚杜拜>>,<<TUN009
+Le Kef>>,<<勒凯夫>>,<<TUN010
+Siliana>>,<<锡勒亚奈>>,<<TUN011
+Kasserine>>,<<卡塞林>>,<<TUN012
+Sfax>>,<<斯法克斯>>,<<TUN014
+Gafsa>>,<<加夫萨矿区>>,<<TUN015
+Nabeul>>,<<纳布勒>>,<<TUN017
+Zaghouan>>,<<宰格万>>,<<TUN018
+Sousse>>,<<苏塞>>,<<TUN019
+Kairouan>>,<<凯鲁万>>,<<TUN021
+Mahdia>>,<<马赫迪耶>>,<<TUN022
+Bari>>,<<巴里>>,<<ITA004
+Campobasso>>,<<坎波巴索>>,<<ITA005
+Naples>>,<<那不勒斯>>,<<ITA006
+Potenza>>,<<-普腾扎是>>,<<ITA007
+Palermo>>,<<巴勒莫>>,<<ITA009
+Valletta>>,<<瓦莱塔>>,<<MLT001
+Bologna>>,<<博洛尼亚>>,<<ITA010
+San Marino>>,<<圣马力诺>>,<<SMR001
+Ancona>>,<<安科纳>>,<<ITA011
+Perugia>>,<<佩鲁贾>>,<<ITA012
+Aquila>>,<<拉奎拉>>,<<ITA013
+Rome>>,<<罗马>>,<<ITA014
+Bajram Curri>>,<<巴伊拉姆楚里>>,<<ALB001
+Shkoder>>,<<斯库台>>,<<ALB002
+Durres>>,<<都拉斯>>,<<ALB004
+Fier>>,<<菲尔>>,<<ALB005
+Vlore>>,<<发罗拉>>,<<ALB006
+Belgrade>>,<<贝尔格莱德>>,<<SRB001
+Podgorica>>,<<波德戈里察>>,<<MNE001
+Skopje>>,<<斯科普里>>,<<MKD001
+Pogradec>>,<<波格拉德茨>>,<<ALB008
+Korce>>,<<科尔察>>,<<ALB009
+Ioannina>>,<<约阿尼纳>>,<<GRC001
+Larisa>>,<<拉里萨>>,<<GRC002
+Lushnje>>,<<卢什涅>>,<<ALB010
+Gramsh>>,<<格拉姆什>>,<<ALB011
+Berat>>,<<培拉特>>,<<ALB012
+Corovode>>,<<乔罗沃达>>,<<ALB013
+Tepelene>>,<<台佩莱纳>>,<<ALB014
+Permet>>,<<佩尔梅特>>,<<ALB015
+Gjirokaster>>,<<吉诺卡斯特>>,<<ALB016
+Sarande>>,<<沙兰德>>,<<ALB017
+Peshkopi>>,<<佩什科比>>,<<ALB018
+Kukes>>,<<库克斯>>,<<ALB019
+Puke>>,<<普科>>,<<ALB020
+Kruje>>,<<克鲁亚>>,<<ALB023
+Tirana>>,<<地拉那>>,<<ALB024
+Librazhd>>,<<利布拉什德>>,<<ALB025
+Elbasan>>,<<爱尔巴桑>>,<<ALB026
+Lamia>>,<<拉米亚>>,<<GRC004
+Patras>>,<<佩特雷>>,<<GRC005
+Tripoli>>,<<的黎波里>>,<<GRC006
+Tripoli>>,<<的黎波里>>,<<LBY002
+Az Zawiyah>>,<<阿扎>>,<<LBY003
+Al Khums>>,<<阿尔胡斯>>,<<LBY004
+Misratah>>,<<米苏拉塔>>,<<LBY005
+Gharyan>>,<<盖尔扬>>,<<LBY006
+Benghazi>>,<<班加西>>,<<LBY007
+Ajdabiya>>,<<艾季达比耶>>,<<LBY008
+Sabha>>,<<塞卜哈>>,<<LBY009
+Murzuq>>,<<穆尔祖格>>,<<LBY010
+Zonguldak>>,<<宗古尔达克>>,<<TUR001
+Bolu>>,<<博卢>>,<<TUR002
+Cankiri>>,<<昌克勒>>,<<TUR003
+Ankara>>,<<安卡拉>>,<<TUR004
+Kyrenia>>,<<凯里尼亚>>,<<CYP001
+Nicosia>>,<<尼科西亚>>,<<CYP002
+Larnaka>>,<<拉纳卡>>,<<CYP003
+Paphos>>,<<帕福斯>>,<<CYP004
+Lemesos>>,<<莱梅索斯>>,<<CYP005
+Darnah>>,<<德尔纳>>,<<LBY011
+Marsa Matruh>>,<<马特鲁>>,<<EGY001
+El Minya>>,<<萨尔瓦多明亚>>,<<EGY002
+Asyut>>,<<艾斯尤特>>,<<EGY003
+Sohag>>,<<索哈杰>>,<<EGY004
+Qena>>,<<基纳>>,<<EGY005
+El-Kharga>>,<<埃尔-哈里杰>>,<<EGY006
+Aswan>>,<<阿斯旺>>,<<EGY007
+Dumyat>>,<<杜姆亚特>>,<<EGY008
+Port Said>>,<<塞得港>>,<<EGY009
+Alexandria>>,<<亚历山大>>,<<EGY010
+Kafr el Sheikh>>,<<卡夫拉谢赫>>,<<EGY011
+El Mansura>>,<<曼索拉>>,<<EGY012
+Damanhur>>,<<达曼胡尔>>,<<EGY013
+Abu Zenima>>,<<阿布宰尼迈>>,<<EGY016
+El Tur>>,<<萨尔瓦多图尔>>,<<EGY017
+Tanta>>,<<坦塔>>,<<EGY018
+Ismailia>>,<<伊斯梅利亚>>,<<EGY019
+Benha>>,<<本哈>>,<<EGY021
+Cairo>>,<<开罗>>,<<EGY022
+Giza>>,<<吉萨>>,<<EGY023
+Suez>>,<<苏伊士>>,<<EGY024
+Beni Suef>>,<<贝尼苏韦夫>>,<<EGY025
+Piraeus>>,<<比雷埃夫斯>>,<<GRC007
+Manisa>>,<<马尼萨>>,<<TUR005
+Izmir>>,<<伊兹密尔>>,<<TUR006
+Chios>>,<<希俄斯>>,<<GRC008
+Aydin>>,<<艾登>>,<<TUR007
+Iraklion>>,<<伊拉克利翁>>,<<GRC009
+Athens>>,<<雅典>>,<<GRC010
+Kurdzhali>>,<<克尔贾利>>,<<BGR001
+Kirklareli>>,<<克尔克拉雷>>,<<TUR008
+Edirne>>,<<埃迪尔内>>,<<TUR009
+Tekirdag>>,<<泰基尔达>>,<<TUR010
+Thessaloniki>>,<<塞萨洛尼基>>,<<GRC012
+Polygyros>>,<<波利伊罗斯>>,<<GRC013
+Canakkale>>,<<恰纳卡莱>>,<<TUR011
+Balikesir>>,<<巴勒克埃西尔>>,<<TUR012
+Pitesti>>,<<皮特什蒂>>,<<ROU001
+Slatina>>,<<斯拉蒂纳>>,<<ROU003
+Craiova>>,<<克拉约瓦>>,<<ROU004
+Alexandria>>,<<亚历山大>>,<<ROU005
+Montana>>,<<蒙大拿>>,<<BGR002
+Lovec>>,<<洛维奇>>,<<BGR003
+Sofia>>,<<索菲亚>>,<<BGR004
+Targoviste>>,<<特尔戈维什特>>,<<ROU006
+Ploiesti>>,<<普洛耶什蒂>>,<<ROU007
+Slobozia>>,<<斯洛博齐亚>>,<<ROU008
+Bucharest>>,<<布加勒斯特>>,<<ROU009
+Calarasi>>,<<克勒拉希>>,<<ROU010
+Giurgiu>>,<<朱尔朱>>,<<ROU011
+Razgrad>>,<<拉兹格勒>>,<<BGR005
+Varna>>,<<瓦尔纳>>,<<BGR006
+Burgas>>,<<布尔加斯>>,<<BGR007
+Constanta>>,<<康斯坦察>>,<<ROU012
+Istanbul>>,<<伊斯坦布尔>>,<<TUR013
+Kocaeli>>,<<科喀艾里>>,<<TUR014
+Sakarya>>,<<萨卡里亚>>,<<TUR015
+Bursa>>,<<布尔萨>>,<<TUR016
+Bilecik>>,<<比莱吉克>>,<<TUR017
+Eskisehir>>,<<埃斯基谢希尔>>,<<TUR018
+Kutahya>>,<<屈塔希亚>>,<<TUR019
+Afyon>>,<<阿菲永>>,<<TUR020
+Usak>>,<<乌沙克>>,<<TUR021
+Konya>>,<<科尼亚>>,<<TUR022
+Denizli>>,<<代尼兹利>>,<<TUR023
+Isparta>>,<<伊斯帕尔塔>>,<<TUR024
+Burdur>>,<<布尔杜尔>>,<<TUR025
+Mugla>>,<<穆拉>>,<<TUR026
+Antalya>>,<<安塔利亚>>,<<TUR027
+Sokhumi>>,<<苏呼米>>,<<GEO001
+Elazig>>,<<埃拉泽>>,<<TUR028
+Malatya>>,<<马拉蒂亚>>,<<TUR029
+Adiyaman>>,<<阿德亚曼>>,<<TUR030
+Kahramanmaras>>,<<卡赫拉曼马>>,<<TUR031
+Aintab>>,<<艾因塔布>>,<<TUR033
+Cherkessk>>,<<切尔克斯克>>,<<RUS004
+Kirsehir>>,<<克尔谢希尔>>,<<TUR034
+Kayseri>>,<<开塞里>>,<<TUR035
+Nevsehir>>,<<内夫谢希尔>>,<<TUR036
+Nigde>>,<<尼代>>,<<TUR037
+Seyhan>>,<<塞伊汉>>,<<TUR038
+Mersin>>,<<梅尔辛>>,<<TUR039
+Antioch>>,<<安提阿>>,<<TUR040
+Tartus>>,<<塔尔图斯>>,<<SYR002
+Tripoli>>,<<的黎波里>>,<<LBN001
+Beirut>>,<<贝鲁特>>,<<LBN002
+Aleppo>>,<<阿勒颇>>,<<SYR003
+Idlib>>,<<伊德利卜>>,<<SYR005
+Hamah>>,<<哈马>>,<<SYR006
+Sinop>>,<<锡诺普>>,<<TUR041
+Samsun>>,<<萨姆松>>,<<TUR043
+Yozgat>>,<<约兹加特>>,<<TUR046
+Simferopol'>>,<<辛菲罗波尔的>>,<<UKR001
+Trabzon>>,<<特拉布宗>>,<<TUR053
+Erzurum>>,<<埃尔祖鲁姆>>,<<TUR055
+Vladikavkaz>>,<<弗拉季卡夫卡兹>>,<<RUS006
+Kars>>,<<卡尔斯>>,<<TUR057
+Yerevan>>,<<埃里温>>,<<ARM001
+Agri>>,<<阿勒>>,<<TUR058
+Bitlis>>,<<比特里斯>>,<<TUR062
+Siirt>>,<<锡尔特>>,<<TUR063
+Diyarbakir>>,<<迪亚巴克尔>>,<<TUR064
+Mardin>>,<<马尔丁>>,<<TUR065
+Hakkari>>,<<哈克卡里>>,<<TUR067
+Dahuk>>,<<杜胡克>>,<<IRQ001
+Arbil>>,<<埃尔比勒>>,<<IRQ003
+Kirkuk>>,<<基尔库克>>,<<IRQ004
+Samarra>>,<<萨马拉>>,<<IRQ005
+Medina>>,<<麦地那>>,<<SAU005
+Haifa>>,<<海法>>,<<ISR001
+Beersheba>>,<<贝尔谢巴>>,<<ISR003
+Sidon>>,<<西顿>>,<<LBN005
+Nazareth>>,<<拿撒勒>>,<<ISR005
+Damascus>>,<<大马士革>>,<<SYR011
+Irbid>>,<<伊尔比德>>,<<JOR003
+Amman>>,<<安曼>>,<<JOR007
+Jerusalem>>,<<耶路撒冷>>,<<ISR006
+Baghdad>>,<<巴格达>>,<<IRQ008
+Karbala'>>,<<卡尔巴拉的>>,<<IRQ009
+Gulu>>,<<古卢>>,<<UGA002
+Fort Portal>>,<<门户堡>>,<<UGA003
+Jinja>>,<<金贾>>,<<UGA005
+Kampala>>,<<坎帕拉>>,<<UGA006
+Birao>>,<<比瑞奥>>,<<CAF014
+Malakal>>,<<马拉卡勒>>,<<SDN001
+Wau>>,<<瓦乌>>,<<SDN002
+Dongola>>,<<栋古拉>>,<<SDN004
+Omdurman>>,<<恩图曼>>,<<SDN005
+Khartoum>>,<<喀土穆>>,<<SDN006
+El Obeid>>,<<埃尔默>>,<<SDN008
+Mecca>>,<<麦加>>,<<SAU009
+Port Sudan>>,<<苏丹港>>,<<SDN009
+Asmara>>,<<阿斯马拉>>,<<ERI001
+Jeddah>>,<<吉达>>,<<SAU010
+Sanaa>>,<<萨那>>,<<YEM003
+Mek'ele>>,<<梅科埃里>>,<<ETH002
+Lahij>>,<<基和萨米尔>>,<<YEM008
+Djibouti>>,<<吉布提>>,<<DJI003
+Harar>>,<<哈拉尔>>,<<ETH004
+Debre Markos>>,<<德勃雷马科斯·>>,<<ETH006
+Addis Ababa>>,<<亚的斯亚贝巴>>,<<ETH008
+Gore>>,<<戈尔>>,<<ETH009
+Marka>>,<<马卡>>,<<SOM005
+Trondheim>>,<<特隆赫姆>>,<<NOR001
+Molde>>,<<莫尔德>>,<<NOR002
+Bergen>>,<<卑尔根>>,<<NOR003
+Bremen>>,<<不来梅>>,<<DEU001
+Hannover>>,<<汉诺威>>,<<DEU002
+Erfurt>>,<<爱尔福特>>,<<DEU003
+Frankfurt>>,<<法兰克福>>,<<DEU004
+Rouen>>,<<鲁昂>>,<<FRA012
+Le Havre>>,<<勒阿弗尔>>,<<FRA013
+Paris>>,<<巴黎>>,<<FRA014
+Stuttgart>>,<<斯图加特>>,<<DEU005
+Orleans>>,<<奥尔良>>,<<FRA015
+Poitiers>>,<<普瓦捷>>,<<FRA016
+Limoges>>,<<里摩日>>,<<FRA017
+Dunkirk>>,<<敦刻尔克>>,<<FRA018
+Liege>>,<<列日>>,<<BEL001
+Namur>>,<<那慕尔>>,<<BEL002
+Mons>>,<<蒙斯>>,<<BEL003
+Reims>>,<<兰斯>>,<<FRA019
+Dijon>>,<<第戎>>,<<FRA020
+Bruges>>,<<布鲁日>>,<<BEL004
+Hasselt>>,<<哈瑟尔特>>,<<BEL007
+Lille>>,<<里尔>>,<<FRA023
+Brussels>>,<<布鲁塞尔>>,<<BEL008
+Haarlem>>,<<哈勒姆>>,<<NLD004
+Amsterdam>>,<<阿姆斯特丹>>,<<NLD005
+Utrecht>>,<<乌得勒支>>,<<NLD006
+The Hague>>,<<海牙>>,<<NLD007
+Rotterdam>>,<<鹿特丹>>,<<NLD008
+Groningen>>,<<格罗宁根>>,<<NLD009
+Leeuwarden>>,<<吕伐登>>,<<NLD010
+Assen>>,<<阿森>>,<<NLD011
+Zwolle>>,<<兹沃勒>>,<<NLD012
+Arnhem>>,<<阿纳姆>>,<<NLD013
+Duisburg>>,<<杜伊斯堡>>,<<DEU006
+Dusseldorf>>,<<杜塞尔多夫>>,<<DEU007
+Maastricht>>,<<马斯特里赫特>>,<<NLD014
+Dortmund>>,<<多特蒙德>>,<<DEU008
+Essen>>,<<埃森>>,<<DEU009
+Cologne>>,<<科隆>>,<<DEU010
+Bonn>>,<<波恩>>,<<DEU011
+Bremerhaven>>,<<不来梅港>>,<<DEU012
+Arhus>>,<<奥尔胡斯>>,<<DNK002
+Vejle>>,<<范捷市>>,<<DNK003
+Odense>>,<<欧登塞>>,<<DNK004
+Ribe>>,<<里伯>>,<<DNK005
+Kiel>>,<<基尔>>,<<DEU013
+Hamburg>>,<<汉堡>>,<<DEU014
+Besancon>>,<<贝桑松>>,<<FRA024
+Neuchatel>>,<<纳沙泰尔>>,<<CHE001
+Fribourg>>,<<弗里堡>>,<<CHE002
+Lausanne>>,<<洛桑>>,<<CHE003
+Sion>>,<<锡安>>,<<CHE004
+Geneva>>,<<日内瓦>>,<<CHE005
+Aosta>>,<<奥斯塔>>,<<ITA015
+Turin>>,<<都灵>>,<<ITA016
+Basel>>,<<巴塞尔>>,<<CHE006
+Aarau>>,<<阿劳>>,<<CHE008
+Luzern>>,<<卢塞恩>>,<<CHE011
+Stans>>,<<施坦斯>>,<<CHE012
+Bern>>,<<伯尔尼>>,<<CHE013
+Wiesbaden>>,<<威斯巴登>>,<<DEU015
+Mainz>>,<<美因茨>>,<<DEU016
+Luxembourg>>,<<卢森堡>>,<<LUX003
+Saarbrucken>>,<<萨尔布吕肯>>,<<DEU017
+Nancy>>,<<南希>>,<<FRA025
+Strasbourg>>,<<斯特拉斯堡>>,<<FRA026
+Saint Gallen>>,<<圣加伦>>,<<CHE015
+Appenzell>>,<<阿彭策尔>>,<<CHE017
+Vaduz>>,<<瓦杜兹>>,<<LIE001
+Chur>>,<<库尔>>,<<CHE018
+Trento>>,<<特兰托>>,<<ITA017
+Milan>>,<<米兰>>,<<ITA018
+Bregenz>>,<<布雷根茨>>,<<AUT001
+Zurich>>,<<苏黎世>>,<<CHE022
+Zug>>,<<楚格州>>,<<CHE023
+Glarus>>,<<格拉鲁斯>>,<<CHE024
+Schwyz>>,<<施维茨>>,<<CHE025
+Altdorf>>,<<阿尔道夫>>,<<CHE026
+Stavanger>>,<<斯塔万格>>,<<NOR006
+Kristiansand>>,<<克里斯蒂安桑>>,<<NOR008
+Hamar>>,<<位哈马尔>>,<<NOR011
+Oslo>>,<<奥斯陆>>,<<NOR012
+Bodo>>,<<博多>>,<<NOR016
+Kalmar>>,<<卡马尔>>,<<SWE003
+Linkoping>>,<<林雪平>>,<<SWE004
+Jonkoping>>,<<延雪平>>,<<SWE005
+Vasteras>>,<<韦斯特罗斯>>,<<SWE007
+Karlstad>>,<<卡尔斯塔德>>,<<SWE008
+Halmstad>>,<<哈尔姆斯塔德>>,<<SWE013
+Lulea>>,<<吕勒奥>>,<<SWE014
+Umea>>,<<于默奥>>,<<SWE015
+Turku>>,<<图尔库>>,<<FIN002
+Mariehamn>>,<<玛丽港>>,<<FIN003
+Uppsala>>,<<乌普萨拉>>,<<SWE018
+Visby>>,<<维斯比>>,<<SWE020
+Stockholm>>,<<斯德哥尔摩>>,<<SWE021
+Prague>>,<<布拉格>>,<<CZE002
+Brno>>,<<布尔诺>>,<<CZE003
+Linz>>,<<林兹>>,<<AUT002
+Vienna>>,<<维也纳>>,<<AUT004
+Munich>>,<<慕尼黑>>,<<DEU018
+Salzburg>>,<<萨尔茨堡>>,<<AUT005
+Innsbruck>>,<<因斯布鲁克>>,<<AUT006
+Trieste>>,<<的里雅斯特>>,<<ITA019
+Venice>>,<<威尼斯>>,<<ITA020
+Rijeka>>,<<里耶卡>>,<<HRV001
+Graz>>,<<格拉茨>>,<<AUT007
+Klagenfurt>>,<<克拉根福>>,<<AUT008
+Ljubljana>>,<<卢布尔雅那>>,<<SVN001
+Zagreb>>,<<萨格勒布>>,<<HRV002
+Berlin>>,<<柏林>>,<<DEU019
+Potsdam>>,<<波茨坦>>,<<DEU020
+Magdeburg>>,<<马格德堡>>,<<DEU021
+Leipzig>>,<<莱比锡>>,<<DEU022
+Dresden>>,<<德累斯顿>>,<<DEU023
+Schwerin>>,<<什未林>>,<<DEU024
+Roskilde>>,<<鲁开德那样>>,<<DNK010
+Malmo>>,<<马尔默>>,<<SWE022
+Soro>>,<<索罗>>,<<DNK011
+Copenhagen>>,<<哥本哈根>>,<<DNK013
+Kristianstad>>,<<克里斯蒂安斯塔德市>>,<<SWE024
+Szczecin>>,<<什切青>>,<<POL002
+Legnica>>,<<莱格尼察>>,<<POL007
+Walbrzych>>,<<瓦乌布日赫>>,<<POL009
+Gdynia>>,<<格丁尼亚>>,<<POL010
+Kaliningrad>>,<<加里宁格勒>>,<<RUS008
+Gdansk>>,<<格但斯克>>,<<POL012
+Elblag>>,<<埃尔布隆格>>,<<POL013
+Bydgoszcz>>,<<比得哥什>>,<<POL015
+Torun>>,<<托伦>>,<<POL016
+Poznan>>,<<波兹南>>,<<POL018
+Kalisz>>,<<卡利什>>,<<POL020
+Wroclaw>>,<<弗罗茨瓦夫>>,<<POL021
+Lodz>>,<<罗兹>>,<<POL023
+Czestochowa>>,<<琴斯托霍瓦>>,<<POL025
+Warsaw>>,<<华沙>>,<<POL030
+Radom>>,<<屏蔽罩>>,<<POL034
+Kielce>>,<<凯尔采>>,<<POL035
+Katowice>>,<<卡托维兹>>,<<POL036
+Ostrava>>,<<斯特拉瓦>>,<<CZE007
+Bratislava>>,<<布拉迪斯拉发>>,<<SVK002
+Budapest>>,<<布达佩斯>>,<<HUN005
+Szekesfehervar>>,<<塞克什白堡>>,<<HUN006
+Krakow>>,<<克拉科夫>>,<<POL039
+Tarnow>>,<<塔尔努夫>>,<<POL041
+Miskolc>>,<<密什科尔茨>>,<<HUN012
+Eger>>,<<埃格尔>>,<<HUN013
+Kosice>>,<<科希策>>,<<SVK003
+Debrecen>>,<<德布勒森>>,<<HUN015
+Szeged>>,<<塞格德>>,<<HUN019
+Arad>>,<<阿拉德>>,<<ROU014
+Timisoara>>,<<蒂米什瓦拉>>,<<ROU015
+Longyearbyen>>,<<朗伊尔城>>,<<SJM001
+Tromso>>,<<特罗姆瑟>>,<<NOR019
+Murmansk>>,<<摩尔曼斯克>>,<<RUS009
+Hammerfest>>,<<哈默菲斯特>>,<<NOR022
+Smolensk>>,<<斯摩棱斯克>>,<<RUS010
+Homyel'>>,<<戈梅里的>>,<<BLR003
+Kherson>>,<<赫尔松>>,<<UKR005
+Minsk>>,<<明斯克>>,<<BLR004
+Bacau>>,<<巴克乌>>,<<ROU033
+Brasov>>,<<布拉索夫>>,<<ROU036
+Vilnius>>,<<维尔纽斯>>,<<LTU001
+Bialystok>>,<<比亚韦斯托克>>,<<POL046
+Brest>>,<<布雷斯特>>,<<BLR006
+Lublin>>,<<卢布林>>,<<POL048
+Kyiv>>,<<基辅>>,<<UKR013
+Chisinau>>,<<基希讷乌>>,<<MDA001
+Helsinki>>,<<赫尔辛基>>,<<FIN008
+Tallinn>>,<<塔林>>,<<EST001
+Riga>>,<<里加>>,<<LVA001
+Karelia>>,<<卡累利阿>>,<<RUS011
+Rovaniemi>>,<<罗凡尼米>>,<<FIN009
+Oulu>>,<<奥卢>>,<<FIN010
+Saint Petersburg>>,<<圣彼德堡>>,<<RUS012
+Novgorod>>,<<诺夫哥罗德>>,<<RUS013
+Pskov>>,<<普斯科夫州>>,<<RUS014
+Vologda>>,<<沃洛格达>>,<<RUS016
+Yaroslavl>>,<<雅罗斯拉夫尔>>,<<RUS018
+Ivanovo>>,<<伊凡诺沃>>,<<RUS019
+Tver>>,<<特维尔>>,<<RUS020
+Petrozavodsk>>,<<彼得罗扎沃茨克>>,<<RUS022
+Vladimir>>,<<弗拉基米尔>>,<<RUS023
+Ryazan>>,<<梁赞>>,<<RUS024
+Tambov>>,<<坦波夫>>,<<RUS025
+Volgograd>>,<<伏尔加格勒>>,<<RUS027
+Rostov-on-Don>>,<<罗斯托夫>>,<<RUS028
+Stavropol>>,<<斯塔夫罗波尔>>,<<RUS029
+Elista>>,<<埃里斯特>>,<<RUS030
+Belgorod>>,<<别尔哥罗德>>,<<RUS031
+Kharkiv>>,<<哈尔科夫>>,<<UKR019
+Poltava>>,<<波尔塔瓦>>,<<UKR020
+Donets'k>>,<<顿涅茨克>>,<<UKR023
+Krasnodar>>,<<克拉斯诺达尔>>,<<RUS032
+Moscow>>,<<莫斯科>>,<<RUS033
+Tula>>,<<图拉>>,<<RUS035
+Orel>>,<<奥廖尔>>,<<RUS037
+Kursk>>,<<库尔斯克>>,<<RUS038
+Voronezh>>,<<沃罗涅什>>,<<RUS039
+Sumy>>,<<苏梅>>,<<UKR025
+Syktyvkar>>,<<瑟克特夫卡尔市>>,<<RUS040
+Salekhard>>,<<哈尔德>>,<<RUS049
+Tyumen>>,<<秋明>>,<<RUS050
+Sverdlovsk>>,<<斯维尔德洛夫斯克>>,<<RUS051
+Orenburg>>,<<奥伦堡>>,<<RUS053
+Kazan'>>,<<喀山>>,<<RUS055
+Saransk>>,<<萨兰斯克>>,<<RUS057
+Penza>>,<<奔萨>>,<<RUS059
+Saratov>>,<<萨拉托夫>>,<<RUS060
+Atyrau>>,<<阿特劳>>,<<KAZ002
+Astrakhan>>,<<阿斯特拉罕>>,<<RUS061
+Chelyabinsk>>,<<车里雅宾斯克>>,<<RUS063
+Aktyubinsk>>,<<阿克纠宾斯克州>>,<<KAZ004
+Tomsk>>,<<托木斯克>>,<<RUS064
+Khanty-Mansiysk>>,<<汉特-曼西斯克>>,<<RUS065
+Igarka>>,<<伊加尔卡>>,<<RUS066
+Omsk>>,<<鄂木斯克>>,<<RUS067
+Pavlodar>>,<<甫洛达尔>>,<<KAZ008
+Astana>>,<<阿斯塔纳>>,<<KAZ009
+Karaganda>>,<<卡拉干达州>>,<<KAZ010
+Ust'-Kamenogorsk>>,<<乌斯卡缅诺戈尔斯克>>,<<KAZ013
+Kemerovo>>,<<克麦罗沃>>,<<RUS068
+Novosibirsk>>,<<新西伯利亚>>,<<RUS069
+Barnaul>>,<<巴尔瑙尔>>,<<RUS071
+Semipalatinsk>>,<<塞米巴拉金斯克>>,<<KAZ014
+Olgiy>>,<<乌勒盖>>,<<MNG001
+Sari>>,<<莎丽>>,<<IRN001
+Al Mukalla>>,<<艾尔 马卡拉>>,<<YEM010
+Al Bayda>>,<<阿尔拜>>,<<YEM012
+Aden>>,<<亚丁湾>>,<<YEM013
+Tehran>>,<<德黑兰>>,<<IRN003
+Garoowe>>,<<加鲁威>>,<<SOM011
+Beledweyne>>,<<城镇贝莱德>>,<<SOM014
+Mogadishu>>,<<摩加迪沙>>,<<SOM016
+Esfahan>>,<<伊斯法罕>>,<<IRN004
+Yazd>>,<<亚兹德>>,<<IRN006
+Shiraz>>,<<设拉子>>,<<IRN008
+Kuwait>>,<<科威特>>,<<KWT001
+Hawalli>>,<<哈瓦利>>,<<KWT002
+Bushehr>>,<<布什尔>>,<<IRN009
+Manama>>,<<麦纳麦>>,<<BHR002
+Riyadh>>,<<利雅得>>,<<SAU014
+Khorramabad>>,<<霍拉马巴德>>,<<IRN011
+Al-Kut>>,<<库特>>,<<IRQ013
+Ahvaz>>,<<阿瓦士>>,<<IRN012
+Ajman>>,<<阿治曼>>,<<ARE003
+Sharjah>>,<<沙迦>>,<<ARE004
+Doha>>,<<多哈>>,<<QAT001
+Dubai>>,<<迪拜>>,<<ARE005
+Abu Dhabi>>,<<阿布扎比>>,<<ARE006
+Baku>>,<<巴库>>,<<AZE001
+Turkmenbashi>>,<<土库曼巴希>>,<<TKM001
+Hamadan>>,<<哈马丹>>,<<IRN013
+Arak>>,<<阿拉克>>,<<IRN014
+Tabriz>>,<<大不里士>>,<<IRN015
+Rasht>>,<<拉什特>>,<<IRN017
+Zanjan>>,<<桑姜>>,<<IRN018
+Sanandaj>>,<<萨南达季>>,<<IRN019
+Kermanshah>>,<<科曼莎>>,<<IRN020
+Urgench>>,<<亚·乌尔根奇市>>,<<UZB002
+Ashgabat>>,<<阿什哈巴德>>,<<TKM003
+Mary>>,<<玛丽>>,<<TKM004
+Mashhad>>,<<马什哈德>>,<<IRN021
+Bukhara>>,<<布哈拉>>,<<UZB004
+Samarkand>>,<<撒马尔罕>>,<<UZB005
+Termez>>,<<泰尔梅兹的>>,<<UZB007
+Herat>>,<<赫拉特>>,<<AFG006
+Kerman>>,<<科曼地毯>>,<<IRN022
+Zahedan>>,<<扎黑丹>>,<<IRN023
+Al Kasab>>,<<艾尔卡萨伯>>,<<OMN001
+Karachi>>,<<卡拉奇>>,<<PAK001
+Muscat>>,<<马斯喀特>>,<<OMN002
+Tarin Kowt>>,<<塔林科特>>,<<AFG007
+Farah>>,<<法拉>>,<<AFG008
+Kandahar>>,<<坎大哈>>,<<AFG010
+Lashkar Gah>>,<<拉什卡尔加>>,<<AFG011
+Zaranj>>,<<扎兰吉>>,<<AFG012
+Quetta>>,<<奎达>>,<<PAK002
+Srinagar>>,<<斯利那加>>,<<IND001
+Amritsar>>,<<阿姆利则>>,<<IND002
+Lahore>>,<<拉合尔>>,<<PAK003
+Simla>>,<<西姆拉>>,<<IND003
+Chandigarh>>,<<昌迪加尔>>,<<IND004
+Delhi>>,<<德里>>,<<IND005
+Jaipur>>,<<斋浦尔>>,<<IND006
+Bhopal>>,<<博帕尔>>,<<IND007
+New Delhi>>,<<新德里>>,<<IND008
+Ghazni>>,<<加兹尼>>,<<AFG015
+Hyderabad>>,<<海德拉巴>>,<<PAK007
+Ahmadabad>>,<<阿默达巴德>>,<<IND010
+Almaty>>,<<阿拉木图>>,<<KAZ017
+Bishkek>>,<<比什凯克>>,<<KGZ001
+Namangan>>,<<纳曼干>>,<<UZB008
+Andizhan>>,<<安集延>>,<<UZB009
+Osh>>,<<奥什>>,<<KGZ004
+Fergana>>,<<费尔干纳>>,<<UZB010
+Dushanbe>>,<<杜尚别>>,<<TJK001
+Feyzabad>>,<<扎巴德>>,<<AFG017
+Peshawar>>,<<白沙瓦>>,<<PAK008
+Baghlan>>,<<巴格兰>>,<<AFG022
+Bamian>>,<<巴米扬>>,<<AFG025
+Kabul>>,<<喀布尔>>,<<AFG027
+Baraki Barak>>,<<茨木市巴拉克>>,<<AFG029
+Talas>>,<<塔拉斯>>,<<KGZ005
+Tashkent>>,<<塔什干>>,<<UZB011
+Gulistan>>,<<古丽>>,<<UZB012
+Dzhambul>>,<<江布尔市>>,<<KAZ019
+Urumqi>>,<<乌鲁木齐>>,<<CHN002
+Lucknow>>,<<勒克瑙>>,<<IND011
+Kanpur>>,<<坎普尔>>,<<IND012
+Varanasi>>,<<瓦拉纳西>>,<<IND013
+Pokhara>>,<<博卡拉>>,<<NPL008
+Kathmandu>>,<<加德满都>>,<<NPL009
+Patna>>,<<巴特那>>,<<IND014
+Khulna>>,<<库尔纳>>,<<BGD002
+Kolkata>>,<<加尔各答>>,<<IND015
+Thimphu>>,<<廷布>>,<<BTN002
+Paro>>,<<帕罗>>,<<BTN004
+Gangtok>>,<<甘托克>>,<<IND016
+Nagpur>>,<<那格浦尔>>,<<IND017
+Chennai>>,<<钦奈>>,<<IND020
+Pondicherry>>,<<本地治里>>,<<IND021
+Madurai>>,<<马杜赖>>,<<IND023
+Trivandrum>>,<<特里凡得琅>>,<<IND024
+Cochin>>,<<科钦>>,<<IND025
+Mumbai>>,<<孟买>>,<<IND028
+Pune>>,<<浦那>>,<<IND029
+Hyderabad>>,<<海德拉巴>>,<<IND030
+Bangalore>>,<<班加罗尔>>,<<IND032
+Mangalore>>,<<芒格洛尔>>,<<IND033
+Trincomalee>>,<<亭可马里>>,<<LKA001
+Kandy>>,<<康提>>,<<LKA004
+Colombo>>,<<科伦坡>>,<<LKA006
+Galle>>,<<加勒>>,<<LKA008
+Koror>>,<<科罗尔>>,<<PLW001
+Davao>>,<<达沃>>,<<PHL001
+Manado>>,<<万鸦老>>,<<IDN001
+Hiroshima>>,<<广岛>>,<<JPN001
+Matsuyama>>,<<松山>>,<<JPN002
+Luan Chau>>,<<菜肴洲>>,<<VNM004
+Louangphrabang>>,<<琅勃拉邦>>,<<LAO005
+Shimonoseki>>,<<下关>>,<<JPN003
+Mandalay>>,<<曼德勒>>,<<MMR001
+Mae Hong Son>>,<<湄宏>>,<<THA004
+Surat Thani>>,<<苏拉特阿勒萨尼>>,<<THA007
+Phangnga>>,<<攀牙>>,<<THA008
+Phuket>>,<<普吉岛>>,<<THA009
+Banda Aceh>>,<<班达亚齐>>,<<IDN002
+Ipoh>>,<<怡保>>,<<MYS001
+Medan>>,<<棉兰>>,<<IDN003
+Krabi>>,<<甲米>>,<<THA011
+Songkhla>>,<<宋卡>>,<<THA014
+Kangar>>,<<加央>>,<<MYS003
+Chittagong>>,<<吉大港>>,<<BGD003
+Rangoon>>,<<仰光>>,<<MMR008
+Moulmein>>,<<毛淡棉>>,<<MMR011
+Tavoy>>,<<德林>>,<<MMR012
+Port Blair>>,<<布莱尔港>>,<<IND034
+Chiang Mai>>,<<清迈>>,<<THA017
+Tak>>,<<达克>>,<<THA024
+Bangkok>>,<<曼谷>>,<<THA041
+Chachoengsao>>,<<北柳府>>,<<THA042
+Chon Buri>>,<<分布利>>,<<THA045
+Savannakhet>>,<<沙湾拿吉>>,<<LAO006
+Ubon Ratchathani>>,<<乌汶府>>,<<THA053
+Rayong>>,<<罗永府>>,<<THA056
+Trat>>,<<达叻>>,<<THA058
+Khon Kaen>>,<<孔敬>>,<<THA059
+Surin>>,<<素林>>,<<THA066
+Phnom Penh>>,<<金边>>,<<KHM011
+Vientiane>>,<<万象>>,<<LAO012
+Udon Thani>>,<<孔敬>>,<<THA069
+Thai Binh>>,<<太平>>,<<VNM008
+Tuyen Quang>>,<<宣光>>,<<VNM009
+Thai Nguyen>>,<<泰国阮>>,<<VNM011
+Hanoi>>,<<河内>>,<<VNM013
+Thanh Hoa>>,<<清化>>,<<VNM016
+Lang Son>>,<<谅山县>>,<<VNM017
+Haiphong>>,<<海防>>,<<VNM020
+Da Nang>>,<<岘港>>,<<VNM023
+Tuy Hoa>>,<<图阿华>>,<<VNM028
+Nha Trang>>,<<芽庄>>,<<VNM030
+Da Lat>>,<<大叻>>,<<VNM031
+Phan Thiet>>,<<睦乃至藩切城>>,<<VNM032
+Kuala Terengganu>>,<<河口丁加奴>>,<<MYS007
+Kuala Lumpur>>,<<吉隆坡>>,<<MYS009
+Shah Alam>>,<<莎阿南>>,<<MYS010
+Kuching>>,<<古晋>>,<<MYS011
+Seremban>>,<<芙蓉>>,<<MYS012
+Melaka>>,<<马六甲>>,<<MYS013
+Johor Baharu>>,<<柔佛巴鲁>>,<<MYS014
+Pekanbaru>>,<<内省>>,<<IDN004
+Singapore>>,<<新加坡>>,<<SGP001
+Narathiwat>>,<<那拉提瓦>>,<<THA072
+Kota Baharu>>,<<哥打巴鲁>>,<<MYS015
+Ho Chi Minh City>>,<<胡志明市>>,<<VNM035
+Kampot>>,<<贡布>>,<<KHM018
+Bac Lieu>>,<<薄寮>>,<<VNM046
+Lhasa>>,<<拉萨>>,<<CHN004
+Myitkyina>>,<<密支那>>,<<MMR013
+Imphal>>,<<英帕尔>>,<<IND035
+Shillong>>,<<西隆>>,<<IND040
+Agartala>>,<<阿加尔塔拉>>,<<IND041
+Dhaka>>,<<达卡>>,<<BGD004
+Barisal>>,<<博里萨尔>>,<<BGD005
+Yinchuan>>,<<银川>>,<<CHN006
+Xining>>,<<西宁>>,<<CHN007
+Lanzhou>>,<<兰州>>,<<CHN008
+Xi'an>>,<<西安>>,<<CHN010
+Hohhot City>>,<<呼和浩特>>,<<CHN011
+Chengdu>>,<<成都>>,<<CHN012
+Chongqing>>,<<重庆>>,<<CHN013
+Guiyang>>,<<贵阳>>,<<CHN014
+Kunming>>,<<昆明>>,<<CHN015
+Nanning>>,<<南宁>>,<<CHN016
+Ha Giang>>,<<河江>>,<<VNM047
+Cao Bang>>,<<高平>>,<<VNM048
+Lao Cai>>,<<老街>>,<<VNM049
+Fuzhou>>,<<福州>>,<<CHN019
+Taipei>>,<<台北>>,<<CHN020
+Nanjing>>,<<南京>>,<<CHN024
+Hefei>>,<<合肥>>,<<CHN025
+Shanghai>>,<<上海>>,<<CHN026
+Wuhan>>,<<武汉>>,<<CHN027
+Hangzhou>>,<<杭州>>,<<CHN028
+Nanchang>>,<<南昌>>,<<CHN029
+Changsha>>,<<长沙>>,<<CHN030
+Guangzhou>>,<<广州>>,<<CHN031
+Shenyang>>,<<沈阳>>,<<CHN032
+Haikou>>,<<海口>>,<<CHN033
+Beijing>>,<<北京>>,<<CHN034
+Tianjin>>,<<天津>>,<<CHN036
+Shijiazhuang>>,<<石家庄>>,<<CHN037
+Taiyuan>>,<<太原>>,<<CHN038
+Jinan>>,<<济南>>,<<CHN039
+Zhengzhou>>,<<郑州>>,<<CHN040
+Vladivostok>>,<<符拉迪沃斯托克>>,<<RUS075
+Taejon>>,<<大田>>,<<KOR001
+Chonju>>,<<全州>>,<<KOR002
+Pusan>>,<<釜山>>,<<KOR003
+Kwangju>>,<<光州>>,<<KOR004
+Taegu>>,<<大邱市>>,<<KOR005
+Wonsan>>,<<元山>>,<<PRK002
+Sariwon>>,<<沙里院>>,<<PRK004
+Haeju>>,<<海州>>,<<PRK005
+Kaesong>>,<<开城>>,<<PRK006
+Seoul>>,<<首尔>>,<<KOR009
+Changchun>>,<<长春>>,<<CHN041
+Hyesan>>,<<惠山>>,<<PRK007
+Kanggye>>,<<江界>>,<<PRK008
+Sinuiju>>,<<新义州>>,<<PRK009
+Hamhung>>,<<咸兴>>,<<PRK010
+Kita Kyushu>>,<<北九州>>,<<JPN004
+Fukuoka>>,<<福冈>>,<<JPN005
+Cheju>>,<<济州>>,<<KOR010
+Nagasaki>>,<<长崎>>,<<JPN006
+Naha>>,<<那霸>>,<<JPN007
+Hong Kong>>,<<香港>>,<<CHN044
+Macau>>,<<澳门>>,<<CHN045
+Quezon City>>,<<奎松城>>,<<PHL002
+Manila>>,<<马尼拉>>,<<PHL003
+Bandar Seri Begawan>>,<<斯里巴加湾市>>,<<BRN001
+Ulaanbaatar>>,<<乌兰巴托>>,<<MNG004
+Altay>>,<<阿尔泰>>,<<MNG007
+Krasnoyarsk>>,<<克拉斯诺雅茨克>>,<<RUS080
+Abakan>>,<<亚巴坎>>,<<RUS081
+Kyzyl>>,<<孜勒>>,<<RUS082
+Darhan>>,<<达尔汗>>,<<MNG014
+Irkutsk>>,<<伊尔库茨克>>,<<RUS083
+Ulan Ude>>,<<乌兰乌德>>,<<RUS084
+Yakutsk>>,<<雅库茨克>>,<<RUS086
+Chita>>,<<契塔>>,<<RUS087
+Blagoveshchensk>>,<<布拉戈维申斯岛>>,<<RUS088
+Harbin>>,<<哈尔滨>>,<<CHN048
+Birobidzhan>>,<<比罗比詹>>,<<RUS090
+Magadan>>,<<马加丹州>>,<<RUS091
+Khabarovsk>>,<<哈巴罗夫斯克>>,<<RUS094
+Yuzhno-Sakhalinsk>>,<<罗斯>>,<<RUS095
+Anadyr>>,<<阿纳德尔河>>,<<RUS097
+Tarawa>>,<<塔拉瓦>>,<<KIR001
+Sapporo>>,<<札幌>>,<<JPN008
+Aomori>>,<<青森县>>,<<JPN009
+Sendai>>,<<仙台>>,<<JPN010
+Tokyo>>,<<东京>>,<<JPN011
+Kawasaki>>,<<川崎>>,<<JPN012
+Yokohama>>,<<横滨>>,<<JPN013
+Nagoya>>,<<名古屋>>,<<JPN014
+Kyoto>>,<<京都>>,<<JPN015
+Kobe>>,<<科比>>,<<JPN016
+Osaka>>,<<大阪>>,<<JPN017
+Gifu>>,<<岐阜>>,<<JPN018
+Mutare>>,<<穆塔雷>>,<<ZWE001
+Moroni>>,<<莫洛尼>>,<<COM001
+Mocambique>>,<<莫桑比克>>,<<MOZ002
+Harare>>,<<哈拉雷>>,<<ZWE004
+Bulawayo>>,<<布拉瓦约>>,<<ZWE005
+Port Gentil>>,<<让蒂尔港>>,<<GAB005
+Swakopmund>>,<<斯瓦科普蒙德>>,<<NAM005
+Luderitz>>,<<吕德里茨>>,<<NAM007
+Cape Town>>,<<开普敦>>,<<ZAF001
+Windhoek>>,<<温得和克>>,<<NAM008
+Uige>>,<<威热>>,<<AGO007
+Luanda>>,<<罗安达>>,<<AGO009
+Malange>>,<<马兰热和>>,<<AGO011
+Masuku>>,<<马苏库>>,<<GAB009
+Cabinda>>,<<卡宾达>>,<<AGO013
+Benguela>>,<<本格拉>>,<<AGO015
+Huambo>>,<<万博>>,<<AGO016
+Namibe>>,<<纳米>>,<<AGO018
+Ndola>>,<<恩多拉>>,<<ZMB003
+Kabwe>>,<<卡布韦>>,<<ZMB005
+Lusaka>>,<<卢萨卡>>,<<ZMB006
+Livingstone>>,<<利文斯通>>,<<ZMB009
+Kigoma>>,<<基戈马>>,<<TZA007
+Bujumbura>>,<<布琼布拉>>,<<BDI011
+Gisenyi>>,<<吉塞尼>>,<<RWA002
+Kigali>>,<<基加利>>,<<RWA007
+Arusha>>,<<阿鲁沙>>,<<TZA009
+Mombasa>>,<<蒙巴萨>>,<<KEN003
+Tanga>>,<<坦噶>>,<<TZA011
+Lindi>>,<<林迪城区>>,<<TZA013
+Zanzibar>>,<<桑给巴尔>>,<<TZA017
+Dodoma>>,<<多多马>>,<<TZA018
+Kibaha>>,<<基巴哈>>,<<TZA019
+Dar es Salaam>>,<<达累斯萨拉姆>>,<<TZA020
+Kisumu>>,<<基苏姆城>>,<<KEN004
+Nakuru>>,<<纳库鲁>>,<<KEN005
+Nairobi>>,<<内罗毕>>,<<KEN008
+Singida>>,<<辛吉达>>,<<TZA025
+Lilongwe>>,<<利隆圭>>,<<MWI002
+Nampula>>,<<楠普拉>>,<<MOZ007
+Blantyre>>,<<布兰太尔>>,<<MWI003
+Beira>>,<<贝拉>>,<<MOZ009
+Maputo>>,<<马普托>>,<<MOZ010
+Mbabane>>,<<姆巴巴纳>>,<<SWZ002
+Port Elizabeth>>,<<伊丽莎白港>>,<<ZAF002
+Nelspruit>>,<<内尔斯普雷特>>,<<ZAF003
+Gaborone>>,<<哈博罗内>>,<<BWA009
+Johannesburg>>,<<约翰内斯堡>>,<<ZAF004
+East London>>,<<东伦敦>>,<<ZAF005
+Kimberley>>,<<金伯利>>,<<ZAF008
+Bloemfontein>>,<<布隆方丹>>,<<ZAF009
+Maseru>>,<<马塞卢>>,<<LSO003
+Pretoria>>,<<比勒陀利亚>>,<<ZAF010
+Richards Bay>>,<<理查兹湾>>,<<ZAF012
+Durban>>,<<德班>>,<<ZAF013
+Pietermaritzburg (Ulundi)>>,<<彼得马里茨堡>>,<<ZAF014
+Saint-Denis>>,<<圣但尼>>,<<REU001
+Victoria>>,<<维多利亚>>,<<SYC001
+Toamasina>>,<<图阿马西纳>>,<<MDG004
+Antananarivo>>,<<塔那那利佛>>,<<MDG005
+Port Louis>>,<<路易港>>,<<MUS001
+Padang>>,<<巴东>>,<<IDN005
+Bandung>>,<<万隆>>,<<IDN006
+Semarang>>,<<三堡垄港>>,<<IDN007
+Alice Springs>>,<<艾丽斯斯普林斯>>,<<AUS001
+Perth>>,<<珀斯>>,<<AUS002
+Fremantle>>,<<弗里曼特尔>>,<<AUS003
+Pontianak>>,<<坤甸>>,<<IDN009
+Jambi>>,<<占碑>>,<<IDN010
+Palembang>>,<<巴邻旁>>,<<IDN011
+Bengkulu>>,<<明古鲁>>,<<IDN012
+Jakarta>>,<<雅加达>>,<<IDN014
+Ambon>>,<<安汶>>,<<IDN016
+Makassar>>,<<孟加锡>>,<<IDN018
+Darwin>>,<<达尔文>>,<<AUS004
+Balikpapan>>,<<巴厘巴板>>,<<IDN020
+Surabaja>>,<<泗水>>,<<IDN023
+Denpasar>>,<<登巴萨>>,<<IDN025
+Kupang>>,<<古邦召开>>,<<IDN026
+Jayapura>>,<<查亚普拉>>,<<IDN027
+Hastings>>,<<黑斯廷斯>>,<<NZL001
+Wanganui>>,<<旺格努伊>>,<<NZL002
+Wellington>>,<<惠灵顿>>,<<NZL003
+Rockhampton>>,<<罗克汉普顿>>,<<AUS006
+Brisbane>>,<<布里斯班>>,<<AUS007
+Newcastle>>,<<纽卡斯尔>>,<<AUS008
+Sydney>>,<<悉尼>>,<<AUS009
+Adelaide>>,<<阿德莱德>>,<<AUS010
+Canberra>>,<<堪培拉>>,<<AUS011
+Melbourne>>,<<墨尔本>>,<<AUS012
+Hobart>>,<<霍巴特>>,<<AUS013
+Cairns>>,<<凯恩斯>>,<<AUS014
+Townsville>>,<<汤斯维尔>>,<<AUS015
+Rabaul>>,<<腊包尔>>,<<PNG013
+Lae>>,<<莱城>>,<<PNG016
+Port Moresby>>,<<莫尔兹比港>>,<<PNG019
+Funafuti>>,<<富那富提>>,<<TUV001
+Port Vila>>,<<维拉港>>,<<VUT001
+Suva>>,<<苏瓦>>,<<FJI001
+Noumea>>,<<努美阿>>,<<NCL001
+Yaren>>,<<亚伦>>,<<NRU001
+Auckland>>,<<奥克兰>>,<<NZL005
+Tauranga>>,<<陶兰加>>,<<NZL006
+Hamilton>>,<<汉密尔顿>>,<<NZL007
+Gisborne>>,<<吉斯伯恩>>,<<NZL008
+New Plymouth>>,<<新普利茅斯>>,<<NZL009
+Nelson>>,<<纳尔逊>>,<<NZL010
+Christchurch>>,<<克赖斯特彻奇>>,<<NZL012
+Dunedin>>,<<达尼丁>>,<<NZL013

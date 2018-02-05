@@ -1,0 +1,1694 @@
+CITY NAME>>,<<PROVINCE NAME>>,<<PROVINCE GMI>>,<<COUNTYR NAME>>,<<COUNTRY FIPS CODE>>,<<COUNTRY GMI
+Cuiaba>>,<<Mato Grosso>>,<<BRA-MGR>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA001
+Brasilia>>,<<Distrito Federal>>,<<BRA-DFD>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA002
+Goiania>>,<<Goias>>,<<BRA-GOI>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA003
+Campo Grande>>,<<Mato Grosso do Sul>>,<<BRA-MGD>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA004
+Pedro Juan Caballero>>,<<Amambay>>,<<PRY-AMM>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY001
+Salto del Guaira>>,<<Canindeyu>>,<<PRY-CNN>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY002
+Encarnacion>>,<<Itapua>>,<<PRY-ITA>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY004
+Posadas>>,<<Misiones>>,<<ARG-MSN>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG001
+Puerto Maldonado>>,<<Madre de Dios>>,<<PER-MDD>>,<<Peru>>,<<PE>>,<<PER>>,<<PER001
+Cuzco>>,<<Cusco>>,<<PER-CUS>>,<<Peru>>,<<PE>>,<<PER>>,<<PER002
+Abancay>>,<<Apurimac>>,<<PER-APR>>,<<Peru>>,<<PE>>,<<PER>>,<<PER003
+Puno>>,<<Puno>>,<<PER-PUN>>,<<Peru>>,<<PE>>,<<PER>>,<<PER004
+Arequipa>>,<<Arequipa>>,<<PER-ARQ>>,<<Peru>>,<<PE>>,<<PER>>,<<PER005
+La Paz>>,<<La Paz>>,<<BOL-LPA>>,<<Bolivia>>,<<BL>>,<<BOL>>,<<BOL001
+Apia>>,<<Samoa>>,<<WSM>>,<<Samoa>>,<<WS>>,<<WSM>>,<<WSM001
+Pago Pago>>,<<American Samoa>>,<<ASM>>,<<American Samoa>>,<<AQ>>,<<ASM>>,<<ASM001
+Papeete>>,<<French Polynesia>>,<<PYF>>,<<French Polynesia>>,<<FP>>,<<PYF>>,<<PYF001
+Alofi>>,<<Niue>>,<<NIU>>,<<Niue>>,<<NE>>,<<NIU>>,<<NIU001
+Nuku' alofa>>,<<Tonga>>,<<TON>>,<<Tonga>>,<<TN>>,<<TON>>,<<TON001
+Puerto Aisen>>,<<Aisen del General Carlos Ibanez del Campo>>,<<CHL-ADG>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL001
+Comodoro Rivadavia>>,<<Chubut>>,<<ARG-CHB>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG002
+Rio Gallegos>>,<<Santa Cruz>>,<<ARG-SCR>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG003
+Punta Arenas>>,<<Magallanes y de la Antartica Chilena>>,<<CHL-MYA>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL002
+Ushuaia>>,<<Tierra del Fuego>>,<<ARG-TDF>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG004
+San Fernando>>,<<Libertador General Bernardo O'Higgins>>,<<CHL-LGB>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL003
+Talca>>,<<Maule>>,<<CHL-MAU>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL004
+Concepcion>>,<<Bio-Bio>>,<<CHL-BIO>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL005
+Temuco>>,<<Araucania>>,<<CHL-ARC>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL006
+Neuquen>>,<<Neuquen>>,<<ARG-NEU>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG005
+Puerto Montt>>,<<Los Lagos>>,<<CHL-LLA>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL007
+Antofagasta>>,<<Antofagasta>>,<<CHL-ANT>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL008
+Copiapo>>,<<Atacama>>,<<CHL-ATC>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL009
+La Serena>>,<<Coquimbo>>,<<CHL-CQM>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL010
+San Juan>>,<<San Juan>>,<<ARG-SJU>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG006
+Mendoza>>,<<Mendoza>>,<<ARG-MND>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG007
+Valparaiso>>,<<Valparaiso>>,<<CHL-VLP>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL011
+Santiago>>,<<Region Metropolitana>>,<<CHL-RMT>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL012
+Coquimbo>>,<<Coquimbo>>,<<CHL-CQM>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL013
+Portoviejo>>,<<Manabi>>,<<ECU-MAN>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU001
+Guaranda>>,<<Bolivar>>,<<ECU-BLV>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU002
+Babahoyo>>,<<Los Rios>>,<<ECU-LRI>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU003
+Guayaquil>>,<<Guayas>>,<<ECU-GUA>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU004
+Azogues>>,<<Canar>>,<<ECU-CAN>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU005
+Leticia>>,<<Amazonas>>,<<COL-AMZ>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL001
+Rio Branco>>,<<Acre>>,<<BRA-ACR>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA005
+Cobija>>,<<Pando>>,<<BOL-PAN>>,<<Bolivia>>,<<BL>>,<<BOL>>,<<BOL002
+Baquerizo Moreno>>,<<Galapagos>>,<<ECU-GLP>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU006
+Cuenca>>,<<Azuay>>,<<ECU-AZU>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU007
+Machala>>,<<El Oro>>,<<ECU-EOR>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU008
+Tumbes>>,<<Tumbes>>,<<PER-TMB>>,<<Peru>>,<<PE>>,<<PER>>,<<PER006
+Loja>>,<<Loja>>,<<ECU-LOJ>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU009
+Zamora>>,<<Zamora-Chinchipe>>,<<ECU-ZCH>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU010
+Piura>>,<<Piura>>,<<PER-PIU>>,<<Peru>>,<<PE>>,<<PER>>,<<PER007
+Chiclayo>>,<<Lambayeque>>,<<PER-LMB>>,<<Peru>>,<<PE>>,<<PER>>,<<PER008
+Trujillo>>,<<La Libertad>>,<<PER-LLB>>,<<Peru>>,<<PE>>,<<PER>>,<<PER009
+Chachapoyas>>,<<Amazonas>>,<<PER-AMZ>>,<<Peru>>,<<PE>>,<<PER>>,<<PER011
+Cajamarca>>,<<Cajamarca>>,<<PER-CJM>>,<<Peru>>,<<PE>>,<<PER>>,<<PER012
+Pucallpa>>,<<Ucayali>>,<<PER-UCY>>,<<Peru>>,<<PE>>,<<PER>>,<<PER013
+Chimbote>>,<<Ancash>>,<<PER-ANC>>,<<Peru>>,<<PE>>,<<PER>>,<<PER014
+Huaraz>>,<<Ancash>>,<<PER-ANC>>,<<Peru>>,<<PE>>,<<PER>>,<<PER015
+Huanuco>>,<<Huanuco>>,<<PER-HUA>>,<<Peru>>,<<PE>>,<<PER>>,<<PER016
+Cerro De Pasco>>,<<Pasco>>,<<PER-PAS>>,<<Peru>>,<<PE>>,<<PER>>,<<PER017
+Quito>>,<<Pichincha>>,<<ECU-PCH>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU011
+Tena>>,<<Napo>>,<<ECU-NAP>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU013
+Ambato>>,<<Tungurahua>>,<<ECU-TNG>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU014
+Puyo>>,<<Pastaza>>,<<ECU-PST>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU015
+Riobamba>>,<<Chimborazo>>,<<ECU-CHM>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU016
+Macas>>,<<Morona-Santiago>>,<<ECU-MSN>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU017
+Iquitos>>,<<Loreto>>,<<PER-LOR>>,<<Peru>>,<<PE>>,<<PER>>,<<PER018
+Callao>>,<<Callao>>,<<PER-CAL>>,<<Peru>>,<<PE>>,<<PER>>,<<PER019
+Huancayo>>,<<Junin>>,<<PER-JUN>>,<<Peru>>,<<PE>>,<<PER>>,<<PER020
+Huancavelica>>,<<Huancavelica>>,<<PER-HNC>>,<<Peru>>,<<PE>>,<<PER>>,<<PER021
+Ayacucho>>,<<Ayacucho>>,<<PER-AYC>>,<<Peru>>,<<PE>>,<<PER>>,<<PER022
+Ica>>,<<Ica>>,<<PER-ICA>>,<<Peru>>,<<PE>>,<<PER>>,<<PER023
+Moquegua>>,<<Moquegua>>,<<PER-MOQ>>,<<Peru>>,<<PE>>,<<PER>>,<<PER024
+Tacna>>,<<Tacna>>,<<PER-TAC>>,<<Peru>>,<<PE>>,<<PER>>,<<PER025
+Iquique>>,<<Tarapaca>>,<<CHL-TRP>>,<<Chile>>,<<CI>>,<<CHL>>,<<CHL014
+Lima>>,<<Lima>>,<<PER-LIM>>,<<Peru>>,<<PE>>,<<PER>>,<<PER026
+Belem>>,<<Para>>,<<BRA-PAR>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA006
+Manaus>>,<<Amazonas>>,<<BRA-AMZ>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA008
+Porto Velho>>,<<Rondonia>>,<<BRA-RND>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA009
+Palmas>>,<<Tocantins>>,<<BRA-TCN>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA010
+Trinidad>>,<<El Beni>>,<<BOL-EBE>>,<<Bolivia>>,<<BL>>,<<BOL>>,<<BOL003
+Cochabamba>>,<<Cochabamba>>,<<BOL-CCH>>,<<Bolivia>>,<<BL>>,<<BOL>>,<<BOL004
+Santa Cruz de La Sierra>>,<<Santa Cruz>>,<<BOL-SCR>>,<<Bolivia>>,<<BL>>,<<BOL>>,<<BOL005
+Oruro>>,<<Oruro>>,<<BOL-ORU>>,<<Bolivia>>,<<BL>>,<<BOL>>,<<BOL006
+Potosi>>,<<Potosi>>,<<BOL-POT>>,<<Bolivia>>,<<BL>>,<<BOL>>,<<BOL008
+Fortin Coronel Eugenia Garay>>,<<Nueva Asuncion>>,<<PRY-NAS>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY008
+Tarija>>,<<Tarija>>,<<BOL-TAR>>,<<Bolivia>>,<<BL>>,<<BOL>>,<<BOL009
+Concepcion>>,<<Concepcion>>,<<PRY-CNC>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY009
+Pozo Colorado>>,<<Presidente Hayes>>,<<PRY-PHA>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY010
+San Pedro>>,<<San Pedro>>,<<PRY-SPE>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY011
+Asuncion>>,<<Central>>,<<PRY-CNT>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY012
+Artigas>>,<<Artigas>>,<<URY-ART>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY001
+Santa Fe>>,<<Santa Fe>>,<<ARG-SFE>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG008
+Parana>>,<<Entre Rios>>,<<ARG-ERI>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG009
+Rosario>>,<<Santa Fe>>,<<ARG-SFE>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG010
+La Plata>>,<<Buenos Aires>>,<<ARG-BAI>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG011
+San Jose De Mayo>>,<<San Jose>>,<<URY-SJO>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY002
+Colonia del Sacramento>>,<<Colonia>>,<<URY-COL>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY003
+Canelones>>,<<Canelones>>,<<URY-CNL>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY004
+Santa Rosa>>,<<La Pampa>>,<<ARG-LPA>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG012
+Bahia Blanca>>,<<Buenos Aires>>,<<ARG-BAI>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG013
+Viedma>>,<<Rio Negro>>,<<ARG-RNE>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG014
+Rawson>>,<<Chubut>>,<<ARG-CHB>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG015
+Buenos Aires>>,<<Distrito Federal>>,<<ARG-DFD>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG016
+San Salvador De Jujuy>>,<<Jujuy>>,<<ARG-JUJ>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG017
+Salta>>,<<Salta>>,<<ARG-SAL>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG018
+San Miguel De Tucuman>>,<<Tucuman>>,<<ARG-TCM>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG019
+Santiago Del Estero>>,<<Santiago del Estero>>,<<ARG-SDE>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG020
+Catamarca>>,<<Catamarca>>,<<ARG-CTM>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG021
+La Rioja>>,<<La Rioja>>,<<ARG-LRI>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG022
+Cordoba>>,<<Cordoba>>,<<ARG-CRD>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG023
+San Luis>>,<<San Luis>>,<<ARG-SLU>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG024
+Caacupe>>,<<Cordillera>>,<<PRY-CRD>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY013
+Coronel Oviedo>>,<<Caaguazu>>,<<PRY-CAA>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY014
+Paraguari>>,<<Paraguari>>,<<PRY-PRG>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY015
+Villarrica>>,<<Guaira>>,<<PRY-GUA>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY016
+Formosa>>,<<Formosa>>,<<ARG-FRM>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG025
+Pilar>>,<<Neembucu>>,<<PRY-NMB>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY017
+Resistencia>>,<<Chaco>>,<<ARG-CHA>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG026
+Corrientes>>,<<Corrientes>>,<<ARG-CRR>>,<<Argentina>>,<<AR>>,<<ARG>>,<<ARG027
+Ypacarai>>,<<Central>>,<<PRY-CNT>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY018
+Caazapa>>,<<Caazapa>>,<<PRY-CAZ>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY019
+San Juan Bautista>>,<<Misiones>>,<<PRY-MSN>>,<<Paraguay>>,<<PA>>,<<PRY>>,<<PRY020
+Salto>>,<<Salto>>,<<URY-SAL>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY005
+Paysandu>>,<<Paysandu>>,<<URY-PYS>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY006
+Fray Bentos>>,<<Rio Negro>>,<<URY-RNE>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY007
+Mercedes>>,<<Soriano>>,<<URY-SOR>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY008
+Durazno>>,<<Durazno>>,<<URY-DRZ>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY009
+Trinidad>>,<<Flores>>,<<URY-FLR>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY010
+Sao Paulo>>,<<Sao Paulo>>,<<BRA-SPA>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA011
+Santos>>,<<Sao Paulo>>,<<BRA-SPA>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA012
+Curitiba>>,<<Parana>>,<<BRA-PAN>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA013
+Florianopolis>>,<<Santa Catarina>>,<<BRA-SCT>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA014
+Porto Alegre>>,<<Rio Grande do Sul>>,<<BRA-RGS>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA015
+Rivera>>,<<Rivera>>,<<URY-RIV>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY011
+Tacuarembo>>,<<Tacuarembo>>,<<URY-TCR>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY012
+Melo>>,<<Cerro Largo>>,<<URY-CLA>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY013
+Florida>>,<<Florida>>,<<URY-FLD>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY015
+Minas>>,<<Lavalleja>>,<<URY-LVL>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY016
+Rocha>>,<<Rocha>>,<<URY-ROC>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY017
+Montevideo>>,<<Montevideo>>,<<URY-MNT>>,<<Uruguay>>,<<UY>>,<<URY>>,<<URY019
+Salvador>>,<<Bahia>>,<<BRA-BAH>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA016
+Belo Horizonte>>,<<Minas Gerais>>,<<BRA-MGE>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA017
+Vitoria>>,<<Espirito Santo>>,<<BRA-ESA>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA018
+Rio de Janeiro>>,<<Rio de Janeiro>>,<<BRA-RDJ>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA019
+Niteroi>>,<<Rio de Janeiro>>,<<BRA-RDJ>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA020
+Fortaleza>>,<<Ceara>>,<<BRA-CEA>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA022
+Teresina>>,<<Piaui>>,<<BRA-PIA>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA023
+Natal>>,<<Rio Grande do Norte>>,<<BRA-RGN>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA024
+Joao Pessoa>>,<<Paraiba>>,<<BRA-PAA>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA025
+Recife>>,<<Pernambuco>>,<<BRA-PRN>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA026
+Maceio>>,<<Alagoas>>,<<BRA-ALG>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA027
+Aracaju>>,<<Sergipe>>,<<BRA-SRG>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA028
+Galveston>>,<<Texas>>,<<USA-TEX>>,<<United States>>,<<US>>,<<USA>>,<<USA001
+Yellowknife>>,<<Northwest Territories>>,<<CAN-NTR>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN001
+Juneau>>,<<Alaska>>,<<USA-ALK>>,<<United States>>,<<US>>,<<USA>>,<<USA002
+Jackson>>,<<Mississippi>>,<<USA-MSP>>,<<United States>>,<<US>>,<<USA>>,<<USA003
+Baton Rouge>>,<<Louisiana>>,<<USA-LOU>>,<<United States>>,<<US>>,<<USA>>,<<USA004
+New Orleans>>,<<Louisiana>>,<<USA-LOU>>,<<United States>>,<<US>>,<<USA>>,<<USA005
+Houston>>,<<Texas>>,<<USA-TEX>>,<<United States>>,<<US>>,<<USA>>,<<USA006
+Prince Rupert>>,<<British Columbia>>,<<CAN-BCL>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN002
+Whitehorse>>,<<Yukon Territory>>,<<CAN-YTR>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN0039
+Honolulu>>,<<Hawaii>>,<<USA-HAW>>,<<United States>>,<<US>>,<<USA>>,<<USA010
+Hilo>>,<<Hawaii>>,<<USA-HAW>>,<<United States>>,<<US>>,<<USA>>,<<USA011
+Edmonton>>,<<Alberta>>,<<CAN-ALB>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN004
+Calgary>>,<<Alberta>>,<<CAN-ALB>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN005
+Vancouver>>,<<British Columbia>>,<<CAN-BCL>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN006
+Victoria>>,<<British Columbia>>,<<CAN-BCL>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN007
+Seattle>>,<<Washington>>,<<USA-WSH>>,<<United States>>,<<US>>,<<USA>>,<<USA013
+Olympia>>,<<Washington>>,<<USA-WSH>>,<<United States>>,<<US>>,<<USA>>,<<USA014
+Portland>>,<<Oregon>>,<<USA-ORE>>,<<United States>>,<<US>>,<<USA>>,<<USA015
+Bismarck>>,<<North Dakota>>,<<USA-NDA>>,<<United States>>,<<US>>,<<USA>>,<<USA016
+Churchill>>,<<Manitoba>>,<<CAN-MNT>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN009
+Saskatoon>>,<<Saskatchewan>>,<<CAN-SSK>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN010
+Winnipeg>>,<<Manitoba>>,<<CAN-MNT>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN012
+Helena>>,<<Montana>>,<<USA-MNT>>,<<United States>>,<<US>>,<<USA>>,<<USA017
+Saint Paul>>,<<Minnesota>>,<<USA-MNN>>,<<United States>>,<<US>>,<<USA>>,<<USA018
+Pierre>>,<<South Dakota>>,<<USA-SDA>>,<<United States>>,<<US>>,<<USA>>,<<USA019
+Minneapolis>>,<<Minnesota>>,<<USA-MNN>>,<<United States>>,<<US>>,<<USA>>,<<USA020
+Des Moines>>,<<Iowa>>,<<USA-IOW>>,<<United States>>,<<US>>,<<USA>>,<<USA021
+Lincoln>>,<<Nebraska>>,<<USA-NEB>>,<<United States>>,<<US>>,<<USA>>,<<USA022
+Topeka>>,<<Kansas>>,<<USA-KAN>>,<<United States>>,<<US>>,<<USA>>,<<USA023
+Oklahoma City>>,<<Oklahoma>>,<<USA-OKL>>,<<United States>>,<<US>>,<<USA>>,<<USA024
+Mexicali>>,<<Baja California>>,<<MEX-BCN>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX001
+Boise>>,<<Idaho>>,<<USA-IDA>>,<<United States>>,<<US>>,<<USA>>,<<USA026
+Carson City>>,<<Nevada>>,<<USA-NEV>>,<<United States>>,<<US>>,<<USA>>,<<USA029
+Sacramento>>,<<California>>,<<USA-CAL>>,<<United States>>,<<US>>,<<USA>>,<<USA030
+Cheyenne>>,<<Wyoming>>,<<USA-WYM>>,<<United States>>,<<US>>,<<USA>>,<<USA034
+Salt Lake City>>,<<Utah>>,<<USA-UTA>>,<<United States>>,<<US>>,<<USA>>,<<USA035
+Denver>>,<<Colorado>>,<<USA-COL>>,<<United States>>,<<US>>,<<USA>>,<<USA036
+Jefferson City>>,<<Missouri>>,<<USA-MOS>>,<<United States>>,<<US>>,<<USA>>,<<USA039
+Santa Fe>>,<<New Mexico>>,<<USA-NME>>,<<United States>>,<<US>>,<<USA>>,<<USA040
+Little Rock>>,<<Arkansas>>,<<USA-ARK>>,<<United States>>,<<US>>,<<USA>>,<<USA042
+Phoenix>>,<<Arizona>>,<<USA-ARZ>>,<<United States>>,<<US>>,<<USA>>,<<USA043
+El Paso>>,<<Texas>>,<<USA-TEX>>,<<United States>>,<<US>>,<<USA>>,<<USA044
+Hermosillo>>,<<Sonora>>,<<MEX-SON>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX002
+Chihuahua>>,<<Chihuahua>>,<<MEX-CHH>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX003
+Culiacan>>,<<Sinaloa>>,<<MEX-SIN>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX004
+La Paz>>,<<Baja California Sur>>,<<MEX-BCS>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX005
+Durango>>,<<Durango>>,<<MEX-DRN>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX006
+Zacatecas>>,<<Zacatecas>>,<<MEX-ZCT>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX008
+Dallas>>,<<Texas>>,<<USA-TEX>>,<<United States>>,<<US>>,<<USA>>,<<USA045
+Austin>>,<<Texas>>,<<USA-TEX>>,<<United States>>,<<US>>,<<USA>>,<<USA046
+San Antonio>>,<<Texas>>,<<USA-TEX>>,<<United States>>,<<US>>,<<USA>>,<<USA047
+Monterrey>>,<<Nuevo Leon>>,<<MEX-NLE>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX009
+Saltillo>>,<<Coahuila>>,<<MEX-CDZ>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX010
+Ciudad Victoria>>,<<Tamaulipas>>,<<MEX-TML>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX011
+Aguascalientes>>,<<Aguascalientes>>,<<MEX-AGS>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX012
+Tepic>>,<<Nayarit>>,<<MEX-NYR>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX013
+Guanajuato>>,<<Guanajuato>>,<<MEX-GNJ>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX014
+Guadalajara>>,<<Jalisco>>,<<MEX-JLS>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX015
+Colima>>,<<Colima>>,<<MEX-COL>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX016
+Tampico>>,<<Tamaulipas>>,<<MEX-TML>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX017
+Campeche>>,<<Campeche>>,<<MEX-CMP>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX018
+Jalapa>>,<<Veracruz>>,<<MEX-VLL>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX019
+Tlaxcala>>,<<Tlaxcala>>,<<MEX-TLX>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX020
+Puebla>>,<<Puebla>>,<<MEX-PUE>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX021
+Oaxaca>>,<<Oaxaca>>,<<MEX-OAX>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX023
+Tuxtla Gutierrez>>,<<Chiapas>>,<<MEX-CHP>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX024
+Veracruz>>,<<Veracruz>>,<<MEX-VLL>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX025
+San Luis Potosi>>,<<San Luis Potosi>>,<<MEX-SLP>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX026
+Queretaro>>,<<Queretaro>>,<<MEX-QDA>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX027
+Pachuca>>,<<Hidalgo>>,<<MEX-HDL>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX028
+Morelia>>,<<Michoacan>>,<<MEX-MDO>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX029
+Mexico City>>,<<Distrito Federal>>,<<MEX-DTD>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX030
+Toluca>>,<<Mexico>>,<<MEX-MEX>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX031
+Cuernavaca>>,<<Morelos>>,<<MEX-MRL>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX032
+Acapulco>>,<<Guerrero>>,<<MEX-GRR>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX034
+Coban>>,<<Alta Verapaz>>,<<GTM-AVR>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM001
+Huehuetenango>>,<<Huehuetenango>>,<<GTM-HHT>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM002
+Santa Cruz Del Quiche>>,<<Quiche>>,<<GTM-QUI>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM003
+San Marcos>>,<<San Marcos>>,<<GTM-SMR>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM004
+Totonicapan>>,<<Totonicapan>>,<<GTM-TTN>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM005
+Quezaltenango>>,<<Quezaltenango>>,<<GTM-QZL>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM006
+Solola>>,<<Solola>>,<<GTM-SOL>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM007
+Retalhuleu>>,<<Retalhuleu>>,<<GTM-RTL>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM008
+Mazatenango>>,<<Suchitepequez>>,<<GTM-SCH>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM009
+Salama>>,<<Baja Verapaz>>,<<GTM-BVR>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM010
+El Progreso>>,<<El Progreso>>,<<GTM-EPR>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM011
+Chimaltenango>>,<<Chimaltenango>>,<<GTM-CHM>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM012
+Guatemala>>,<<Guatemala>>,<<GTM-GTM>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM013
+Antigua Guatemala>>,<<Sacatepequez>>,<<GTM-SCT>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM014
+Escuintla>>,<<Escuintla>>,<<GTM-ESC>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM015
+Cuilapa>>,<<Santa Rosa>>,<<GTM-SRO>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM016
+Pinar Del Rio>>,<<Pinar del Rio>>,<<CUB-PDR>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB001
+Santa Clara>>,<<Villa Clara>>,<<CUB-VCL>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB002
+Cienfuegos>>,<<Cienfuegos>>,<<CUB-CNF>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB003
+Sancti Spiritus>>,<<Sancti Spiritus>>,<<CUB-SSP>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB004
+Nueva Gerona>>,<<Isla de la Juventud>>,<<CUB-IDL>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB005
+Ciego De Avila>>,<<Ciego de Avila>>,<<CUB-CDA>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB006
+Halifax>>,<<Nova Scotia>>,<<CAN-NSC>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN013
+Hamilton>>,<<Bermuda>>,<<BMU>>,<<Bermuda>>,<<BD>>,<<BMU>>,<<BMU001
+Alajuela>>,<<Alajuela>>,<<CRI-ALJ>>,<<Costa Rica>>,<<CS>>,<<CRI>>,<<CRI001
+Heredia>>,<<Heredia>>,<<CRI-HER>>,<<Costa Rica>>,<<CS>>,<<CRI>>,<<CRI002
+Puerto Limon>>,<<Limon>>,<<CRI-LIM>>,<<Costa Rica>>,<<CS>>,<<CRI>>,<<CRI003
+San Jose>>,<<San Jose>>,<<CRI-SJO>>,<<Costa Rica>>,<<CS>>,<<CRI>>,<<CRI004
+Cartago>>,<<Cartago>>,<<CRI-CRT>>,<<Costa Rica>>,<<CS>>,<<CRI>>,<<CRI005
+Bocas del Toro>>,<<Bocas del Toro>>,<<PAN-BDT>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN001
+David>>,<<Chiriqui>>,<<PAN-CHR>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN002
+Oranjestad>>,<<Aruba>>,<<ABW>>,<<Aruba>>,<<AA>>,<<ABW>>,<<ABW001
+Willemstad>>,<<Netherlands Antilles>>,<<ANT>>,<<Netherlands Antilles>>,<<NT>>,<<ANT>>,<<ANT001
+Riohacha>>,<<La Guajira>>,<<COL-LGU>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL002
+Coro>>,<<Falcon>>,<<VEN-FLC>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN001
+Santiago>>,<<Veraguas>>,<<PAN-VRG>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN003
+Chitre>>,<<Herrera>>,<<PAN-HRR>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN004
+Las Tablas>>,<<Los Santos>>,<<PAN-LSN>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN005
+San Carlos>>,<<Rio San Juan>>,<<NIC-RSJ>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC001
+Liberia>>,<<Guanacaste>>,<<CRI-GNC>>,<<Costa Rica>>,<<CS>>,<<CRI>>,<<CRI006
+Puntarenas>>,<<Puntarenas>>,<<CRI-PNT>>,<<Costa Rica>>,<<CS>>,<<CRI>>,<<CRI007
+El Porvenir>>,<<San Blas>>,<<PAN-SBL>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN006
+Colon>>,<<Colon>>,<<PAN-COL>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN007
+Panama>>,<<Panama>>,<<PAN-PAN>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN008
+Penonome>>,<<Cocle>>,<<PAN-COC>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN009
+Esmeraldas>>,<<Esmeraldas>>,<<ECU-ESM>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU018
+San Andres>>,<<San Andres y Providencia>>,<<COL-SAY>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL003
+Roatan>>,<<Islas de la Bahia>>,<<HND-IDL>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND001
+Trujillo>>,<<Colon>>,<<HND-COL>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND002
+La Ceiba>>,<<Atlantida>>,<<HND-ATL>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND003
+Puerto Lempira>>,<<Gracias a Dios>>,<<HND-GAD>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND004
+Juticalpa>>,<<Olancho>>,<<HND-OLN>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND005
+Bluefields>>,<<Zelaya>>,<<NIC-ZEL>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC002
+San Francisco Gotera>>,<<Morazan>>,<<SLV-MRZ>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV001
+Nacaome>>,<<Valle>>,<<HND-VAL>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND006
+San Miguel>>,<<San Miguel>>,<<SLV-SMI>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV002
+Usulutan>>,<<Usulutan>>,<<SLV-USL>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV003
+La Union>>,<<La Union>>,<<SLV-LUN>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV004
+Choluteca>>,<<Choluteca>>,<<HND-CHL>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND007
+Cojutepeque>>,<<Cuscatlan>>,<<SLV-CSC>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV005
+Santa Ana>>,<<Santa Ana>>,<<SLV-SAN>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV006
+Ahuachapan>>,<<Ahuachapan>>,<<SLV-AHC>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV007
+Sensuntepeque>>,<<Cabanas>>,<<SLV-CBN>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV008
+Sonsonate>>,<<Sonsonate>>,<<SLV-SNS>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV009
+San Salvador>>,<<San Salvador>>,<<SLV-SSL>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV010
+Nueva San Salvador>>,<<La Libertad>>,<<SLV-LLB>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV011
+San Vicente>>,<<San Vicente>>,<<SLV-SVC>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV012
+Zacatecoluca>>,<<La Paz>>,<<SLV-LPA>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV013
+Punta Gorda>>,<<Toledo>>,<<BLZ-TOL>>,<<Belize>>,<<BH>>,<<BLZ>>,<<BLZ001
+Puerto Barrios>>,<<Izabal>>,<<GTM-IZB>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM017
+Zacapa>>,<<Zacapa>>,<<GTM-ZAC>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM018
+Chiquimula>>,<<Chiquimula>>,<<GTM-CHQ>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM019
+Santa Rosa>>,<<Copan>>,<<HND-COP>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND008
+Jalapa>>,<<Jalapa>>,<<GTM-JAL>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM020
+Nueva Ocotepeque>>,<<Ocotepeque>>,<<HND-OCT>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND009
+Jutiapa>>,<<Jutiapa>>,<<GTM-JUT>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM021
+Chalatenango>>,<<Chalatenango>>,<<SLV-CHL>>,<<El Salvador>>,<<ES>>,<<SLV>>,<<SLV014
+San Pedro Sula>>,<<Cortes>>,<<HND-CRT>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND010
+Yoro>>,<<Yoro>>,<<HND-YOR>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND011
+Santa Barbara>>,<<Santa Barbara>>,<<HND-SBR>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND012
+Gracias>>,<<Lempira>>,<<HND-LMP>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND013
+Comayagua>>,<<Comayagua>>,<<HND-CMY>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND014
+La Esperanza>>,<<Intibuca>>,<<HND-INT>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND015
+La Paz>>,<<La Paz>>,<<HND-LPA>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND016
+Tegucigalpa>>,<<Francisco Morazan>>,<<HND-FMR>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND017
+Chinandega>>,<<Chinandega>>,<<NIC-CHN>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC003
+Boaco>>,<<Boaco>>,<<NIC-BOA>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC004
+Leon>>,<<Leon>>,<<NIC-LEO>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC005
+Managua>>,<<Managua>>,<<NIC-MAN>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC006
+Juigalpa>>,<<Chontales>>,<<NIC-CHT>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC007
+Masaya>>,<<Masaya>>,<<NIC-MAS>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC008
+Granada>>,<<Granada>>,<<NIC-GRN>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC009
+Jinotepe>>,<<Carazo>>,<<NIC-CAR>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC010
+Rivas>>,<<Rivas>>,<<NIC-RIV>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC011
+Yuscaran>>,<<El Paraiso>>,<<HND-EPA>>,<<Honduras>>,<<HO>>,<<HND>>,<<HND018
+Ocotal>>,<<Nueva Segovia>>,<<NIC-NSE>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC012
+Somoto>>,<<Madriz>>,<<NIC-MDR>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC013
+Jinotega>>,<<Jinotega>>,<<NIC-JNT>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC014
+Esteli>>,<<Esteli>>,<<NIC-EST>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC015
+Matagalpa>>,<<Matagalpa>>,<<NIC-MTG>>,<<Nicaragua>>,<<NU>>,<<NIC>>,<<NIC016
+Merida>>,<<Yucatan>>,<<MEX-YCT>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX035
+Chetumal>>,<<Quintana Roo>>,<<MEX-QRO>>,<<Mexico>>,<<MX>>,<<MEX>>,<<MEX036
+Corozal>>,<<Corozal>>,<<BLZ-CRZ>>,<<Belize>>,<<BH>>,<<BLZ>>,<<BLZ002
+Orange Walk>>,<<Orange Walk>>,<<BLZ-OWA>>,<<Belize>>,<<BH>>,<<BLZ>>,<<BLZ003
+Belize>>,<<Belize>>,<<BLZ-BLZ>>,<<Belize>>,<<BH>>,<<BLZ>>,<<BLZ004
+Belmopan>>,<<Cayo>>,<<BLZ-CAY>>,<<Belize>>,<<BH>>,<<BLZ>>,<<BLZ006
+Stann Creek Town>>,<<Stann Creek>>,<<BLZ-SCR>>,<<Belize>>,<<BH>>,<<BLZ>>,<<BLZ007
+Flores>>,<<Peten>>,<<GTM-PET>>,<<Guatemala>>,<<GT>>,<<GTM>>,<<GTM022
+Port-De-Paix>>,<<Nord-Ouest>>,<<HTI-NOU>>,<<Haiti>>,<<HA>>,<<HTI>>,<<HTI001
+Monte Cristi>>,<<Monte Cristi>>,<<DOM-MCR>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM001
+Puerto Plata>>,<<Puerto Plata>>,<<DOM-PPL>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM002
+Cap-Haitien>>,<<Nord>>,<<HTI-NOR>>,<<Haiti>>,<<HA>>,<<HTI>>,<<HTI002
+Santa Marta>>,<<Magdalena>>,<<COL-MGD>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL004
+Camaguey>>,<<Camaguey>>,<<CUB-CMG>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB007
+Victoria De Las Tunas>>,<<Las Tunas>>,<<CUB-LTU>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB008
+Holguin>>,<<Holguin>>,<<CUB-HLG>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB009
+Manzanillo>>,<<Granma>>,<<CUB-GRN>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB010
+Guantanamo>>,<<Guantanamo>>,<<CUB-GNT>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB011
+Santiago De Cuba>>,<<Santiago de Cuba>>,<<CUB-SDC>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB012
+Jeremie>>,<<Grand Anse>>,<<HTI-GAN>>,<<Haiti>>,<<HA>>,<<HTI>>,<<HTI003
+Les Cayes>>,<<Sud>>,<<HTI-SUD>>,<<Haiti>>,<<HA>>,<<HTI>>,<<HTI004
+Falmouth>>,<<Trelawny>>,<<JAM-TRL>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM001
+Montego Bay>>,<<Saint James>>,<<JAM-SJA>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM002
+Lucea>>,<<Hanover>>,<<JAM-HNV>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM003
+Savanna La Mar>>,<<Westmoreland>>,<<JAM-WST>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM004
+Mandeville>>,<<Manchester>>,<<JAM-MNC>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM005
+Black River>>,<<Saint Elizabeth>>,<<JAM-SEL>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM006
+St. Anns Bay>>,<<Saint Ann>>,<<JAM-SAN>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM008
+Port Maria>>,<<Saint Mary>>,<<JAM-SMA>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM009
+Port Antonio>>,<<Portland>>,<<JAM-PRT>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM010
+Spanish Town>>,<<Saint Catherine>>,<<JAM-SCT>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM011
+Kingston>>,<<Kingston>>,<<JAM-KNG>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM013
+Port Morant>>,<<Saint Thomas>>,<<JAM-STH>>,<<Jamaica>>,<<JM>>,<<JAM>>,<<JAM014
+Fort-Liberte>>,<<Nord-Est>>,<<HTI-NES>>,<<Haiti>>,<<HA>>,<<HTI>>,<<HTI005
+Dajabon>>,<<Dajabon>>,<<DOM-DJB>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM003
+Gonaives>>,<<Artibonite>>,<<HTI-ART>>,<<Haiti>>,<<HA>>,<<HTI>>,<<HTI006
+Hinche>>,<<Centre>>,<<HTI-CNT>>,<<Haiti>>,<<HA>>,<<HTI>>,<<HTI007
+Elias Pina>>,<<La Estrelleta>>,<<DOM-LST>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM004
+Port-au-Prince>>,<<Ouest>>,<<HTI-OUE>>,<<Haiti>>,<<HA>>,<<HTI>>,<<HTI008
+Jimani>>,<<Independencia>>,<<DOM-IND>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM005
+Jacmel>>,<<Sud-Est>>,<<HTI-SES>>,<<Haiti>>,<<HA>>,<<HTI>>,<<HTI009
+Pedernales>>,<<Pedernales>>,<<DOM-PDR>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM006
+Sabaneta>>,<<Santiago Rodrigu>>,<<DOM-SRD>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM008
+Santiago>>,<<Santiago>>,<<DOM-SNT>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM009
+Moca>>,<<Espaillat>>,<<DOM-ESP>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM010
+Salcedo>>,<<Salcedo>>,<<DOM-SLC>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM011
+La Vega>>,<<La Vega>>,<<DOM-LVE>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM012
+Bonao>>,<<Monsenor Novel>>,<<DOM-MNV>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM013
+San Juan>>,<<San Juan>>,<<DOM-SJU>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM014
+Bani>>,<<Peravia>>,<<DOM-PER>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM017
+Barahona>>,<<Barahona>>,<<DOM-BRH>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM018
+San Francisco De Macoris>>,<<Duarte>>,<<DOM-DUA>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM021
+Samana>>,<<Samana>>,<<DOM-SAM>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM022
+Cotui>>,<<Sanchez Ramirez>>,<<DOM-SRM>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM023
+Monte Plata>>,<<Monte Plata>>,<<DOM-MPL>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM024
+Santo Domingo>>,<<Santo Domingo>>,<<DOM-SDM>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM025
+San Cristobal>>,<<San Cristobal>>,<<DOM-SCR>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM026
+Hato Mayor>>,<<Hato Major>>,<<DOM-HMJ>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM027
+El Seibo>>,<<El Seibo>>,<<DOM-ESE>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM028
+Higuey>>,<<La Altagracia>>,<<DOM-LAL>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM029
+La Romana>>,<<La Romana>>,<<DOM-LRO>>,<<Dominican Republic>>,<<DR>>,<<DOM>>,<<DOM031
+Cali>>,<<Valle del Cauca>>,<<COL-VDC>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL005
+Popayan>>,<<Cauca>>,<<COL-CAU>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL006
+Florencia>>,<<Caqueta>>,<<COL-CAQ>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL007
+Pasto>>,<<Narino>>,<<COL-NAR>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL008
+Mocoa>>,<<Putumayo>>,<<COL-PTM>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL009
+Tulcan>>,<<Carchi>>,<<ECU-CRC>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU019
+Ibarra>>,<<Imbabura>>,<<ECU-IMB>>,<<Ecuador>>,<<EC>>,<<ECU>>,<<ECU020
+Tunja>>,<<Boyaca>>,<<COL-BOY>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL010
+Manizales>>,<<Caldas>>,<<COL-CLD>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL011
+Pereira>>,<<Risaralda>>,<<COL-RSR>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL012
+Armenia>>,<<Quindio>>,<<COL-QUI>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL013
+Villavicencio>>,<<Meta>>,<<COL-MET>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL015
+Neiva>>,<<Huila>>,<<COL-HUI>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL016
+Bogota>>,<<Distrito Especial>>,<<COL-DES>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL017
+Barranquilla>>,<<Atlantico>>,<<COL-ATL>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL018
+Valledupar>>,<<Cesar>>,<<COL-CES>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL019
+Cartagena>>,<<Bolivar>>,<<COL-BLV>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL020
+Sincelejo>>,<<Sucre>>,<<COL-SUC>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL021
+Monteria>>,<<Cordoba>>,<<COL-CRD>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL022
+La Palma>>,<<Darien>>,<<PAN-DAR>>,<<Panama>>,<<PM>>,<<PAN>>,<<PAN010
+Medellin>>,<<Antioquia>>,<<COL-ANT>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL023
+Quibdo>>,<<Choco>>,<<COL-CHO>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL024
+Maracaibo>>,<<Zulia>>,<<VEN-ZUL>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN002
+Trujillo>>,<<Trujillo>>,<<VEN-TRJ>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN003
+Merida>>,<<Merida>>,<<VEN-MER>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN004
+Cucuta>>,<<Norde de Santander>>,<<COL-NDS>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL025
+San Cristobal>>,<<Tachira>>,<<VEN-TCH>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN005
+Bucaramanga>>,<<Santander>>,<<COL-SNT>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL026
+Arauca>>,<<Arauca>>,<<COL-ARA>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL027
+Puerto Ayacucho>>,<<Amazonas>>,<<VEN-AMZ>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN006
+San Felipe>>,<<Yaracuy>>,<<VEN-YRC>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN007
+Maracay>>,<<Aragua>>,<<VEN-ARA>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN008
+Valencia>>,<<Carabobo>>,<<VEN-CRB>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN009
+Barquisimeto>>,<<Lara>>,<<VEN-LAR>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN010
+San Carlos>>,<<Cojedes>>,<<VEN-CJD>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN011
+Guanare>>,<<Portuguesa>>,<<VEN-PRT>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN012
+Barinas>>,<<Barinas>>,<<VEN-BRN>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN013
+Yopal>>,<<Casanare>>,<<COL-CSN>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL028
+Puerto Inirida>>,<<Guainia>>,<<COL-GUI>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL029
+Mitu>>,<<Vaupes>>,<<COL-VAU>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL031
+Toronto>>,<<Ontario>>,<<CAN-ONT>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN014
+Buffalo>>,<<New York>>,<<USA-NYO>>,<<United States>>,<<US>>,<<USA>>,<<USA048
+Detroit>>,<<Michigan>>,<<USA-MCH>>,<<United States>>,<<US>>,<<USA>>,<<USA049
+Cleveland>>,<<Ohio>>,<<USA-OHI>>,<<United States>>,<<US>>,<<USA>>,<<USA050
+Pittsburgh>>,<<Pennsylvania>>,<<USA-PEN>>,<<United States>>,<<US>>,<<USA>>,<<USA051
+Columbus>>,<<Ohio>>,<<USA-OHI>>,<<United States>>,<<US>>,<<USA>>,<<USA052
+Nassau>>,<<Bahamas>>,<<BHS>>,<<The Bahamas>>,<<BF>>,<<BHS>>,<<BHS001
+Montgomery>>,<<Alabama>>,<<USA-ALB>>,<<United States>>,<<US>>,<<USA>>,<<USA054
+Tallahassee>>,<<Florida>>,<<USA-FLA>>,<<United States>>,<<US>>,<<USA>>,<<USA055
+Jacksonville>>,<<Florida>>,<<USA-FLA>>,<<United States>>,<<US>>,<<USA>>,<<USA056
+Tampa>>,<<Florida>>,<<USA-FLA>>,<<United States>>,<<US>>,<<USA>>,<<USA057
+Miami>>,<<Florida>>,<<USA-FLA>>,<<United States>>,<<US>>,<<USA>>,<<USA058
+Matanzas>>,<<Matanzas>>,<<CUB-MTN>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB013
+Havana>>,<<Ciudad de la Habana>>,<<CUB-CHB>>,<<Cuba>>,<<CU>>,<<CUB>>,<<CUB014
+Milwaukee>>,<<Wisconsin>>,<<USA-WIS>>,<<United States>>,<<US>>,<<USA>>,<<USA059
+Madison>>,<<Wisconsin>>,<<USA-WIS>>,<<United States>>,<<US>>,<<USA>>,<<USA060
+Lansing>>,<<Michigan>>,<<USA-MCH>>,<<United States>>,<<US>>,<<USA>>,<<USA061
+Indianapolis>>,<<Indiana>>,<<USA-IND>>,<<United States>>,<<US>>,<<USA>>,<<USA063
+Springfield>>,<<Illinois>>,<<USA-ILL>>,<<United States>>,<<US>>,<<USA>>,<<USA064
+Cincinnati>>,<<Ohio>>,<<USA-OHI>>,<<United States>>,<<US>>,<<USA>>,<<USA065
+Frankfort>>,<<Kentucky>>,<<USA-KEN>>,<<United States>>,<<US>>,<<USA>>,<<USA066
+Nashville>>,<<Tennessee>>,<<USA-TNN>>,<<United States>>,<<US>>,<<USA>>,<<USA067
+Charleston>>,<<West Virginia>>,<<USA-WVR>>,<<United States>>,<<US>>,<<USA>>,<<USA068
+Charlotte>>,<<North Carolina>>,<<USA-NCR>>,<<United States>>,<<US>>,<<USA>>,<<USA069
+Columbia>>,<<South Carolina>>,<<USA-SCR>>,<<United States>>,<<US>>,<<USA>>,<<USA070
+Atlanta>>,<<Georgia>>,<<USA-GEO>>,<<United States>>,<<US>>,<<USA>>,<<USA071
+Baltimore>>,<<Maryland>>,<<USA-MRY>>,<<United States>>,<<US>>,<<USA>>,<<USA072
+Dover>>,<<Delaware>>,<<USA-DEL>>,<<United States>>,<<US>>,<<USA>>,<<USA073
+Annapolis>>,<<Maryland>>,<<USA-MRY>>,<<United States>>,<<US>>,<<USA>>,<<USA074
+Washington D.C.>>,<<District of Columbia>>,<<USA-DOC>>,<<United States>>,<<US>>,<<USA>>,<<USA075
+Richmond>>,<<Virginia>>,<<USA-VRG>>,<<United States>>,<<US>>,<<USA>>,<<USA076
+Norfolk>>,<<Virginia>>,<<USA-VRG>>,<<United States>>,<<US>>,<<USA>>,<<USA077
+Raleigh>>,<<North Carolina>>,<<USA-NCR>>,<<United States>>,<<US>>,<<USA>>,<<USA078
+Brooklyn>>,<<New York>>,<<USA-NYO>>,<<United States>>,<<US>>,<<USA>>,<<USA079
+Chester>>,<<Pennsylvania>>,<<USA-PEN>>,<<United States>>,<<US>>,<<USA>>,<<USA080
+Rochester>>,<<New York>>,<<USA-NYO>>,<<United States>>,<<US>>,<<USA>>,<<USA081
+Albany>>,<<New York>>,<<USA-NYO>>,<<United States>>,<<US>>,<<USA>>,<<USA082
+Newark>>,<<New Jersey>>,<<USA-NJR>>,<<United States>>,<<US>>,<<USA>>,<<USA083
+New York>>,<<New York>>,<<USA-NYO>>,<<United States>>,<<US>>,<<USA>>,<<USA084
+Harrisburg>>,<<Pennsylvania>>,<<USA-PEN>>,<<United States>>,<<US>>,<<USA>>,<<USA085
+Trenton>>,<<New Jersey>>,<<USA-NJR>>,<<United States>>,<<US>>,<<USA>>,<<USA086
+Philadelphia>>,<<Pennsylvania>>,<<USA-PEN>>,<<United States>>,<<US>>,<<USA>>,<<USA087
+Augusta>>,<<Maine>>,<<USA-MAI>>,<<United States>>,<<US>>,<<USA>>,<<USA088
+Montpelier>>,<<Vermont>>,<<USA-VRM>>,<<United States>>,<<US>>,<<USA>>,<<USA089
+Concord>>,<<New Hampshire>>,<<USA-NHM>>,<<United States>>,<<US>>,<<USA>>,<<USA090
+Boston>>,<<Massachusetts>>,<<USA-MSS>>,<<United States>>,<<US>>,<<USA>>,<<USA091
+Providence>>,<<Rhode Island>>,<<USA-RHI>>,<<United States>>,<<US>>,<<USA>>,<<USA092
+Hartford>>,<<Connecticut>>,<<USA-CNN>>,<<United States>>,<<US>>,<<USA>>,<<USA093
+Caracas>>,<<Distrito Federal>>,<<VEN-DFD>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN014
+Los Teques>>,<<Miranda>>,<<VEN-MRN>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN015
+Barcelona>>,<<Anzoategui>>,<<VEN-ANZ>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN016
+San Juan De Los Morros>>,<<Guarico>>,<<VEN-GUA>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN017
+Ciudad Bolivar>>,<<Bolivar>>,<<VEN-BLV>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN018
+San Fernado de Apure>>,<<Apure>>,<<VEN-APU>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN019
+Puerto Carreno>>,<<Vichada>>,<<COL-VCH>>,<<Colombia>>,<<CO>>,<<COL>>,<<COL032
+Boa Vista>>,<<Roraima>>,<<BRA-ROR>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA029
+Puerto La Cruz>>,<<Anzoategui>>,<<VEN-ANZ>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN020
+La Asuncion>>,<<Neuva Esparta>>,<<VEN-NES>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN021
+Cumana>>,<<Sucre>>,<<VEN-SUC>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN022
+Maturin>>,<<Monagas>>,<<VEN-MNG>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN023
+Tucupita>>,<<Delta Amacuro>>,<<VEN-DAM>>,<<Venezuela>>,<<VE>>,<<VEN>>,<<VEN024
+Georgetown>>,<<Demerara-Mahaica>>,<<GUY-DMM>>,<<Guyana>>,<<GY>>,<<GUY>>,<<GUY001
+Nieuw Nickerie>>,<<Nickerie>>,<<SUR-NCK>>,<<Suriname>>,<<NS>>,<<SUR>>,<<SUR001
+Totness>>,<<Coronie>>,<<SUR-COR>>,<<Suriname>>,<<NS>>,<<SUR>>,<<SUR002
+San Juan>>,<<San Juan>>,<<PRI-SJN>>,<<Puerto Rico>>,<<RQ>>,<<PRI>>,<<PRI001
+The Valley>>,<<Anguilla>>,<<AIA>>,<<Anguilla>>,<<AV>>,<<AIA>>,<<AIA001
+Mayaguez>>,<<Mayag?ez>>,<<PRI-MYG>>,<<Puerto Rico>>,<<RQ>>,<<PRI>>,<<PRI002
+Ponce>>,<<Ponce>>,<<PRI-PNC>>,<<Puerto Rico>>,<<RQ>>,<<PRI>>,<<PRI003
+Plymouth>>,<<Montserrat>>,<<MSR>>,<<Montserrat>>,<<MH>>,<<MSR>>,<<MSR001
+Basse-Terre>>,<<Guadeloupe>>,<<GLP>>,<<Guadeloupe>>,<<GP>>,<<GLP>>,<<GLP001
+Roseau>>,<<Dominica>>,<<DMA>>,<<Dominica>>,<<DO>>,<<DMA>>,<<DMA001
+Fort-De-France>>,<<Martinique>>,<<MTQ>>,<<Martinique>>,<<MB>>,<<MTQ>>,<<MTQ001
+Bridgetown>>,<<Barbados>>,<<BRB>>,<<Barbados>>,<<BB>>,<<BRB>>,<<BRB001
+Saint George's>>,<<Grenada>>,<<GRD>>,<<Grenada>>,<<GJ>>,<<GRD>>,<<GRD001
+Onverwacht>>,<<Para>>,<<SUR-PAR>>,<<Suriname>>,<<NS>>,<<SUR>>,<<SUR003
+Nieuw Amsterdam>>,<<Commewijne>>,<<SUR-CMM>>,<<Suriname>>,<<NS>>,<<SUR>>,<<SUR004
+Paramaribo>>,<<Paramaribo>>,<<SUR-PRM>>,<<Suriname>>,<<NS>>,<<SUR>>,<<SUR005
+Groningen>>,<<Saramacca>>,<<SUR-SRM>>,<<Suriname>>,<<NS>>,<<SUR>>,<<SUR006
+Albina>>,<<Marowijne>>,<<SUR-MRW>>,<<Suriname>>,<<NS>>,<<SUR>>,<<SUR007
+Brokopondo>>,<<Brokopondo>>,<<SUR-BRK>>,<<Suriname>>,<<NS>>,<<SUR>>,<<SUR008
+Cayenne>>,<<Cayenne>>,<<GUF-CYN>>,<<French Guiana>>,<<FG>>,<<GUF>>,<<GUF001
+Macapa>>,<<Amapa>>,<<BRA-AMA>>,<<Brazil>>,<<BR>>,<<BRA>>,<<BRA030
+Thule>>,<<Nordgronland>>,<<GRL-NRD>>,<<Greenland>>,<<GL>>,<<GRL>>,<<GRL001
+Moosonee>>,<<Ontario>>,<<CAN-ONT>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN015
+Saint John's>>,<<Newfoundland and Labrador>>,<<CAN-NWF>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN016
+Quebec>>,<<Quebec>>,<<CAN-QUE>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN017
+Montreal>>,<<Quebec>>,<<CAN-QUE>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN018
+Ottawa>>,<<Ontario>>,<<CAN-ONT>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN019
+Godhavn>>,<<Vestgronland>>,<<GRL-VST>>,<<Greenland>>,<<GL>>,<<GRL>>,<<GRL002
+Iqaluit>>,<<Nunavut>>,<<CAN-NNV>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN020
+Canaport>>,<<New Brunswick>>,<<CAN-NBR>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN021
+Nuuk>>,<<Vestgronland>>,<<GRL-VST>>,<<Greenland>>,<<GL>>,<<GRL>>,<<GRL003
+Sept-Iles>>,<<Quebec>>,<<CAN-QUE>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN022
+Charlottetown>>,<<Prince Edward Island>>,<<CAN-PEI>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN023
+Fredericton>>,<<New Brunswick>>,<<CAN-NBR>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN024
+Schefferville>>,<<Quebec>>,<<CAN-QUE>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN025
+Saint John>>,<<New Brunswick>>,<<CAN-NBR>>,<<Canada>>,<<CA>>,<<CAN>>,<<CAN026
+Cherbourg>>,<<Basse-Normandie>>,<<FRA-BNR>>,<<France>>,<<FR>>,<<FRA>>,<<FRA001
+Brest>>,<<Bretagne>>,<<FRA-BRT>>,<<France>>,<<FR>>,<<FRA>>,<<FRA002
+Angmagssalik>>,<<Ostgronland>>,<<GRL-OST>>,<<Greenland>>,<<GL>>,<<GRL>>,<<GRL005
+St. Peter Port>>,<<Guernsey>>,<<XGK>>,<<Guernsey>>,<<GK>>,<<GGY>>,<<GGY001
+St. Helier>>,<<Jersey>>,<<XJE>>,<<Jersey>>,<<JE>>,<<JEY>>,<<JEY001
+Caen>>,<<Basse-Normandie>>,<<FRA-BNR>>,<<France>>,<<FR>>,<<FRA>>,<<FRA003
+Rennes>>,<<Bretagne>>,<<FRA-BRT>>,<<France>>,<<FR>>,<<FRA>>,<<FRA004
+Nantes>>,<<Pays de la Loire>>,<<FRA-PDL>>,<<France>>,<<FR>>,<<FRA>>,<<FRA005
+Dundee>>,<<Scotland>>,<<GBR-SCT>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR001
+Reykjavik>>,<<Reykjavik>>,<<ISL-RYK>>,<<Iceland>>,<<IC>>,<<ISL>>,<<ISL001
+Southampton>>,<<England>>,<<GBR-ENG>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR002
+Fawley>>,<<England>>,<<GBR-ENG>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR003
+Belfast>>,<<Northern Ireland>>,<<GBR-NIR>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR004
+Sheffield>>,<<England>>,<<GBR-ENG>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR005
+Dublin>>,<<Leinster>>,<<IRL-LEN>>,<<Ireland>>,<<EI>>,<<IRL>>,<<IRL001
+Galway>>,<<Connacht>>,<<IRL-CNN>>,<<Ireland>>,<<EI>>,<<IRL>>,<<IRL002
+Birmingham>>,<<England>>,<<GBR-ENG>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR006
+Cork>>,<<Munster>>,<<IRL-MUN>>,<<Ireland>>,<<EI>>,<<IRL>>,<<IRL003
+London>>,<<England>>,<<GBR-ENG>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR007
+Teesport>>,<<England>>,<<GBR-ENG>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR009
+Edinburgh>>,<<Scotland>>,<<GBR-SCT>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR010
+Glasgow>>,<<Scotland>>,<<GBR-SCT>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR011
+Douglas>>,<<Isle of Man>>,<<XIM>>,<<Isle of Man>>,<<IM>>,<<IMN>>,<<IMN001
+Leeds>>,<<England>>,<<GBR-ENG>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR012
+Manchester>>,<<England>>,<<GBR-ENG>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR013
+Cardiff>>,<<Wales>>,<<GBR-WLS>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR014
+Liverpool>>,<<England>>,<<GBR-ENG>>,<<United Kingdom>>,<<UK>>,<<GBR>>,<<GBR015
+Ponta Delgada>>,<<Azores>>,<<PRT-AZR>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT001
+Oviedo>>,<<Asturias>>,<<ESP-AST>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP001
+Viana Do Castelo>>,<<Viana do Castelo>>,<<PRT-VDC>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT002
+Porto>>,<<Porto>>,<<PRT-POR>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT003
+Aveiro>>,<<Aveiro>>,<<PRT-AVE>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT004
+Leiria>>,<<Leiria>>,<<PRT-LEI>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT005
+Praia>>,<<Cape Verde>>,<<CPV>>,<<Cape Verde>>,<<CV>>,<<CPV>>,<<CPV001
+Santa Cruz de Tenerife>>,<<Canarias>>,<<ESP-CNR>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP003
+Las Palmas>>,<<Canarias>>,<<ESP-CNR>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP004
+Zaragoza>>,<<Aragon>>,<<ESP-ARG>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP005
+Valencia>>,<<Valenciana>>,<<ESP-VLN>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP006
+Funchal>>,<<Madeira>>,<<PRT-MDR>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT006
+Laayoune>>,<<Saguia el Hamra>>,<<ESH-SGH>>,<<Western Sahara>>,<<WI>>,<<ESH>>,<<ESH001
+Braganca>>,<<Braganca>>,<<PRT-BRG>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT007
+Braga>>,<<Braga>>,<<PRT-BRA>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT008
+Vila Real>>,<<Vila Real>>,<<PRT-VRE>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT009
+Viseu>>,<<Viseu>>,<<PRT-VIS>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT010
+Coimbra>>,<<Coimbra>>,<<PRT-CMB>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT012
+Castelo Branco>>,<<Castelo Branco>>,<<PRT-CBR>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT013
+Rabat>>,<<North-West>>,<<MAR-NWT>>,<<Morocco>>,<<MO>>,<<MAR>>,<<MAR001
+Santarem>>,<<Santarem>>,<<PRT-SNT>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT015
+Merida>>,<<Extremadura>>,<<ESP-EXT>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP007
+Lisbon>>,<<Lisboa>>,<<PRT-LIS>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT016
+Evora>>,<<Evora>>,<<PRT-EVO>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT017
+Setubal>>,<<Setubal>>,<<PRT-STB>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT018
+Beja>>,<<Beja>>,<<PRT-BEJ>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT019
+Seville>>,<<Andalucia>>,<<ESP-AND>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP008
+Faro>>,<<Faro>>,<<PRT-FAR>>,<<Portugal>>,<<PO>>,<<PRT>>,<<PRT020
+Bordeaux>>,<<Aquitaine>>,<<FRA-AQT>>,<<France>>,<<FR>>,<<FRA>>,<<FRA006
+Santander>>,<<Cantabria>>,<<ESP-CNT>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP009
+Pamplona>>,<<Navarra>>,<<ESP-NVR>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP010
+Logrono>>,<<La Rioja>>,<<ESP-LJR>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP011
+Valladolid>>,<<Castilla y Leon>>,<<ESP-CYL>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP012
+Madrid>>,<<Madrid>>,<<ESP-MDR>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP013
+Toledo>>,<<Castilla-La Mancha>>,<<ESP-CLM>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP014
+Bilbao>>,<<Pais Vasco>>,<<ESP-PSV>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP015
+Vitoria>>,<<Pais Vasco>>,<<ESP-PSV>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP016
+Melilla>>,<<Melilla>>,<<ESP-PS2>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP017
+Murcia>>,<<Murcia>>,<<ESP-MUR>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP018
+Gibraltar>>,<<Gibraltar>>,<<GIB>>,<<Gibraltar>>,<<GI>>,<<GIB>>,<<GIB001
+Fes>>,<<Centre-North>>,<<MAR-CNR>>,<<Morocco>>,<<MO>>,<<MAR>>,<<MAR002
+Meknes>>,<<Centre-South>>,<<MAR-CSO>>,<<Morocco>>,<<MO>>,<<MAR>>,<<MAR003
+Ceuta>>,<<Ceuta>>,<<ESP-PS1>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP019
+Oran>>,<<Oran>>,<<DZA-ORA>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA001
+Sidi-Bel-Abbes>>,<<Sidi bel Abbes>>,<<DZA-SBA>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA002
+Tlemcen>>,<<Tlemcen>>,<<DZA-TLM>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA003
+Oujda>>,<<Eastern>>,<<MAR-EST>>,<<Morocco>>,<<MO>>,<<MAR>>,<<MAR004
+Casablanca>>,<<Centre>>,<<MAR-CEN>>,<<Morocco>>,<<MO>>,<<MAR>>,<<MAR005
+Marrakech>>,<<Tensift>>,<<MAR-TNF>>,<<Morocco>>,<<MO>>,<<MAR>>,<<MAR006
+Bechar>>,<<Bechar>>,<<DZA-BCH>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA004
+Agadir>>,<<South>>,<<MAR-SOU>>,<<Morocco>>,<<MO>>,<<MAR>>,<<MAR007
+Adrar>>,<<Adrar>>,<<DZA-ADR>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA005
+Tindouf>>,<<Tindouf>>,<<DZA-TND>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA006
+Kayes>>,<<Kayes>>,<<MLI-KAY>>,<<Mali>>,<<ML>>,<<MLI>>,<<MLI001
+Boke>>,<<Boke>>,<<GIN-BOK>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN001
+Robertsport>>,<<Grand Cape Mount>>,<<LBR-GCM>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR001
+Telimele>>,<<Telimele>>,<<GIN-TLM>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN002
+Fria>>,<<Fria>>,<<GIN-FRI>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN003
+Boffa>>,<<Boffa>>,<<GIN-BOF>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN004
+Kindia>>,<<Kindia>>,<<GIN-KIN>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN005
+Conakry>>,<<Conakry>>,<<GIN-CNK>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN006
+Forecariah>>,<<Forecariah>>,<<GIN-FRC>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN007
+Makeni>>,<<Northern>>,<<SLE-NRT>>,<<Sierra Leone>>,<<SL>>,<<SLE>>,<<SLE002
+Freetown>>,<<Western Area>>,<<SLE-WAR>>,<<Sierra Leone>>,<<SL>>,<<SLE>>,<<SLE003
+Pita>>,<<Pita>>,<<GIN-PIT>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN008
+Dalaba>>,<<Dalaba>>,<<GIN-DAL>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN009
+Mamou>>,<<Mamou>>,<<GIN-MAM>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN010
+Nouadhibou>>,<<Dakhlet Nouadhibou>>,<<MRT-DND>>,<<Mauritania>>,<<MR>>,<<MRT>>,<<MRT005
+Atar>>,<<Adrar>>,<<MRT-ADR>>,<<Mauritania>>,<<MR>>,<<MRT>>,<<MRT006
+Akjoujt>>,<<Inchiri>>,<<MRT-INC>>,<<Mauritania>>,<<MR>>,<<MRT>>,<<MRT007
+Aleg>>,<<Brakna>>,<<MRT-BRK>>,<<Mauritania>>,<<MR>>,<<MRT>>,<<MRT009
+Thies>>,<<Thies>>,<<SEN-THI>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN001
+Dakar>>,<<Dakar>>,<<SEN-DKR>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN002
+Nouakchott>>,<<Trarza>>,<<MRT-TRR>>,<<Mauritania>>,<<MR>>,<<MRT>>,<<MRT010
+Louga>>,<<Louga>>,<<SEN-LOU>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN003
+Rosso>>,<<Trarza>>,<<MRT-TRR>>,<<Mauritania>>,<<MR>>,<<MRT>>,<<MRT011
+Saint Louis>>,<<Saint-Louis>>,<<SEN-STL>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN004
+Diourbel>>,<<Diourbel>>,<<SEN-DRB>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN005
+Fatick>>,<<Fatick>>,<<SEN-FTC>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN006
+Kaolack>>,<<Kaolack>>,<<SEN-KLC>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN007
+Kerewan>>,<<North Bank>>,<<GMB-NBA>>,<<The Gambia>>,<<GA>>,<<GMB>>,<<GMB001
+Banjul>>,<<Banjul>>,<<GMB-BNJ>>,<<The Gambia>>,<<GA>>,<<GMB>>,<<GMB002
+Bathurst>>,<<Banjul>>,<<GMB-BNJ>>,<<The Gambia>>,<<GA>>,<<GMB>>,<<GMB003
+Mansa Konko>>,<<Lower River>>,<<GMB-LRI>>,<<The Gambia>>,<<GA>>,<<GMB>>,<<GMB004
+Brikama>>,<<Western>>,<<GMB-WST>>,<<The Gambia>>,<<GA>>,<<GMB>>,<<GMB005
+Ziguinchor>>,<<Ziguinchor>>,<<SEN-ZGN>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN008
+Cacheu>>,<<Cacheu>>,<<GNB-CAC>>,<<Guinea-Bissau>>,<<PU>>,<<GNB>>,<<GNB002
+Bolama>>,<<Bolama>>,<<GNB-BOL>>,<<Guinea-Bissau>>,<<PU>>,<<GNB>>,<<GNB003
+Bissau>>,<<Bissau>>,<<GNB-BIS>>,<<Guinea-Bissau>>,<<PU>>,<<GNB>>,<<GNB004
+Georgetown>>,<<MacCarthy Island>>,<<GMB-MIS>>,<<The Gambia>>,<<GA>>,<<GMB>>,<<GMB006
+Basse Santa Su>>,<<Upper River>>,<<GMB-URI>>,<<The Gambia>>,<<GA>>,<<GMB>>,<<GMB007
+Kolda>>,<<Kolda>>,<<SEN-KLD>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN009
+Gabu>>,<<Gabu>>,<<GNB-GAB>>,<<Guinea-Bissau>>,<<PU>>,<<GNB>>,<<GNB006
+Bafata>>,<<Bafata>>,<<GNB-BAF>>,<<Guinea-Bissau>>,<<PU>>,<<GNB>>,<<GNB007
+Tambacounda>>,<<Tambacounda>>,<<SEN-TMB>>,<<Senegal>>,<<SG>>,<<SEN>>,<<SEN010
+Koundara>>,<<Koundara>>,<<GIN-KND>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN011
+Mali>>,<<Mali>>,<<GIN-MLI>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN012
+Gaoual>>,<<Gaoual>>,<<GIN-GAO>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN013
+Labe>>,<<Labe>>,<<GIN-LAB>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN015
+Segou>>,<<Segou>>,<<MLI-SEG>>,<<Mali>>,<<ML>>,<<MLI>>,<<MLI002
+Bamako>>,<<Bamako>>,<<MLI-BAM>>,<<Mali>>,<<ML>>,<<MLI>>,<<MLI003
+Siguiri>>,<<Siguiri>>,<<GIN-SIG>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN016
+Sikasso>>,<<Sikasso>>,<<MLI-SKS>>,<<Mali>>,<<ML>>,<<MLI>>,<<MLI004
+Dinguiraye>>,<<Dinguiraye>>,<<GIN-DNG>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN017
+Timbuktu>>,<<Gao>>,<<MLI-GAO>>,<<Mali>>,<<ML>>,<<MLI>>,<<MLI005
+Gao>>,<<Gao>>,<<MLI-GAO>>,<<Mali>>,<<ML>>,<<MLI>>,<<MLI006
+Mopti>>,<<Mopti>>,<<MLI-MOP>>,<<Mali>>,<<ML>>,<<MLI>>,<<MLI007
+Djibo>>,<<Soum>>,<<BFA-SOM>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA002
+Tougan>>,<<Sourou>>,<<BFA-SOR>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA003
+Nouna>>,<<Kossi>>,<<BFA-KSS>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA004
+Ouahigouya>>,<<Yatenga>>,<<BFA-YTN>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA006
+Yako>>,<<Passore>>,<<BFA-PSS>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA007
+Ouagadougou>>,<<Kadiogo>>,<<BFA-KDG>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA009
+Koudougou>>,<<Boulkiemde>>,<<BFA-BLK>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA011
+Kombissiri>>,<<Bazega>>,<<BFA-BZG>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA012
+Dori>>,<<Seno>>,<<BFA-SEN>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA013
+Boulsa>>,<<Namentenga>>,<<BFA-NMT>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA016
+Zorgo>>,<<Ganzourgou>>,<<BFA-GNZ>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA017
+Tenkodogo>>,<<Boulgou>>,<<BFA-BLG>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA019
+Rivercess>>,<<Rivercess>>,<<LBR-RVR>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR002
+Greenville>>,<<Sino>>,<<LBR-SIN>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR003
+Sassandra>>,<<Sassandra>>,<<CIV-SSS>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV001
+Barclayville>>,<<Grand Kru>>,<<LBR-GKR>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR004
+San Pedro>>,<<San-Pedro>>,<<CIV-SNP>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV002
+Tabou>>,<<Tabou>>,<<CIV-TAB>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV003
+Harper>>,<<Maryland>>,<<LBR-MRY>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR005
+Boundiali>>,<<Boundiali>>,<<CIV-BNL>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV005
+Odienne>>,<<Odienne>>,<<CIV-ODN>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV006
+Korhogo>>,<<Korhogo>>,<<CIV-KRH>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV007
+Voinjama>>,<<Lofa>>,<<LBR-LOF>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR006
+Kenema>>,<<Eastern>>,<<SLE-EST>>,<<Sierra Leone>>,<<SL>>,<<SLE>>,<<SLE004
+Nzerekore>>,<<Nzerekore>>,<<GIN-NZR>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN018
+Yomou>>,<<Yomou>>,<<GIN-YOM>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN019
+Sanniquellie>>,<<Nimba>>,<<LBR-NIM>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR007
+Gbarnga>>,<<Bong>>,<<LBR-BON>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR008
+Kakata>>,<<Margibi>>,<<LBR-MRG>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR009
+Bentol>>,<<Montserrado>>,<<LBR-MNT>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR010
+Buchanan>>,<<Grand Bassa>>,<<LBR-GBA>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR011
+Monrovia>>,<<Montserrado>>,<<LBR-MNT>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR012
+Dabola>>,<<Dabola>>,<<GIN-DAB>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN020
+Kouroussa>>,<<Kouroussa>>,<<GIN-KRS>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN021
+Kankan>>,<<Kankan>>,<<GIN-KNK>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN022
+Faranah>>,<<Faranah>>,<<GIN-FRN>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN023
+Kerouane>>,<<Kerouane>>,<<GIN-KER>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN024
+Kissidougou>>,<<Kissidougou>>,<<GIN-KSS>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN025
+Beyla>>,<<Beyla>>,<<GIN-BEY>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN026
+Gueckedou>>,<<Gueckedou>>,<<GIN-GCK>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN027
+Macenta>>,<<Macenta>>,<<GIN-MCN>>,<<Guinea>>,<<GV>>,<<GIN>>,<<GIN028
+Touba>>,<<Touba>>,<<CIV-TOU>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV008
+Biankouma>>,<<Biankouma>>,<<CIV-BNK>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV009
+Bangolo>>,<<Bangolo>>,<<CIV-BNG>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV012
+Duekoue>>,<<Duekoue>>,<<CIV-DUK>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV013
+Guiglo>>,<<Guiglo>>,<<CIV-GUI>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV014
+Zwedru>>,<<Grand Jide>>,<<LBR-GJI>>,<<Liberia>>,<<LI>>,<<LBR>>,<<LBR013
+Mankono>>,<<Mankono>>,<<CIV-MNK>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV015
+Seguela>>,<<Seguela>>,<<CIV-SEG>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV016
+Vavoua>>,<<Vavoua>>,<<CIV-VAV>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV018
+Bouafle>>,<<Bouafle>>,<<CIV-BOU>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV019
+Daloa>>,<<Daloa>>,<<CIV-DAL>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV020
+Sinfra>>,<<Sinfra>>,<<CIV-SNF>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV021
+Issia>>,<<Issia>>,<<CIV-ISS>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV022
+Gagnoa>>,<<Gagnoa>>,<<CIV-GAG>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV023
+Lakota>>,<<Lakota>>,<<CIV-LKT>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV024
+Soubre>>,<<Soubre>>,<<CIV-SOB>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV025
+Bobo Dioulasso>>,<<Houet>>,<<BFA-HUT>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA021
+Orodara>>,<<Kenedougou>>,<<BFA-KND>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA022
+Diebougou>>,<<Bougouriba>>,<<BFA-BGR>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA023
+Banfora>>,<<Comoe>>,<<BFA-COM>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA024
+Gaoua>>,<<Poni>>,<<BFA-PON>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA025
+Ferkessedougou>>,<<Ferkessedougou>>,<<CIV-FRK>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV026
+Bouna>>,<<Bouna>>,<<CIV-BON>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV027
+Tanda>>,<<Tanda>>,<<CIV-TND>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV028
+Yamoussoukro>>,<<Yamoussoukro>>,<<CIV-YMS>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV030
+Dimbokro>>,<<Dimbokro>>,<<CIV-DMB>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV031
+Katiola>>,<<Katiola>>,<<CIV-KAT>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV037
+Bouake>>,<<Bouake>>,<<CIV-BOA>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV038
+Beoumi>>,<<Beoumi>>,<<CIV-BEM>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV039
+Daoukro>>,<<Daoukro>>,<<CIV-DKR>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV042
+Abengourou>>,<<Abengourou>>,<<CIV-ABN>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV043
+Adzope>>,<<Adzope>>,<<CIV-ADZ>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV045
+Agboville>>,<<Agboville>>,<<CIV-AGB>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV046
+Po>>,<<Nahouri>>,<<BFA-NHR>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA026
+Leo>>,<<Sissili>>,<<BFA-SSS>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA027
+Bolgatanga>>,<<Upper East>>,<<GHA-UPE>>,<<Ghana>>,<<GH>>,<<GHA>>,<<GHA001
+Tamale>>,<<Northern>>,<<GHA-NRT>>,<<Ghana>>,<<GH>>,<<GHA>>,<<GHA003
+Bondoukou>>,<<Bondoukou>>,<<CIV-BND>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV047
+Sunyani>>,<<Brong-Ahafo>>,<<GHA-BAH>>,<<Ghana>>,<<GH>>,<<GHA>>,<<GHA004
+Kumasi>>,<<Ashanti>>,<<GHA-ASH>>,<<Ghana>>,<<GH>>,<<GHA>>,<<GHA005
+Koforidua>>,<<Eastern>>,<<GHA-EST>>,<<Ghana>>,<<GH>>,<<GHA>>,<<GHA006
+Accra>>,<<Greater Accra>>,<<GHA-GAC>>,<<Ghana>>,<<GH>>,<<GHA>>,<<GHA007
+Aboisso>>,<<Aboisso>>,<<CIV-ABS>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV048
+Abidjan>>,<<Abidjan>>,<<CIV-ABD>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV049
+Grand Lahou>>,<<Grand-Lahou>>,<<CIV-GRL>>,<<Cote d'Ivoire>>,<<IV>>,<<CIV>>,<<CIV050
+Cape Coast>>,<<Central>>,<<GHA-CNT>>,<<Ghana>>,<<GH>>,<<GHA>>,<<GHA008
+Sekondi>>,<<Western>>,<<GHA-WST>>,<<Ghana>>,<<GH>>,<<GHA>>,<<GHA009
+Biltine>>,<<Biltine>>,<<TCD-BLT>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD001
+Abeche>>,<<Ouaddai>>,<<TCD-OUA>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD002
+Zinder>>,<<Zinder>>,<<NER-ZND>>,<<Niger>>,<<NG>>,<<NER>>,<<NER001
+Maradi>>,<<Maradi>>,<<NER-MAR>>,<<Niger>>,<<NG>>,<<NER>>,<<NER002
+Ati>>,<<Batha>>,<<TCD-BAT>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD003
+Katsina>>,<<Katsina>>,<<NGA-KAT>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA001
+Mongo>>,<<Guera>>,<<TCD-GUE>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD004
+Kano>>,<<Kano>>,<<NGA-KAN>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA002
+Dutse>>,<<Jigawa>>,<<NGA-JIG>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA003
+Umuahia>>,<<Abia>>,<<NGA-ABI>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA004
+Uyo>>,<<Akwa Ibom>>,<<NGA-AKI>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA006
+Calabar>>,<<Cross River>>,<<NGA-CRI>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA007
+Port Harcourt>>,<<Rivers>>,<<NGA-RVR>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA008
+Dudinka>>,<<Taymyrskiy(Dolgano-Nenetskiy) avt.okrug>>,<<RUS-TAY>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS002
+Annaba>>,<<Annaba>>,<<DZA-ANN>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA007
+Skikda>>,<<Skikda>>,<<DZA-SKK>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA008
+Jijel>>,<<Jijel>>,<<DZA-JIJ>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA009
+Bafoussam>>,<<Ouest>>,<<CMR-OUE>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR001
+Buea>>,<<Sud-Ouest>>,<<CMR-SOU>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR002
+Douala>>,<<Littoral>>,<<CMR-LTT>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR003
+Malabo>>,<<Bioko Norte>>,<<GNQ-BKN>>,<<Equatorial Guinea>>,<<EK>>,<<GNQ>>,<<GNQ001
+Luba>>,<<Bioko Sur>>,<<GNQ-BKS>>,<<Equatorial Guinea>>,<<EK>>,<<GNQ>>,<<GNQ002
+Ebolowa>>,<<Sud>>,<<CMR-SUD>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR004
+Bauchi>>,<<Bauchi>>,<<NGA-BAU>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA009
+Jos>>,<<Plateau>>,<<NGA-PLA>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA010
+Makurdi>>,<<Benue>>,<<NGA-BEN>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA011
+Bamenda>>,<<Nord-Ouest>>,<<CMR-NOU>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR005
+Bata>>,<<Litoral>>,<<GNQ-LTR>>,<<Equatorial Guinea>>,<<EK>>,<<GNQ>>,<<GNQ003
+Evinayong>>,<<Centro Sur>>,<<GNQ-CNS>>,<<Equatorial Guinea>>,<<EK>>,<<GNQ>>,<<GNQ004
+Libreville>>,<<Estuaire>>,<<GAB-EST>>,<<Gabon>>,<<GB>>,<<GAB>>,<<GAB001
+Natitingou>>,<<Atakora>>,<<BEN-ATK>>,<<Benin>>,<<BN>>,<<BEN>>,<<BEN001
+Parakou>>,<<Borgou>>,<<BEN-BOR>>,<<Benin>>,<<BN>>,<<BEN>>,<<BEN002
+Bassar>>,<<Bassar>>,<<TGO-BSS>>,<<Togo>>,<<TO>>,<<TGO>>,<<TGO001
+Sotouboua>>,<<Sotouboua>>,<<TGO-SOT>>,<<Togo>>,<<TO>>,<<TGO>>,<<TGO002
+Oshogbo>>,<<Osun>>,<<NGA-OSU>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA012
+Ibadan>>,<<Oyo>>,<<NGA-OYO>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA013
+Akure>>,<<Ondo>>,<<NGA-OND>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA014
+Abeokuta>>,<<Ogun>>,<<NGA-OGU>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA015
+Lagos>>,<<Lagos>>,<<NGA-LAG>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA016
+Ilorin>>,<<Kwara>>,<<NGA-KWA>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA017
+Abomey>>,<<Zou>>,<<BEN-ZOU>>,<<Benin>>,<<BN>>,<<BEN>>,<<BEN003
+Kpalime>>,<<Kloto>>,<<TGO-KLT>>,<<Togo>>,<<TO>>,<<TGO>>,<<TGO003
+Lokossa>>,<<Mono>>,<<BEN-MON>>,<<Benin>>,<<BN>>,<<BEN>>,<<BEN004
+Porto Novo>>,<<Oueme>>,<<BEN-OUE>>,<<Benin>>,<<BN>>,<<BEN>>,<<BEN005
+Cotonou>>,<<Atlantique>>,<<BEN-ATL>>,<<Benin>>,<<BN>>,<<BEN>>,<<BEN006
+Lome>>,<<Golfe>>,<<TGO-GLF>>,<<Togo>>,<<TO>>,<<TGO>>,<<TGO004
+Kaduna>>,<<Kaduna>>,<<NGA-KAD>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA018
+Minna>>,<<Niger>>,<<NGA-NIG>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA019
+Abuja>>,<<Abuja Capital Territory (Abuja)>>,<<NGA-FCT>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA020
+Enugu>>,<<Enugu>>,<<NGA-ENU>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA022
+Benin City>>,<<Edo>>,<<NGA-EDO>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA023
+Awka>>,<<Anambra>>,<<NGA-ANM>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA025
+Agadez>>,<<Agadez>>,<<NER-AGD>>,<<Niger>>,<<NG>>,<<NER>>,<<NER003
+Tahoua>>,<<Tahoua>>,<<NER-TAH>>,<<Niger>>,<<NG>>,<<NER>>,<<NER004
+Niamey>>,<<Niamey>>,<<NER-NIA>>,<<Niger>>,<<NG>>,<<NER>>,<<NER005
+Sokoto>>,<<Sokoto>>,<<NGA-SOK>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA026
+Dosso>>,<<Dosso>>,<<NER-DOS>>,<<Niger>>,<<NG>>,<<NER>>,<<NER006
+Birnin Kebbi>>,<<Kebbi>>,<<NGA-KEB>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA027
+Diapaga>>,<<Tapoa>>,<<BFA-TAP>>,<<Burkina Faso>>,<<UV>>,<<BFA>>,<<BFA028
+Faya>>,<<Borkou-Ennedi-Tibesti>>,<<TCD-BET>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD005
+Bol>>,<<Lac>>,<<TCD-LAC>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD007
+Ndjamena>>,<<Chari-Baguirmi>>,<<TCD-CBG>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD008
+Maiduguri>>,<<Borno>>,<<NGA-BOR>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA028
+Damaturu>>,<<Yobe>>,<<NGA-YOB>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA029
+Bozoum>>,<<Ouham-Pende>>,<<CAF-OPE>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF001
+Bouar>>,<<Nana-Mambere>>,<<CAF-NMM>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF002
+Bangui>>,<<Ombella-Mpoko>>,<<CAF-OMP>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF003
+Mobaye>>,<<Basse-Kotto>>,<<CAF-BKO>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF004
+Bertoua>>,<<Est>>,<<CMR-EST>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR006
+Berberati>>,<<Haute-Sangha>>,<<CAF-HSN>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF006
+Yaounde>>,<<Centre>>,<<CMR-CNT>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR007
+Nola>>,<<Sangha>>,<<CAF-SNG>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF007
+Ebebiyin>>,<<Kie-Ntem>>,<<GNQ-KNT>>,<<Equatorial Guinea>>,<<EK>>,<<GNQ>>,<<GNQ005
+Mongomo>>,<<Wele-Nzas>>,<<GNQ-WLN>>,<<Equatorial Guinea>>,<<EK>>,<<GNQ>>,<<GNQ006
+Oyem>>,<<Woleu-Ntem>>,<<GAB-WNT>>,<<Gabon>>,<<GB>>,<<GAB>>,<<GAB002
+Makokou>>,<<Ogooue-Ivindo>>,<<GAB-OIV>>,<<Gabon>>,<<GB>>,<<GAB>>,<<GAB003
+Maroua>>,<<Extreme-Nord>>,<<CMR-ENO>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR008
+Bongor>>,<<Mayo Kebi>>,<<TCD-MKE>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD009
+Garoua>>,<<Nord>>,<<CMR-NOR>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR009
+Yola>>,<<Adamawa>>,<<NGA-ADM>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA030
+Jalingo>>,<<Taraba>>,<<NGA-TAR>>,<<Nigeria>>,<<NI>>,<<NGA>>,<<NGA031
+Doba>>,<<Logone Oriental>>,<<TCD-LOR>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD011
+Moundou>>,<<Logone Occidental>>,<<TCD-LOC>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD012
+Ngaoundere>>,<<Adamoua>>,<<CMR-ADM>>,<<Cameroon>>,<<CM>>,<<CMR>>,<<CMR010
+Am Timan>>,<<Salamat>>,<<TCD-SLM>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD013
+Sarh>>,<<Moyen-Chari>>,<<TCD-MCH>>,<<Chad>>,<<CD>>,<<TCD>>,<<TCD014
+Ndele>>,<<Bamingui-Bangoran>>,<<CAF-BBN>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF008
+Kaga Bandoro>>,<<Gribingui>>,<<CAF-GRB>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF009
+Bria>>,<<Haute-Kotto>>,<<CAF-HKO>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF010
+Bossangoa>>,<<Ouham>>,<<CAF-OUH>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF011
+Sibut>>,<<Kemo-Gribingui>>,<<CAF-KGR>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF012
+Bambari>>,<<Ouaka>>,<<CAF-OUA>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF013
+Kebili>>,<<Quibili>>,<<TUN-QBL>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN001
+Tataouine>>,<<Tatawin>>,<<TUN-TTW>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN003
+Ghadamis>>,<<Ghadamis>>,<<LBY-GHD>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY001
+In Salah>>,<<Tamanghasset>>,<<DZA-TMN>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA011
+Tamanrasset>>,<<Tamanghasset>>,<<DZA-TMN>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA012
+Blida>>,<<Blida>>,<<DZA-BLI>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA013
+Bouira>>,<<Bouira>>,<<DZA-BOU>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA014
+Setif>>,<<Setif>>,<<DZA-SET>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA015
+M'sila>>,<<M'Sila>>,<<DZA-MSL>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA017
+Djelfa>>,<<Djelfa>>,<<DZA-DJL>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA018
+Laghouat>>,<<Laghouat>>,<<DZA-LGH>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA019
+Tizi-Ouzou>>,<<Tizi Ouzou>>,<<DZA-TOU>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA020
+Algiers>>,<<Alger>>,<<DZA-ALG>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA021
+Bejaia>>,<<Bejaia>>,<<DZA-BEJ>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA022
+Medea>>,<<Medea>>,<<DZA-MED>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA023
+Mostaganem>>,<<Mostaganem>>,<<DZA-MST>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA024
+Tiaret>>,<<Tiaret>>,<<DZA-TIA>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA026
+Saida>>,<<Saida>>,<<DZA-SAI>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA027
+Montpellier>>,<<Languedoc-Roussillon>>,<<FRA-LNR>>,<<France>>,<<FR>>,<<FRA>>,<<FRA007
+Toulouse>>,<<Midi-Pyrenees>>,<<FRA-MPY>>,<<France>>,<<FR>>,<<FRA>>,<<FRA008
+Marseille>>,<<Provence-Alpes-Cote d'Azur>>,<<FRA-PAC>>,<<France>>,<<FR>>,<<FRA>>,<<FRA009
+Andorra La Valla>>,<<Andorra>>,<<AND>>,<<Andorra>>,<<AN>>,<<AND>>,<<AND001
+Barcelona>>,<<Cataluna>>,<<ESP-CTL>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP020
+Palma De Mallorca>>,<<Isles Baleares>>,<<ESP-BLR>>,<<Spain>>,<<SP>>,<<ESP>>,<<ESP021
+Genoa>>,<<Liguria>>,<<ITA-LIG>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA001
+Florence>>,<<Toscana>>,<<ITA-TSC>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA002
+Monaco>>,<<Monaco>>,<<MCO>>,<<Monaco>>,<<MN>>,<<MCO>>,<<MCO001
+Ajaccio>>,<<Corse>>,<<FRA-COR>>,<<France>>,<<FR>>,<<FRA>>,<<FRA010
+Constantine>>,<<Constantine>>,<<DZA-CNS>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA029
+Batna>>,<<Batna>>,<<DZA-BAT>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA031
+Biskra>>,<<Biskra>>,<<DZA-BSK>>,<<Algeria>>,<<AG>>,<<DZA>>,<<DZA033
+Cagliari>>,<<Sardegna>>,<<ITA-SRD>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA003
+Bizerte>>,<<Banzart>>,<<TUN-BNZ>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN005
+Tunis>>,<<Tunis>>,<<TUN-TUN>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN007
+Beja>>,<<Bajah>>,<<TUN-BAJ>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN008
+Jendouba>>,<<Jundubah>>,<<TUN-JND>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN009
+Le Kef>>,<<Al Kaf>>,<<TUN-AKA>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN010
+Siliana>>,<<Silyanah>>,<<TUN-SLY>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN011
+Kasserine>>,<<Al Qasrayn>>,<<TUN-AQS>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN012
+Sfax>>,<<Safaqis>>,<<TUN-SFQ>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN014
+Gafsa>>,<<Qafsah>>,<<TUN-QFS>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN015
+Nabeul>>,<<Nabul>>,<<TUN-NAB>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN017
+Zaghouan>>,<<Zaghwan>>,<<TUN-ZGH>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN018
+Sousse>>,<<Susah>>,<<TUN-SUS>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN019
+Kairouan>>,<<Al Qayrawan>>,<<TUN-AQY>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN021
+Mahdia>>,<<Al Mahdiyah>>,<<TUN-AMH>>,<<Tunisia>>,<<TS>>,<<TUN>>,<<TUN022
+Bari>>,<<Puglia>>,<<ITA-PUG>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA004
+Campobasso>>,<<Molise>>,<<ITA-MOL>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA005
+Naples>>,<<Campania>>,<<ITA-CMP>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA006
+Potenza>>,<<Basilicata>>,<<ITA-BSL>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA007
+Palermo>>,<<Sicilia>>,<<ITA-SIC>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA009
+Valletta>>,<<Malta>>,<<MLT>>,<<Malta>>,<<MT>>,<<MLT>>,<<MLT001
+Bologna>>,<<Emilia-Romagna>>,<<ITA-ERM>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA010
+San Marino>>,<<San Marino>>,<<SMR>>,<<San Marino>>,<<SM>>,<<SMR>>,<<SMR001
+Ancona>>,<<Marche>>,<<ITA-MRC>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA011
+Perugia>>,<<Umbria>>,<<ITA-UMB>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA012
+Aquila>>,<<Abruzzi>>,<<ITA-ABR>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA013
+Rome>>,<<Lazio>>,<<ITA-LAZ>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA014
+Bajram Curri>>,<<Tropoje>>,<<ALB-TRP>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB001
+Shkoder>>,<<Shkoder>>,<<ALB-SHK>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB002
+Durres>>,<<Durres>>,<<ALB-DRR>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB004
+Fier>>,<<Fier>>,<<ALB-FIE>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB005
+Vlore>>,<<Vlore>>,<<ALB-VLO>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB006
+Belgrade>>,<<Serbia>>,<<SRB-SRB>>,<<Serbia>>,<<RB>>,<<SRB>>,<<SRB001
+Podgorica>>,<<Montenegro>>,<<MON>>,<<Montenegro>>,<<MJ>>,<<MNE>>,<<MNE001
+Skopje>>,<<Macedonia>>,<<MKD>>,<<Macedonia>>,<<MK>>,<<MKD>>,<<MKD001
+Pogradec>>,<<Pogradec>>,<<ALB-PGR>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB008
+Korce>>,<<Korce>>,<<ALB-KOR>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB009
+Ioannina>>,<<Ipiros>>,<<GRC-IPR>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC001
+Larisa>>,<<Thessalia>>,<<GRC-THS>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC002
+Lushnje>>,<<Lushnje>>,<<ALB-LSH>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB010
+Gramsh>>,<<Gramsh>>,<<ALB-GRM>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB011
+Berat>>,<<Berat>>,<<ALB-BER>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB012
+Corovode>>,<<Skrapar>>,<<ALB-SKR>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB013
+Tepelene>>,<<Tepelene>>,<<ALB-TPL>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB014
+Permet>>,<<Permet>>,<<ALB-PRM>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB015
+Gjirokaster>>,<<Gjirokaster>>,<<ALB-GJR>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB016
+Sarande>>,<<Sarande>>,<<ALB-SRN>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB017
+Peshkopi>>,<<Dibre>>,<<ALB-DIB>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB018
+Kukes>>,<<Kukes>>,<<ALB-KUK>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB019
+Puke>>,<<Puke>>,<<ALB-PUK>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB020
+Kruje>>,<<Kruje>>,<<ALB-KRU>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB023
+Tirana>>,<<Tirane>>,<<ALB-TIR>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB024
+Librazhd>>,<<Librazhd>>,<<ALB-LBR>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB025
+Elbasan>>,<<Elbasan>>,<<ALB-ELB>>,<<Albania>>,<<AL>>,<<ALB>>,<<ALB026
+Lamia>>,<<Central Greece and Evvoia>>,<<GRC-CGE>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC004
+Patras>>,<<Peloponnisos>>,<<GRC-PLP>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC005
+Tripoli>>,<<Peloponnisos>>,<<GRC-PLP>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC006
+Tripoli>>,<<Tarabulus>>,<<LBY-TRB>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY002
+Az Zawiyah>>,<<Az Zawiyah>>,<<LBY-AZW>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY003
+Al Khums>>,<<Al Khums>>,<<LBY-AKH>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY004
+Misratah>>,<<Misratah>>,<<LBY-MSR>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY005
+Gharyan>>,<<Gharyan>>,<<LBY-GHR>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY006
+Benghazi>>,<<Banghazi>>,<<LBY-BNG>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY007
+Ajdabiya>>,<<Ajdabiya>>,<<LBY-AJD>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY008
+Sabha>>,<<Sabha>>,<<LBY-SAB>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY009
+Murzuq>>,<<Murzuq>>,<<LBY-MRZ>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY010
+Zonguldak>>,<<Zonguldak>>,<<TUR-ZNG>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR001
+Bolu>>,<<Bolu>>,<<TUR-BOL>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR002
+Cankiri>>,<<Cankiri>>,<<TUR-CNR>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR003
+Ankara>>,<<Ankara>>,<<TUR-ANK>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR004
+Kyrenia>>,<<Kyrenia>>,<<CYP-KYR>>,<<Cyprus>>,<<CY>>,<<CYP>>,<<CYP001
+Nicosia>>,<<Nicosia>>,<<CYP-NIC>>,<<Cyprus>>,<<CY>>,<<CYP>>,<<CYP002
+Larnaka>>,<<Larnaca>>,<<CYP-LRN>>,<<Cyprus>>,<<CY>>,<<CYP>>,<<CYP003
+Paphos>>,<<Paphos>>,<<CYP-PPH>>,<<Cyprus>>,<<CY>>,<<CYP>>,<<CYP004
+Lemesos>>,<<Limassol>>,<<CYP-LMS>>,<<Cyprus>>,<<CY>>,<<CYP>>,<<CYP005
+Darnah>>,<<Darnah>>,<<LBY-DRN>>,<<Libya>>,<<LY>>,<<LBY>>,<<LBY011
+Marsa Matruh>>,<<Marsa Matruh>>,<<EGY-MNT>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY001
+El Minya>>,<<Al Minya>>,<<EGY-AMI>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY002
+Asyut>>,<<Asyut>>,<<EGY-ASY>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY003
+Sohag>>,<<Suhaj>>,<<EGY-SUH>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY004
+Qena>>,<<Qina>>,<<EGY-QIN>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY005
+El-Kharga>>,<<Al Wadi al Jadid>>,<<EGY-AWA>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY006
+Aswan>>,<<Aswan>>,<<EGY-ASN>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY007
+Dumyat>>,<<Dumyat>>,<<EGY-DMY>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY008
+Port Said>>,<<Bur Sa'id>>,<<EGY-BSA>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY009
+Alexandria>>,<<Al Iskandariyah>>,<<EGY-AIS>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY010
+Kafr el Sheikh>>,<<Kafr ash Shaykh>>,<<EGY-KAS>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY011
+El Mansura>>,<<Ad Daqahliyah>>,<<EGY-ADQ>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY012
+Damanhur>>,<<Al Buhayrah>>,<<EGY-ABH>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY013
+Abu Zenima>>,<<Janub Sina'>>,<<EGY-JSI>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY016
+El Tur>>,<<Janub Sina'>>,<<EGY-JSI>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY017
+Tanta>>,<<Al Gharbiyah>>,<<EGY-AGH>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY018
+Ismailia>>,<<Al Isma'iliyah>>,<<EGY-AIM>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY019
+Benha>>,<<Al Qalyubiyah>>,<<EGY-AQL>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY021
+Cairo>>,<<Al Qahirah>>,<<EGY-AQH>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY022
+Giza>>,<<Al Jizah>>,<<EGY-AJI>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY023
+Suez>>,<<As Suways>>,<<EGY-ASW>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY024
+Beni Suef>>,<<Bani Suwayf>>,<<EGY-BSW>>,<<Egypt>>,<<EG>>,<<EGY>>,<<EGY025
+Piraeus>>,<<Central Greece and Evvoia>>,<<GRC-CGE>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC007
+Manisa>>,<<Manisa>>,<<TUR-MAN>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR005
+Izmir>>,<<Izmir>>,<<TUR-IZM>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR006
+Chios>>,<<Aegean Islands>>,<<GRC-AIS>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC008
+Aydin>>,<<Aydin>>,<<TUR-AYD>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR007
+Iraklion>>,<<Crete>>,<<GRC-CRT>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC009
+Athens>>,<<Central Greece and Evvoia>>,<<GRC-CGE>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC010
+Kurdzhali>>,<<Khaskovo>>,<<BGR-KHS>>,<<Bulgaria>>,<<BU>>,<<BGR>>,<<BGR001
+Kirklareli>>,<<Kirklareli>>,<<TUR-KRK>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR008
+Edirne>>,<<Edirne>>,<<TUR-EDR>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR009
+Tekirdag>>,<<Tekirdag>>,<<TUR-TKR>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR010
+Thessaloniki>>,<<Macedonia>>,<<GRC-MCD>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC012
+Polygyros>>,<<Macedonia>>,<<GRC-MCD>>,<<Greece>>,<<GR>>,<<GRC>>,<<GRC013
+Canakkale>>,<<Canakkale>>,<<TUR-CNK>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR011
+Balikesir>>,<<Balikesir>>,<<TUR-BLK>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR012
+Pitesti>>,<<Arges>>,<<ROU-ARG>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU001
+Slatina>>,<<Olt>>,<<ROU-OLT>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU003
+Craiova>>,<<Dolj>>,<<ROU-DOL>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU004
+Alexandria>>,<<Teleorman>>,<<ROU-TLR>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU005
+Montana>>,<<Mikhaylovgrad>>,<<BGR-MKH>>,<<Bulgaria>>,<<BU>>,<<BGR>>,<<BGR002
+Lovec>>,<<Lovech>>,<<BGR-LVC>>,<<Bulgaria>>,<<BU>>,<<BGR>>,<<BGR003
+Sofia>>,<<Grad Sofiya>>,<<BGR-GSO>>,<<Bulgaria>>,<<BU>>,<<BGR>>,<<BGR004
+Targoviste>>,<<Dimbovita>>,<<ROU-DMB>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU006
+Ploiesti>>,<<Prahova>>,<<ROU-PRH>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU007
+Slobozia>>,<<Ialomita>>,<<ROU-ILM>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU008
+Bucharest>>,<<Bucuresti>>,<<ROU-BUC>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU009
+Calarasi>>,<<Calarasi>>,<<ROU-CLR>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU010
+Giurgiu>>,<<Giurgiu>>,<<ROU-GIU>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU011
+Razgrad>>,<<Razgrad>>,<<BGR-RZG>>,<<Bulgaria>>,<<BU>>,<<BGR>>,<<BGR005
+Varna>>,<<Varna>>,<<BGR-VAR>>,<<Bulgaria>>,<<BU>>,<<BGR>>,<<BGR006
+Burgas>>,<<Burgas>>,<<BGR-BRG>>,<<Bulgaria>>,<<BU>>,<<BGR>>,<<BGR007
+Constanta>>,<<Constanta>>,<<ROU-CNS>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU012
+Istanbul>>,<<Istanbul>>,<<TUR-IST>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR013
+Kocaeli>>,<<Kocaeli>>,<<TUR-KOC>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR014
+Sakarya>>,<<Sakarya>>,<<TUR-SKR>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR015
+Bursa>>,<<Bursa>>,<<TUR-BUR>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR016
+Bilecik>>,<<Bilecik>>,<<TUR-BLC>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR017
+Eskisehir>>,<<Eskisehir>>,<<TUR-ESK>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR018
+Kutahya>>,<<Kutahya>>,<<TUR-KTH>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR019
+Afyon>>,<<Afyon>>,<<TUR-AFY>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR020
+Usak>>,<<Usak>>,<<TUR-USA>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR021
+Konya>>,<<Konya>>,<<TUR-KON>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR022
+Denizli>>,<<Denizli>>,<<TUR-DNZ>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR023
+Isparta>>,<<Isparta>>,<<TUR-ISP>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR024
+Burdur>>,<<Burdur>>,<<TUR-BRD>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR025
+Mugla>>,<<Mugla>>,<<TUR-MUG>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR026
+Antalya>>,<<Antalya>>,<<TUR-ANT>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR027
+Sokhumi>>,<<Abkhazia>>,<<GEO-ABK>>,<<Georgia>>,<<GG>>,<<GEO>>,<<GEO001
+Elazig>>,<<Elazig>>,<<TUR-ELZ>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR028
+Malatya>>,<<Malatya>>,<<TUR-MLT>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR029
+Adiyaman>>,<<Adiyaman>>,<<TUR-ADY>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR030
+Kahramanmaras>>,<<Kahraman Maras>>,<<TUR-KMA>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR031
+Aintab>>,<<Gaziantep>>,<<TUR-GZN>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR033
+Cherkessk>>,<<Karachayevo-Cherkesskaya Resp.>>,<<RUS-KCH>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS004
+Kirsehir>>,<<Kirsehir>>,<<TUR-KRS>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR034
+Kayseri>>,<<Kayseri>>,<<TUR-KYS>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR035
+Nevsehir>>,<<Nevsehir>>,<<TUR-NVS>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR036
+Nigde>>,<<Nigde>>,<<TUR-NIG>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR037
+Seyhan>>,<<Adana>>,<<TUR-ADA>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR038
+Mersin>>,<<Icel>>,<<TUR-ICE>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR039
+Antioch>>,<<Hatay>>,<<TUR-HAT>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR040
+Tartus>>,<<Tartus>>,<<SYR-TRT>>,<<Syria>>,<<SY>>,<<SYR>>,<<SYR002
+Tripoli>>,<<Ash Shamal>>,<<LBN-ASH>>,<<Lebanon>>,<<LE>>,<<LBN>>,<<LBN001
+Beirut>>,<<Bayrut>>,<<LBN-BYR>>,<<Lebanon>>,<<LE>>,<<LBN>>,<<LBN002
+Aleppo>>,<<Halab>>,<<SYR-HAL>>,<<Syria>>,<<SY>>,<<SYR>>,<<SYR003
+Idlib>>,<<Idlib>>,<<SYR-IDL>>,<<Syria>>,<<SY>>,<<SYR>>,<<SYR005
+Hamah>>,<<Hamah>>,<<SYR-HAM>>,<<Syria>>,<<SY>>,<<SYR>>,<<SYR006
+Sinop>>,<<Sinop>>,<<TUR-SIN>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR041
+Samsun>>,<<Samsun>>,<<TUR-SMS>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR043
+Yozgat>>,<<Yozgat>>,<<TUR-YZG>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR046
+Simferopol'>>,<<Crimean>>,<<UKR-KRM>>,<<Ukraine>>,<<UP>>,<<UKR>>,<<UKR001
+Trabzon>>,<<Trabzon>>,<<TUR-TRB>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR053
+Erzurum>>,<<Erzurum>>,<<TUR-ERR>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR055
+Vladikavkaz>>,<<Respublika Severnaya Osetiya>>,<<RUS-NOS>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS006
+Kars>>,<<Kars>>,<<TUR-KAR>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR057
+Yerevan>>,<<Armenia>>,<<ARM>>,<<Armenia>>,<<AM>>,<<ARM>>,<<ARM001
+Agri>>,<<Agri>>,<<TUR-AGR>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR058
+Bitlis>>,<<Bitlis>>,<<TUR-BTL>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR062
+Siirt>>,<<Siirt>>,<<TUR-SII>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR063
+Diyarbakir>>,<<Diyarbakir>>,<<TUR-DYR>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR064
+Mardin>>,<<Mardin>>,<<TUR-MRD>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR065
+Hakkari>>,<<Hakkari>>,<<TUR-HKK>>,<<Turkey>>,<<TU>>,<<TUR>>,<<TUR067
+Dahuk>>,<<Dahuk>>,<<IRQ-DAH>>,<<Iraq>>,<<IZ>>,<<IRQ>>,<<IRQ001
+Arbil>>,<<Arbil>>,<<IRQ-IRB>>,<<Iraq>>,<<IZ>>,<<IRQ>>,<<IRQ003
+Kirkuk>>,<<At Ta'min>>,<<IRQ-ATA>>,<<Iraq>>,<<IZ>>,<<IRQ>>,<<IRQ004
+Samarra>>,<<Salah ad Din>>,<<IRQ-SAD>>,<<Iraq>>,<<IZ>>,<<IRQ>>,<<IRQ005
+Medina>>,<<Al Madinah>>,<<SAU-AMD>>,<<Saudi Arabia>>,<<SA>>,<<SAU>>,<<SAU005
+Haifa>>,<<Hefa>>,<<ISR-HEF>>,<<Israel>>,<<IS>>,<<ISR>>,<<ISR001
+Beersheba>>,<<Hadarom>>,<<ISR-HDR>>,<<Israel>>,<<IS>>,<<ISR>>,<<ISR003
+Sidon>>,<<Sayda>>,<<LBN-SAY>>,<<Lebanon>>,<<LE>>,<<LBN>>,<<LBN005
+Nazareth>>,<<Hazafon>>,<<ISR-HZF>>,<<Israel>>,<<IS>>,<<ISR>>,<<ISR005
+Damascus>>,<<Dimashq>>,<<SYR-DMS>>,<<Syria>>,<<SY>>,<<SYR>>,<<SYR011
+Irbid>>,<<Irbid>>,<<JOR-IRB>>,<<Jordan>>,<<JO>>,<<JOR>>,<<JOR003
+Amman>>,<<'Amman>>,<<JOR-AMM>>,<<Jordan>>,<<JO>>,<<JOR>>,<<JOR007
+Jerusalem>>,<<Yerushalayim>>,<<ISR-YRS>>,<<Israel>>,<<IS>>,<<ISR>>,<<ISR006
+Baghdad>>,<<Baghdad>>,<<IRQ-BGH>>,<<Iraq>>,<<IZ>>,<<IRQ>>,<<IRQ008
+Karbala'>>,<<Karbala'>>,<<IRQ-KRB>>,<<Iraq>>,<<IZ>>,<<IRQ>>,<<IRQ009
+Gulu>>,<<Northern>>,<<UGA-NRT>>,<<Uganda>>,<<UG>>,<<UGA>>,<<UGA002
+Fort Portal>>,<<Western>>,<<UGA-WST>>,<<Uganda>>,<<UG>>,<<UGA>>,<<UGA003
+Jinja>>,<<Busoga>>,<<UGA-BUS>>,<<Uganda>>,<<UG>>,<<UGA>>,<<UGA005
+Kampala>>,<<Central>>,<<UGA-CNT>>,<<Uganda>>,<<UG>>,<<UGA>>,<<UGA006
+Birao>>,<<Vakaga>>,<<CAF-VAK>>,<<Central African Republic>>,<<CT>>,<<CAF>>,<<CAF014
+Malakal>>,<<A'ali an Nil>>,<<SDN-AAN>>,<<Sudan>>,<<SU>>,<<SDN>>,<<SDN001
+Wau>>,<<Bahr al Ghazal>>,<<SDN-BAG>>,<<Sudan>>,<<SU>>,<<SDN>>,<<SDN002
+Dongola>>,<<Ash Shamaliyah>>,<<SDN-ASH>>,<<Sudan>>,<<SU>>,<<SDN>>,<<SDN004
+Omdurman>>,<<Al Khartum>>,<<SDN-AKH>>,<<Sudan>>,<<SU>>,<<SDN>>,<<SDN005
+Khartoum>>,<<Al Khartum>>,<<SDN-AKH>>,<<Sudan>>,<<SU>>,<<SDN>>,<<SDN006
+El Obeid>>,<<Kurdufan>>,<<SDN-KRD>>,<<Sudan>>,<<SU>>,<<SDN>>,<<SDN008
+Mecca>>,<<Makkah>>,<<SAU-MKK>>,<<Saudi Arabia>>,<<SA>>,<<SAU>>,<<SAU009
+Port Sudan>>,<<Ash Sharqiyah>>,<<SDN-ASR>>,<<Sudan>>,<<SU>>,<<SDN>>,<<SDN009
+Asmara>>,<<Hamasen>>,<<ERI-HMS>>,<<Eritrea>>,<<ER>>,<<ERI>>,<<ERI001
+Jeddah>>,<<Makkah>>,<<SAU-MKK>>,<<Saudi Arabia>>,<<SA>>,<<SAU>>,<<SAU010
+Sanaa>>,<<San'a'>>,<<YEM-SAN>>,<<Yemen>>,<<YM>>,<<YEM>>,<<YEM003
+Mek'ele>>,<<Tigray>>,<<ETH-TGR>>,<<Ethiopia>>,<<ET>>,<<ETH>>,<<ETH002
+Lahij>>,<<Lahij>>,<<YEM-LHJ>>,<<Yemen>>,<<YM>>,<<YEM>>,<<YEM008
+Djibouti>>,<<Djibouti>>,<<DJI-DJI>>,<<Djibouti>>,<<DJ>>,<<DJI>>,<<DJI003
+Harar>>,<<Harerge>>,<<ETH-HRR>>,<<Ethiopia>>,<<ET>>,<<ETH>>,<<ETH004
+Debre Markos>>,<<Gojam>>,<<ETH-GOJ>>,<<Ethiopia>>,<<ET>>,<<ETH>>,<<ETH006
+Addis Ababa>>,<<Shewa>>,<<ETH-SHE>>,<<Ethiopia>>,<<ET>>,<<ETH>>,<<ETH008
+Gore>>,<<Ilubabor>>,<<ETH-ILB>>,<<Ethiopia>>,<<ET>>,<<ETH>>,<<ETH009
+Marka>>,<<Shabeellaha Hoose>>,<<SOM-SHO>>,<<Somalia>>,<<SO>>,<<SOM>>,<<SOM005
+Trondheim>>,<<Sor-Trondelag>>,<<NOR-STR>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR001
+Molde>>,<<More Og Romsdal>>,<<NOR-MOR>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR002
+Bergen>>,<<Hordaland>>,<<NOR-HRD>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR003
+Bremen>>,<<Bremen>>,<<DEU-BRM>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU001
+Hannover>>,<<Niedersachsen>>,<<DEU-NDR>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU002
+Erfurt>>,<<Thuringen>>,<<DEU-THR>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU003
+Frankfurt>>,<<Hessen>>,<<DEU-HSS>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU004
+Rouen>>,<<Haute-Normandie>>,<<FRA-HNR>>,<<France>>,<<FR>>,<<FRA>>,<<FRA012
+Le Havre>>,<<Basse-Normandie>>,<<FRA-BNR>>,<<France>>,<<FR>>,<<FRA>>,<<FRA013
+Paris>>,<<Ile-de-France>>,<<FRA-IDF>>,<<France>>,<<FR>>,<<FRA>>,<<FRA014
+Stuttgart>>,<<Baden-Wurttemberg>>,<<DEU-BWR>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU005
+Orleans>>,<<Centre>>,<<FRA-CEN>>,<<France>>,<<FR>>,<<FRA>>,<<FRA015
+Poitiers>>,<<Poitou-Charentes>>,<<FRA-PCH>>,<<France>>,<<FR>>,<<FRA>>,<<FRA016
+Limoges>>,<<Limousin>>,<<FRA-LIM>>,<<France>>,<<FR>>,<<FRA>>,<<FRA017
+Dunkirk>>,<<Nord-Pas-de-Calais>>,<<FRA-NPC>>,<<France>>,<<FR>>,<<FRA>>,<<FRA018
+Liege>>,<<Liege>>,<<BEL-LIE>>,<<Belgium>>,<<BE>>,<<BEL>>,<<BEL001
+Namur>>,<<Namur>>,<<BEL-NAM>>,<<Belgium>>,<<BE>>,<<BEL>>,<<BEL002
+Mons>>,<<Hainaut>>,<<BEL-HAI>>,<<Belgium>>,<<BE>>,<<BEL>>,<<BEL003
+Reims>>,<<Champagne-Ardenne>>,<<FRA-CHA>>,<<France>>,<<FR>>,<<FRA>>,<<FRA019
+Dijon>>,<<Bourgogne>>,<<FRA-BOR>>,<<France>>,<<FR>>,<<FRA>>,<<FRA020
+Bruges>>,<<West-Vlaanderen>>,<<BEL-WVL>>,<<Belgium>>,<<BE>>,<<BEL>>,<<BEL004
+Hasselt>>,<<Limburg>>,<<BEL-LMB>>,<<Belgium>>,<<BE>>,<<BEL>>,<<BEL007
+Lille>>,<<Nord-Pas-de-Calais>>,<<FRA-NPC>>,<<France>>,<<FR>>,<<FRA>>,<<FRA023
+Brussels>>,<<Bruxelles-Brussel>>,<<BEL-BRS>>,<<Belgium>>,<<BE>>,<<BEL>>,<<BEL008
+Haarlem>>,<<Noord-Holland>>,<<NLD-NHL>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD004
+Amsterdam>>,<<Noord-Holland>>,<<NLD-NHL>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD005
+Utrecht>>,<<Utrecht>>,<<NLD-UTR>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD006
+The Hague>>,<<Zuid-Holland>>,<<NLD-ZHL>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD007
+Rotterdam>>,<<Zuid-Holland>>,<<NLD-ZHL>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD008
+Groningen>>,<<Groningen>>,<<NLD-GRN>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD009
+Leeuwarden>>,<<Friesland>>,<<NLD-FRS>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD010
+Assen>>,<<Drenthe>>,<<NLD-DRN>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD011
+Zwolle>>,<<Overijssel>>,<<NLD-OVR>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD012
+Arnhem>>,<<Gelderland>>,<<NLD-GLD>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD013
+Duisburg>>,<<Nordrhein-Westfalen>>,<<DEU-NWS>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU006
+Dusseldorf>>,<<Nordrhein-Westfalen>>,<<DEU-NWS>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU007
+Maastricht>>,<<Limburg>>,<<NLD-LMB>>,<<Netherlands>>,<<NL>>,<<NLD>>,<<NLD014
+Dortmund>>,<<Nordrhein-Westfalen>>,<<DEU-NWS>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU008
+Essen>>,<<Nordrhein-Westfalen>>,<<DEU-NWS>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU009
+Cologne>>,<<Nordrhein-Westfalen>>,<<DEU-NWS>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU010
+Bonn>>,<<Nordrhein-Westfalen>>,<<DEU-NWS>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU011
+Bremerhaven>>,<<Bremen>>,<<DEU-BRM>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU012
+Arhus>>,<<Arhus>>,<<DNK-ARH>>,<<Denmark>>,<<DA>>,<<DNK>>,<<DNK002
+Vejle>>,<<Vejle>>,<<DNK-VEJ>>,<<Denmark>>,<<DA>>,<<DNK>>,<<DNK003
+Odense>>,<<Fyn>>,<<DNK-FYN>>,<<Denmark>>,<<DA>>,<<DNK>>,<<DNK004
+Ribe>>,<<Ribe>>,<<DNK-RIB>>,<<Denmark>>,<<DA>>,<<DNK>>,<<DNK005
+Kiel>>,<<Schleswig-Holstein>>,<<DEU-SHL>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU013
+Hamburg>>,<<Hamburg>>,<<DEU-HMB>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU014
+Besancon>>,<<Franche-Comte>>,<<FRA-FRC>>,<<France>>,<<FR>>,<<FRA>>,<<FRA024
+Neuchatel>>,<<Neuchatel>>,<<CHE-NCH>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE001
+Fribourg>>,<<Fribourg>>,<<CHE-FRB>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE002
+Lausanne>>,<<Vaud>>,<<CHE-VAU>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE003
+Sion>>,<<Valais>>,<<CHE-VAL>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE004
+Geneva>>,<<Geneve>>,<<CHE-GEN>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE005
+Aosta>>,<<Valle d'Aosta>>,<<ITA-VDA>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA015
+Turin>>,<<Piemonte>>,<<ITA-PMN>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA016
+Basel>>,<<Basel-Stadt>>,<<CHE-BST>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE006
+Aarau>>,<<Aargau>>,<<CHE-AAR>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE008
+Luzern>>,<<Luzern>>,<<CHE-LZR>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE011
+Stans>>,<<Nidwalden>>,<<CHE-NDW>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE012
+Bern>>,<<Bern>>,<<CHE-BER>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE013
+Wiesbaden>>,<<Hessen>>,<<DEU-HSS>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU015
+Mainz>>,<<Rheinland-Pfalz>>,<<DEU-RPF>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU016
+Luxembourg>>,<<Luxembourg>>,<<LUX-LXM>>,<<Luxembourg>>,<<LU>>,<<LUX>>,<<LUX003
+Saarbrucken>>,<<Saarland>>,<<DEU-SRL>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU017
+Nancy>>,<<Lorraine>>,<<FRA-LOR>>,<<France>>,<<FR>>,<<FRA>>,<<FRA025
+Strasbourg>>,<<Alsace>>,<<FRA-ALS>>,<<France>>,<<FR>>,<<FRA>>,<<FRA026
+Saint Gallen>>,<<Sankt Gallen>>,<<CHE-SGL>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE015
+Appenzell>>,<<Appenzell Inner-Rhoden>>,<<CHE-AIR>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE017
+Vaduz>>,<<Liechtenstein>>,<<LIE>>,<<Liechtenstein>>,<<LS>>,<<LIE>>,<<LIE001
+Chur>>,<<Graubunden>>,<<CHE-GRB>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE018
+Trento>>,<<Trentino-Alto Adige>>,<<ITA-TAA>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA017
+Milan>>,<<Lombardia>>,<<ITA-LMB>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA018
+Bregenz>>,<<Vorarlberg>>,<<AUT-VRR>>,<<Austria>>,<<AU>>,<<AUT>>,<<AUT001
+Zurich>>,<<Zurich>>,<<CHE-ZRC>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE022
+Zug>>,<<Zug>>,<<CHE-ZUG>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE023
+Glarus>>,<<Glarus>>,<<CHE-GLR>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE024
+Schwyz>>,<<Schwyz>>,<<CHE-SCW>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE025
+Altdorf>>,<<Uri>>,<<CHE-URI>>,<<Switzerland>>,<<SZ>>,<<CHE>>,<<CHE026
+Stavanger>>,<<Rogaland>>,<<NOR-RGL>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR006
+Kristiansand>>,<<Vest-Agder>>,<<NOR-VAG>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR008
+Hamar>>,<<Hedmark>>,<<NOR-HDM>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR011
+Oslo>>,<<Oslo>>,<<NOR-OSL>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR012
+Bodo>>,<<Nordland>>,<<NOR-NRD>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR016
+Kalmar>>,<<Kalmar>>,<<SWE-KLM>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE003
+Linkoping>>,<<Ostergotlands>>,<<SWE-OST>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE004
+Jonkoping>>,<<Jonkopings>>,<<SWE-JNK>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE005
+Vasteras>>,<<Vastmanlands>>,<<SWE-VSM>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE007
+Karlstad>>,<<Varmlands>>,<<SWE-VRM>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE008
+Halmstad>>,<<Hallands>>,<<SWE-HLL>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE013
+Lulea>>,<<Norrbottens>>,<<SWE-NRR>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE014
+Umea>>,<<Vasterbottens>>,<<SWE-VST>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE015
+Turku>>,<<Turku Ja Pori>>,<<FIN-TJP>>,<<Finland>>,<<FI>>,<<FIN>>,<<FIN002
+Mariehamn>>,<<Ahvenanmaa>>,<<FIN-AHR>>,<<Finland>>,<<FI>>,<<FIN>>,<<FIN003
+Uppsala>>,<<Uppsala>>,<<SWE-UPP>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE018
+Visby>>,<<Gotlands>>,<<SWE-GTL>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE020
+Stockholm>>,<<Stockholms>>,<<SWE-STC>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE021
+Prague>>,<<Stredocesky>>,<<CZE-STR>>,<<Czech Republic>>,<<EZ>>,<<CZE>>,<<CZE002
+Brno>>,<<Jihomoravsky>>,<<CZE-JHM>>,<<Czech Republic>>,<<EZ>>,<<CZE>>,<<CZE003
+Linz>>,<<Oberosterreich>>,<<AUT-OBR>>,<<Austria>>,<<AU>>,<<AUT>>,<<AUT002
+Vienna>>,<<Wien>>,<<AUT-WIE>>,<<Austria>>,<<AU>>,<<AUT>>,<<AUT004
+Munich>>,<<Bayern>>,<<DEU-BYR>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU018
+Salzburg>>,<<Salzburg>>,<<AUT-SLZ>>,<<Austria>>,<<AU>>,<<AUT>>,<<AUT005
+Innsbruck>>,<<Tirol>>,<<AUT-TIR>>,<<Austria>>,<<AU>>,<<AUT>>,<<AUT006
+Trieste>>,<<Friuli-Venezia Giulia>>,<<ITA-FVG>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA019
+Venice>>,<<Veneto>>,<<ITA-VEN>>,<<Italy>>,<<IT>>,<<ITA>>,<<ITA020
+Rijeka>>,<<Croatia>>,<<HRV>>,<<Croatia>>,<<HR>>,<<HRV>>,<<HRV001
+Graz>>,<<Steiermark>>,<<AUT-STR>>,<<Austria>>,<<AU>>,<<AUT>>,<<AUT007
+Klagenfurt>>,<<Karnten>>,<<AUT-KRN>>,<<Austria>>,<<AU>>,<<AUT>>,<<AUT008
+Ljubljana>>,<<Slovenia>>,<<SVN>>,<<Slovenia>>,<<SI>>,<<SVN>>,<<SVN001
+Zagreb>>,<<Croatia>>,<<HRV>>,<<Croatia>>,<<HR>>,<<HRV>>,<<HRV002
+Berlin>>,<<Berlin>>,<<DEU-BER>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU019
+Potsdam>>,<<Brandenburg>>,<<DEU-BRN>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU020
+Magdeburg>>,<<Sachsen-Anhalt>>,<<DEU-SCA>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU021
+Leipzig>>,<<Sachsen>>,<<DEU-SCH>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU022
+Dresden>>,<<Sachsen>>,<<DEU-SCH>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU023
+Schwerin>>,<<Mecklenburg-Vorpommern>>,<<DEU-MKV>>,<<Germany>>,<<GM>>,<<DEU>>,<<DEU024
+Roskilde>>,<<Roskilde>>,<<DNK-RSK>>,<<Denmark>>,<<DA>>,<<DNK>>,<<DNK010
+Malmo>>,<<Malmohus>>,<<SWE-MLM>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE022
+Soro>>,<<Vestsjalland>>,<<DNK-VST>>,<<Denmark>>,<<DA>>,<<DNK>>,<<DNK011
+Copenhagen>>,<<Staden Kobenhavn>>,<<DNK-SKB>>,<<Denmark>>,<<DA>>,<<DNK>>,<<DNK013
+Kristianstad>>,<<Kristianstads>>,<<SWE-KRS>>,<<Sweden>>,<<SW>>,<<SWE>>,<<SWE024
+Szczecin>>,<<Szczecin>>,<<POL-SZC>>,<<Poland>>,<<PL>>,<<POL>>,<<POL002
+Legnica>>,<<Legnica>>,<<POL-LGN>>,<<Poland>>,<<PL>>,<<POL>>,<<POL007
+Walbrzych>>,<<Walbrzych>>,<<POL-WLB>>,<<Poland>>,<<PL>>,<<POL>>,<<POL009
+Gdynia>>,<<Gdansk>>,<<POL-GDN>>,<<Poland>>,<<PL>>,<<POL>>,<<POL010
+Kaliningrad>>,<<Kaliningradskaya oblast'>>,<<RUS-KNG>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS008
+Gdansk>>,<<Gdansk>>,<<POL-GDN>>,<<Poland>>,<<PL>>,<<POL>>,<<POL012
+Elblag>>,<<Elblag>>,<<POL-ELB>>,<<Poland>>,<<PL>>,<<POL>>,<<POL013
+Bydgoszcz>>,<<Bydgoszcz>>,<<POL-BYD>>,<<Poland>>,<<PL>>,<<POL>>,<<POL015
+Torun>>,<<Torun>>,<<POL-TOR>>,<<Poland>>,<<PL>>,<<POL>>,<<POL016
+Poznan>>,<<Poznan>>,<<POL-PZN>>,<<Poland>>,<<PL>>,<<POL>>,<<POL018
+Kalisz>>,<<Kalisz>>,<<POL-KLS>>,<<Poland>>,<<PL>>,<<POL>>,<<POL020
+Wroclaw>>,<<Wroclaw>>,<<POL-WRC>>,<<Poland>>,<<PL>>,<<POL>>,<<POL021
+Lodz>>,<<Lodz>>,<<POL-LOD>>,<<Poland>>,<<PL>>,<<POL>>,<<POL023
+Czestochowa>>,<<Czestochowa>>,<<POL-CZS>>,<<Poland>>,<<PL>>,<<POL>>,<<POL025
+Warsaw>>,<<Warszawa>>,<<POL-WRS>>,<<Poland>>,<<PL>>,<<POL>>,<<POL030
+Radom>>,<<Radom>>,<<POL-RAD>>,<<Poland>>,<<PL>>,<<POL>>,<<POL034
+Kielce>>,<<Kielce>>,<<POL-KIE>>,<<Poland>>,<<PL>>,<<POL>>,<<POL035
+Katowice>>,<<Katowice>>,<<POL-KTW>>,<<Poland>>,<<PL>>,<<POL>>,<<POL036
+Ostrava>>,<<Severomoravsky>>,<<CZE-SVM>>,<<Czech Republic>>,<<EZ>>,<<CZE>>,<<CZE007
+Bratislava>>,<<Bratislava>>,<<SVK-BRS>>,<<Slovakia>>,<<LO>>,<<SVK>>,<<SVK002
+Budapest>>,<<Budapest>>,<<HUN-BDP>>,<<Hungary>>,<<HU>>,<<HUN>>,<<HUN005
+Szekesfehervar>>,<<Fejer>>,<<HUN-FEJ>>,<<Hungary>>,<<HU>>,<<HUN>>,<<HUN006
+Krakow>>,<<Krakow>>,<<POL-KRK>>,<<Poland>>,<<PL>>,<<POL>>,<<POL039
+Tarnow>>,<<Tarnow>>,<<POL-TRW>>,<<Poland>>,<<PL>>,<<POL>>,<<POL041
+Miskolc>>,<<Borsod-Abauj-Zemplen>>,<<HUN-BAZ>>,<<Hungary>>,<<HU>>,<<HUN>>,<<HUN012
+Eger>>,<<Heves>>,<<HUN-HEV>>,<<Hungary>>,<<HU>>,<<HUN>>,<<HUN013
+Kosice>>,<<Vychodoslovensky>>,<<SVK-VYC>>,<<Slovakia>>,<<LO>>,<<SVK>>,<<SVK003
+Debrecen>>,<<Hajdu-Bihar>>,<<HUN-HBI>>,<<Hungary>>,<<HU>>,<<HUN>>,<<HUN015
+Szeged>>,<<Csongrad>>,<<HUN-CSN>>,<<Hungary>>,<<HU>>,<<HUN>>,<<HUN019
+Arad>>,<<Arad>>,<<ROU-ARA>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU014
+Timisoara>>,<<Timis>>,<<ROU-TIM>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU015
+Longyearbyen>>,<<Svalbard and Jan Mayen>>,<<SJM>>,<<Svalbard>>,<<SV>>,<<SJM>>,<<SJM001
+Tromso>>,<<Troms>>,<<NOR-TRM>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR019
+Murmansk>>,<<Murmanskaya oblast'>>,<<RUS-MRM>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS009
+Hammerfest>>,<<Finnmark>>,<<NOR-FNN>>,<<Norway>>,<<NO>>,<<NOR>>,<<NOR022
+Smolensk>>,<<Smolenskaya oblast'>>,<<RUS-SML>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS010
+Homyel'>>,<<Gomel'>>,<<BLR-GML>>,<<Belarus>>,<<BO>>,<<BLR>>,<<BLR003
+Kherson>>,<<Kherson>>,<<UKR-KRN>>,<<Ukraine>>,<<UP>>,<<UKR>>,<<UKR005
+Minsk>>,<<Minsk>>,<<BLR-MNS>>,<<Belarus>>,<<BO>>,<<BLR>>,<<BLR004
+Bacau>>,<<Bacau>>,<<ROU-BAC>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU033
+Brasov>>,<<Brasov>>,<<ROU-BRS>>,<<Romania>>,<<RO>>,<<ROU>>,<<ROU036
+Vilnius>>,<<Lithuania>>,<<LTU>>,<<Lithuania>>,<<LH>>,<<LTU>>,<<LTU001
+Bialystok>>,<<Bialystok>>,<<POL-BLY>>,<<Poland>>,<<PL>>,<<POL>>,<<POL046
+Brest>>,<<Brest>>,<<BLR-BRS>>,<<Belarus>>,<<BO>>,<<BLR>>,<<BLR006
+Lublin>>,<<Lublin>>,<<POL-LBL>>,<<Poland>>,<<PL>>,<<POL>>,<<POL048
+Kyiv>>,<<Kyiv>>,<<UKR-KYV>>,<<Ukraine>>,<<UP>>,<<UKR>>,<<UKR013
+Chisinau>>,<<Moldova>>,<<MDA>>,<<Moldova>>,<<MD>>,<<MDA>>,<<MDA001
+Helsinki>>,<<Uusimaa>>,<<FIN-UUS>>,<<Finland>>,<<FI>>,<<FIN>>,<<FIN008
+Tallinn>>,<<Estonia>>,<<EST>>,<<Estonia>>,<<EN>>,<<EST>>,<<EST001
+Riga>>,<<Latvia>>,<<LVA>>,<<Latvia>>,<<LG>>,<<LVA>>,<<LVA001
+Karelia>>,<<Respublika Kareliya>>,<<RUS-KRL>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS011
+Rovaniemi>>,<<Lappi>>,<<FIN-LAP>>,<<Finland>>,<<FI>>,<<FIN>>,<<FIN009
+Oulu>>,<<Oulu>>,<<FIN-OUL>>,<<Finland>>,<<FI>>,<<FIN>>,<<FIN010
+Saint Petersburg>>,<<Leningradskaya oblast'>>,<<RUS-SPT>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS012
+Novgorod>>,<<Novgorodskaya oblast'>>,<<RUS-NVG>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS013
+Pskov>>,<<Pskovskaya oblast'>>,<<RUS-PSK>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS014
+Vologda>>,<<Vologodskaya oblast'>>,<<RUS-VLG>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS016
+Yaroslavl>>,<<Yaroslavskaya oblast'>>,<<RUS-YRS>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS018
+Ivanovo>>,<<Ivanovskaya oblast'>>,<<RUS-IVN>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS019
+Tver>>,<<Tverskaya oblast'>>,<<RUS-TVR>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS020
+Petrozavodsk>>,<<Respublika Kareliya>>,<<RUS-KRL>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS022
+Vladimir>>,<<Vladimirskaya oblast'>>,<<RUS-VLD>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS023
+Ryazan>>,<<Ryazanskaya oblast'>>,<<RUS-RYZ>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS024
+Tambov>>,<<Tambovskaya oblast'>>,<<RUS-TMB>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS025
+Volgograd>>,<<Volgogradskaya oblast'>>,<<RUS-VGG>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS027
+Rostov-on-Don>>,<<Rostovskaya oblast'>>,<<RUS-RSV>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS028
+Stavropol>>,<<Stavropol'skiy kray>>,<<RUS-STV>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS029
+Elista>>,<<Kalmykiya-Khal'mg Tangch>>,<<RUS-KLM>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS030
+Belgorod>>,<<Belgorodskaya oblast'>>,<<RUS-BLG>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS031
+Kharkiv>>,<<Khar'kov>>,<<UKR-KKV>>,<<Ukraine>>,<<UP>>,<<UKR>>,<<UKR019
+Poltava>>,<<Poltava>>,<<UKR-PLT>>,<<Ukraine>>,<<UP>>,<<UKR>>,<<UKR020
+Donets'k>>,<<Donetsk>>,<<UKR-DNT>>,<<Ukraine>>,<<UP>>,<<UKR>>,<<UKR023
+Krasnodar>>,<<Krasnodarskiy kray>>,<<RUS-KSN>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS032
+Moscow>>,<<Moskovskaya oblast'>>,<<RUS-MSC>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS033
+Tula>>,<<Tul'skaya oblast'>>,<<RUS-TUL>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS035
+Orel>>,<<Orlovskaya oblast'>>,<<RUS-ORL>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS037
+Kursk>>,<<Kurskaya oblast'>>,<<RUS-KRS>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS038
+Voronezh>>,<<Voronezhskaya oblast'>>,<<RUS-VRN>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS039
+Sumy>>,<<Sumy>>,<<UKR-SUM>>,<<Ukraine>>,<<UP>>,<<UKR>>,<<UKR025
+Syktyvkar>>,<<Respublika Komi>>,<<RUS-KOM>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS040
+Salekhard>>,<<Yamalo-Nenetskiy avtonomnyy okrug>>,<<RUS-YMN>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS049
+Tyumen>>,<<Tyumenskaya oblast'>>,<<RUS-TYU>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS050
+Sverdlovsk>>,<<Sverdlovskaya oblast'>>,<<RUS-SVD>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS051
+Orenburg>>,<<Orenburgskaya oblast'>>,<<RUS-ORB>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS053
+Kazan'>>,<<Respublika Tatarstan>>,<<RUS-TRT>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS055
+Saransk>>,<<Respublika Mordoviya>>,<<RUS-MRD>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS057
+Penza>>,<<Penzenskaya oblast'>>,<<RUS-PNZ>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS059
+Saratov>>,<<Saratovskaya oblast'>>,<<RUS-SRT>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS060
+Atyrau>>,<<Gur'yev>>,<<KAZ-GRV>>,<<Kazakhstan>>,<<KZ>>,<<KAZ>>,<<KAZ002
+Astrakhan>>,<<Astrakhanskaya oblast'>>,<<RUS-AST>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS061
+Chelyabinsk>>,<<Chelyabinskaya oblast'>>,<<RUS-CHL>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS063
+Aktyubinsk>>,<<Aktyubinsk>>,<<KAZ-AKB>>,<<Kazakhstan>>,<<KZ>>,<<KAZ>>,<<KAZ004
+Tomsk>>,<<Tomskaya oblast'>>,<<RUS-TOM>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS064
+Khanty-Mansiysk>>,<<Khanty-Mansiyskiy avtonomnyy okrug>>,<<RUS-KHM>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS065
+Igarka>>,<<Krasnoyarskiy kray>>,<<RUS-KRA>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS066
+Omsk>>,<<Omskaya oblast'>>,<<RUS-OMS>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS067
+Pavlodar>>,<<Pavlodar>>,<<KAZ-PVL>>,<<Kazakhstan>>,<<KZ>>,<<KAZ>>,<<KAZ008
+Astana>>,<<Tselinograd>>,<<KAZ-TSL>>,<<Kazakhstan>>,<<KZ>>,<<KAZ>>,<<KAZ009
+Karaganda>>,<<Karaganda>>,<<KAZ-KRG>>,<<Kazakhstan>>,<<KZ>>,<<KAZ>>,<<KAZ010
+Ust'-Kamenogorsk>>,<<East Kazakhstan>>,<<KAZ-VKZ>>,<<Kazakhstan>>,<<KZ>>,<<KAZ>>,<<KAZ013
+Kemerovo>>,<<Kemerovskaya oblast'>>,<<RUS-KEM>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS068
+Novosibirsk>>,<<Novosibirskaya oblast'>>,<<RUS-NOV>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS069
+Barnaul>>,<<Altayskiy kray>>,<<RUS-ALT>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS071
+Semipalatinsk>>,<<Semipalatinsk>>,<<KAZ-SMP>>,<<Kazakhstan>>,<<KZ>>,<<KAZ>>,<<KAZ014
+Olgiy>>,<<Bayan-Olgiy>>,<<MNG-BOL>>,<<Mongolia>>,<<MG>>,<<MNG>>,<<MNG001
+Sari>>,<<Mazandaran>>,<<IRN-MZN>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN001
+Al Mukalla>>,<<Hadhramaut>>,<<YEM-HDH>>,<<Yemen>>,<<YM>>,<<YEM>>,<<YEM010
+Al Bayda>>,<<Al Bayda'>>,<<YEM-ABD>>,<<Yemen>>,<<YM>>,<<YEM>>,<<YEM012
+Aden>>,<<Aden>>,<<YEM-ADN>>,<<Yemen>>,<<YM>>,<<YEM>>,<<YEM013
+Tehran>>,<<Tehran>>,<<IRN-TER>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN003
+Garoowe>>,<<Nugaal>>,<<SOM-NUG>>,<<Somalia>>,<<SO>>,<<SOM>>,<<SOM011
+Beledweyne>>,<<Hiiraan>>,<<SOM-HII>>,<<Somalia>>,<<SO>>,<<SOM>>,<<SOM014
+Mogadishu>>,<<Banaadir>>,<<SOM-BND>>,<<Somalia>>,<<SO>>,<<SOM>>,<<SOM016
+Esfahan>>,<<Esfahan>>,<<IRN-ESF>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN004
+Yazd>>,<<Yazd>>,<<IRN-YAZ>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN006
+Shiraz>>,<<Fars>>,<<IRN-FAR>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN008
+Kuwait>>,<<Al Kuwayt>>,<<KWT-AKW>>,<<Kuwait>>,<<KU>>,<<KWT>>,<<KWT001
+Hawalli>>,<<Hawalli>>,<<KWT-HWL>>,<<Kuwait>>,<<KU>>,<<KWT>>,<<KWT002
+Bushehr>>,<<Bushehr>>,<<IRN-BUS>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN009
+Manama>>,<<Al Manamah>>,<<BHR-AMN>>,<<Bahrain>>,<<BA>>,<<BHR>>,<<BHR002
+Riyadh>>,<<Ar Riyad>>,<<SAU-ARI>>,<<Saudi Arabia>>,<<SA>>,<<SAU>>,<<SAU014
+Khorramabad>>,<<Lorestan>>,<<IRN-LRS>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN011
+Al-Kut>>,<<Wasit>>,<<IRQ-WAS>>,<<Iraq>>,<<IZ>>,<<IRQ>>,<<IRQ013
+Ahvaz>>,<<Khuzestan>>,<<IRN-KHZ>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN012
+Ajman>>,<<'Ajman>>,<<ARE-AJM>>,<<United Arab Emirates>>,<<AE>>,<<ARE>>,<<ARE003
+Sharjah>>,<<Ash Shariqah>>,<<ARE-ASH>>,<<United Arab Emirates>>,<<AE>>,<<ARE>>,<<ARE004
+Doha>>,<<Ad Dawhah>>,<<QAT-ADW>>,<<Qatar>>,<<QA>>,<<QAT>>,<<QAT001
+Dubai>>,<<Dubayy>>,<<ARE-DBY>>,<<United Arab Emirates>>,<<AE>>,<<ARE>>,<<ARE005
+Abu Dhabi>>,<<Abu Zaby>>,<<ARE-AZA>>,<<United Arab Emirates>>,<<AE>>,<<ARE>>,<<ARE006
+Baku>>,<<Baku>>,<<AZE-BAK>>,<<Azerbaijan>>,<<AJ>>,<<AZE>>,<<AZE001
+Turkmenbashi>>,<<Krasnovodsk>>,<<TKM-KRS>>,<<Turkmenistan>>,<<TX>>,<<TKM>>,<<TKM001
+Hamadan>>,<<Hamadan>>,<<IRN-HMD>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN013
+Arak>>,<<Markazi>>,<<IRN-MRK>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN014
+Tabriz>>,<<Azarbayjan-e Khavari>>,<<IRN-AEK>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN015
+Rasht>>,<<Gilan>>,<<IRN-GIL>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN017
+Zanjan>>,<<Zanjan>>,<<IRN-ZNJ>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN018
+Sanandaj>>,<<Kordestan>>,<<IRN-KRD>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN019
+Kermanshah>>,<<Bakhtaran>>,<<IRN-BKH>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN020
+Urgench>>,<<Khorezm>>,<<UZB-KHR>>,<<Uzbekistan>>,<<UZ>>,<<UZB>>,<<UZB002
+Ashgabat>>,<<Ashkhabad>>,<<TKM-ASH>>,<<Turkmenistan>>,<<TX>>,<<TKM>>,<<TKM003
+Mary>>,<<Mary>>,<<TKM-MRY>>,<<Turkmenistan>>,<<TX>>,<<TKM>>,<<TKM004
+Mashhad>>,<<Khorasan>>,<<IRN-KHR>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN021
+Bukhara>>,<<Bukhara>>,<<UZB-BKH>>,<<Uzbekistan>>,<<UZ>>,<<UZB>>,<<UZB004
+Samarkand>>,<<Samarkand>>,<<UZB-SMK>>,<<Uzbekistan>>,<<UZ>>,<<UZB>>,<<UZB005
+Termez>>,<<Surkhandar'ya>>,<<UZB-SRK>>,<<Uzbekistan>>,<<UZ>>,<<UZB>>,<<UZB007
+Herat>>,<<Herat>>,<<AFG-HER>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG006
+Kerman>>,<<Kerman>>,<<IRN-KRM>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN022
+Zahedan>>,<<Sistan va Baluchestan>>,<<IRN-BVS>>,<<Iran>>,<<IR>>,<<IRN>>,<<IRN023
+Al Kasab>>,<<Musandam>>,<<OMN-MSN>>,<<Oman>>,<<MU>>,<<OMN>>,<<OMN001
+Karachi>>,<<Sind>>,<<PAK-SIN>>,<<Pakistan>>,<<PK>>,<<PAK>>,<<PAK001
+Muscat>>,<<Masqat>>,<<OMN-MSQ>>,<<Oman>>,<<MU>>,<<OMN>>,<<OMN002
+Tarin Kowt>>,<<Oruzgan>>,<<AFG-ORZ>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG007
+Farah>>,<<Farah>>,<<AFG-FAR>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG008
+Kandahar>>,<<Quandahar>>,<<AFG-QND>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG010
+Lashkar Gah>>,<<Helmand>>,<<AFG-HLM>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG011
+Zaranj>>,<<Nimruz>>,<<AFG-NMR>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG012
+Quetta>>,<<Baluchistan>>,<<PAK-BLC>>,<<Pakistan>>,<<PK>>,<<PAK>>,<<PAK002
+Srinagar>>,<<Jammu & Kashmir>>,<<IND-JAK>>,<<India>>,<<IN>>,<<IND>>,<<IND001
+Amritsar>>,<<Punjab>>,<<IND-PNJ>>,<<India>>,<<IN>>,<<IND>>,<<IND002
+Lahore>>,<<Punjab>>,<<PAK-PNJ>>,<<Pakistan>>,<<PK>>,<<PAK>>,<<PAK003
+Simla>>,<<Himachal Pradesh>>,<<IND-HPR>>,<<India>>,<<IN>>,<<IND>>,<<IND003
+Chandigarh>>,<<Chandigarh>>,<<IND-CHN>>,<<India>>,<<IN>>,<<IND>>,<<IND004
+Delhi>>,<<Delhi>>,<<IND-DEL>>,<<India>>,<<IN>>,<<IND>>,<<IND005
+Jaipur>>,<<Rajasthan>>,<<IND-RJS>>,<<India>>,<<IN>>,<<IND>>,<<IND006
+Bhopal>>,<<Madhya Pradesh>>,<<IND-MPR>>,<<India>>,<<IN>>,<<IND>>,<<IND007
+New Delhi>>,<<Delhi>>,<<IND-DEL>>,<<India>>,<<IN>>,<<IND>>,<<IND008
+Ghazni>>,<<Ghazni>>,<<AFG-GHZ>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG015
+Hyderabad>>,<<Sind>>,<<PAK-SIN>>,<<Pakistan>>,<<PK>>,<<PAK>>,<<PAK007
+Ahmadabad>>,<<Gujarat>>,<<IND-GJR>>,<<India>>,<<IN>>,<<IND>>,<<IND010
+Almaty>>,<<Alma-Ata>>,<<KAZ-ALA>>,<<Kazakhstan>>,<<KZ>>,<<KAZ>>,<<KAZ017
+Bishkek>>,<<Bishkek>>,<<KGZ-BSK>>,<<Kyrgyzstan>>,<<KG>>,<<KGZ>>,<<KGZ001
+Namangan>>,<<Namangan>>,<<UZB-NMG>>,<<Uzbekistan>>,<<UZ>>,<<UZB>>,<<UZB008
+Andizhan>>,<<Andizhan>>,<<UZB-AND>>,<<Uzbekistan>>,<<UZ>>,<<UZB>>,<<UZB009
+Osh>>,<<Osh>>,<<KGZ-OSH>>,<<Kyrgyzstan>>,<<KG>>,<<KGZ>>,<<KGZ004
+Fergana>>,<<Fergana>>,<<UZB-FRG>>,<<Uzbekistan>>,<<UZ>>,<<UZB>>,<<UZB010
+Dushanbe>>,<<Dushanbe>>,<<TJK-DSH>>,<<Tajikistan>>,<<TI>>,<<TJK>>,<<TJK001
+Feyzabad>>,<<Badakhshan>>,<<AFG-BDK>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG017
+Peshawar>>,<<North-west Frontier>>,<<PAK-NWF>>,<<Pakistan>>,<<PK>>,<<PAK>>,<<PAK008
+Baghlan>>,<<Baghlan>>,<<AFG-BGH>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG022
+Bamian>>,<<Bamian>>,<<AFG-BAM>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG025
+Kabul>>,<<Kabol>>,<<AFG-KAB>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG027
+Baraki Barak>>,<<Lowgar>>,<<AFG-LWG>>,<<Afghanistan>>,<<AF>>,<<AFG>>,<<AFG029
+Talas>>,<<Talas>>,<<KGZ-TLS>>,<<Kyrgyzstan>>,<<KG>>,<<KGZ>>,<<KGZ005
+Tashkent>>,<<Tashkent>>,<<UZB-TSK>>,<<Uzbekistan>>,<<UZ>>,<<UZB>>,<<UZB011
+Gulistan>>,<<Syrdar'ya>>,<<UZB-SRD>>,<<Uzbekistan>>,<<UZ>>,<<UZB>>,<<UZB012
+Dzhambul>>,<<Dzhambul>>,<<KAZ-DZM>>,<<Kazakhstan>>,<<KZ>>,<<KAZ>>,<<KAZ019
+Urumqi>>,<<Xinjiang>>,<<CHN-XNJ>>,<<China>>,<<CH>>,<<CHN>>,<<CHN002
+Lucknow>>,<<Uttar Pradesh>>,<<IND-UPR>>,<<India>>,<<IN>>,<<IND>>,<<IND011
+Kanpur>>,<<Uttar Pradesh>>,<<IND-UPR>>,<<India>>,<<IN>>,<<IND>>,<<IND012
+Varanasi>>,<<Uttar Pradesh>>,<<IND-UPR>>,<<India>>,<<IN>>,<<IND>>,<<IND013
+Pokhara>>,<<Gandaki>>,<<NPL-GND>>,<<Nepal>>,<<NP>>,<<NPL>>,<<NPL008
+Kathmandu>>,<<Bagmati>>,<<NPL-BGM>>,<<Nepal>>,<<NP>>,<<NPL>>,<<NPL009
+Patna>>,<<Bihar>>,<<IND-BIH>>,<<India>>,<<IN>>,<<IND>>,<<IND014
+Khulna>>,<<Khulna>>,<<BGD-KHL>>,<<Bangladesh>>,<<BG>>,<<BGD>>,<<BGD002
+Kolkata>>,<<West Bengal>>,<<IND-WBN>>,<<India>>,<<IN>>,<<IND>>,<<IND015
+Thimphu>>,<<Thimphu>>,<<BTN-THM>>,<<Bhutan>>,<<BT>>,<<BTN>>,<<BTN002
+Paro>>,<<Paro>>,<<BTN-PAR>>,<<Bhutan>>,<<BT>>,<<BTN>>,<<BTN004
+Gangtok>>,<<Sikkim>>,<<IND-SKK>>,<<India>>,<<IN>>,<<IND>>,<<IND016
+Nagpur>>,<<Maharashtra>>,<<IND-MHR>>,<<India>>,<<IN>>,<<IND>>,<<IND017
+Chennai>>,<<Tamil Nadu>>,<<IND-TNA>>,<<India>>,<<IN>>,<<IND>>,<<IND020
+Pondicherry>>,<<Pondicherry>>,<<IND-PND>>,<<India>>,<<IN>>,<<IND>>,<<IND021
+Madurai>>,<<Tamil Nadu>>,<<IND-TNA>>,<<India>>,<<IN>>,<<IND>>,<<IND023
+Trivandrum>>,<<Kerala>>,<<IND-KER>>,<<India>>,<<IN>>,<<IND>>,<<IND024
+Cochin>>,<<Kerala>>,<<IND-KER>>,<<India>>,<<IN>>,<<IND>>,<<IND025
+Mumbai>>,<<Maharashtra>>,<<IND-MHR>>,<<India>>,<<IN>>,<<IND>>,<<IND028
+Pune>>,<<Maharashtra>>,<<IND-MHR>>,<<India>>,<<IN>>,<<IND>>,<<IND029
+Hyderabad>>,<<Andhra Pradesh>>,<<IND-APR>>,<<India>>,<<IN>>,<<IND>>,<<IND030
+Bangalore>>,<<Karnataka>>,<<IND-KRN>>,<<India>>,<<IN>>,<<IND>>,<<IND032
+Mangalore>>,<<Karnataka>>,<<IND-KRN>>,<<India>>,<<IN>>,<<IND>>,<<IND033
+Trincomalee>>,<<Eastern>>,<<LKA-EST>>,<<Sri Lanka>>,<<CE>>,<<LKA>>,<<LKA001
+Kandy>>,<<Central>>,<<LKA-CEN>>,<<Sri Lanka>>,<<CE>>,<<LKA>>,<<LKA004
+Colombo>>,<<Western>>,<<LKA-WST>>,<<Sri Lanka>>,<<CE>>,<<LKA>>,<<LKA006
+Galle>>,<<Southern>>,<<LKA-STH>>,<<Sri Lanka>>,<<CE>>,<<LKA>>,<<LKA008
+Koror>>,<<Palau>>,<<PLW>>,<<Palau>>,<<PS>>,<<PLW>>,<<PLW001
+Davao>>,<<Southern Mindanao>>,<<PHL-SMN>>,<<Philippines>>,<<RP>>,<<PHL>>,<<PHL001
+Manado>>,<<Sulawesi Utara>>,<<IDN-SUT>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN001
+Hiroshima>>,<<Chugoku>>,<<JPN-CGK>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN001
+Matsuyama>>,<<Shikoku>>,<<JPN-SHK>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN002
+Luan Chau>>,<<Lai Chau>>,<<VNM-LCH>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM004
+Louangphrabang>>,<<Louangphrabang>>,<<LAO-LNG>>,<<Laos>>,<<LA>>,<<LAO>>,<<LAO005
+Shimonoseki>>,<<Chugoku>>,<<JPN-CGK>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN003
+Mandalay>>,<<Mandalay>>,<<MMR-MND>>,<<Myanmar>>,<<BM>>,<<MMR>>,<<MMR001
+Mae Hong Son>>,<<Mae Hong Son>>,<<THA-MHS>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA004
+Surat Thani>>,<<Surat Thani>>,<<THA-STH>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA007
+Phangnga>>,<<Phangnga>>,<<THA-PHN>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA008
+Phuket>>,<<Phuket>>,<<THA-PHK>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA009
+Banda Aceh>>,<<Aceh>>,<<IDN-ACE>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN002
+Ipoh>>,<<Perak>>,<<MYS-PER>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS001
+Medan>>,<<Sumatera Utara>>,<<IDN-SUA>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN003
+Krabi>>,<<Krabi>>,<<THA-KRA>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA011
+Songkhla>>,<<Songkhla>>,<<THA-SNG>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA014
+Kangar>>,<<Perlis>>,<<MYS-PRL>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS003
+Chittagong>>,<<Chittagong>>,<<BGD-CHT>>,<<Bangladesh>>,<<BG>>,<<BGD>>,<<BGD003
+Rangoon>>,<<Rangoon>>,<<MMR-RNG>>,<<Myanmar>>,<<BM>>,<<MMR>>,<<MMR008
+Moulmein>>,<<Mon State>>,<<MMR-MST>>,<<Myanmar>>,<<BM>>,<<MMR>>,<<MMR011
+Tavoy>>,<<Tenasserim>>,<<MMR-TNS>>,<<Myanmar>>,<<BM>>,<<MMR>>,<<MMR012
+Port Blair>>,<<Andaman and Nicobar Islands>>,<<IND-AAN>>,<<India>>,<<IN>>,<<IND>>,<<IND034
+Chiang Mai>>,<<Chiang Mai>>,<<THA-CMA>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA017
+Tak>>,<<Tak>>,<<THA-TAK>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA024
+Bangkok>>,<<Krung Thep>>,<<THA-KTH>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA041
+Chachoengsao>>,<<Chachoengsao>>,<<THA-CHC>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA042
+Chon Buri>>,<<Chon Buri>>,<<THA-CBU>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA045
+Savannakhet>>,<<Savannakhet>>,<<LAO-SVN>>,<<Laos>>,<<LA>>,<<LAO>>,<<LAO006
+Ubon Ratchathani>>,<<Ubon Ratchathani>>,<<THA-URT>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA053
+Rayong>>,<<Rayong>>,<<THA-RYN>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA056
+Trat>>,<<Trat>>,<<THA-TRA>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA058
+Khon Kaen>>,<<Khon Kaen>>,<<THA-KKA>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA059
+Surin>>,<<Surin>>,<<THA-SUR>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA066
+Phnom Penh>>,<<Phnum Penh>>,<<KHM-PPE>>,<<Cambodia>>,<<CB>>,<<KHM>>,<<KHM011
+Vientiane>>,<<Viangchan>>,<<LAO-VNG>>,<<Laos>>,<<LA>>,<<LAO>>,<<LAO012
+Udon Thani>>,<<Udon Thani>>,<<THA-UTA>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA069
+Thai Binh>>,<<Thai Binh>>,<<VNM-TBI>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM008
+Tuyen Quang>>,<<Tuyen Quang>>,<<VNM-TQN>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM009
+Thai Nguyen>>,<<Bac Thai>>,<<VNM-BTH>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM011
+Hanoi>>,<<Ha Noi>>,<<VNM-HNO>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM013
+Thanh Hoa>>,<<Thanh Hoa>>,<<VNM-THO>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM016
+Lang Son>>,<<Lang Son>>,<<VNM-LSO>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM017
+Haiphong>>,<<Hai Phong>>,<<VNM-HPH>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM020
+Da Nang>>,<<Quang Nam-Da Nang>>,<<VNM-QND>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM023
+Tuy Hoa>>,<<Phu Yen>>,<<VNM-PYN>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM028
+Nha Trang>>,<<Khanh Hoa>>,<<VNM-KHO>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM030
+Da Lat>>,<<Lam Dong>>,<<VNM-LDO>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM031
+Phan Thiet>>,<<Binh Thuan>>,<<VNM-BTN>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM032
+Kuala Terengganu>>,<<Terengganu>>,<<MYS-TRN>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS007
+Kuala Lumpur>>,<<Kuala Lumpur>>,<<MYS-KLL>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS009
+Shah Alam>>,<<Selangor>>,<<MYS-SLN>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS010
+Kuching>>,<<Sarawak>>,<<MYS-SRW>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS011
+Seremban>>,<<Negeri Sembilan>>,<<MYS-NSM>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS012
+Melaka>>,<<Melaka>>,<<MYS-MEL>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS013
+Johor Baharu>>,<<Johor>>,<<MYS-JOH>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS014
+Pekanbaru>>,<<Riau>>,<<IDN-RIA>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN004
+Singapore>>,<<Singapore>>,<<SGP>>,<<Singapore>>,<<SN>>,<<SGP>>,<<SGP001
+Narathiwat>>,<<Narathiwat>>,<<THA-NRH>>,<<Thailand>>,<<TH>>,<<THA>>,<<THA072
+Kota Baharu>>,<<Kelantan>>,<<MYS-KLN>>,<<Malaysia>>,<<MY>>,<<MYS>>,<<MYS015
+Ho Chi Minh City>>,<<Ho Chi Minh>>,<<VNM-HCM>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM035
+Kampot>>,<<Kampot>>,<<KHM-KMP>>,<<Cambodia>>,<<CB>>,<<KHM>>,<<KHM018
+Bac Lieu>>,<<Minh Hai>>,<<VNM-MHA>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM046
+Lhasa>>,<<Xizang>>,<<CHN-XZN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN004
+Myitkyina>>,<<Kachin State>>,<<MMR-KST>>,<<Myanmar>>,<<BM>>,<<MMR>>,<<MMR013
+Imphal>>,<<Manipur>>,<<IND-MNP>>,<<India>>,<<IN>>,<<IND>>,<<IND035
+Shillong>>,<<Meghalaya>>,<<IND-MGH>>,<<India>>,<<IN>>,<<IND>>,<<IND040
+Agartala>>,<<Tripura>>,<<IND-TRP>>,<<India>>,<<IN>>,<<IND>>,<<IND041
+Dhaka>>,<<Dhaka>>,<<BGD-DAK>>,<<Bangladesh>>,<<BG>>,<<BGD>>,<<BGD004
+Barisal>>,<<Barisal>>,<<BGD-BRS>>,<<Bangladesh>>,<<BG>>,<<BGD>>,<<BGD005
+Yinchuan>>,<<Ningxia>>,<<CHN-NNG>>,<<China>>,<<CH>>,<<CHN>>,<<CHN006
+Xining>>,<<Qinghai>>,<<CHN-QNG>>,<<China>>,<<CH>>,<<CHN>>,<<CHN007
+Lanzhou>>,<<Gansu>>,<<CHN-GAN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN008
+Xi'an>>,<<Shaanxi>>,<<CHN-SHA>>,<<China>>,<<CH>>,<<CHN>>,<<CHN010
+Hohhot City>>,<<Nei Mongol>>,<<CHN-NMN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN011
+Chengdu>>,<<Sichuan>>,<<CHN-SCH>>,<<China>>,<<CH>>,<<CHN>>,<<CHN012
+Chongqing>>,<<Chongqing>>,<<CHN-CHQ>>,<<China>>,<<CH>>,<<CHN>>,<<CHN013
+Guiyang>>,<<Guizhou>>,<<CHN-GUI>>,<<China>>,<<CH>>,<<CHN>>,<<CHN014
+Kunming>>,<<Yunnan>>,<<CHN-YNN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN015
+Nanning>>,<<Guangxi>>,<<CHN-GNG>>,<<China>>,<<CH>>,<<CHN>>,<<CHN016
+Ha Giang>>,<<Ha Giang>>,<<VNM-HGN>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM047
+Cao Bang>>,<<Cao Bang>>,<<VNM-CBA>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM048
+Lao Cai>>,<<Lao Cai>>,<<VNM-LCA>>,<<Vietnam>>,<<VM>>,<<VNM>>,<<VNM049
+Fuzhou>>,<<Fujian>>,<<CHN-FUJ>>,<<China>>,<<CH>>,<<CHN>>,<<CHN019
+Taipei>>,<<Taiwan>>,<<CHN-TWN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN020
+Nanjing>>,<<Jiangsu>>,<<CHN-JNS>>,<<China>>,<<CH>>,<<CHN>>,<<CHN024
+Hefei>>,<<Anhui>>,<<CHN-ANH>>,<<China>>,<<CH>>,<<CHN>>,<<CHN025
+Shanghai>>,<<Shanghai>>,<<CHN-SHN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN026
+Wuhan>>,<<Hubei>>,<<CHN-HUB>>,<<China>>,<<CH>>,<<CHN>>,<<CHN027
+Hangzhou>>,<<Zhejiang>>,<<CHN-ZHJ>>,<<China>>,<<CH>>,<<CHN>>,<<CHN028
+Nanchang>>,<<Jiangxi>>,<<CHN-JNG>>,<<China>>,<<CH>>,<<CHN>>,<<CHN029
+Changsha>>,<<Hunan>>,<<CHN-HUN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN030
+Guangzhou>>,<<Guangdong>>,<<CHN-GND>>,<<China>>,<<CH>>,<<CHN>>,<<CHN031
+Shenyang>>,<<Liaoning>>,<<CHN-LNN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN032
+Haikou>>,<<Hainan>>,<<CHN-HAI>>,<<China>>,<<CH>>,<<CHN>>,<<CHN033
+Beijing>>,<<Beijing>>,<<CHN-BJN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN034
+Tianjin>>,<<Tianjin>>,<<CHN-TNJ>>,<<China>>,<<CH>>,<<CHN>>,<<CHN036
+Shijiazhuang>>,<<Hebei>>,<<CHN-HEB>>,<<China>>,<<CH>>,<<CHN>>,<<CHN037
+Taiyuan>>,<<Shanxi>>,<<CHN-SHX>>,<<China>>,<<CH>>,<<CHN>>,<<CHN038
+Jinan>>,<<Shandong>>,<<CHN-SHD>>,<<China>>,<<CH>>,<<CHN>>,<<CHN039
+Zhengzhou>>,<<Henan>>,<<CHN-HEN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN040
+Vladivostok>>,<<Primorskiy kray>>,<<RUS-PRM>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS075
+Taejon>>,<<Ch'ungch'ong-namdo>>,<<KOR-CNM>>,<<South Korea>>,<<KS>>,<<KOR>>,<<KOR001
+Chonju>>,<<Cholla-bukto>>,<<KOR-CBU>>,<<South Korea>>,<<KS>>,<<KOR>>,<<KOR002
+Pusan>>,<<Pusan-jikhalsi>>,<<KOR-PSN>>,<<South Korea>>,<<KS>>,<<KOR>>,<<KOR003
+Kwangju>>,<<Kwangju-jikhalsi>>,<<KOR-KWN>>,<<South Korea>>,<<KS>>,<<KOR>>,<<KOR004
+Taegu>>,<<Taegu-jikhalsi>>,<<KOR-TGN>>,<<South Korea>>,<<KS>>,<<KOR>>,<<KOR005
+Wonsan>>,<<Kangwon-do>>,<<PRK-KDO>>,<<North Korea>>,<<KN>>,<<PRK>>,<<PRK002
+Sariwon>>,<<Hwanghae-bukto>>,<<PRK-HBK>>,<<North Korea>>,<<KN>>,<<PRK>>,<<PRK004
+Haeju>>,<<Hwanghae-namdo>>,<<PRK-HNM>>,<<North Korea>>,<<KN>>,<<PRK>>,<<PRK005
+Kaesong>>,<<Kaesong-si>>,<<PRK-KSI>>,<<North Korea>>,<<KN>>,<<PRK>>,<<PRK006
+Seoul>>,<<Seoul-jikhalsi>>,<<KOR-SJK>>,<<South Korea>>,<<KS>>,<<KOR>>,<<KOR009
+Changchun>>,<<Jilin>>,<<CHN-JIL>>,<<China>>,<<CH>>,<<CHN>>,<<CHN041
+Hyesan>>,<<Yanggang-do>>,<<PRK-YDO>>,<<North Korea>>,<<KN>>,<<PRK>>,<<PRK007
+Kanggye>>,<<Chagang-do>>,<<PRK-CDO>>,<<North Korea>>,<<KN>>,<<PRK>>,<<PRK008
+Sinuiju>>,<<P'yongan-bukto>>,<<PRK-PBU>>,<<North Korea>>,<<KN>>,<<PRK>>,<<PRK009
+Hamhung>>,<<Hamgyong-namdo>>,<<PRK-HNA>>,<<North Korea>>,<<KN>>,<<PRK>>,<<PRK010
+Kita Kyushu>>,<<Kyushu>>,<<JPN-KYS>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN004
+Fukuoka>>,<<Kyushu>>,<<JPN-KYS>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN005
+Cheju>>,<<Cheju-do>>,<<KOR-CDO>>,<<South Korea>>,<<KS>>,<<KOR>>,<<KOR010
+Nagasaki>>,<<Kyushu>>,<<JPN-KYS>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN006
+Naha>>,<<Okinawa>>,<<JPN-OKN>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN007
+Hong Kong>>,<<Hong Kong>>,<<CHN-HKG>>,<<China>>,<<CH>>,<<CHN>>,<<CHN044
+Macau>>,<<Macau>>,<<CHN-MAC>>,<<China>>,<<CH>>,<<CHN>>,<<CHN045
+Quezon City>>,<<National Capital Region>>,<<PHL-NCR>>,<<Philippines>>,<<RP>>,<<PHL>>,<<PHL002
+Manila>>,<<National Capital Region>>,<<PHL-NCR>>,<<Philippines>>,<<RP>>,<<PHL>>,<<PHL003
+Bandar Seri Begawan>>,<<Brunei>>,<<BRN>>,<<Brunei>>,<<BX>>,<<BRN>>,<<BRN001
+Ulaanbaatar>>,<<Ulaanbaatar>>,<<MNG-ULN>>,<<Mongolia>>,<<MG>>,<<MNG>>,<<MNG004
+Altay>>,<<Govi-Altay>>,<<MNG-GAL>>,<<Mongolia>>,<<MG>>,<<MNG>>,<<MNG007
+Krasnoyarsk>>,<<Krasnoyarskiy kray>>,<<RUS-KRA>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS080
+Abakan>>,<<Respublika Khakasiya>>,<<RUS-KHK>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS081
+Kyzyl>>,<<Respublika Tyva>>,<<RUS-TUV>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS082
+Darhan>>,<<Darhan>>,<<MNG-DRH>>,<<Mongolia>>,<<MG>>,<<MNG>>,<<MNG014
+Irkutsk>>,<<Irkutskaya oblast'>>,<<RUS-IRK>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS083
+Ulan Ude>>,<<Respublika Buryatiya>>,<<RUS-BUR>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS084
+Yakutsk>>,<<Respublika Sakha(Yakutiya)>>,<<RUS-YAK>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS086
+Chita>>,<<Chitinskaya oblast'>>,<<RUS-CHI>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS087
+Blagoveshchensk>>,<<Amurskaya oblast'>>,<<RUS-AMU>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS088
+Harbin>>,<<Heilongjiang>>,<<CHN-HLN>>,<<China>>,<<CH>>,<<CHN>>,<<CHN048
+Birobidzhan>>,<<Yevreyskaya avtonomnaya oblast'>>,<<RUS-YEV>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS090
+Magadan>>,<<Magadanskaya oblast'>>,<<RUS-MAG>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS091
+Khabarovsk>>,<<Khabarovskiy kray>>,<<RUS-KHA>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS094
+Yuzhno-Sakhalinsk>>,<<Sakhalinskaya oblast'>>,<<RUS-SAK>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS095
+Anadyr>>,<<Chukotskiy avtonomnyy okrug>>,<<RUS-CHU>>,<<Russia>>,<<RS>>,<<RUS>>,<<RUS097
+Tarawa>>,<<Kiribati>>,<<KIR>>,<<Kiribati>>,<<KR>>,<<KIR>>,<<KIR001
+Sapporo>>,<<Hokkaido>>,<<JPN-HKK>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN008
+Aomori>>,<<Tohoku>>,<<JPN-THO>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN009
+Sendai>>,<<Tohoku>>,<<JPN-THO>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN010
+Tokyo>>,<<Kanto>>,<<JPN-KNT>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN011
+Kawasaki>>,<<Kanto>>,<<JPN-KNT>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN012
+Yokohama>>,<<Kanto>>,<<JPN-KNT>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN013
+Nagoya>>,<<Chubu>>,<<JPN-CHB>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN014
+Kyoto>>,<<Kinki>>,<<JPN-KIN>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN015
+Kobe>>,<<Kinki>>,<<JPN-KIN>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN016
+Osaka>>,<<Kinki>>,<<JPN-KIN>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN017
+Gifu>>,<<Chubu>>,<<JPN-CHB>>,<<Japan>>,<<JA>>,<<JPN>>,<<JPN018
+Mutare>>,<<Manicaland>>,<<ZWE-MNC>>,<<Zimbabwe>>,<<ZI>>,<<ZWE>>,<<ZWE001
+Moroni>>,<<Comoros>>,<<COM>>,<<Comoros>>,<<CN>>,<<COM>>,<<COM001
+Mocambique>>,<<Nampula>>,<<MOZ-NMP>>,<<Mozambique>>,<<MZ>>,<<MOZ>>,<<MOZ002
+Harare>>,<<Mashonaland East>>,<<ZWE-MEA>>,<<Zimbabwe>>,<<ZI>>,<<ZWE>>,<<ZWE004
+Bulawayo>>,<<Matabeleland North>>,<<ZWE-MNR>>,<<Zimbabwe>>,<<ZI>>,<<ZWE>>,<<ZWE005
+Port Gentil>>,<<Ogooue-Maritime>>,<<GAB-OMR>>,<<Gabon>>,<<GB>>,<<GAB>>,<<GAB005
+Swakopmund>>,<<Swakopmund>>,<<NAM-SWK>>,<<Namibia>>,<<WA>>,<<NAM>>,<<NAM005
+Luderitz>>,<<Luderitz>>,<<NAM-LDR>>,<<Namibia>>,<<WA>>,<<NAM>>,<<NAM007
+Cape Town>>,<<Western Cape>>,<<ZAF-WCP>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF001
+Windhoek>>,<<Windhoek>>,<<NAM-WND>>,<<Namibia>>,<<WA>>,<<NAM>>,<<NAM008
+Uige>>,<<Uige>>,<<AGO-UIG>>,<<Angola>>,<<AO>>,<<AGO>>,<<AGO007
+Luanda>>,<<Luanda>>,<<AGO-LUA>>,<<Angola>>,<<AO>>,<<AGO>>,<<AGO009
+Malange>>,<<Malanje>>,<<AGO-MLN>>,<<Angola>>,<<AO>>,<<AGO>>,<<AGO011
+Masuku>>,<<Haut-Ogooue>>,<<GAB-HOG>>,<<Gabon>>,<<GB>>,<<GAB>>,<<GAB009
+Cabinda>>,<<Cabinda>>,<<AGO-CBN>>,<<Angola>>,<<AO>>,<<AGO>>,<<AGO013
+Benguela>>,<<Benguela>>,<<AGO-BNG>>,<<Angola>>,<<AO>>,<<AGO>>,<<AGO015
+Huambo>>,<<Huambo>>,<<AGO-HUA>>,<<Angola>>,<<AO>>,<<AGO>>,<<AGO016
+Namibe>>,<<Namibe>>,<<AGO-NAM>>,<<Angola>>,<<AO>>,<<AGO>>,<<AGO018
+Ndola>>,<<Copperbelt>>,<<ZMB-CPP>>,<<Zambia>>,<<ZA>>,<<ZMB>>,<<ZMB003
+Kabwe>>,<<Central>>,<<ZMB-CNT>>,<<Zambia>>,<<ZA>>,<<ZMB>>,<<ZMB005
+Lusaka>>,<<Lusaka>>,<<ZMB-LUS>>,<<Zambia>>,<<ZA>>,<<ZMB>>,<<ZMB006
+Livingstone>>,<<Southern>>,<<ZMB-STH>>,<<Zambia>>,<<ZA>>,<<ZMB>>,<<ZMB009
+Kigoma>>,<<Kigoma>>,<<TZA-KIG>>,<<Tanzania>>,<<TZ>>,<<TZA>>,<<TZA007
+Bujumbura>>,<<Bujumbura>>,<<BDI-BJM>>,<<Burundi>>,<<BY>>,<<BDI>>,<<BDI011
+Gisenyi>>,<<Gisenyi>>,<<RWA-GSN>>,<<Rwanda>>,<<RW>>,<<RWA>>,<<RWA002
+Kigali>>,<<Kigali>>,<<RWA-KIG>>,<<Rwanda>>,<<RW>>,<<RWA>>,<<RWA007
+Arusha>>,<<Arusha>>,<<TZA-ARS>>,<<Tanzania>>,<<TZ>>,<<TZA>>,<<TZA009
+Mombasa>>,<<Coast>>,<<KEN-COA>>,<<Kenya>>,<<KE>>,<<KEN>>,<<KEN003
+Tanga>>,<<Tanga>>,<<TZA-TAN>>,<<Tanzania>>,<<TZ>>,<<TZA>>,<<TZA011
+Lindi>>,<<Lindi>>,<<TZA-LIN>>,<<Tanzania>>,<<TZ>>,<<TZA>>,<<TZA013
+Zanzibar>>,<<Zanzibar Urban/West>>,<<TZA-ZUR>>,<<Tanzania>>,<<TZ>>,<<TZA>>,<<TZA017
+Dodoma>>,<<Dodoma>>,<<TZA-DOD>>,<<Tanzania>>,<<TZ>>,<<TZA>>,<<TZA018
+Kibaha>>,<<Pwani>>,<<TZA-PWA>>,<<Tanzania>>,<<TZ>>,<<TZA>>,<<TZA019
+Dar es Salaam>>,<<Dar es Salaam>>,<<TZA-DES>>,<<Tanzania>>,<<TZ>>,<<TZA>>,<<TZA020
+Kisumu>>,<<Nyanza>>,<<KEN-NYN>>,<<Kenya>>,<<KE>>,<<KEN>>,<<KEN004
+Nakuru>>,<<Rift Valley>>,<<KEN-RVL>>,<<Kenya>>,<<KE>>,<<KEN>>,<<KEN005
+Nairobi>>,<<Nairobi Area>>,<<KEN-NAR>>,<<Kenya>>,<<KE>>,<<KEN>>,<<KEN008
+Singida>>,<<Singida>>,<<TZA-SNG>>,<<Tanzania>>,<<TZ>>,<<TZA>>,<<TZA025
+Lilongwe>>,<<Central>>,<<MWI-CNT>>,<<Malawi>>,<<MI>>,<<MWI>>,<<MWI002
+Nampula>>,<<Nampula>>,<<MOZ-NMP>>,<<Mozambique>>,<<MZ>>,<<MOZ>>,<<MOZ007
+Blantyre>>,<<Southern>>,<<MWI-STH>>,<<Malawi>>,<<MI>>,<<MWI>>,<<MWI003
+Beira>>,<<Sofala>>,<<MOZ-SOF>>,<<Mozambique>>,<<MZ>>,<<MOZ>>,<<MOZ009
+Maputo>>,<<Maputo>>,<<MOZ-MAP>>,<<Mozambique>>,<<MZ>>,<<MOZ>>,<<MOZ010
+Mbabane>>,<<Hhohho>>,<<SWZ-HHH>>,<<Swaziland>>,<<WZ>>,<<SWZ>>,<<SWZ002
+Port Elizabeth>>,<<Eastern Cape>>,<<ZAF-ECP>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF002
+Nelspruit>>,<<Mpumalanga>>,<<ZAF-MPM>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF003
+Gaborone>>,<<South-East>>,<<BWA-SEA>>,<<Botswana>>,<<BC>>,<<BWA>>,<<BWA009
+Johannesburg>>,<<Gauteng>>,<<ZAF-GAT>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF004
+East London>>,<<Eastern Cape>>,<<ZAF-ECP>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF005
+Kimberley>>,<<Northern Cape>>,<<ZAF-NCP>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF008
+Bloemfontein>>,<<Free State>>,<<ZAF-OFS>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF009
+Maseru>>,<<Maseru>>,<<LSO-MAS>>,<<Lesotho>>,<<LT>>,<<LSO>>,<<LSO003
+Pretoria>>,<<Gauteng>>,<<ZAF-GAT>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF010
+Richards Bay>>,<<KwaZulu/Natal>>,<<ZAF-KNT>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF012
+Durban>>,<<KwaZulu/Natal>>,<<ZAF-KNT>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF013
+Pietermaritzburg (Ulundi)>>,<<KwaZulu/Natal>>,<<ZAF-KNT>>,<<South Africa>>,<<SF>>,<<ZAF>>,<<ZAF014
+Saint-Denis>>,<<Reunion>>,<<REU>>,<<Reunion>>,<<RE>>,<<REU>>,<<REU001
+Victoria>>,<<Seychelles>>,<<SYC>>,<<Seychelles>>,<<SE>>,<<SYC>>,<<SYC001
+Toamasina>>,<<Toamasina>>,<<MDG-TMS>>,<<Madagascar>>,<<MA>>,<<MDG>>,<<MDG004
+Antananarivo>>,<<Antananarivo>>,<<MDG-ANN>>,<<Madagascar>>,<<MA>>,<<MDG>>,<<MDG005
+Port Louis>>,<<Mauritius>>,<<MUS>>,<<Mauritius>>,<<MP>>,<<MUS>>,<<MUS001
+Padang>>,<<Sumatera Barat>>,<<IDN-SBA>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN005
+Bandung>>,<<Jawa Barat>>,<<IDN-JBA>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN006
+Semarang>>,<<Jawa Tengah>>,<<IDN-JTN>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN007
+Alice Springs>>,<<Northern Territory>>,<<AUS-NTR>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS001
+Perth>>,<<Western Australia>>,<<AUS-WAS>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS002
+Fremantle>>,<<Western Australia>>,<<AUS-WAS>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS003
+Pontianak>>,<<Kalimantan Barat>>,<<IDN-KBA>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN009
+Jambi>>,<<Jambi>>,<<IDN-JAM>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN010
+Palembang>>,<<Sumatera Selatan>>,<<IDN-SST>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN011
+Bengkulu>>,<<Bengkulu>>,<<IDN-BNG>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN012
+Jakarta>>,<<Jakarta Raya>>,<<IDN-JRA>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN014
+Ambon>>,<<Maluku>>,<<IDN-MAL>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN016
+Makassar>>,<<Sulawesi Selatan>>,<<IDN-SSL>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN018
+Darwin>>,<<Northern Territory>>,<<AUS-NTR>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS004
+Balikpapan>>,<<Kalimantan Timur>>,<<IDN-KTI>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN020
+Surabaja>>,<<Jawa Timur>>,<<IDN-JTI>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN023
+Denpasar>>,<<Bali>>,<<IDN-BAL>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN025
+Kupang>>,<<Nusa Tenggara Timur>>,<<IDN-NTT>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN026
+Jayapura>>,<<Irian Jaya>>,<<IDN-IJA>>,<<Indonesia>>,<<ID>>,<<IDN>>,<<IDN027
+Hastings>>,<<Hawke's Bay>>,<<NZL-HBA>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL001
+Wanganui>>,<<Wanganui-Manawatu>>,<<NZL-WMN>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL002
+Wellington>>,<<Wellington>>,<<NZL-WLL>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL003
+Rockhampton>>,<<Queensland>>,<<AUS-QNS>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS006
+Brisbane>>,<<Queensland>>,<<AUS-QNS>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS007
+Newcastle>>,<<New South Wales>>,<<AUS-NSW>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS008
+Sydney>>,<<New South Wales>>,<<AUS-NSW>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS009
+Adelaide>>,<<South Australia>>,<<AUS-SAS>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS010
+Canberra>>,<<Australian Capital Territory>>,<<AUS-ACT>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS011
+Melbourne>>,<<Victoria>>,<<AUS-VCT>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS012
+Hobart>>,<<Tasmania>>,<<AUS-TSM>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS013
+Cairns>>,<<Queensland>>,<<AUS-QNS>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS014
+Townsville>>,<<Queensland>>,<<AUS-QNS>>,<<Australia>>,<<AS>>,<<AUS>>,<<AUS015
+Rabaul>>,<<East New Britain>>,<<PNG-ENB>>,<<Papua New Guinea>>,<<PP>>,<<PNG>>,<<PNG013
+Lae>>,<<Morobe>>,<<PNG-MOR>>,<<Papua New Guinea>>,<<PP>>,<<PNG>>,<<PNG016
+Port Moresby>>,<<National Capital>>,<<PNG-NCP>>,<<Papua New Guinea>>,<<PP>>,<<PNG>>,<<PNG019
+Funafuti>>,<<Tuvalu>>,<<TUV>>,<<Tuvalu>>,<<TV>>,<<TUV>>,<<TUV001
+Port Vila>>,<<Vanuatu>>,<<VUT>>,<<Vanuatu>>,<<NH>>,<<VUT>>,<<VUT001
+Suva>>,<<Fiji>>,<<FJI>>,<<Fiji>>,<<FJ>>,<<FJI>>,<<FJI001
+Noumea>>,<<New Caledonia>>,<<NCL>>,<<New Caledonia>>,<<NC>>,<<NCL>>,<<NCL001
+Yaren>>,<<Nauru>>,<<NRU>>,<<Nauru>>,<<NR>>,<<NRU>>,<<NRU001
+Auckland>>,<<Auckland>>,<<NZL-ACK>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL005
+Tauranga>>,<<Bay of Plenty>>,<<NZL-BPL>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL006
+Hamilton>>,<<Waikato>>,<<NZL-WAK>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL007
+Gisborne>>,<<East Cape>>,<<NZL-ECP>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL008
+New Plymouth>>,<<Taranaki>>,<<NZL-TRN>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL009
+Nelson>>,<<Nelson-Marlborough>>,<<NZL-NMR>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL010
+Christchurch>>,<<Canterbury>>,<<NZL-CNT>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL012
+Dunedin>>,<<Otago>>,<<NZL-OTG>>,<<New Zealand>>,<<NZ>>,<<NZL>>,<<NZL013

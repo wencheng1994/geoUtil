@@ -1,0 +1,239 @@
+﻿NAME>>,<<CHINESE NAME>>,<<GMI CODE
+Afghanistan>>,<<阿富汗>>,<<AFG
+Albania>>,<<阿尔巴尼亚>>,<<ALB
+Algeria>>,<<阿尔及利亚>>,<<DZA
+American Samoa>>,<<美属萨摩亚>>,<<ASM
+Andorra>>,<<安道尔>>,<<AND
+Angola>>,<<安哥拉>>,<<AGO
+Anguilla>>,<<安圭拉岛>>,<<AIA
+Antigua and Barbuda>>,<<安提瓜和巴布达>>,<<ATG
+Argentina>>,<<阿根廷>>,<<ARG
+Armenia>>,<<亚美尼亚>>,<<ARM
+Aruba>>,<<阿鲁巴岛>>,<<ABW
+Australia>>,<<澳大利亚>>,<<AUS
+Austria>>,<<奥地利>>,<<AUT
+Azerbaijan>>,<<阿塞拜疆>>,<<AZE
+Bahrain>>,<<巴林>>,<<BHR
+Bangladesh>>,<<孟加拉国>>,<<BGD
+Barbados>>,<<巴巴多斯>>,<<BRB
+Belarus>>,<<白俄罗斯>>,<<BLR
+Belgium>>,<<比利时>>,<<BEL
+Belize>>,<<伯利兹>>,<<BLZ
+Benin>>,<<贝宁>>,<<BEN
+Bermuda>>,<<百慕大>>,<<BMU
+Bhutan>>,<<不丹>>,<<BTN
+Bolivia>>,<<玻利维亚>>,<<BOL
+Bosnia and Herzegovina>>,<<波斯尼亚和黑塞哥维那>>,<<BIH
+Botswana>>,<<博茨瓦纳>>,<<BWA
+Brazil>>,<<巴西>>,<<BRA
+British Indian Ocean Territory>>,<<英属印度洋领地>>,<<IOT
+British Virgin Islands>>,<<英属维尔京群岛>>,<<VGB
+Brunei>>,<<文莱>>,<<BRN
+Bulgaria>>,<<保加利亚>>,<<BGR
+Burkina Faso>>,<<布基纳法索>>,<<BFA
+Burundi>>,<<布隆迪>>,<<BDI
+Cambodia>>,<<柬埔寨>>,<<KHM
+Cameroon>>,<<喀麦隆>>,<<CMR
+Canada>>,<<加拿大>>,<<CAN
+Cape Verde>>,<<佛得角>>,<<CPV
+Cayman Islands>>,<<开曼群岛>>,<<CYM
+Central African Republic>>,<<中非共和国>>,<<CAF
+Chad>>,<<乍得>>,<<TCD
+Chile>>,<<智利>>,<<CHL
+China>>,<<中国>>,<<CHN
+Colombia>>,<<哥伦比亚>>,<<COL
+Comoros>>,<<科摩罗>>,<<COM
+Costa Rica>>,<<哥斯达黎加>>,<<CRI
+Cote d'Ivoire>>,<<科特迪瓦>>,<<CIV
+Croatia>>,<<克罗地亚>>,<<HRV
+Cuba>>,<<古巴>>,<<CUB
+Cyprus>>,<<塞浦路斯>>,<<CYP
+Czech Republic>>,<<捷克共和国>>,<<CZE
+Democratic Republic of the Congo>>,<<刚果民主共和国>>,<<COD
+Denmark>>,<<丹麦>>,<<DNK
+Djibouti>>,<<吉布提>>,<<DJI
+Dominica>>,<<多米尼克>>,<<DMA
+Dominican Republic>>,<<多米尼加共和国>>,<<DOM
+Ecuador>>,<<厄瓜多尔>>,<<ECU
+Egypt>>,<<埃及>>,<<EGY
+El Salvador>>,<<萨尔瓦多>>,<<SLV
+Equatorial Guinea>>,<<赤道几内亚>>,<<GNQ
+Eritrea>>,<<厄立特里亚>>,<<ERI
+Estonia>>,<<爱沙尼亚>>,<<EST
+Ethiopia>>,<<埃塞俄比亚>>,<<ETH
+Falkland Islands>>,<<福克兰群岛>>,<<FLK
+Federated States of Micronesia>>,<<密克罗尼西亚联邦州>>,<<FSM
+Fiji>>,<<斐济>>,<<FJI
+Finland>>,<<芬兰>>,<<FIN
+France>>,<<法国>>,<<FRA
+French Guiana>>,<<法属圭亚那>>,<<GUF
+French Polynesia>>,<<法属波利尼西亚>>,<<PYF
+French Southern and Antarctic Lands>>,<<法国南部和南极的土地>>,<<ATF
+Faroe Islands>>,<<法罗群岛>>,<<FRO
+Gabon>>,<<加蓬>>,<<GAB
+Georgia>>,<<格鲁吉亚>>,<<GEO
+Germany>>,<<德国>>,<<DEU
+Ghana>>,<<加纳>>,<<GHA
+Gibraltar>>,<<直布罗陀>>,<<GIB
+Greece>>,<<希腊>>,<<GRC
+Greenland>>,<<格陵兰>>,<<GRL
+Grenada>>,<<格林纳达>>,<<GRD
+Guadeloupe>>,<<瓜德罗普岛>>,<<GLP
+Guam>>,<<关岛>>,<<GUM
+Guatemala>>,<<危地马拉>>,<<GTM
+Guernsey>>,<<根西岛>>,<<GGY
+Guinea>>,<<几内亚>>,<<GIN
+Guinea-Bissau>>,<<几内亚比绍>>,<<GNB
+Guyana>>,<<圭亚那>>,<<GUY
+Haiti>>,<<海地>>,<<HTI
+Honduras>>,<<洪都拉斯>>,<<HND
+Hungary>>,<<匈牙利>>,<<HUN
+Iceland>>,<<冰岛>>,<<ISL
+India>>,<<印度>>,<<IND
+Indonesia>>,<<印尼>>,<<IDN
+Iran>>,<<伊朗>>,<<IRN
+Iraq>>,<<伊拉克>>,<<IRQ
+Ireland>>,<<爱尔兰>>,<<IRL
+Isle of Man>>,<<马恩岛>>,<<IMN
+Israel>>,<<以色列>>,<<ISR
+Italy>>,<<意大利>>,<<ITA
+Jamaica>>,<<牙买加>>,<<JAM
+Jan Mayen>>,<<扬马延岛>>,<<SJM
+Japan>>,<<日本>>,<<JPN
+Jersey>>,<<泽西岛>>,<<JEY
+Jordan>>,<<约旦>>,<<JOR
+Kazakhstan>>,<<哈萨克斯坦>>,<<KAZ
+Kenya>>,<<肯尼亚>>,<<KEN
+Kiribati>>,<<基里巴斯>>,<<KIR
+Kuwait>>,<<科威特>>,<<KWT
+Kyrgyzstan>>,<<吉尔吉斯斯坦>>,<<KGZ
+Laos>>,<<老挝>>,<<LAO
+Latvia>>,<<拉脱维亚>>,<<LVA
+Lebanon>>,<<黎巴嫩>>,<<LBN
+Lesotho>>,<<莱索托>>,<<LSO
+Liberia>>,<<利比里亚>>,<<LBR
+Libya>>,<<利比亚>>,<<LBY
+Liechtenstein>>,<<列支敦士登>>,<<LIE
+Lithuania>>,<<立陶宛>>,<<LTU
+Luxembourg>>,<<卢森堡>>,<<LUX
+Macedonia>>,<<马其顿>>,<<MKD
+Madagascar>>,<<马达加斯加>>,<<MDG
+Malawi>>,<<马拉维>>,<<MWI
+Malaysia>>,<<马来西亚>>,<<MYS
+Maldives>>,<<马尔代夫>>,<<MDV
+Mali>>,<<马里>>,<<MLI
+Malta>>,<<马耳他>>,<<MLT
+Martinique>>,<<马提尼克>>,<<MTQ
+Mauritania>>,<<毛里塔尼亚>>,<<MRT
+Mauritius>>,<<毛里求斯>>,<<MUS
+Mayotte>>,<<马约特岛>>,<<MYT
+Mexico>>,<<墨西哥>>,<<MEX
+Moldova>>,<<摩尔多瓦>>,<<MDA
+Monaco>>,<<摩纳哥>>,<<MCO
+Mongolia>>,<<蒙古>>,<<MNG
+Montenegro>>,<<黑山>>,<<MNE
+Montserrat>>,<<蒙特塞拉特>>,<<MSR
+Morocco>>,<<摩洛哥>>,<<MAR
+Mozambique>>,<<莫桑比克>>,<<MOZ
+Myanmar>>,<<缅甸>>,<<MMR
+Namibia>>,<<纳米比亚>>,<<NAM
+Nauru>>,<<瑙鲁>>,<<NRU
+Nepal>>,<<尼泊尔>>,<<NPL
+Netherlands>>,<<荷兰>>,<<NLD
+Netherlands Antilles>>,<<荷属安的列斯群岛>>,<<ANT
+New Caledonia>>,<<新喀里多尼亚>>,<<NCL
+New Zealand>>,<<新西兰>>,<<NZL
+Nicaragua>>,<<尼加拉瓜>>,<<NIC
+Niger>>,<<尼日尔>>,<<NER
+Nigeria>>,<<尼日利亚>>,<<NGA
+Niue>>,<<纽埃>>,<<NIU
+North Korea>>,<<朝鲜>>,<<PRK
+Northern Mariana Islands>>,<<北马里亚纳群岛>>,<<MNP
+Norway>>,<<挪威>>,<<NOR
+Oman>>,<<阿曼>>,<<OMN
+Pakistan>>,<<巴基斯坦>>,<<PAK
+Palau>>,<<帕劳>>,<<PLW
+Palestine>>,<<巴勒斯坦>>,<<PLE
+Panama>>,<<巴拿马>>,<<PAN
+Papua New Guinea>>,<<巴布亚新几内亚>>,<<PNG
+Paraguay>>,<<巴拉圭>>,<<PRY
+Peru>>,<<秘鲁>>,<<PER
+Philippines>>,<<菲律宾>>,<<PHL
+Poland>>,<<波兰>>,<<POL
+Portugal>>,<<葡萄牙>>,<<PRT
+Puerto Rico>>,<<波多黎各>>,<<PRI
+Qatar>>,<<卡塔尔>>,<<QAT
+Republic of the Congo>>,<<刚果共和国>>,<<COG
+Reunion>>,<<留尼汪>>,<<REU
+Romania>>,<<罗马尼亚>>,<<ROU
+Russia>>,<<俄罗斯>>,<<RUS
+Rwanda>>,<<卢旺达>>,<<RWA
+Saint Barthelemy>>,<<圣巴特尔米>>,<<BLM
+Saint Helena>>,<<圣赫勒拿>>,<<SHN
+Saint Kitts and Nevis>>,<<圣基茨和尼维斯>>,<<KNA
+Saint Lucia>>,<<圣卢西亚>>,<<LCA
+Saint Martin>>,<<圣马丁>>,<<MAF
+Saint Pierre and Miquelon>>,<<圣皮埃尔和密克隆岛>>,<<SPM
+Saint Vincent and the Grenadines>>,<<圣文森特和格林纳丁斯群岛>>,<<VCT
+Samoa>>,<<萨摩亚>>,<<WSM
+San Marino>>,<<圣马力诺>>,<<SMR
+Sao Tome and Principe>>,<<圣多美和普林西比>>,<<STP
+Saudi Arabia>>,<<沙特阿拉伯>>,<<SAU
+Senegal>>,<<塞内加尔>>,<<SEN
+Serbia>>,<<塞尔维亚>>,<<SRB
+Seychelles>>,<<塞舌尔>>,<<SYC
+Sierra Leone>>,<<塞拉利昂>>,<<SLE
+Singapore>>,<<新加坡>>,<<SGP
+Slovakia>>,<<斯洛伐克>>,<<SVK
+Slovenia>>,<<斯洛文尼亚>>,<<SVN
+Somalia>>,<<索马里>>,<<SOM
+South Africa>>,<<南非>>,<<ZAF
+South Korea>>,<<韩国>>,<<KOR
+Solomon Islands>>,<<所罗门群岛>>,<<SOL
+Spain>>,<<西班牙>>,<<ESP
+Sri Lanka>>,<<斯里兰卡>>,<<LKA
+Sudan>>,<<苏丹>>,<<SDN
+South Sudan>>,<<南苏丹>>,<<SSD
+Suriname>>,<<苏里南>>,<<SUR
+Svalbard>>,<<斯瓦尔巴特群岛>>,<<SJM
+Swaziland>>,<<斯威士兰>>,<<SWZ
+Sweden>>,<<瑞典>>,<<SWE
+Switzerland>>,<<瑞士>>,<<CHE
+Syria>>,<<叙利亚>>,<<SYR
+Tajikistan>>,<<塔吉克斯坦>>,<<TJK
+Tanzania>>,<<坦桑尼亚>>,<<TZA
+Thailand>>,<<泰国>>,<<THA
+The Bahamas>>,<<巴哈马群岛>>,<<BHS
+The Gambia>>,<<冈比亚>>,<<GMB
+Timor-Leste>>,<<东帝汶>>,<<TLS
+Togo>>,<<多哥>>,<<TGO
+Tokelau>>,<<托克劳>>,<<TKL
+Tonga>>,<<汤加>>,<<TON
+Trinidad and Tobago>>,<<特立尼达和多巴哥>>,<<TTO
+Tunisia>>,<<突尼斯>>,<<TUN
+Turkey>>,<<土耳其>>,<<TUR
+Turkmenistan>>,<<土库曼斯坦>>,<<TKM
+Turks and Caicos Islands>>,<<特克斯和凯科斯群岛>>,<<TCA
+Tuvalu>>,<<图瓦卢>>,<<TUV
+Uganda>>,<<乌干达>>,<<UGA
+Ukraine>>,<<乌克兰>>,<<UKR
+United Arab Emirates>>,<<阿联酋>>,<<UAE
+United Kingdom>>,<<英国>>,<<GBR
+United States>>,<<美国>>,<<USA
+United States Virgin Islands>>,<<美国维尔京群岛>>,<<VIR
+Uruguay>>,<<乌拉圭>>,<<URY
+Uzbekistan>>,<<乌兹别克斯坦>>,<<UZB
+Vanuatu>>,<<瓦努阿图>>,<<VUT
+Vatican City (Holy See)>>,<<梵蒂冈>>,<<VAT
+Venezuela>>,<<委内瑞拉>>,<<VEN
+Vietnam>>,<<越南>>,<<VNM
+Wallis and Futuna>>,<<沃利斯和富图纳群岛>>,<<WLF
+Western Sahara>>,<<西撒哈拉>>,<<ESH
+Yemen>>,<<也门>>,<<YEM
+Zambia>>,<<赞比亚>>,<<ZMB
+Zimbabwe>>,<<津巴布韦>>,<<ZWE
+United States Virgin Is-lands>>,<<美属维尔京群岛>>,<<UMI
+The Republic of Marshall Island>>,<<马绍尔群岛共和国>>,<<MHL
+Norfolk I.>>,<<诺福克岛>>,<<NFK
+Cook Is.>>,<<库克群岛>>,<<COK
+Pitcairn Is.>>,<<皮克恩群岛>>,<<PCN

@@ -1,0 +1,234 @@
+CONTINENT GMI>>,<<NAME>>,<<FIPS CODE>>,<<ISO 2 CHARACTOR CODE>>,<<ISO 3 CHARACTOR CODE>>,<<GMI CODE
+AS-001>>,<<Afghanistan>>,<<AF>>,<<AF>>,<<AFG>>,<<AFG>>,<<AFG
+EU-001>>,<<Albania>>,<<AL>>,<<AL>>,<<ALB>>,<<ALB>>,<<ALB
+AF-001>>,<<Algeria>>,<<AG>>,<<DZ>>,<<DZA>>,<<DZA>>,<<DZA
+OA-001>>,<<American Samoa>>,<<AQ>>,<<AS>>,<<ASM>>,<<ASM>>,<<ASM
+EU-001>>,<<Andorra>>,<<AN>>,<<AD>>,<<AND>>,<<AND>>,<<AND
+AF-001>>,<<Angola>>,<<AO>>,<<AO>>,<<AGO>>,<<AGO>>,<<AGO
+AF-001>>,<<Anguilla>>,<<AV>>,<<AI>>,<<AIA>>,<<AIA>>,<<AIA
+AF-001>>,<<Antigua and Barbuda>>,<<AC>>,<<AG>>,<<ATG>>,<<ATG>>,<<ATG
+AF-001>>,<<Argentina>>,<<AR>>,<<AR>>,<<ARG>>,<<ARG>>,<<ARG
+EU-001>>,<<Armenia>>,<<AM>>,<<AM>>,<<ARM>>,<<ARM>>,<<ARM
+AM-001>>,<<Aruba>>,<<AA>>,<<AW>>,<<ABW>>,<<ABW>>,<<ABW
+OA-001>>,<<Australia>>,<<AS>>,<<AU>>,<<AUS>>,<<AUS>>,<<AUS
+EU-001>>,<<Austria>>,<<AU>>,<<AT>>,<<AUT>>,<<AUT>>,<<AUT
+EU-001>>,<<Azerbaijan>>,<<AJ>>,<<AZ>>,<<AZE>>,<<AZE>>,<<AZE
+AS-001>>,<<Bahrain>>,<<BA>>,<<BH>>,<<BHR>>,<<BHR>>,<<BHR
+AS-001>>,<<Bangladesh>>,<<BG>>,<<BD>>,<<BGD>>,<<BGD>>,<<BGD
+AM-001>>,<<Barbados>>,<<BB>>,<<BB>>,<<BRB>>,<<BRB>>,<<BRB
+EU-001>>,<<Belarus>>,<<BO>>,<<BY>>,<<BLR>>,<<BLR>>,<<BLR
+EU-001>>,<<Belgium>>,<<BE>>,<<BE>>,<<BEL>>,<<BEL>>,<<BEL
+AM-001>>,<<Belize>>,<<BH>>,<<BZ>>,<<BLZ>>,<<BLZ>>,<<BLZ
+AF-001>>,<<Benin>>,<<BN>>,<<BJ>>,<<BEN>>,<<BEN>>,<<BEN
+AM-001>>,<<Bermuda>>,<<BD>>,<<BM>>,<<BMU>>,<<BMU>>,<<BMU
+AS-001>>,<<Bhutan>>,<<BT>>,<<BT>>,<<BTN>>,<<BTN>>,<<BTN
+AM-001>>,<<Bolivia>>,<<BL>>,<<BO>>,<<BOL>>,<<BOL>>,<<BOL
+EU-001>>,<<Bosnia and Herzegovina>>,<<BK>>,<<BA>>,<<BIH>>,<<BIH>>,<<BIH
+AF-001>>,<<Botswana>>,<<BC>>,<<BW>>,<<BWA>>,<<BWA>>,<<BWA
+AM-001>>,<<Brazil>>,<<BR>>,<<BR>>,<<BRA>>,<<BRA>>,<<BRA
+OA-001>>,<<British Indian Ocean Territory>>,<<IO>>,<<IO>>,<<IOT>>,<<IOT>>,<<IOT
+AF-001>>,<<British Virgin Islands>>,<<VI>>,<<VG>>,<<VGB>>,<<VGB>>,<<VGB
+AS-001>>,<<Brunei>>,<<BX>>,<<BN>>,<<BRN>>,<<BRN>>,<<BRN
+EU-001>>,<<Bulgaria>>,<<BU>>,<<BG>>,<<BGR>>,<<BGR>>,<<BGR
+AF-001>>,<<Burkina Faso>>,<<UV>>,<<BF>>,<<BFA>>,<<BFA>>,<<BFA
+AF-001>>,<<Burundi>>,<<BY>>,<<BI>>,<<BDI>>,<<BDI>>,<<BDI
+AS-001>>,<<Cambodia>>,<<CB>>,<<KH>>,<<KHM>>,<<KHM>>,<<KHM
+AF-001>>,<<Cameroon>>,<<CM>>,<<CM>>,<<CMR>>,<<CMR>>,<<CMR
+AM-001>>,<<Canada>>,<<CA>>,<<CA>>,<<CAN>>,<<CAN>>,<<CAN
+AF-001>>,<<Cape Verde>>,<<CV>>,<<CV>>,<<CPV>>,<<CPV>>,<<CPV
+AM-001>>,<<Cayman Islands>>,<<CJ>>,<<KY>>,<<CYM>>,<<CYM>>,<<CYM
+AF-001>>,<<Central African Republic>>,<<CT>>,<<CF>>,<<CAF>>,<<CAF>>,<<CAF
+AF-001>>,<<Chad>>,<<CD>>,<<TD>>,<<TCD>>,<<TCD>>,<<TCD
+AM-001>>,<<Chile>>,<<CI>>,<<CL>>,<<CHL>>,<<CHL>>,<<CHL
+AS-001>>,<<China>>,<<CH>>,<<CN>>,<<CHN>>,<<CHN>>,<<CHN
+AM-001>>,<<Colombia>>,<<CO>>,<<CO>>,<<COL>>,<<COL>>,<<COL
+AF-001>>,<<Comoros>>,<<CN>>,<<KM>>,<<COM>>,<<COM>>,<<COM
+AM-001>>,<<Costa Rica>>,<<CS>>,<<CR>>,<<CRI>>,<<CRI>>,<<CRI
+AF-001>>,<<Cote d'Ivoire>>,<<IV>>,<<CI>>,<<CIV>>,<<CIV>>,<<CIV
+EU-001>>,<<Croatia>>,<<HR>>,<<HR>>,<<HRV>>,<<HRV>>,<<HRV
+AM-001>>,<<Cuba>>,<<CU>>,<<CU>>,<<CUB>>,<<CUB>>,<<CUB
+EU-001>>,<<Cyprus>>,<<CY>>,<<CY>>,<<CYP>>,<<CYP>>,<<CYP
+EU-001>>,<<Czech Republic>>,<<EZ>>,<<CZ>>,<<CZE>>,<<CZE>>,<<CZE
+AF-001>>,<<Democratic Republic of the Congo>>,<<CG>>,<<CD>>,<<COD>>,<<COD>>,<<COD
+EU-001>>,<<Denmark>>,<<DA>>,<<DK>>,<<DNK>>,<<DNK>>,<<DNK
+AF-001>>,<<Djibouti>>,<<DJ>>,<<DJ>>,<<DJI>>,<<DJI>>,<<DJI
+AM-001>>,<<Dominica>>,<<DO>>,<<DM>>,<<DMA>>,<<DMA>>,<<DMA
+AF-001>>,<<Dominican Republic>>,<<DR>>,<<DO>>,<<DOM>>,<<DOM>>,<<DOM
+AM-001>>,<<Ecuador>>,<<EC>>,<<EC>>,<<ECU>>,<<ECU>>,<<ECU
+AF-001>>,<<Egypt>>,<<EG>>,<<EG>>,<<EGY>>,<<EGY>>,<<EGY
+AM-001>>,<<El Salvador>>,<<ES>>,<<SV>>,<<SLV>>,<<SLV>>,<<SLV
+AF-001>>,<<Equatorial Guinea>>,<<EK>>,<<GQ>>,<<GNQ>>,<<GNQ>>,<<GNQ
+AF-001>>,<<Eritrea>>,<<ER>>,<<ER>>,<<ERI>>,<<ERI>>,<<ERI
+EU-001>>,<<Estonia>>,<<EN>>,<<EE>>,<<EST>>,<<EST>>,<<EST
+AF-001>>,<<Ethiopia>>,<<ET>>,<<ET>>,<<ETH>>,<<ETH>>,<<ETH
+AM-001>>,<<Falkland Islands>>,<<FK>>,<<FK>>,<<FLK>>,<<FLK>>,<<FLK
+OA-001>>,<<Federated States of Micronesia>>,<<FM>>,<<FM>>,<<FSM>>,<<FSM>>,<<FSM
+OA-001>>,<<Fiji>>,<<FJ>>,<<FJ>>,<<FJI>>,<<FJI>>,<<FJI
+EU-001>>,<<Finland>>,<<FI>>,<<FI>>,<<FIN>>,<<FIN>>,<<FIN
+EU-001>>,<<France>>,<<FR>>,<<FR>>,<<FRA>>,<<FRA>>,<<FRA
+AM-001>>,<<French Guiana>>,<<FG>>,<<GF>>,<<GUF>>,<<GUF>>,<<GUF
+OA-001>>,<<French Polynesia>>,<<FP>>,<<PF>>,<<PYF>>,<<PYF>>,<<PYF
+AF-001>>,<<French Southern and Antarctic Lands>>,<<FS>>,<<TF>>,<<ATF>>,<<ATF>>,<<ATF
+AF-001>>,<<Faroe Islands>>,<<FO>>,<<FO>>,<<FRO>>,<<FRO>>,<<FRO>>
+AF-001>>,<<Gabon>>,<<GB>>,<<GA>>,<<GAB>>,<<GAB>>,<<GAB
+AS-001>>,<<Georgia>>,<<GG>>,<<GE>>,<<GEO>>,<<GEO>>,<<GEO
+EU-001>>,<<Germany>>,<<GM>>,<<DE>>,<<DEU>>,<<DEU>>,<<DEU
+AF-001>>,<<Ghana>>,<<GH>>,<<GH>>,<<GHA>>,<<GHA>>,<<GHA
+EU-001>>,<<Gibraltar>>,<<GI>>,<<GI>>,<<GIB>>,<<GIB>>,<<GIB
+EU-001>>,<<Greece>>,<<GR>>,<<GR>>,<<GRC>>,<<GRC>>,<<GRC
+AM-001>>,<<Greenland>>,<<GL>>,<<GL>>,<<GRL>>,<<GRL>>,<<GRL
+AM-001>>,<<Grenada>>,<<GJ>>,<<GD>>,<<GRD>>,<<GRD>>,<<GRD
+AM-001>>,<<Guadeloupe>>,<<GP>>,<<GP>>,<<GLP>>,<<GLP>>,<<GLP
+OA-001>>,<<Guam>>,<<GQ>>,<<GU>>,<<GUM>>,<<GUM>>,<<GUM
+AM-001>>,<<Guatemala>>,<<GT>>,<<GT>>,<<GTM>>,<<GTM>>,<<GTM
+EU-001>>,<<Guernsey>>,<<GK>>,<<GG>>,<<GGY>>,<<XGK>>,<<GGY
+AF-001>>,<<Guinea>>,<<GV>>,<<GN>>,<<GIN>>,<<GIN>>,<<GIN
+AF-001>>,<<Guinea-Bissau>>,<<PU>>,<<GW>>,<<GNB>>,<<GNB>>,<<GNB
+AM-001>>,<<Guyana>>,<<GY>>,<<GY>>,<<GUY>>,<<GUY>>,<<GUY
+AM-001>>,<<Haiti>>,<<HA>>,<<HT>>,<<HTI>>,<<HTI>>,<<HTI
+AM-001>>,<<Honduras>>,<<HO>>,<<HN>>,<<HND>>,<<HND>>,<<HND
+EU-001>>,<<Hungary>>,<<HU>>,<<HU>>,<<HUN>>,<<HUN>>,<<HUN
+EU-001>>,<<Iceland>>,<<IC>>,<<IS>>,<<ISL>>,<<ISL>>,<<ISL
+AS-001>>,<<India>>,<<IN>>,<<IN>>,<<IND>>,<<IND>>,<<IND
+AS-001>>,<<Indonesia>>,<<ID>>,<<ID>>,<<IDN>>,<<IDN>>,<<IDN
+AS-001>>,<<Iran>>,<<IR>>,<<IR>>,<<IRN>>,<<IRN>>,<<IRN
+AS-001>>,<<Iraq>>,<<IZ>>,<<IQ>>,<<IRQ>>,<<IRQ>>,<<IRQ
+EU-001>>,<<Ireland>>,<<EI>>,<<IE>>,<<IRL>>,<<IRL>>,<<IRL
+EU-001>>,<<Isle of Man>>,<<IM>>,<<IM>>,<<IMN>>,<<XIM>>,<<IMN
+AS-001>>,<<Israel>>,<<IS>>,<<IL>>,<<ISR>>,<<ISR>>,<<ISR
+EU-001>>,<<Italy>>,<<IT>>,<<IT>>,<<ITA>>,<<ITA>>,<<ITA
+AM-001>>,<<Jamaica>>,<<JM>>,<<JM>>,<<JAM>>,<<JAM>>,<<JAM
+EU-001>>,<<Jan Mayen>>,<<JN>>,<<SJ>>,<<SJM>>,<<SJM>>,<<SJM
+AS-001>>,<<Japan>>,<<JA>>,<<JP>>,<<JPN>>,<<JPN>>,<<JPN
+EU-001>>,<<Jersey>>,<<JE>>,<<JE>>,<<JEY>>,<<XJE>>,<<JEY
+AS-001>>,<<Jordan>>,<<JO>>,<<JO>>,<<JOR>>,<<JOR>>,<<JOR
+AS-001>>,<<Kazakhstan>>,<<KZ>>,<<KZ>>,<<KAZ>>,<<KAZ>>,<<KAZ
+AF-001>>,<<Kenya>>,<<KE>>,<<KE>>,<<KEN>>,<<KEN>>,<<KEN
+OA-001>>,<<Kiribati>>,<<KR>>,<<KI>>,<<KIR>>,<<KIR>>,<<KIR
+AS-001>>,<<Kuwait>>,<<KU>>,<<KW>>,<<KWT>>,<<KWT>>,<<KWT
+AS-001>>,<<Kyrgyzstan>>,<<KG>>,<<KG>>,<<KGZ>>,<<KGZ>>,<<KGZ
+AS-001>>,<<Laos>>,<<LA>>,<<LA>>,<<LAO>>,<<LAO>>,<<LAO
+EU-001>>,<<Latvia>>,<<LG>>,<<LV>>,<<LVA>>,<<LVA>>,<<LVA
+AS-001>>,<<Lebanon>>,<<LE>>,<<LB>>,<<LBN>>,<<LBN>>,<<LBN
+AF-001>>,<<Lesotho>>,<<LT>>,<<LS>>,<<LSO>>,<<LSO>>,<<LSO
+AF-001>>,<<Liberia>>,<<LI>>,<<LR>>,<<LBR>>,<<LBR>>,<<LBR
+AF-001>>,<<Libya>>,<<LY>>,<<LY>>,<<LBY>>,<<LBY>>,<<LBY
+EU-001>>,<<Liechtenstein>>,<<LS>>,<<LI>>,<<LIE>>,<<LIE>>,<<LIE
+EU-001>>,<<Lithuania>>,<<LH>>,<<LT>>,<<LTU>>,<<LTU>>,<<LTU
+EU-001>>,<<Luxembourg>>,<<LU>>,<<LU>>,<<LUX>>,<<LUX>>,<<LUX
+EU-001>>,<<Macedonia>>,<<MK>>,<<MK>>,<<MKD>>,<<MKD>>,<<MKD
+AF-001>>,<<Madagascar>>,<<MA>>,<<MG>>,<<MDG>>,<<MDG>>,<<MDG
+AF-001>>,<<Malawi>>,<<MI>>,<<MW>>,<<MWI>>,<<MWI>>,<<MWI
+AF-001>>,<<Malaysia>>,<<MY>>,<<MY>>,<<MYS>>,<<MYS>>,<<MYS
+AS-001>>,<<Maldives>>,<<MV>>,<<MV>>,<<MDV>>,<<MDV>>,<<MDV
+AF-001>>,<<Mali>>,<<ML>>,<<ML>>,<<MLI>>,<<MLI>>,<<MLI
+EU-001>>,<<Malta>>,<<MT>>,<<MT>>,<<MLT>>,<<MLT>>,<<MLT
+AM-001>>,<<Martinique>>,<<MB>>,<<MQ>>,<<MTQ>>,<<MTQ>>,<<MTQ
+AF-001>>,<<Mauritania>>,<<MR>>,<<MR>>,<<MRT>>,<<MRT>>,<<MRT
+AF-001>>,<<Mauritius>>,<<MP>>,<<MU>>,<<MUS>>,<<MUS>>,<<MUS
+AF-001>>,<<Mayotte>>,<<MF>>,<<YT>>,<<MYT>>,<<MYT>>,<<MYT
+AM-001>>,<<Mexico>>,<<MX>>,<<MX>>,<<MEX>>,<<MEX>>,<<MEX
+EU-001>>,<<Moldova>>,<<MD>>,<<MD>>,<<MDA>>,<<MDA>>,<<MDA
+EU-001>>,<<Monaco>>,<<MN>>,<<MC>>,<<MCO>>,<<MCO>>,<<MCO
+AS-001>>,<<Mongolia>>,<<MG>>,<<MN>>,<<MNG>>,<<MNG>>,<<MNG
+EU-001>>,<<Montenegro>>,<<MJ>>,<<ME>>,<<MNE>>,<<MON>>,<<MNE
+AM-001>>,<<Montserrat>>,<<MH>>,<<MS>>,<<MSR>>,<<MSR>>,<<MSR
+AF-001>>,<<Morocco>>,<<MO>>,<<MA>>,<<MAR>>,<<MAR>>,<<MAR
+AF-001>>,<<Mozambique>>,<<MZ>>,<<MZ>>,<<MOZ>>,<<MOZ>>,<<MOZ
+AS-001>>,<<Myanmar>>,<<BM>>,<<MM>>,<<MMR>>,<<MMR>>,<<MMR
+AF-001>>,<<Namibia>>,<<WA>>,<<NA>>,<<NAM>>,<<NAM>>,<<NAM
+OA-001>>,<<Nauru>>,<<NR>>,<<NR>>,<<NRU>>,<<NRU>>,<<NRU
+AS-001>>,<<Nepal>>,<<NP>>,<<NP>>,<<NPL>>,<<NPL>>,<<NPL
+EU-001>>,<<Netherlands>>,<<NL>>,<<NL>>,<<NLD>>,<<NLD>>,<<NLD
+AM-001>>,<<Netherlands Antilles>>,<<NT>>,<<AN>>,<<ANT>>,<<ANT>>,<<ANT
+OA-001>>,<<New Caledonia>>,<<NC>>,<<NC>>,<<NCL>>,<<NCL>>,<<NCL
+OA-001>>,<<New Zealand>>,<<NZ>>,<<NZ>>,<<NZL>>,<<NZL>>,<<NZL
+AM-001>>,<<Nicaragua>>,<<NU>>,<<NI>>,<<NIC>>,<<NIC>>,<<NIC
+AF-001>>,<<Niger>>,<<NG>>,<<NE>>,<<NER>>,<<NER>>,<<NER
+AF-001>>,<<Nigeria>>,<<NI>>,<<NG>>,<<NGA>>,<<NGA>>,<<NGA
+OA-001>>,<<Niue>>,<<NE>>,<<NU>>,<<NIU>>,<<NIU>>,<<NIU
+AS-001>>,<<North Korea>>,<<KN>>,<<KP>>,<<PRK>>,<<PRK>>,<<PRK
+OA-001>>,<<Northern Mariana Islands>>,<<NM>>,<<NM>>,<<MNP>>,<<MNP>>,<<MNP
+EU-001>>,<<Norway>>,<<NO>>,<<NO>>,<<NOR>>,<<NOR>>,<<NOR
+AS-001>>,<<Oman>>,<<MU>>,<<OM>>,<<OMN>>,<<OMN>>,<<OMN
+AS-001>>,<<Pakistan>>,<<PK>>,<<PK>>,<<PAK>>,<<PAK>>,<<PAK
+OA-001>>,<<Palau>>,<<PS>>,<<PW>>,<<PLW>>,<<PLW>>,<<PLW
+AS-001>>,<<Palestine>>,<<WE>>,<<PS>>,<<PLE>>,<<PLE>>,<<PLE
+AM-001>>,<<Panama>>,<<PM>>,<<PA>>,<<PAN>>,<<PAN>>,<<PAN
+AF-001>>,<<Papua New Guinea>>,<<PP>>,<<PG>>,<<PNG>>,<<PNG>>,<<PNG
+AM-001>>,<<Paraguay>>,<<PA>>,<<PY>>,<<PRY>>,<<PRY>>,<<PRY
+AM-001>>,<<Peru>>,<<PE>>,<<PE>>,<<PER>>,<<PER>>,<<PER
+AS-001>>,<<Philippines>>,<<RP>>,<<PH>>,<<PHL>>,<<PHL>>,<<PHL
+EU-001>>,<<Poland>>,<<PL>>,<<PL>>,<<POL>>,<<POL>>,<<POL
+EU-001>>,<<Portugal>>,<<PO>>,<<PT>>,<<PRT>>,<<PRT>>,<<PRT
+AM-001>>,<<Puerto Rico>>,<<RQ>>,<<PR>>,<<PRI>>,<<PRI>>,<<PRI
+AS-001>>,<<Qatar>>,<<QA>>,<<QA>>,<<QAT>>,<<QAT>>,<<QAT
+AF-001>>,<<Republic of the Congo>>,<<CF>>,<<CG>>,<<COG>>,<<COG>>,<<COG
+AF-001>>,<<Reunion>>,<<RE>>,<<RE>>,<<REU>>,<<REU>>,<<REU
+EU-001>>,<<Romania>>,<<RO>>,<<RO>>,<<ROU>>,<<ROU>>,<<ROU
+EU-001>>,<<Russia>>,<<RS>>,<<RU>>,<<RUS>>,<<RUS>>,<<RUS
+AF-001>>,<<Rwanda>>,<<RW>>,<<RW>>,<<RWA>>,<<RWA>>,<<RWA
+AM-001>>,<<Saint Barthelemy>>,<<TB>>,<<BL>>,<<BLM>>,<<>>,<<BLM
+AF-001>>,<<Saint Helena>>,<<SH>>,<<SH>>,<<SHN>>,<<SHN>>,<<SHN
+AM-001>>,<<Saint Kitts and Nevis>>,<<SC>>,<<KN>>,<<KNA>>,<<KNA>>,<<KNA
+AM-001>>,<<Saint Lucia>>,<<ST>>,<<LC>>,<<LCA>>,<<LCA>>,<<LCA
+AM-001>>,<<Saint Martin>>,<<RN>>,<<MF>>,<<MAF>>,<<>>,<<MAF
+AM-001>>,<<Saint Pierre and Miquelon>>,<<SB>>,<<PM>>,<<SPM>>,<<SPM>>,<<SPM
+AM-001>>,<<Saint Vincent and the Grenadines>>,<<VC>>,<<VC>>,<<VCT>>,<<VCT>>,<<VCT
+OA-001>>,<<Samoa>>,<<WS>>,<<WS>>,<<WSM>>,<<WSM>>,<<WSM
+EU-001>>,<<San Marino>>,<<SM>>,<<SM>>,<<SMR>>,<<SMR>>,<<SMR
+AF-001>>,<<Sao Tome and Principe>>,<<TP>>,<<ST>>,<<STP>>,<<STP>>,<<STP
+AS-001>>,<<Saudi Arabia>>,<<SA>>,<<SA>>,<<SAU>>,<<SAU>>,<<SAU
+AF-001>>,<<Senegal>>,<<SG>>,<<SN>>,<<SEN>>,<<SEN>>,<<SEN
+EU-001>>,<<Serbia>>,<<RI>>,<<RS>>,<<SRB>>,<<SRB>>,<<SRB
+AF-001>>,<<Seychelles>>,<<SE>>,<<SC>>,<<SYC>>,<<SYC>>,<<SYC
+AF-001>>,<<Sierra Leone>>,<<SL>>,<<SL>>,<<SLE>>,<<SLE>>,<<SLE
+AS-001>>,<<Singapore>>,<<SN>>,<<SG>>,<<SGP>>,<<SGP>>,<<SGP
+EU-001>>,<<Slovakia>>,<<LO>>,<<SK>>,<<SVK>>,<<SVK>>,<<SVK
+EU-001>>,<<Slovenia>>,<<SI>>,<<SI>>,<<SVN>>,<<SVN>>,<<SVN
+OA-001>>,<<Solomon Islands>>,<<SB>>,<<SB>>,<<SOL>>,<<SOL>>,<<SOL
+AF-001>>,<<Somalia>>,<<SO>>,<<SO>>,<<SOM>>,<<SOM>>,<<SOM
+AF-001>>,<<South Africa>>,<<SF>>,<<ZA>>,<<ZAF>>,<<ZAF>>,<<ZAF
+AS-001>>,<<South Korea>>,<<KS>>,<<KR>>,<<KOR>>,<<KOR>>,<<KOR
+EU-001>>,<<Spain>>,<<SP>>,<<ES>>,<<ESP>>,<<ESP>>,<<ESP
+AS-001>>,<<Sri Lanka>>,<<CE>>,<<LK>>,<<LKA>>,<<LKA>>,<<LKA
+AF-001>>,<<Sudan>>,<<SU>>,<<SD>>,<<SDN>>,<<SDN>>,<<SDN
+AF-001>>,<<South Sudan>>,<<SS>>,<<SS>>,<<SSD>>,<<SSD>>,<<SSD
+AM-001>>,<<Suriname>>,<<NS>>,<<SR>>,<<SUR>>,<<SUR>>,<<SUR
+EU-001>>,<<Svalbard>>,<<SV>>,<<SJ>>,<<SJM>>,<<SJM>>,<<SJM
+AF-001>>,<<Swaziland>>,<<WZ>>,<<SZ>>,<<SWZ>>,<<SWZ>>,<<SWZ
+EU-001>>,<<Sweden>>,<<SW>>,<<SE>>,<<SWE>>,<<SWE>>,<<SWE
+EU-001>>,<<Switzerland>>,<<SZ>>,<<CH>>,<<CHE>>,<<CHE>>,<<CHE
+AS-001>>,<<Syria>>,<<SY>>,<<SY>>,<<SYR>>,<<SYR>>,<<SYR
+AS-001>>,<<Tajikistan>>,<<TI>>,<<TJ>>,<<TJK>>,<<TJK>>,<<TJK
+AF-001>>,<<Tanzania>>,<<TZ>>,<<TZ>>,<<TZA>>,<<TZA>>,<<TZA
+AS-001>>,<<Thailand>>,<<TH>>,<<TH>>,<<THA>>,<<THA>>,<<THA
+AM-001>>,<<The Bahamas>>,<<BF>>,<<BS>>,<<BHS>>,<<BHS>>,<<BHS
+AF-001>>,<<The Gambia>>,<<GA>>,<<GM>>,<<GMB>>,<<GMB>>,<<GMB
+AS-001>>,<<Timor-Leste>>,<<TT>>,<<TL>>,<<TLS>>,<<>>,<<TLS
+AF-001>>,<<Togo>>,<<TO>>,<<TG>>,<<TGO>>,<<TGO>>,<<TGO
+OA-001>>,<<Tokelau>>,<<TL>>,<<TK>>,<<TKL>>,<<TKL>>,<<TKL
+OA-001>>,<<Tonga>>,<<TN>>,<<TO>>,<<TON>>,<<TON>>,<<TON
+AM-001>>,<<Trinidad and Tobago>>,<<TD>>,<<TT>>,<<TTO>>,<<TTO>>,<<TTO
+AF-001>>,<<Tunisia>>,<<TS>>,<<TN>>,<<TUN>>,<<TUN>>,<<TUN
+AF-001>>,<<Turkey>>,<<TU>>,<<TR>>,<<TUR>>,<<TUR>>,<<TUR
+AS-001>>,<<Turkmenistan>>,<<TX>>,<<TM>>,<<TKM>>,<<TKM>>,<<TKM
+AM-001>>,<<Turks and Caicos Islands>>,<<TK>>,<<TC>>,<<TCA>>,<<TCA>>,<<TCA
+OA-001>>,<<Tuvalu>>,<<TV>>,<<TV>>,<<TUV>>,<<TUV>>,<<TUV
+AF-001>>,<<Uganda>>,<<UG>>,<<UG>>,<<UGA>>,<<UGA>>,<<UGA
+EU-001>>,<<Ukraine>>,<<UP>>,<<UA>>,<<UKR>>,<<UKR>>,<<UKR
+AS-001>>,<<United Arab Emirates>>,<<TC>>,<<AE>>,<<UAE>>,<<UAE>>,<<UAE
+EU-001>>,<<United Kingdom>>,<<UK>>,<<GB>>,<<GBR>>,<<GBR>>,<<GBR
+AM-001>>,<<United States>>,<<US>>,<<US>>,<<USA>>,<<USA>>,<<USA
+AM-001>>,<<United States Virgin Islands>>,<<VQ>>,<<VI>>,<<VIR>>,<<VIR>>,<<VIR
+AM-001>>,<<Uruguay>>,<<UY>>,<<UY>>,<<URY>>,<<URY>>,<<URY
+AS-001>>,<<Uzbekistan>>,<<UZ>>,<<UZ>>,<<UZB>>,<<UZB>>,<<UZB
+OA-001>>,<<Vanuatu>>,<<NH>>,<<VU>>,<<VUT>>,<<VUT>>,<<VUT
+EU-001>>,<<Vatican City (Holy See)>>,<<VT>>,<<VA>>,<<VAT>>,<<VAT>>,<<VAT
+AM-001>>,<<Venezuela>>,<<VE>>,<<VE>>,<<VEN>>,<<VEN>>,<<VEN
+AS-001>>,<<Vietnam>>,<<VM>>,<<VN>>,<<VNM>>,<<VNM>>,<<VNM
+OA-001>>,<<Wallis and Futuna>>,<<WF>>,<<WF>>,<<WLF>>,<<WLF>>,<<WLF
+AF-001>>,<<Western Sahara>>,<<WI>>,<<EH>>,<<ESH>>,<<ESH>>,<<ESH
+AS-001>>,<<Yemen>>,<<YM>>,<<YE>>,<<YEM>>,<<YEM>>,<<YEM
+AF-001>>,<<Zambia>>,<<ZA>>,<<ZM>>,<<ZMB>>,<<ZMB>>,<<ZMB
+AF-001>>,<<Zimbabwe>>,<<ZI>>,<<ZW>>,<<ZWE>>,<<ZWE>>,<<ZWE

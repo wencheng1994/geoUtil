@@ -1,0 +1,3534 @@
+﻿CITY NAME>>,<<CHINESE NAME>>,<<CITY GMI
+Wuhu City>>,<<芜湖>>,<<CHN-ANH001
+Chaohu City>>,<<巢湖>>,<<CHN-ANH002
+Chuzhou City>>,<<滁州>>,<<CHN-ANH003
+Huaibei City>>,<<淮北>>,<<CHN-ANH004
+Suzhou City>>,<<宿州>>,<<CHN-ANH005
+Tongling City>>,<<铜陵>>,<<CHN-ANH006
+Ma'anshan City>>,<<马鞍山>>,<<CHN-ANH007
+Anqing City>>,<<安庆>>,<<CHN-ANH008
+Bengbu City>>,<<蚌埠>>,<<CHN-ANH009
+Lu'an City>>,<<六安>>,<<CHN-ANH010
+Bozhou City>>,<<亳州>>,<<CHN-ANH011
+Hefei City>>,<<合肥>>,<<CHN-ANH012
+Huangshan City>>,<<黄山>>,<<CHN-ANH014
+Xuancheng City>>,<<宣城>>,<<CHN-ANH015
+Huainan City>>,<<淮南>>,<<CHN-ANH016
+Chizhou City>>,<<池州>>,<<CHN-ANH017
+Fuyang City>>,<<阜阳>>,<<CHN-ANH018
+Beijing City>>,<<北京>>,<<CHN-BJN001
+Quanzhou City>>,<<泉州>>,<<CHN-FUJ001
+Sanming City>>,<<三明>>,<<CHN-FUJ002
+Ningde City>>,<<宁德>>,<<CHN-FUJ003
+Putian City>>,<<莆田>>,<<CHN-FUJ004
+Xiamen City>>,<<厦门>>,<<CHN-FUJ006
+Nanping City>>,<<南平>>,<<CHN-FUJ007
+Longyan City>>,<<龙岩>>,<<CHN-FUJ008
+Fuzhou City>>,<<福州>>,<<CHN-FUJ009
+Zhangzhou City>>,<<漳州>>,<<CHN-FUJ010
+Pingliang City>>,<<平凉>>,<<CHN-GAN001
+Wuwei City>>,<<武威>>,<<CHN-GAN002
+Lanzhou City>>,<<兰州>>,<<CHN-GAN003
+Linxia Hui Autonomous Prefecture>>,<<临夏回族自治州>>,<<CHN-GAN004
+Gannan Tibetan Autonomous Prefecture>>,<<甘南藏族自治州>>,<<CHN-GAN005
+Baiyin>>,<<白银>>,<<CHN-GAN006
+Zhangye City>>,<<张掖>>,<<CHN-GAN007
+Tianshui>>,<<天水>>,<<CHN-GAN008
+Dingxi City>>,<<定西>>,<<CHN-GAN009
+Jiuquan City>>,<<酒泉>>,<<CHN-GAN010
+Jiayuguan City>>,<<嘉峪关>>,<<CHN-GAN011
+Jinchang City>>,<<金昌>>,<<CHN-GAN012
+Qingyang City>>,<<庆阳>>,<<CHN-GAN013
+Longnan City>>,<<陇南>>,<<CHN-GAN014
+Zhaoqing City>>,<<肇庆>>,<<CHN-GND001
+Shanwei City>>,<<汕尾>>,<<CHN-GND002
+Jieyang City>>,<<揭阳>>,<<CHN-GND003
+Zhuhai City>>,<<珠海>>,<<CHN-GND004
+Qingyuan City>>,<<清远>>,<<CHN-GND005
+Dongguan City>>,<<东莞>>,<<CHN-GND006
+Huizhou City>>,<<惠州>>,<<CHN-GND007
+Shenzhen City>>,<<深圳>>,<<CHN-GND008
+Shaoguan City>>,<<韶关>>,<<CHN-GND009
+Meizhou City>>,<<梅州>>,<<CHN-GND010
+Guangzhou City>>,<<广州>>,<<CHN-GND011
+Chaozhou City>>,<<潮州>>,<<CHN-GND012
+Zhongshan City>>,<<中山>>,<<CHN-GND013
+Shantou City>>,<<汕头>>,<<CHN-GND014
+Yunfu City>>,<<云浮>>,<<CHN-GND015
+Yangjiang City>>,<<阳江>>,<<CHN-GND016
+Jiangmen City>>,<<江门>>,<<CHN-GND017
+Maoming City>>,<<茂名>>,<<CHN-GND018
+Zhanjiang City>>,<<湛江>>,<<CHN-GND019
+Foshan City>>,<<佛山>>,<<CHN-GND020
+Heyuan City>>,<<河源>>,<<CHN-GND021
+Yulin City>>,<<玉林>>,<<CHN-GNG001
+Qinzhou City>>,<<钦州>>,<<CHN-GNG002
+Fangchenggang City>>,<<防城港>>,<<CHN-GNG003
+Wuzhou City>>,<<梧州>>,<<CHN-GNG004
+Beihai City>>,<<北海>>,<<CHN-GNG005
+Hezhou City>>,<<贺州>>,<<CHN-GNG006
+Guigang City>>,<<贵港>>,<<CHN-GNG007
+Chongzuo City>>,<<崇左>>,<<CHN-GNG008
+Nanning City>>,<<南宁>>,<<CHN-GNG009
+Liuzhou City>>,<<柳州>>,<<CHN-GNG010
+Laibin City>>,<<来宾>>,<<CHN-GNG011
+Baise>>,<<百色>>,<<CHN-GNG012
+Hechi City>>,<<河池>>,<<CHN-GNG013
+Guilin City>>,<<桂林>>,<<CHN-GNG014
+Qiandongnan Miao Dong Nationality>>,<<黔东南苗族侗族>>,<<CHN-GUI001
+Anshun City>>,<<安顺>>,<<CHN-GUI002
+Tongren region>>,<<铜仁>>,<<CHN-GUI003
+Zunyi City>>,<<遵义>>,<<CHN-GUI004
+Buyi and Miao>>,<<黔西南布依族苗族>>,<<CHN-GUI005
+Guiyang City>>,<<贵阳>>,<<CHN-GUI006
+Qiannan Buyei and Miao>>,<<黔南布依族苗族>>,<<CHN-GUI007
+Wan Town of Liupanshui City>>,<<六盘水>>,<<CHN-GUI008
+Bijie region>>,<<毕节>>,<<CHN-GUI009
+Changjiang Li Autonomous County>>,<<昌江黎族自治县>>,<<CHN-HAI001
+Danzhou City>>,<<儋州>>,<<CHN-HAI002
+Wenchang City>>,<<文昌>>,<<CHN-HAI003
+Five Fingers Group City>>,<<五指山>>,<<CHN-HAI004
+Haikou City>>,<<海口>>,<<CHN-HAI005
+Baisha Li Autonomous County>>,<<白沙黎族自治县>>,<<CHN-HAI006
+Lingao County>>,<<临高县>>,<<CHN-HAI007
+Qiongzhong Li and Miao Autonomous County>>,<<琼中黎族苗族自治县>>,<<CHN-HAI008
+Chengmai County>>,<<澄迈县>>,<<CHN-HAI009
+The city of Sanya>>,<<三亚>>,<<CHN-HAI010
+Tunchang County>>,<<屯昌县>>,<<CHN-HAI011
+Oriental City>>,<<东方>>,<<CHN-HAI012
+Baoting Li and Miao Autonomous County>>,<<保亭黎族苗族自治县>>,<<CHN-HAI013
+Lingshui Li Autonomous County>>,<<陵水黎族自治县>>,<<CHN-HAI014
+Ledong Li Autonomous County>>,<<乐东黎族自治县>>,<<CHN-HAI015
+Wanning City>>,<<万宁>>,<<CHN-HAI016
+Ding'an County>>,<<定安县>>,<<CHN-HAI017
+Qionghai City>>,<<琼海>>,<<CHN-HAI018
+Sansha City>>,<<三沙>>,<<CHN-HAI019
+The nine-dash line>>,<<南海九段线>>,<<CHN-HAI020
+Langfang City>>,<<廊坊>>,<<CHN-HEB001
+Baoding City>>,<<保定>>,<<CHN-HEB002
+Hengshui City>>,<<衡水>>,<<CHN-HEB003
+Tangshan City>>,<<唐山>>,<<CHN-HEB004
+Zhangjiakou City>>,<<张家口>>,<<CHN-HEB005
+Qinhuangdao City>>,<<秦皇岛>>,<<CHN-HEB006
+Chengde City>>,<<承德>>,<<CHN-HEB007
+Handan City>>,<<邯郸>>,<<CHN-HEB008
+Xingtai City>>,<<邢台>>,<<CHN-HEB009
+Shijiazhuang City>>,<<石家庄>>,<<CHN-HEB010
+Cangzhou City>>,<<沧州>>,<<CHN-HEB011
+Sanmenxia City>>,<<三门峡>>,<<CHN-HEN001
+Anyang City>>,<<安阳>>,<<CHN-HEN002
+Shangqiu City>>,<<商丘>>,<<CHN-HEN003
+Puyang City>>,<<濮阳>>,<<CHN-HEN005
+Zhumadian City>>,<<驻马店>>,<<CHN-HEN006
+Nanyang City>>,<<南阳>>,<<CHN-HEN007
+Xinxiang City>>,<<新乡>>,<<CHN-HEN008
+Pingdingshan City>>,<<平顶山>>,<<CHN-HEN009
+Zhoukou City>>,<<周口>>,<<CHN-HEN010
+Kaifeng City>>,<<开封>>,<<CHN-HEN011
+Hebi City>>,<<鹤壁>>,<<CHN-HEN012
+Xinyang City>>,<<信阳>>,<<CHN-HEN013
+Luoyang City>>,<<洛阳>>,<<CHN-HEN014
+Jiaozuo City>>,<<焦作>>,<<CHN-HEN015
+Luohe City>>,<<漯河>>,<<CHN-HEN016
+Xuchang City>>,<<许昌>>,<<CHN-HEN017
+Zhengzhou City>>,<<郑州>>,<<CHN-HEN018
+Jiyuan City>>,<<济源>>,<<CHN-HEN019
+Qitaihe City>>,<<七台河>>,<<CHN-HLN001
+Daqing City>>,<<大庆>>,<<CHN-HLN002
+Heihe City>>,<<黑河>>,<<CHN-HLN003
+Yichun City>>,<<伊春>>,<<CHN-HLN004
+Harbin City>>,<<哈尔滨>>,<<CHN-HLN005
+Hegang City>>,<<鹤岗>>,<<CHN-HLN006
+Jixi City>>,<<鸡西>>,<<CHN-HLN007
+Qigihar City>>,<<齐齐哈尔>>,<<CHN-HLN008
+Suihua City>>,<<绥化>>,<<CHN-HLN009
+Greater Khingan Range region>>,<<大兴安岭>>,<<CHN-HLN010
+Shuangyashan City>>,<<双鸭山>>,<<CHN-HLN011
+Jiamusi City>>,<<佳木斯>>,<<CHN-HLN012
+Mudanjiang City>>,<<牡丹江>>,<<CHN-HLN013
+Shennongjia>>,<<神农架>>,<<CHN-HUB000
+Xiaogan City>>,<<孝感>>,<<CHN-HUB001
+Wuhan City>>,<<武汉>>,<<CHN-HUB002
+Xiantao>>,<<仙桃>>,<<CHN-HUB003
+Jingzhou City>>,<<荆州>>,<<CHN-HUB004
+Jingmen City>>,<<荆门>>,<<CHN-HUB005
+Tianmen>>,<<天门>>,<<CHN-HUB006
+Enshi Tujia and Miao Autonomous Prefecture>>,<<恩施土家族苗族自治州>>,<<CHN-HUB007
+Xiangyang City>>,<<襄阳>>,<<CHN-HUB008
+Huanggang City>>,<<黄冈>>,<<CHN-HUB009
+Ezhou City>>,<<鄂州>>,<<CHN-HUB010
+Shiyan City>>,<<十堰>>,<<CHN-HUB011
+Yichang City>>,<<宜昌>>,<<CHN-HUB012
+Xianning City>>,<<咸宁>>,<<CHN-HUB013
+Suizhou City>>,<<随州>>,<<CHN-HUB014
+Huangshi City>>,<<黄石>>,<<CHN-HUB015
+Qianjiang City>>,<<潜江>>,<<CHN-HUB016
+Yueyang City>>,<<岳阳>>,<<CHN-HUN001
+Hengyang City>>,<<衡阳>>,<<CHN-HUN002
+Huaihua City>>,<<怀化>>,<<CHN-HUN003
+Xiangtan City>>,<<湘潭>>,<<CHN-HUN004
+Zhuzhou City>>,<<株洲>>,<<CHN-HUN005
+Shaoyang City>>,<<邵阳>>,<<CHN-HUN006
+Chenzhou City>>,<<郴州>>,<<CHN-HUN007
+Loudi City>>,<<娄底>>,<<CHN-HUN008
+Xiangxi Tujia and Miao Autonomous Prefecture>>,<<湘西土家族苗族自治州>>,<<CHN-HUN009
+Zhangjiajie City>>,<<张家界>>,<<CHN-HUN010
+Yongzhou City>>,<<永州>>,<<CHN-HUN011
+Yiyang City>>,<<益阳>>,<<CHN-HUN012
+Changde City>>,<<常德>>,<<CHN-HUN013
+Changsha City>>,<<长沙>>,<<CHN-HUN014
+Tonghua City>>,<<通化>>,<<CHN-JIL001
+Siping City>>,<<四平>>,<<CHN-JIL002
+Changchun City>>,<<长春>>,<<CHN-JIL003
+Baishan City>>,<<白山>>,<<CHN-JIL004
+Liaoyuan City>>,<<辽源>>,<<CHN-JIL005
+Yanbian Korean Autonomous Prefecture>>,<<延边朝鲜族自治州>>,<<CHN-JIL006
+Songyuan City>>,<<松原>>,<<CHN-JIL007
+Baicheng City>>,<<白城>>,<<CHN-JIL008
+Jilin City>>,<<吉林>>,<<CHN-JIL009
+Ganzhou City>>,<<赣州>>,<<CHN-JNG001
+Nanchang City>>,<<南昌>>,<<CHN-JNG002
+Yingtan City>>,<<鹰潭>>,<<CHN-JNG003
+Pingxiang City>>,<<萍乡>>,<<CHN-JNG004
+Xinyu City>>,<<新余>>,<<CHN-JNG005
+Shangrao City>>,<<上饶>>,<<CHN-JNG006
+Ji'an City>>,<<吉安>>,<<CHN-JNG007
+Jiujiang>>,<<九江>>,<<CHN-JNG008
+Yichun City>>,<<宜春>>,<<CHN-JNG009
+Jingdezhen City>>,<<景德镇>>,<<CHN-JNG010
+Fuzhou City>>,<<抚州>>,<<CHN-JNG011
+Wuxi City>>,<<无锡>>,<<CHN-JNS001
+Xuzhou City>>,<<徐州>>,<<CHN-JNS002
+Taizhou City>>,<<泰州>>,<<CHN-JNS003
+Yangzhou City>>,<<扬州>>,<<CHN-JNS004
+Nantong City>>,<<南通>>,<<CHN-JNS005
+Lianyungang City>>,<<连云港>>,<<CHN-JNS006
+Huaian City>>,<<淮安>>,<<CHN-JNS007
+Zhenjiang City>>,<<镇江>>,<<CHN-JNS008
+Suqian City>>,<<宿迁>>,<<CHN-JNS009
+Changzhou City>>,<<常州>>,<<CHN-JNS010
+Yancheng City>>,<<盐城>>,<<CHN-JNS011
+Nanjing City>>,<<南京>>,<<CHN-JNS012
+Suzhou City>>,<<苏州>>,<<CHN-JNS013
+Anshan City>>,<<鞍山>>,<<CHN-LNN001
+Liaoyang City>>,<<辽阳>>,<<CHN-LNN002
+Jinzhou City>>,<<锦州>>,<<CHN-LNN003
+Tieling City>>,<<铁岭>>,<<CHN-LNN004
+Huludao City>>,<<葫芦岛>>,<<CHN-LNN005
+Dandong City>>,<<丹东>>,<<CHN-LNN006
+Benxi City>>,<<本溪>>,<<CHN-LNN007
+Yingkou City>>,<<营口>>,<<CHN-LNN008
+Panjin City>>,<<盘锦>>,<<CHN-LNN009
+Fushun City>>,<<抚顺>>,<<CHN-LNN010
+Chaoyang City>>,<<朝阳>>,<<CHN-LNN011
+Dalian City>>,<<大连>>,<<CHN-LNN012
+Shenyang City>>,<<沈阳>>,<<CHN-LNN013
+Fuxin City>>,<<阜新>>,<<CHN-LNN014
+Chifeng City>>,<<赤峰>>,<<CHN-NMN001
+Bayannaoer City>>,<<巴彦淖尔>>,<<CHN-NMN002
+Hohhot City>>,<<呼和浩特>>,<<CHN-NMN003
+Xilinguole Meng>>,<<锡林郭勒盟>>,<<CHN-NMN004
+Wulanchabu City>>,<<乌兰察布>>,<<CHN-NMN005
+Alashan>>,<<阿拉善盟>>,<<CHN-NMN006
+Baotou City>>,<<包头>>,<<CHN-NMN007
+Ordos City>>,<<鄂尔多斯>>,<<CHN-NMN008
+Wuhai City>>,<<乌海>>,<<CHN-NMN009
+Hulun Buir City>>,<<呼伦贝尔>>,<<CHN-NMN010
+Xingan Meng>>,<<兴安盟>>,<<CHN-NMN011
+Tongliao City>>,<<通辽>>,<<CHN-NMN012
+Zhongwei City>>,<<中卫>>,<<CHN-NNG001
+Shizuishan City>>,<<石嘴山>>,<<CHN-NNG002
+Guyuan City>>,<<固原>>,<<CHN-NNG003
+Wu Zhongshi>>,<<吴忠>>,<<CHN-NNG004
+Yinchuan City>>,<<银川>>,<<CHN-NNG005
+Hainan Tibetan Autonomous Prefecture>>,<<海南藏族自治州>>,<<CHN-QNG001
+Haixi Mongolia Tibetan Autonomous Prefecture>>,<<海西蒙古族藏族自治州>>,<<CHN-QNG002
+Xining City>>,<<西宁>>,<<CHN-QNG003
+Huangnan Tibetan Autonomous Prefecture>>,<<黄南藏族自治州>>,<<CHN-QNG004
+Haibei Tibetan Autonomous Prefecture>>,<<海北藏族自治州>>,<<CHN-QNG005
+Golog Tibetan Autonomous Prefecture>>,<<果洛藏族自治州>>,<<CHN-QNG006
+Haidong Prefecture>>,<<海东>>,<<CHN-QNG007
+Yushu Tibetan Autonomous Prefecture>>,<<玉树藏族自治州>>,<<CHN-QNG008
+Luzhou City>>,<<泸州>>,<<CHN-SCH002
+Panzhihua City>>,<<攀枝花>>,<<CHN-SCH003
+Neijiang City>>,<<内江>>,<<CHN-SCH004
+Aba Tibetan and Qiang Autonomous Prefecture>>,<<阿坝藏族羌族自治州>>,<<CHN-SCH005
+Zigong City>>,<<自贡>>,<<CHN-SCH006
+Ziyang City>>,<<资阳>>,<<CHN-SCH007
+Deyang City>>,<<德阳>>,<<CHN-SCH008
+Liangshan Yi Autonomous Prefecture>>,<<凉山彝族自治州>>,<<CHN-SCH009
+Yibin City>>,<<宜宾>>,<<CHN-SCH010
+Mianyang City>>,<<绵阳>>,<<CHN-SCH011
+Ganzi Tibetan Autonomous Prefecture>>,<<甘孜藏族自治州>>,<<CHN-SCH012
+Suining City>>,<<遂宁>>,<<CHN-SCH013
+Bazhong City>>,<<巴中>>,<<CHN-SCH014
+Ya'an City>>,<<雅安>>,<<CHN-SCH015
+Nanchong City>>,<<南充>>,<<CHN-SCH016
+Guang'an City>>,<<广安>>,<<CHN-SCH017
+Guangyuan City>>,<<广元>>,<<CHN-SCH018
+Meishan City>>,<<眉山>>,<<CHN-SCH019
+Chengdu City>>,<<成都>>,<<CHN-SCH020
+Leshan City>>,<<乐山>>,<<CHN-SCH021
+Dazhou City>>,<<达州>>,<<CHN-SCH022
+Xianyang City>>,<<咸阳>>,<<CHN-SHA001
+Hanzhoung City>>,<<汉中>>,<<CHN-SHA002
+Xi'an City>>,<<西安>>,<<CHN-SHA003
+Weinan City>>,<<渭南>>,<<CHN-SHA004
+Baoji City>>,<<宝鸡>>,<<CHN-SHA005
+Yanan City>>,<<延安>>,<<CHN-SHA006
+Shangluo City>>,<<商洛>>,<<CHN-SHA007
+Ankang City>>,<<安康>>,<<CHN-SHA008
+Tongchuan City>>,<<铜川>>,<<CHN-SHA009
+Yulin City>>,<<榆林>>,<<CHN-SHA010
+Yangling Demonstration Zone>>,<<杨凌示范区>>,<<CHN-SHA011
+Yantai City>>,<<烟台>>,<<CHN-SHD001
+Zaozhuang City>>,<<枣庄>>,<<CHN-SHD002
+Zibo City>>,<<淄博>>,<<CHN-SHD003
+Jining City>>,<<济宁>>,<<CHN-SHD004
+Weihai City>>,<<威海>>,<<CHN-SHD005
+Binzhou City>>,<<滨州>>,<<CHN-SHD006
+Liaocheng City>>,<<聊城>>,<<CHN-SHD007
+Weifang City>>,<<潍坊>>,<<CHN-SHD008
+Dezhou City>>,<<德州>>,<<CHN-SHD009
+Qingdao City>>,<<青岛>>,<<CHN-SHD010
+Ji'nan City>>,<<济南>>,<<CHN-SHD011
+Dongying City>>,<<东营>>,<<CHN-SHD012
+Tai'an City>>,<<泰安>>,<<CHN-SHD013
+Linyi City>>,<<临沂>>,<<CHN-SHD014
+Laiwu City>>,<<莱芜>>,<<CHN-SHD015
+Rizhao City>>,<<日照>>,<<CHN-SHD016
+Heze City>>,<<菏泽>>,<<CHN-SHD017
+Shanghai City>>,<<上海>>,<<CHN-SHN001
+Lvliang City>>,<<吕梁>>,<<CHN-SHX001
+Jincheng City>>,<<晋城>>,<<CHN-SHX002
+Yangquan City>>,<<阳泉>>,<<CHN-SHX003
+Jinzhong City>>,<<晋中>>,<<CHN-SHX004
+Changzhi City>>,<<长治>>,<<CHN-SHX005
+Datong>>,<<大同>>,<<CHN-SHX006
+Shuozhou City>>,<<朔州>>,<<CHN-SHX007
+Taiyuan City>>,<<太原>>,<<CHN-SHX008
+Linfen City>>,<<临汾>>,<<CHN-SHX009
+Xinzhou City>>,<<忻州>>,<<CHN-SHX010
+Yuncheng City>>,<<运城>>,<<CHN-SHX011
+Tianjin City>>,<<天津>>,<<CHN-TNJ001
+Akesu region>>,<<阿克苏地区>>,<<CHN-XNJ001
+Kirgiz Autonomous>>,<<克孜勒苏柯尔克孜自治州>>,<<CHN-XNJ002
+Kashi region>>,<<喀什地区>>,<<CHN-XNJ003
+Hami City>>,<<哈密>>,<<CHN-XNJ004
+Wujiaqu City>>,<<五家渠>>,<<CHN-XNJ005
+Shihezi City>>,<<石河子>>,<<CHN-XNJ006
+Mongolia Autonomous Prefecture of Bayinguoleng>>,<<巴音郭楞蒙古自治州>>,<<CHN-XNJ007
+Alar City>>,<<阿拉尔>>,<<CHN-XNJ008
+Tumushuke City>>,<<图木舒克>>,<<CHN-XNJ009
+Aletai region>>,<<阿勒泰地区>>,<<CHN-XNJ010
+Changji Hui Autonomous Prefecture>>,<<昌吉回族自治州>>,<<CHN-XNJ011
+Urumqi City>>,<<乌鲁木齐>>,<<CHN-XNJ012
+And Tian>>,<<和田地区>>,<<CHN-XNJ013
+Tacheng region>>,<<塔城地区>>,<<CHN-XNJ014
+Yili Kazak Autonomous Prefecture>>,<<伊犁哈萨克自治州(直辖地区)>>,<<CHN-XNJ015
+Turpan City>>,<<吐鲁番>>,<<CHN-XNJ016
+Mongolia Autonomous Prefecture of Bortala>>,<<博尔塔拉蒙古自治州>>,<<CHN-XNJ017
+Karamay City>>,<<克拉玛依>>,<<CHN-XNJ018
+Ali Region>>,<<阿里>>,<<CHN-XZN001
+Shannan>>,<<山南>>,<<CHN-XZN002
+Linzhi region>>,<<林芝>>,<<CHN-XZN003
+Changdu region>>,<<昌都>>,<<CHN-XZN004
+Naqu>>,<<那曲>>,<<CHN-XZN005
+Shigatse region>>,<<日喀则>>,<<CHN-XZN006
+Lhasa City>>,<<拉萨>>,<<CHN-XZN007
+Lincang>>,<<临沧>>,<<CHN-YNN001
+Xishuangbanna>>,<<西双版纳>>,<<CHN-YNN002
+Zhaotong City>>,<<昭通>>,<<CHN-YNN003
+Nujiang>>,<<怒江傈僳族自治州>>,<<CHN-YNN004
+Yuxi City>>,<<玉溪>>,<<CHN-YNN005
+Kunming City>>,<<昆明>>,<<CHN-YNN006
+Pu'er City>>,<<普洱>>,<<CHN-YNN007
+Baoshan City>>,<<保山>>,<<CHN-YNN008
+Qujing City>>,<<曲靖>>,<<CHN-YNN009
+Chuxiong City>>,<<楚雄>>,<<CHN-YNN010
+Honghe Prefecture>>,<<红河哈尼族彝族自治州>>,<<CHN-YNN011
+Di Qingzhou>>,<<迪庆藏族自治州>>,<<CHN-YNN012
+Wen Shanzhou>>,<<文山壮族苗族自治州>>,<<CHN-YNN013
+Lijiang City>>,<<丽江>>,<<CHN-YNN014
+Dali City>>,<<大理>>,<<CHN-YNN015
+De Hongzhou>>,<<德宏傣族景颇族自治州>>,<<CHN-YNN016
+Jiaxing City>>,<<嘉兴>>,<<CHN-ZHJ001
+Taizhou City>>,<<台州>>,<<CHN-ZHJ002
+Jinhua City>>,<<金华>>,<<CHN-ZHJ003
+Wenzhou City>>,<<温州>>,<<CHN-ZHJ004
+Huzhou City>>,<<湖州>>,<<CHN-ZHJ005
+Shaoxing City>>,<<绍兴>>,<<CHN-ZHJ006
+Zhoushan City>>,<<舟山>>,<<CHN-ZHJ007
+Quzhou City>>,<<衢州>>,<<CHN-ZHJ008
+Ningbo City>>,<<宁波>>,<<CHN-ZHJ009
+Lishui City>>,<<丽水>>,<<CHN-ZHJ010
+Hangzhou City>>,<<杭州>>,<<CHN-ZHJ011
+Chongqing>>,<<重庆>>,<<CHN-CHQ001
+Keelung City>>,<<基隆市>>,<<CHN-TWN001
+Yilan County>>,<<宜兰县>>,<<CHN-TWN002
+Changhua County>>,<<彰化县>>,<<CHN-TWN003
+Nantou County>>,<<南投县>>,<<CHN-TWN004
+Tainan City>>,<<台南市>>,<<CHN-TWN005
+Kaohsiung City>>,<<高雄市>>,<<CHN-TWN006
+Taichung City>>,<<台中市>>,<<CHN-TWN007
+Taoyuan City>>,<<桃园市>>,<<CHN-TWN008
+Miaoli County>>,<<苗栗县>>,<<CHN-TWN009
+Hsinchu County>>,<<新竹县>>,<<CHN-TWN010
+Taitung County>>,<<台东县>>,<<CHN-TWN011
+Taipei City>>,<<台北市>>,<<CHN-TWN012
+New Taipei City>>,<<新北市>>,<<CHN-TWN013
+Hsinchu City>>,<<新竹市>>,<<CHN-TWN014
+Pingtung County>>,<<屏东县>>,<<CHN-TWN015
+Yulin County>>,<<云林县>>,<<CHN-TWN016
+Penghu County>>,<<澎湖县>>,<<CHN-TWN017
+Kinmen County>>,<<金门县>>,<<CHN-TWN018
+Chiayi County>>,<<嘉义县>>,<<CHN-TWN019
+Hualien County>>,<<花莲县>>,<<CHN-TWN020
+Lienkiang County>>,<<连江县>>,<<CHN-TWN021
+Chiayi City>>,<<嘉义市>>,<<CHN-TWN022
+Diaoyu Island>>,<<钓鱼岛>>,<<CHN-TWN023
+HongKong>>,<<香港>>,<<CHN-HKG001
+Macau>>,<<澳门>>,<<CHN-MAC001
+Polk>>,<<Polk>>,<<USA-TEX373
+Bradley>>,<<Bradley>>,<<USA-ARK011
+Emanuel>>,<<Emanuel>>,<<USA-GEO107
+Pecos>>,<<Pecos>>,<<USA-TEX371
+Evans>>,<<Evans>>,<<USA-GEO109
+Carroll>>,<<Carroll>>,<<USA-ARK015
+Presidio>>,<<Presidio>>,<<USA-TEX377
+East Baton Rouge>>,<<East Baton Rouge>>,<<USA-LOU033
+Effingham>>,<<Effingham>>,<<USA-GEO103
+Calhoun>>,<<Calhoun>>,<<USA-ARK013
+Potter>>,<<Potter>>,<<USA-TEX375
+Elbert>>,<<Elbert>>,<<USA-GEO105
+De Soto>>,<<De Soto>>,<<USA-LOU031
+Clark>>,<<Clark>>,<<USA-ARK019
+East Feliciana>>,<<East Feliciana>>,<<USA-LOU037
+Rains>>,<<Rains>>,<<USA-TEX379
+Chicot>>,<<Chicot>>,<<USA-ARK017
+East Carroll>>,<<East Carroll>>,<<USA-LOU035
+Echols>>,<<Echols>>,<<USA-GEO101
+Evangeline>>,<<Evangeline>>,<<USA-LOU039
+Randall>>,<<Randall>>,<<USA-TEX381
+Franklin>>,<<Franklin>>,<<USA-GEO119
+Reagan>>,<<Reagan>>,<<USA-TEX383
+Forsyth>>,<<Forsyth>>,<<USA-GEO117
+Arkansas>>,<<Arkansas>>,<<USA-ARK001
+Real>>,<<Real>>,<<USA-TEX385
+Franklin>>,<<Franklin>>,<<USA-LOU041
+Floyd>>,<<Floyd>>,<<USA-GEO115
+Ashley>>,<<Ashley>>,<<USA-ARK003
+Red River>>,<<Red River>>,<<USA-TEX387
+Grant>>,<<Grant>>,<<USA-LOU043
+Fayette>>,<<Fayette>>,<<USA-GEO113
+Reeves>>,<<Reeves>>,<<USA-TEX389
+Baxter>>,<<Baxter>>,<<USA-ARK005
+Fannin>>,<<Fannin>>,<<USA-GEO111
+Iberia>>,<<Iberia>>,<<USA-LOU045
+Benton>>,<<Benton>>,<<USA-ARK007
+Iberville>>,<<Iberville>>,<<USA-LOU047
+Boone>>,<<Boone>>,<<USA-ARK009
+Jackson>>,<<Jackson>>,<<USA-LOU049
+Refugio>>,<<Refugio>>,<<USA-TEX391
+Nueces>>,<<Nueces>>,<<USA-TEX355
+Cross>>,<<Cross>>,<<USA-ARK037
+Glascock>>,<<Glascock>>,<<USA-GEO125
+Beauregard>>,<<Beauregard>>,<<USA-LOU011
+Nolan>>,<<Nolan>>,<<USA-TEX353
+Crittenden>>,<<Crittenden>>,<<USA-ARK035
+Glynn>>,<<Glynn>>,<<USA-GEO127
+Crawford>>,<<Crawford>>,<<USA-ARK033
+Newton>>,<<Newton>>,<<USA-TEX351
+Gordon>>,<<Gordon>>,<<USA-GEO129
+Craighead>>,<<Craighead>>,<<USA-ARK031
+Calcasieu>>,<<Calcasieu>>,<<USA-LOU019
+Caddo>>,<<Caddo>>,<<USA-LOU017
+Oldham>>,<<Oldham>>,<<USA-TEX359
+Bossier>>,<<Bossier>>,<<USA-LOU015
+Fulton>>,<<Fulton>>,<<USA-GEO121
+Dallas>>,<<Dallas>>,<<USA-ARK039
+Ochiltree>>,<<Ochiltree>>,<<USA-TEX357
+Bienville>>,<<Bienville>>,<<USA-LOU013
+Gilmer>>,<<Gilmer>>,<<USA-GEO123
+Windham>>,<<Windham>>,<<USA-CNN015
+Tolland>>,<<Tolland>>,<<USA-CNN013
+Desha>>,<<Desha>>,<<USA-ARK041
+Habersham>>,<<Habersham>>,<<USA-GEO137
+Cleveland>>,<<Cleveland>>,<<USA-ARK025
+Panola>>,<<Panola>>,<<USA-TEX365
+Caldwell>>,<<Caldwell>>,<<USA-LOU021
+Gwinnett>>,<<Gwinnett>>,<<USA-GEO135
+Columbia>>,<<Columbia>>,<<USA-ARK027
+Parker>>,<<Parker>>,<<USA-TEX367
+Clay>>,<<Clay>>,<<USA-ARK021
+Orange>>,<<Orange>>,<<USA-TEX361
+Hall>>,<<Hall>>,<<USA-GEO139
+Cleburne>>,<<Cleburne>>,<<USA-ARK023
+Palo Pinto>>,<<Palo Pinto>>,<<USA-TEX363
+Claiborne>>,<<Claiborne>>,<<USA-LOU027
+Concordia>>,<<Concordia>>,<<USA-LOU029
+Cameron>>,<<Cameron>>,<<USA-LOU023
+Greene>>,<<Greene>>,<<USA-GEO133
+Conway>>,<<Conway>>,<<USA-ARK029
+Parmer>>,<<Parmer>>,<<USA-TEX369
+Grady>>,<<Grady>>,<<USA-GEO131
+Catahoula>>,<<Catahoula>>,<<USA-LOU025
+New London>>,<<New London>>,<<USA-CNN011
+Hartford>>,<<Hartford>>,<<USA-CNN003
+Litchfield>>,<<Litchfield>>,<<USA-CNN005
+Middlesex>>,<<Middlesex>>,<<USA-CNN007
+New Haven>>,<<New Haven>>,<<USA-CNN009
+Haralson>>,<<Haralson>>,<<USA-GEO143
+Montague>>,<<Montague>>,<<USA-TEX337
+Harris>>,<<Harris>>,<<USA-GEO145
+Mitchell>>,<<Mitchell>>,<<USA-TEX335
+Hancock>>,<<Hancock>>,<<USA-GEO141
+Montgomery>>,<<Montgomery>>,<<USA-TEX339
+Hart>>,<<Hart>>,<<USA-GEO147
+Mills>>,<<Mills>>,<<USA-TEX333
+Heard>>,<<Heard>>,<<USA-GEO149
+Milam>>,<<Milam>>,<<USA-TEX331
+Nacogdoches>>,<<Nacogdoches>>,<<USA-TEX347
+Irwin>>,<<Irwin>>,<<USA-GEO155
+Acadia>>,<<Acadia>>,<<USA-LOU001
+Navarro>>,<<Navarro>>,<<USA-TEX349
+Houston>>,<<Houston>>,<<USA-GEO153
+Allen>>,<<Allen>>,<<USA-LOU003
+Ascension>>,<<Ascension>>,<<USA-LOU005
+Henry>>,<<Henry>>,<<USA-GEO151
+Assumption>>,<<Assumption>>,<<USA-LOU007
+Moore>>,<<Moore>>,<<USA-TEX341
+Morris>>,<<Morris>>,<<USA-TEX343
+Jasper>>,<<Jasper>>,<<USA-GEO159
+Motley>>,<<Motley>>,<<USA-TEX345
+Jackson>>,<<Jackson>>,<<USA-GEO157
+Avoyelles>>,<<Avoyelles>>,<<USA-LOU009
+Jeff Davis>>,<<Jeff Davis>>,<<USA-GEO161
+Mason>>,<<Mason>>,<<USA-TEX319
+Jefferson>>,<<Jefferson>>,<<USA-GEO163
+Martin>>,<<Martin>>,<<USA-TEX317
+Jenkins>>,<<Jenkins>>,<<USA-GEO165
+Marion>>,<<Marion>>,<<USA-TEX315
+Johnson>>,<<Johnson>>,<<USA-GEO167
+Madison>>,<<Madison>>,<<USA-TEX313
+Jones>>,<<Jones>>,<<USA-GEO169
+McMullen>>,<<McMullen>>,<<USA-TEX311
+Midland>>,<<Midland>>,<<USA-TEX329
+Lanier>>,<<Lanier>>,<<USA-GEO173
+Lamar>>,<<Lamar>>,<<USA-GEO171
+Medina>>,<<Medina>>,<<USA-TEX325
+Lee>>,<<Lee>>,<<USA-GEO177
+Menard>>,<<Menard>>,<<USA-TEX327
+Laurens>>,<<Laurens>>,<<USA-GEO175
+Matagorda>>,<<Matagorda>>,<<USA-TEX321
+Maverick>>,<<Maverick>>,<<USA-TEX323
+Liberty>>,<<Liberty>>,<<USA-GEO179
+Lincoln>>,<<Lincoln>>,<<USA-GEO181
+Montgomery>>,<<Montgomery>>,<<USA-ARK097
+Nevada>>,<<Nevada>>,<<USA-ARK099
+Miller>>,<<Miller>>,<<USA-ARK091
+Monroe>>,<<Monroe>>,<<USA-ARK095
+Mississippi>>,<<Mississippi>>,<<USA-ARK093
+Marion>>,<<Marion>>,<<USA-ARK089
+Madison>>,<<Madison>>,<<USA-ARK087
+Loving>>,<<Loving>>,<<USA-TEX301
+Lynn>>,<<Lynn>>,<<USA-TEX305
+Lubbock>>,<<Lubbock>>,<<USA-TEX303
+McLennan>>,<<McLennan>>,<<USA-TEX309
+McCulloch>>,<<McCulloch>>,<<USA-TEX307
+St. Landry>>,<<St. Landry>>,<<USA-LOU097
+St. Martin>>,<<St. Martin>>,<<USA-LOU099
+St. James>>,<<St. James>>,<<USA-LOU093
+St. John the Baptist>>,<<St. John the Baptist>>,<<USA-LOU095
+Howard>>,<<Howard>>,<<USA-ARK061
+Independence>>,<<Independence>>,<<USA-ARK063
+Rapides>>,<<Rapides>>,<<USA-LOU079
+Tuolumne>>,<<Tuolumne>>,<<USA-CAL109
+Tulare>>,<<Tulare>>,<<USA-CAL107
+Orleans>>,<<Orleans>>,<<USA-LOU071
+Sutter>>,<<Sutter>>,<<USA-CAL101
+Grant>>,<<Grant>>,<<USA-ARK053
+Ouachita>>,<<Ouachita>>,<<USA-LOU073
+Greene>>,<<Greene>>,<<USA-ARK055
+Plaquemines>>,<<Plaquemines>>,<<USA-LOU075
+Hempstead>>,<<Hempstead>>,<<USA-ARK057
+Trinity>>,<<Trinity>>,<<USA-CAL105
+Pointe Coupee>>,<<Pointe Coupee>>,<<USA-LOU077
+Tehama>>,<<Tehama>>,<<USA-CAL103
+Hot Spring>>,<<Hot Spring>>,<<USA-ARK059
+Garland>>,<<Garland>>,<<USA-ARK051
+St. Helena>>,<<St. Helena>>,<<USA-LOU091
+St. Charles>>,<<St. Charles>>,<<USA-LOU089
+Faulkner>>,<<Faulkner>>,<<USA-ARK045
+Richland>>,<<Richland>>,<<USA-LOU083
+Drew>>,<<Drew>>,<<USA-ARK043
+Red River>>,<<Red River>>,<<USA-LOU081
+Fulton>>,<<Fulton>>,<<USA-ARK049
+St. Bernard>>,<<St. Bernard>>,<<USA-LOU087
+Franklin>>,<<Franklin>>,<<USA-ARK047
+Sabine>>,<<Sabine>>,<<USA-LOU085
+Logan>>,<<Logan>>,<<USA-ARK083
+Lonoke>>,<<Lonoke>>,<<USA-ARK085
+Little River>>,<<Little River>>,<<USA-ARK081
+Lafourche>>,<<Lafourche>>,<<USA-LOU057
+LaSalle>>,<<LaSalle>>,<<USA-LOU059
+Jefferson Davis>>,<<Jefferson Davis>>,<<USA-LOU053
+Lincoln>>,<<Lincoln>>,<<USA-ARK079
+Lafayette>>,<<Lafayette>>,<<USA-LOU055
+Lawrence>>,<<Lawrence>>,<<USA-ARK075
+Jefferson>>,<<Jefferson>>,<<USA-LOU051
+Lee>>,<<Lee>>,<<USA-ARK077
+Lafayette>>,<<Lafayette>>,<<USA-ARK073
+Johnson>>,<<Johnson>>,<<USA-ARK071
+Natchitoches>>,<<Natchitoches>>,<<USA-LOU069
+Morehouse>>,<<Morehouse>>,<<USA-LOU067
+Yolo>>,<<Yolo>>,<<USA-CAL113
+Madison>>,<<Madison>>,<<USA-LOU065
+Jefferson>>,<<Jefferson>>,<<USA-ARK069
+Yuba>>,<<Yuba>>,<<USA-CAL115
+Livingston>>,<<Livingston>>,<<USA-LOU063
+Jackson>>,<<Jackson>>,<<USA-ARK067
+Lincoln>>,<<Lincoln>>,<<USA-LOU061
+Ventura>>,<<Ventura>>,<<USA-CAL111
+Izard>>,<<Izard>>,<<USA-ARK065
+Norton>>,<<Norton>>,<<USA-VRG720
+Poquoson>>,<<Poquoson>>,<<USA-VRG735
+Winchester>>,<<Winchester>>,<<USA-VRG840
+Petersburg>>,<<Petersburg>>,<<USA-VRG730
+Yakima>>,<<Yakima>>,<<USA-WSH077
+Portsmouth>>,<<Portsmouth>>,<<USA-VRG740
+Walla Walla>>,<<Walla Walla>>,<<USA-WSH071
+Whatcom>>,<<Whatcom>>,<<USA-WSH073
+Whitman>>,<<Whitman>>,<<USA-WSH075
+Radford>>,<<Radford>>,<<USA-VRG750
+Thurston>>,<<Thurston>>,<<USA-WSH067
+Stevens>>,<<Stevens>>,<<USA-WSH065
+Wahkiakum>>,<<Wahkiakum>>,<<USA-WSH069
+Spokane>>,<<Spokane>>,<<USA-WSH063
+Snohomish>>,<<Snohomish>>,<<USA-WSH061
+Richmond>>,<<Richmond>>,<<USA-VRG760
+Salem>>,<<Salem>>,<<USA-VRG775
+Roanoke>>,<<Roanoke>>,<<USA-VRG770
+Staunton>>,<<Staunton>>,<<USA-VRG790
+Kent>>,<<Kent>>,<<USA-RHI003
+Bristol>>,<<Bristol>>,<<USA-RHI001
+Providence>>,<<Providence>>,<<USA-RHI007
+Newport>>,<<Newport>>,<<USA-RHI005
+Washington>>,<<Washington>>,<<USA-RHI009
+Stanislaus>>,<<Stanislaus>>,<<USA-CAL099
+Macon>>,<<Macon>>,<<USA-GEO193
+Madison>>,<<Madison>>,<<USA-GEO195
+Marion>>,<<Marion>>,<<USA-GEO197
+Meriwether>>,<<Meriwether>>,<<USA-GEO199
+Adams>>,<<Adams>>,<<USA-PEN001
+McIntosh>>,<<McIntosh>>,<<USA-GEO191
+Armstrong>>,<<Armstrong>>,<<USA-PEN005
+Allegheny>>,<<Allegheny>>,<<USA-PEN003
+Bedford>>,<<Bedford>>,<<USA-PEN009
+Lowndes>>,<<Lowndes>>,<<USA-GEO185
+Beaver>>,<<Beaver>>,<<USA-PEN007
+Long>>,<<Long>>,<<USA-GEO183
+McDuffie>>,<<McDuffie>>,<<USA-GEO189
+Lumpkin>>,<<Lumpkin>>,<<USA-GEO187
+Clarion>>,<<Clarion>>,<<USA-PEN031
+Clearfield>>,<<Clearfield>>,<<USA-PEN033
+Clinton>>,<<Clinton>>,<<USA-PEN035
+Columbia>>,<<Columbia>>,<<USA-PEN037
+Crawford>>,<<Crawford>>,<<USA-PEN039
+Virginia Beach>>,<<Virginia Beach>>,<<USA-VRG810
+Cumberland>>,<<Cumberland>>,<<USA-PEN041
+Delaware>>,<<Delaware>>,<<USA-PEN045
+Dauphin>>,<<Dauphin>>,<<USA-PEN043
+Erie>>,<<Erie>>,<<USA-PEN049
+Elk>>,<<Elk>>,<<USA-PEN047
+Suffolk>>,<<Suffolk>>,<<USA-VRG800
+Bradford>>,<<Bradford>>,<<USA-PEN015
+Bucks>>,<<Bucks>>,<<USA-PEN017
+Berks>>,<<Berks>>,<<USA-PEN011
+Blair>>,<<Blair>>,<<USA-PEN013
+Williamsburg>>,<<Williamsburg>>,<<USA-VRG830
+Butler>>,<<Butler>>,<<USA-PEN019
+Newport News>>,<<Newport News>>,<<USA-VRG700
+Centre>>,<<Centre>>,<<USA-PEN027
+Carbon>>,<<Carbon>>,<<USA-PEN025
+Cameron>>,<<Cameron>>,<<USA-PEN023
+Cambria>>,<<Cambria>>,<<USA-PEN021
+Waynesboro>>,<<Waynesboro>>,<<USA-VRG820
+Norfolk>>,<<Norfolk>>,<<USA-VRG710
+Chester>>,<<Chester>>,<<USA-PEN029
+Roberts>>,<<Roberts>>,<<USA-TEX393
+Robertson>>,<<Robertson>>,<<USA-TEX395
+Rockwall>>,<<Rockwall>>,<<USA-TEX397
+Runnels>>,<<Runnels>>,<<USA-TEX399
+Rabun>>,<<Rabun>>,<<USA-GEO241
+Jackson>>,<<Jackson>>,<<USA-TEX239
+Randolph>>,<<Randolph>>,<<USA-GEO243
+Jack>>,<<Jack>>,<<USA-TEX237
+Richmond>>,<<Richmond>>,<<USA-GEO245
+Merced>>,<<Merced>>,<<USA-CAL047
+Irion>>,<<Irion>>,<<USA-TEX235
+Rockdale>>,<<Rockdale>>,<<USA-GEO247
+Hutchinson>>,<<Hutchinson>>,<<USA-TEX233
+Modoc>>,<<Modoc>>,<<USA-CAL049
+Schley>>,<<Schley>>,<<USA-GEO249
+Mariposa>>,<<Mariposa>>,<<USA-CAL043
+Hunt>>,<<Hunt>>,<<USA-TEX231
+Mendocino>>,<<Mendocino>>,<<USA-CAL045
+Mono>>,<<Mono>>,<<USA-CAL051
+Monterey>>,<<Monterey>>,<<USA-CAL053
+Screven>>,<<Screven>>,<<USA-GEO251
+Jim Hogg>>,<<Jim Hogg>>,<<USA-TEX247
+Spalding>>,<<Spalding>>,<<USA-GEO255
+Jim Wells>>,<<Jim Wells>>,<<USA-TEX249
+Seminole>>,<<Seminole>>,<<USA-GEO253
+Madera>>,<<Madera>>,<<USA-CAL039
+Jeff Davis>>,<<Jeff Davis>>,<<USA-TEX243
+Stewart>>,<<Stewart>>,<<USA-GEO259
+Los Angeles>>,<<Los Angeles>>,<<USA-CAL037
+Jefferson>>,<<Jefferson>>,<<USA-TEX245
+Stephens>>,<<Stephens>>,<<USA-GEO257
+Lassen>>,<<Lassen>>,<<USA-CAL035
+Jasper>>,<<Jasper>>,<<USA-TEX241
+Lake>>,<<Lake>>,<<USA-CAL033
+Marin>>,<<Marin>>,<<USA-CAL041
+Kern>>,<<Kern>>,<<USA-CAL029
+Oglethorpe>>,<<Oglethorpe>>,<<USA-GEO221
+Kendall>>,<<Kendall>>,<<USA-TEX259
+Pickens>>,<<Pickens>>,<<USA-GEO227
+Glenn>>,<<Glenn>>,<<USA-CAL021
+Jones>>,<<Jones>>,<<USA-TEX253
+Pierce>>,<<Pierce>>,<<USA-GEO229
+Humboldt>>,<<Humboldt>>,<<USA-CAL023
+Johnson>>,<<Johnson>>,<<USA-TEX251
+Paulding>>,<<Paulding>>,<<USA-GEO223
+Imperial>>,<<Imperial>>,<<USA-CAL025
+Kaufman>>,<<Kaufman>>,<<USA-TEX257
+Peach>>,<<Peach>>,<<USA-GEO225
+Inyo>>,<<Inyo>>,<<USA-CAL027
+Karnes>>,<<Karnes>>,<<USA-TEX255
+Kings>>,<<Kings>>,<<USA-CAL031
+King>>,<<King>>,<<USA-TEX269
+Polk>>,<<Polk>>,<<USA-GEO233
+Fresno>>,<<Fresno>>,<<USA-CAL019
+Pike>>,<<Pike>>,<<USA-GEO231
+Kenedy>>,<<Kenedy>>,<<USA-TEX261
+Contra Costa>>,<<Contra Costa>>,<<USA-CAL013
+Kent>>,<<Kent>>,<<USA-TEX263
+Colusa>>,<<Colusa>>,<<USA-CAL011
+Quitman>>,<<Quitman>>,<<USA-GEO239
+El Dorado>>,<<El Dorado>>,<<USA-CAL017
+Kerr>>,<<Kerr>>,<<USA-TEX265
+Putnam>>,<<Putnam>>,<<USA-GEO237
+Kimble>>,<<Kimble>>,<<USA-TEX267
+Del Norte>>,<<Del Norte>>,<<USA-CAL015
+Pulaski>>,<<Pulaski>>,<<USA-GEO235
+Kinney>>,<<Kinney>>,<<USA-TEX271
+Twiggs>>,<<Twiggs>>,<<USA-GEO289
+Santa Cruz>>,<<Santa Cruz>>,<<USA-CAL087
+Shasta>>,<<Shasta>>,<<USA-CAL089
+Towns>>,<<Towns>>,<<USA-GEO281
+Treutlen>>,<<Treutlen>>,<<USA-GEO283
+Troup>>,<<Troup>>,<<USA-GEO285
+Turner>>,<<Turner>>,<<USA-GEO287
+Union>>,<<Union>>,<<USA-GEO291
+Solano>>,<<Solano>>,<<USA-CAL095
+Sonoma>>,<<Sonoma>>,<<USA-CAL097
+Sierra>>,<<Sierra>>,<<USA-CAL091
+Siskiyou>>,<<Siskiyou>>,<<USA-CAL093
+Harris>>,<<Harris>>,<<USA-TEX201
+San Luis Obispo>>,<<San Luis Obispo>>,<<USA-CAL079
+San Joaquin>>,<<San Joaquin>>,<<USA-CAL077
+Walker>>,<<Walker>>,<<USA-GEO295
+Tangipahoa>>,<<Tangipahoa>>,<<USA-LOU105
+Haskell>>,<<Haskell>>,<<USA-TEX207
+Tensas>>,<<Tensas>>,<<USA-LOU107
+Upson>>,<<Upson>>,<<USA-GEO293
+Hays>>,<<Hays>>,<<USA-TEX209
+St. Mary>>,<<St. Mary>>,<<USA-LOU101
+Ware>>,<<Ware>>,<<USA-GEO299
+Harrison>>,<<Harrison>>,<<USA-TEX203
+St. Tammany>>,<<St. Tammany>>,<<USA-LOU103
+Walton>>,<<Walton>>,<<USA-GEO297
+Hartley>>,<<Hartley>>,<<USA-TEX205
+Terrebonne>>,<<Terrebonne>>,<<USA-LOU109
+Santa Clara>>,<<Santa Clara>>,<<USA-CAL085
+Santa Barbara>>,<<Santa Barbara>>,<<USA-CAL083
+San Mateo>>,<<San Mateo>>,<<USA-CAL081
+Riverside>>,<<Riverside>>,<<USA-CAL065
+Sacramento>>,<<Sacramento>>,<<USA-CAL067
+San Benito>>,<<San Benito>>,<<USA-CAL069
+Henderson>>,<<Henderson>>,<<USA-TEX213
+Tattnall>>,<<Tattnall>>,<<USA-GEO267
+Hemphill>>,<<Hemphill>>,<<USA-TEX211
+Taylor>>,<<Taylor>>,<<USA-GEO269
+Hill>>,<<Hill>>,<<USA-TEX217
+Vermilion>>,<<Vermilion>>,<<USA-LOU113
+Talbot>>,<<Talbot>>,<<USA-GEO263
+Hidalgo>>,<<Hidalgo>>,<<USA-TEX215
+Union>>,<<Union>>,<<USA-LOU111
+Taliaferro>>,<<Taliaferro>>,<<USA-GEO265
+Washington>>,<<Washington>>,<<USA-LOU117
+Hockley>>,<<Hockley>>,<<USA-TEX219
+Vernon>>,<<Vernon>>,<<USA-LOU115
+Sumter>>,<<Sumter>>,<<USA-GEO261
+Webster>>,<<Webster>>,<<USA-LOU119
+San Bernardino>>,<<San Bernardino>>,<<USA-CAL071
+San Diego>>,<<San Diego>>,<<USA-CAL073
+San Francisco>>,<<San Francisco>>,<<USA-CAL075
+Nevada>>,<<Nevada>>,<<USA-CAL057
+Napa>>,<<Napa>>,<<USA-CAL055
+Hood>>,<<Hood>>,<<USA-TEX221
+Toombs>>,<<Toombs>>,<<USA-GEO279
+West Baton Rouge>>,<<West Baton Rouge>>,<<USA-LOU121
+Orange>>,<<Orange>>,<<USA-CAL059
+Hopkins>>,<<Hopkins>>,<<USA-TEX223
+West Carroll>>,<<West Carroll>>,<<USA-LOU123
+Tift>>,<<Tift>>,<<USA-GEO277
+Houston>>,<<Houston>>,<<USA-TEX225
+West Feliciana>>,<<West Feliciana>>,<<USA-LOU125
+Thomas>>,<<Thomas>>,<<USA-GEO275
+Howard>>,<<Howard>>,<<USA-TEX227
+Winn>>,<<Winn>>,<<USA-LOU127
+Terrell>>,<<Terrell>>,<<USA-GEO273
+Hudspeth>>,<<Hudspeth>>,<<USA-TEX229
+Telfair>>,<<Telfair>>,<<USA-GEO271
+Plumas>>,<<Plumas>>,<<USA-CAL063
+Placer>>,<<Placer>>,<<USA-CAL061
+Rutherford>>,<<Rutherford>>,<<USA-NCR161
+Rowan>>,<<Rowan>>,<<USA-NCR159
+Robeson>>,<<Robeson>>,<<USA-NCR155
+Rockingham>>,<<Rockingham>>,<<USA-NCR157
+Randolph>>,<<Randolph>>,<<USA-NCR151
+Richmond>>,<<Richmond>>,<<USA-NCR153
+Polk>>,<<Polk>>,<<USA-NCR149
+Pitt>>,<<Pitt>>,<<USA-NCR147
+Person>>,<<Person>>,<<USA-NCR145
+Perquimans>>,<<Perquimans>>,<<USA-NCR143
+Pender>>,<<Pender>>,<<USA-NCR141
+Vance>>,<<Vance>>,<<USA-NCR181
+Wake>>,<<Wake>>,<<USA-NCR183
+Adams>>,<<Adams>>,<<USA-WSH001
+Asotin>>,<<Asotin>>,<<USA-WSH003
+Benton>>,<<Benton>>,<<USA-WSH005
+Martinsville>>,<<Martinsville>>,<<USA-VRG690
+Chelan>>,<<Chelan>>,<<USA-WSH007
+Clallam>>,<<Clallam>>,<<USA-WSH009
+Swain>>,<<Swain>>,<<USA-NCR173
+Transylvania>>,<<Transylvania>>,<<USA-NCR175
+Tyrrell>>,<<Tyrrell>>,<<USA-NCR177
+Union>>,<<Union>>,<<USA-NCR179
+Surry>>,<<Surry>>,<<USA-NCR171
+Columbia>>,<<Columbia>>,<<USA-WSH013
+Manassas>>,<<Manassas>>,<<USA-VRG683
+Clark>>,<<Clark>>,<<USA-WSH011
+Manassas Park>>,<<Manassas Park>>,<<USA-VRG685
+Douglas>>,<<Douglas>>,<<USA-WSH017
+Lynchburg>>,<<Lynchburg>>,<<USA-VRG680
+Cowlitz>>,<<Cowlitz>>,<<USA-WSH015
+Ferry>>,<<Ferry>>,<<USA-WSH019
+Scotland>>,<<Scotland>>,<<USA-NCR165
+Sampson>>,<<Sampson>>,<<USA-NCR163
+Stokes>>,<<Stokes>>,<<USA-NCR169
+Stanly>>,<<Stanly>>,<<USA-NCR167
+Grant>>,<<Grant>>,<<USA-WSH025
+Grays Harbor>>,<<Grays Harbor>>,<<USA-WSH027
+Franklin>>,<<Franklin>>,<<USA-WSH021
+Garfield>>,<<Garfield>>,<<USA-WSH023
+Montgomery>>,<<Montgomery>>,<<USA-GEO209
+Carson City>>,<<Carson City>>,<<USA-NEV510
+Amador>>,<<Amador>>,<<USA-CAL005
+Yancey>>,<<Yancey>>,<<USA-NCR199
+Alpine>>,<<Alpine>>,<<USA-CAL003
+Miller>>,<<Miller>>,<<USA-GEO201
+Alameda>>,<<Alameda>>,<<USA-CAL001
+Monroe>>,<<Monroe>>,<<USA-GEO207
+Wilson>>,<<Wilson>>,<<USA-NCR195
+Mitchell>>,<<Mitchell>>,<<USA-GEO205
+Yadkin>>,<<Yadkin>>,<<USA-NCR197
+Calaveras>>,<<Calaveras>>,<<USA-CAL009
+Island>>,<<Island>>,<<USA-WSH029
+Butte>>,<<Butte>>,<<USA-CAL007
+Klickitat>>,<<Klickitat>>,<<USA-WSH039
+Kittitas>>,<<Kittitas>>,<<USA-WSH037
+Kitsap>>,<<Kitsap>>,<<USA-WSH035
+King>>,<<King>>,<<USA-WSH033
+Wilkes>>,<<Wilkes>>,<<USA-NCR193
+Jefferson>>,<<Jefferson>>,<<USA-WSH031
+Wayne>>,<<Wayne>>,<<USA-NCR191
+Murray>>,<<Murray>>,<<USA-GEO213
+Muscogee>>,<<Muscogee>>,<<USA-GEO215
+Watauga>>,<<Watauga>>,<<USA-NCR189
+Newton>>,<<Newton>>,<<USA-GEO217
+Washington>>,<<Washington>>,<<USA-NCR187
+Oconee>>,<<Oconee>>,<<USA-GEO219
+Warren>>,<<Warren>>,<<USA-NCR185
+Morgan>>,<<Morgan>>,<<USA-GEO211
+Lincoln>>,<<Lincoln>>,<<USA-WSH043
+Mason>>,<<Mason>>,<<USA-WSH045
+Okanogan>>,<<Okanogan>>,<<USA-WSH047
+Pacific>>,<<Pacific>>,<<USA-WSH049
+Lewis>>,<<Lewis>>,<<USA-WSH041
+Skagit>>,<<Skagit>>,<<USA-WSH057
+San Juan>>,<<San Juan>>,<<USA-WSH055
+Skamania>>,<<Skamania>>,<<USA-WSH059
+Pierce>>,<<Pierce>>,<<USA-WSH053
+Pend Oreille>>,<<Pend Oreille>>,<<USA-WSH051
+Somerset>>,<<Somerset>>,<<USA-MRY039
+Chase>>,<<Chase>>,<<USA-KAN017
+St. Mary's>>,<<St. Mary's>>,<<USA-MRY037
+Butler>>,<<Butler>>,<<USA-KAN015
+Brown>>,<<Brown>>,<<USA-KAN013
+Bourbon>>,<<Bourbon>>,<<USA-KAN011
+Montgomery>>,<<Montgomery>>,<<USA-MRY031
+Queen Anne's>>,<<Queen Anne's>>,<<USA-MRY035
+Prince George's>>,<<Prince George's>>,<<USA-MRY033
+Franklin>>,<<Franklin>>,<<USA-VRG620
+Chautauqua>>,<<Chautauqua>>,<<USA-KAN019
+Worcester>>,<<Worcester>>,<<USA-MRY047
+Clark>>,<<Clark>>,<<USA-KAN025
+Clay>>,<<Clay>>,<<USA-KAN027
+Cherokee>>,<<Cherokee>>,<<USA-KAN021
+Cheyenne>>,<<Cheyenne>>,<<USA-KAN023
+Talbot>>,<<Talbot>>,<<USA-MRY041
+Washington>>,<<Washington>>,<<USA-MRY043
+Wicomico>>,<<Wicomico>>,<<USA-MRY045
+Fredericksburg>>,<<Fredericksburg>>,<<USA-VRG630
+Cloud>>,<<Cloud>>,<<USA-KAN029
+Aitkin>>,<<Aitkin>>,<<USA-MNN001
+Fairfax>>,<<Fairfax>>,<<USA-VRG600
+Anoka>>,<<Anoka>>,<<USA-MNN003
+Becker>>,<<Becker>>,<<USA-MNN005
+Beltrami>>,<<Beltrami>>,<<USA-MNN007
+Benton>>,<<Benton>>,<<USA-MNN009
+Falls Church>>,<<Falls Church>>,<<USA-VRG610
+Big Stone>>,<<Big Stone>>,<<USA-MNN011
+Allen>>,<<Allen>>,<<USA-KAN001
+Anderson>>,<<Anderson>>,<<USA-KAN003
+Brown>>,<<Brown>>,<<USA-MNN015
+Atchison>>,<<Atchison>>,<<USA-KAN005
+Blue Earth>>,<<Blue Earth>>,<<USA-MNN013
+Carver>>,<<Carver>>,<<USA-MNN019
+Carlton>>,<<Carlton>>,<<USA-MNN017
+Barber>>,<<Barber>>,<<USA-KAN007
+Barton>>,<<Barton>>,<<USA-KAN009
+Johnston>>,<<Johnston>>,<<USA-NCR101
+Clearwater>>,<<Clearwater>>,<<USA-MNN029
+Jones>>,<<Jones>>,<<USA-NCR103
+Lee>>,<<Lee>>,<<USA-NCR105
+Chisago>>,<<Chisago>>,<<USA-MNN025
+Lenoir>>,<<Lenoir>>,<<USA-NCR107
+Clay>>,<<Clay>>,<<USA-MNN027
+Lincoln>>,<<Lincoln>>,<<USA-NCR109
+Cass>>,<<Cass>>,<<USA-MNN021
+Chippewa>>,<<Chippewa>>,<<USA-MNN023
+Harrisonburg>>,<<Harrisonburg>>,<<USA-VRG660
+Macon>>,<<Macon>>,<<USA-NCR113
+Dodge>>,<<Dodge>>,<<USA-MNN039
+Allegany>>,<<Allegany>>,<<USA-MRY001
+McDowell>>,<<McDowell>>,<<USA-NCR111
+Dakota>>,<<Dakota>>,<<USA-MNN037
+Martin>>,<<Martin>>,<<USA-NCR117
+Anne Arundel>>,<<Anne Arundel>>,<<USA-MRY003
+Crow Wing>>,<<Crow Wing>>,<<USA-MNN035
+Madison>>,<<Madison>>,<<USA-NCR115
+Baltimore>>,<<Baltimore>>,<<USA-MRY005
+Cottonwood>>,<<Cottonwood>>,<<USA-MNN033
+Cook>>,<<Cook>>,<<USA-MNN031
+Mecklenburg>>,<<Mecklenburg>>,<<USA-NCR119
+Calvert>>,<<Calvert>>,<<USA-MRY009
+Lexington>>,<<Lexington>>,<<USA-VRG678
+Douglas>>,<<Douglas>>,<<USA-MNN041
+Hopewell>>,<<Hopewell>>,<<USA-VRG670
+Montgomery>>,<<Montgomery>>,<<USA-NCR123
+Carroll>>,<<Carroll>>,<<USA-MRY013
+Caroline>>,<<Caroline>>,<<USA-MRY011
+Moore>>,<<Moore>>,<<USA-NCR125
+Mitchell>>,<<Mitchell>>,<<USA-NCR121
+Faribault>>,<<Faribault>>,<<USA-MNN043
+Dorchester>>,<<Dorchester>>,<<USA-MRY019
+Fillmore>>,<<Fillmore>>,<<USA-MNN045
+Nash>>,<<Nash>>,<<USA-NCR127
+Charles>>,<<Charles>>,<<USA-MRY017
+Freeborn>>,<<Freeborn>>,<<USA-MNN047
+New Hanover>>,<<New Hanover>>,<<USA-NCR129
+Cecil>>,<<Cecil>>,<<USA-MRY015
+Goodhue>>,<<Goodhue>>,<<USA-MNN049
+Grant>>,<<Grant>>,<<USA-MNN051
+Galax>>,<<Galax>>,<<USA-VRG640
+Frederick>>,<<Frederick>>,<<USA-MRY021
+Orange>>,<<Orange>>,<<USA-NCR135
+Garrett>>,<<Garrett>>,<<USA-MRY023
+Onslow>>,<<Onslow>>,<<USA-NCR133
+Northampton>>,<<Northampton>>,<<USA-NCR131
+Houston>>,<<Houston>>,<<USA-MNN055
+Kent>>,<<Kent>>,<<USA-MRY029
+Hennepin>>,<<Hennepin>>,<<USA-MNN053
+Isanti>>,<<Isanti>>,<<USA-MNN059
+Pasquotank>>,<<Pasquotank>>,<<USA-NCR139
+Harford>>,<<Harford>>,<<USA-MRY025
+Hubbard>>,<<Hubbard>>,<<USA-MNN057
+Pamlico>>,<<Pamlico>>,<<USA-NCR137
+Howard>>,<<Howard>>,<<USA-MRY027
+Jackson>>,<<Jackson>>,<<USA-MNN063
+Hampton>>,<<Hampton>>,<<USA-VRG650
+Itasca>>,<<Itasca>>,<<USA-MNN061
+Lac qui Parle>>,<<Lac qui Parle>>,<<USA-MNN073
+DeKalb>>,<<DeKalb>>,<<USA-MOS063
+Koochiching>>,<<Koochiching>>,<<USA-MNN071
+Dent>>,<<Dent>>,<<USA-MOS065
+Daviess>>,<<Daviess>>,<<USA-MOS061
+Dallas>>,<<Dallas>>,<<USA-MOS059
+Kittson>>,<<Kittson>>,<<USA-MNN069
+Kandiyohi>>,<<Kandiyohi>>,<<USA-MNN067
+Crawford>>,<<Crawford>>,<<USA-MOS055
+Kanabec>>,<<Kanabec>>,<<USA-MNN065
+Dade>>,<<Dade>>,<<USA-MOS057
+Cooper>>,<<Cooper>>,<<USA-MOS053
+Lyon>>,<<Lyon>>,<<USA-MNN083
+McLeod>>,<<McLeod>>,<<USA-MNN085
+Cole>>,<<Cole>>,<<USA-MOS051
+Lincoln>>,<<Lincoln>>,<<USA-MNN081
+Le Sueur>>,<<Le Sueur>>,<<USA-MNN079
+Clinton>>,<<Clinton>>,<<USA-MOS049
+Lake>>,<<Lake>>,<<USA-MNN075
+Clay>>,<<Clay>>,<<USA-MOS047
+Lake of the Woods>>,<<Lake of the Woods>>,<<USA-MNN077
+Clark>>,<<Clark>>,<<USA-MOS045
+Harrison>>,<<Harrison>>,<<USA-MOS081
+Martin>>,<<Martin>>,<<USA-MNN091
+Henry>>,<<Henry>>,<<USA-MOS083
+Mille Lacs>>,<<Mille Lacs>>,<<USA-MNN095
+Hickory>>,<<Hickory>>,<<USA-MOS085
+Meeker>>,<<Meeker>>,<<USA-MNN093
+Holt>>,<<Holt>>,<<USA-MOS087
+Marshall>>,<<Marshall>>,<<USA-MNN089
+Greene>>,<<Greene>>,<<USA-MOS077
+Mahnomen>>,<<Mahnomen>>,<<USA-MNN087
+Grundy>>,<<Grundy>>,<<USA-MOS079
+Franklin>>,<<Franklin>>,<<USA-MOS071
+Gentry>>,<<Gentry>>,<<USA-MOS075
+Gasconade>>,<<Gasconade>>,<<USA-MOS073
+Dunklin>>,<<Dunklin>>,<<USA-MOS069
+Morrison>>,<<Morrison>>,<<USA-MNN097
+Douglas>>,<<Douglas>>,<<USA-MOS067
+Mower>>,<<Mower>>,<<USA-MNN099
+Buchanan>>,<<Buchanan>>,<<USA-MOS021
+Limestone>>,<<Limestone>>,<<USA-TEX293
+Liberty>>,<<Liberty>>,<<USA-TEX291
+Lavaca>>,<<Lavaca>>,<<USA-TEX285
+La Salle>>,<<La Salle>>,<<USA-TEX283
+Leon>>,<<Leon>>,<<USA-TEX289
+Boone>>,<<Boone>>,<<USA-MOS019
+Lee>>,<<Lee>>,<<USA-TEX287
+Benton>>,<<Benton>>,<<USA-MOS015
+Bollinger>>,<<Bollinger>>,<<USA-MOS017
+Barton>>,<<Barton>>,<<USA-MOS011
+Bates>>,<<Bates>>,<<USA-MOS013
+Lampasas>>,<<Lampasas>>,<<USA-TEX281
+Kleberg>>,<<Kleberg>>,<<USA-TEX273
+Knox>>,<<Knox>>,<<USA-TEX275
+Lamar>>,<<Lamar>>,<<USA-TEX277
+Barry>>,<<Barry>>,<<USA-MOS009
+Lamb>>,<<Lamb>>,<<USA-TEX279
+Audrain>>,<<Audrain>>,<<USA-MOS007
+Atchison>>,<<Atchison>>,<<USA-MOS005
+Andrew>>,<<Andrew>>,<<USA-MOS003
+Adair>>,<<Adair>>,<<USA-MOS001
+Chariton>>,<<Chariton>>,<<USA-MOS041
+Christian>>,<<Christian>>,<<USA-MOS043
+Carroll>>,<<Carroll>>,<<USA-MOS033
+Carter>>,<<Carter>>,<<USA-MOS035
+Cass>>,<<Cass>>,<<USA-MOS037
+Cedar>>,<<Cedar>>,<<USA-MOS039
+Cape Girardeau>>,<<Cape Girardeau>>,<<USA-MOS031
+Llano>>,<<Llano>>,<<USA-TEX299
+Lipscomb>>,<<Lipscomb>>,<<USA-TEX295
+Live Oak>>,<<Live Oak>>,<<USA-TEX297
+Caldwell>>,<<Caldwell>>,<<USA-MOS025
+Butler>>,<<Butler>>,<<USA-MOS023
+Camden>>,<<Camden>>,<<USA-MOS029
+Callaway>>,<<Callaway>>,<<USA-MOS027
+Ellis>>,<<Ellis>>,<<USA-TEX139
+Strafford>>,<<Strafford>>,<<USA-NHM017
+Edwards>>,<<Edwards>>,<<USA-TEX137
+Sullivan>>,<<Sullivan>>,<<USA-NHM019
+Mason>>,<<Mason>>,<<USA-WVR053
+Merrimack>>,<<Merrimack>>,<<USA-NHM013
+Marshall>>,<<Marshall>>,<<USA-WVR051
+Rockingham>>,<<Rockingham>>,<<USA-NHM015
+Mineral>>,<<Mineral>>,<<USA-WVR057
+Duval>>,<<Duval>>,<<USA-TEX131
+Mercer>>,<<Mercer>>,<<USA-WVR055
+Hillsborough>>,<<Hillsborough>>,<<USA-NHM011
+Ector>>,<<Ector>>,<<USA-TEX135
+Eastland>>,<<Eastland>>,<<USA-TEX133
+Mingo>>,<<Mingo>>,<<USA-WVR059
+Nelson>>,<<Nelson>>,<<USA-KEN179
+Muhlenberg>>,<<Muhlenberg>>,<<USA-KEN177
+Morgan>>,<<Morgan>>,<<USA-KEN175
+Montgomery>>,<<Montgomery>>,<<USA-KEN173
+Monroe>>,<<Monroe>>,<<USA-KEN171
+Coos>>,<<Coos>>,<<USA-NHM007
+Fayette>>,<<Fayette>>,<<USA-TEX149
+Cheshire>>,<<Cheshire>>,<<USA-NHM005
+Monongalia>>,<<Monongalia>>,<<USA-WVR061
+Carroll>>,<<Carroll>>,<<USA-NHM003
+Monroe>>,<<Monroe>>,<<USA-WVR063
+Belknap>>,<<Belknap>>,<<USA-NHM001
+Morgan>>,<<Morgan>>,<<USA-WVR065
+El Paso>>,<<El Paso>>,<<USA-TEX141
+Nicholas>>,<<Nicholas>>,<<USA-WVR067
+Erath>>,<<Erath>>,<<USA-TEX143
+Ohio>>,<<Ohio>>,<<USA-WVR069
+Falls>>,<<Falls>>,<<USA-TEX145
+Fannin>>,<<Fannin>>,<<USA-TEX147
+Metcalfe>>,<<Metcalfe>>,<<USA-KEN169
+Menifee>>,<<Menifee>>,<<USA-KEN165
+Mercer>>,<<Mercer>>,<<USA-KEN167
+Mason>>,<<Mason>>,<<USA-KEN161
+Meade>>,<<Meade>>,<<USA-KEN163
+Grafton>>,<<Grafton>>,<<USA-NHM009
+Hardy>>,<<Hardy>>,<<USA-WVR031
+Delta>>,<<Delta>>,<<USA-TEX119
+Deaf Smith>>,<<Deaf Smith>>,<<USA-TEX117
+Dawson>>,<<Dawson>>,<<USA-TEX115
+Kanawha>>,<<Kanawha>>,<<USA-WVR039
+Dallas>>,<<Dallas>>,<<USA-TEX113
+Jefferson>>,<<Jefferson>>,<<USA-WVR037
+Dallam>>,<<Dallam>>,<<USA-TEX111
+Jackson>>,<<Jackson>>,<<USA-WVR035
+Harrison>>,<<Harrison>>,<<USA-WVR033
+Pulaski>>,<<Pulaski>>,<<USA-KEN199
+Perry>>,<<Perry>>,<<USA-KEN193
+Pendleton>>,<<Pendleton>>,<<USA-KEN191
+Powell>>,<<Powell>>,<<USA-KEN197
+Pike>>,<<Pike>>,<<USA-KEN195
+Lewis>>,<<Lewis>>,<<USA-WVR041
+Lincoln>>,<<Lincoln>>,<<USA-WVR043
+Dimmit>>,<<Dimmit>>,<<USA-TEX127
+Donley>>,<<Donley>>,<<USA-TEX129
+DeWitt>>,<<DeWitt>>,<<USA-TEX123
+Marion>>,<<Marion>>,<<USA-WVR049
+Dickens>>,<<Dickens>>,<<USA-TEX125
+Logan>>,<<Logan>>,<<USA-WVR045
+McDowell>>,<<McDowell>>,<<USA-WVR047
+Denton>>,<<Denton>>,<<USA-TEX121
+Owen>>,<<Owen>>,<<USA-KEN187
+Owsley>>,<<Owsley>>,<<USA-KEN189
+Nicholas>>,<<Nicholas>>,<<USA-KEN181
+Ohio>>,<<Ohio>>,<<USA-KEN183
+Oldham>>,<<Oldham>>,<<USA-KEN185
+Wayne>>,<<Wayne>>,<<USA-WVR099
+Tucker>>,<<Tucker>>,<<USA-WVR093
+Taylor>>,<<Taylor>>,<<USA-WVR091
+Upshur>>,<<Upshur>>,<<USA-WVR097
+Tyler>>,<<Tyler>>,<<USA-WVR095
+Leslie>>,<<Leslie>>,<<USA-KEN131
+Livingston>>,<<Livingston>>,<<USA-KEN139
+Lincoln>>,<<Lincoln>>,<<USA-KEN137
+Lewis>>,<<Lewis>>,<<USA-KEN135
+Letcher>>,<<Letcher>>,<<USA-KEN133
+Lee>>,<<Lee>>,<<USA-KEN129
+Cottle>>,<<Cottle>>,<<USA-TEX101
+Crane>>,<<Crane>>,<<USA-TEX103
+Crockett>>,<<Crockett>>,<<USA-TEX105
+Crosby>>,<<Crosby>>,<<USA-TEX107
+Culberson>>,<<Culberson>>,<<USA-TEX109
+Laurel>>,<<Laurel>>,<<USA-KEN125
+Lawrence>>,<<Lawrence>>,<<USA-KEN127
+Woodford>>,<<Woodford>>,<<USA-ILL203
+Knox>>,<<Knox>>,<<USA-KEN121
+Winnebago>>,<<Winnebago>>,<<USA-ILL201
+Larue>>,<<Larue>>,<<USA-KEN123
+Putnam>>,<<Putnam>>,<<USA-WVR079
+Preston>>,<<Preston>>,<<USA-WVR077
+Pocahontas>>,<<Pocahontas>>,<<USA-WVR075
+Toole>>,<<Toole>>,<<USA-MNT101
+Pleasants>>,<<Pleasants>>,<<USA-WVR073
+Treasure>>,<<Treasure>>,<<USA-MNT103
+Pendleton>>,<<Pendleton>>,<<USA-WVR071
+Wibaux>>,<<Wibaux>>,<<USA-MNT109
+Magoffin>>,<<Magoffin>>,<<USA-KEN153
+Valley>>,<<Valley>>,<<USA-MNT105
+Madison>>,<<Madison>>,<<USA-KEN151
+Wheatland>>,<<Wheatland>>,<<USA-MNT107
+Marshall>>,<<Marshall>>,<<USA-KEN157
+Marion>>,<<Marion>>,<<USA-KEN155
+Martin>>,<<Martin>>,<<USA-KEN159
+Minnehaha>>,<<Minnehaha>>,<<USA-SDA099
+Miner>>,<<Miner>>,<<USA-SDA097
+Summers>>,<<Summers>>,<<USA-WVR089
+Mellette>>,<<Mellette>>,<<USA-SDA095
+Ritchie>>,<<Ritchie>>,<<USA-WVR085
+Roane>>,<<Roane>>,<<USA-WVR087
+Raleigh>>,<<Raleigh>>,<<USA-WVR081
+Randolph>>,<<Randolph>>,<<USA-WVR083
+Logan>>,<<Logan>>,<<USA-KEN141
+Lyon>>,<<Lyon>>,<<USA-KEN143
+McCracken>>,<<McCracken>>,<<USA-KEN145
+McCreary>>,<<McCreary>>,<<USA-KEN147
+McLean>>,<<McLean>>,<<USA-KEN149
+Elk>>,<<Elk>>,<<USA-KAN049
+Edwards>>,<<Edwards>>,<<USA-KAN047
+Douglas>>,<<Douglas>>,<<USA-KAN045
+Doniphan>>,<<Doniphan>>,<<USA-KAN043
+Webster>>,<<Webster>>,<<USA-GEO307
+Dickinson>>,<<Dickinson>>,<<USA-KAN041
+Wayne>>,<<Wayne>>,<<USA-GEO305
+Washington>>,<<Washington>>,<<USA-GEO303
+Warren>>,<<Warren>>,<<USA-GEO301
+Wheeler>>,<<Wheeler>>,<<USA-GEO309
+Crawford>>,<<Crawford>>,<<USA-KAN037
+Young>>,<<Young>>,<<USA-TEX503
+Decatur>>,<<Decatur>>,<<USA-KAN039
+Yoakum>>,<<Yoakum>>,<<USA-TEX501
+Zavala>>,<<Zavala>>,<<USA-TEX507
+Comanche>>,<<Comanche>>,<<USA-KAN033
+Zapata>>,<<Zapata>>,<<USA-TEX505
+Cowley>>,<<Cowley>>,<<USA-KAN035
+District of Columbia>>,<<District of Columbia>>,<<USA-DOC001
+Wilcox>>,<<Wilcox>>,<<USA-GEO315
+Coffey>>,<<Coffey>>,<<USA-KAN031
+Wilkes>>,<<Wilkes>>,<<USA-GEO317
+White>>,<<White>>,<<USA-GEO311
+Whitfield>>,<<Whitfield>>,<<USA-GEO313
+Yellowstone>>,<<Yellowstone>>,<<USA-MNT111
+Wilkinson>>,<<Wilkinson>>,<<USA-GEO319
+Grant>>,<<Grant>>,<<USA-KAN067
+Graham>>,<<Graham>>,<<USA-KAN065
+Worth>>,<<Worth>>,<<USA-GEO321
+Gray>>,<<Gray>>,<<USA-KAN069
+Gove>>,<<Gove>>,<<USA-KAN063
+Geary>>,<<Geary>>,<<USA-KAN061
+Finney>>,<<Finney>>,<<USA-KAN055
+Ford>>,<<Ford>>,<<USA-KAN057
+Franklin>>,<<Franklin>>,<<USA-KAN059
+Ellis>>,<<Ellis>>,<<USA-KAN051
+Ellsworth>>,<<Ellsworth>>,<<USA-KAN053
+Jackson>>,<<Jackson>>,<<USA-KAN085
+Hodgeman>>,<<Hodgeman>>,<<USA-KAN083
+Haskell>>,<<Haskell>>,<<USA-KAN081
+Jewell>>,<<Jewell>>,<<USA-KAN089
+Jefferson>>,<<Jefferson>>,<<USA-KAN087
+Colonial Heights>>,<<Colonial Heights>>,<<USA-VRG570
+Greenwood>>,<<Greenwood>>,<<USA-KAN073
+Hamilton>>,<<Hamilton>>,<<USA-KAN075
+Greeley>>,<<Greeley>>,<<USA-KAN071
+Harper>>,<<Harper>>,<<USA-KAN077
+Harvey>>,<<Harvey>>,<<USA-KAN079
+Emporia>>,<<Emporia>>,<<USA-VRG595
+Danville>>,<<Danville>>,<<USA-VRG590
+Johnson>>,<<Johnson>>,<<USA-KAN091
+Antrim>>,<<Antrim>>,<<USA-MCH009
+Kearny>>,<<Kearny>>,<<USA-KAN093
+Alpena>>,<<Alpena>>,<<USA-MCH007
+Kingman>>,<<Kingman>>,<<USA-KAN095
+Allegan>>,<<Allegan>>,<<USA-MCH005
+Kiowa>>,<<Kiowa>>,<<USA-KAN097
+Alger>>,<<Alger>>,<<USA-MCH003
+Labette>>,<<Labette>>,<<USA-KAN099
+Alcona>>,<<Alcona>>,<<USA-MCH001
+Covington>>,<<Covington>>,<<USA-VRG580
+Prairie>>,<<Prairie>>,<<USA-MNT079
+Powell>>,<<Powell>>,<<USA-MNT077
+Powder River>>,<<Powder River>>,<<USA-MNT075
+Pondera>>,<<Pondera>>,<<USA-MNT073
+Phillips>>,<<Phillips>>,<<USA-MNT071
+Wright>>,<<Wright>>,<<USA-MNN171
+Bristol>>,<<Bristol>>,<<USA-VRG520
+Yellow Medicine>>,<<Yellow Medicine>>,<<USA-MNN173
+Washington>>,<<Washington>>,<<USA-MNN163
+Branch>>,<<Branch>>,<<USA-MCH023
+Watonwan>>,<<Watonwan>>,<<USA-MNN165
+Calhoun>>,<<Calhoun>>,<<USA-MCH025
+Wilkin>>,<<Wilkin>>,<<USA-MNN167
+Winona>>,<<Winona>>,<<USA-MNN169
+Berrien>>,<<Berrien>>,<<USA-MCH021
+Cass>>,<<Cass>>,<<USA-MCH027
+Charlevoix>>,<<Charlevoix>>,<<USA-MCH029
+Bennett>>,<<Bennett>>,<<USA-SDA007
+Bon Homme>>,<<Bon Homme>>,<<USA-SDA009
+Aurora>>,<<Aurora>>,<<USA-SDA003
+Rosebud>>,<<Rosebud>>,<<USA-MNT087
+Beadle>>,<<Beadle>>,<<USA-SDA005
+Sanders>>,<<Sanders>>,<<USA-MNT089
+Richland>>,<<Richland>>,<<USA-MNT083
+Roosevelt>>,<<Roosevelt>>,<<USA-MNT085
+Buena Vista>>,<<Buena Vista>>,<<USA-VRG530
+Ravalli>>,<<Ravalli>>,<<USA-MNT081
+Barry>>,<<Barry>>,<<USA-MCH015
+Baraga>>,<<Baraga>>,<<USA-MCH013
+Arenac>>,<<Arenac>>,<<USA-MCH011
+Benzie>>,<<Benzie>>,<<USA-MCH019
+Bay>>,<<Bay>>,<<USA-MCH017
+Teton>>,<<Teton>>,<<USA-MNT099
+Sweet Grass>>,<<Sweet Grass>>,<<USA-MNT097
+Sheridan>>,<<Sheridan>>,<<USA-MNT091
+Swift>>,<<Swift>>,<<USA-MNN151
+Charlottesville>>,<<Charlottesville>>,<<USA-VRG540
+Stillwater>>,<<Stillwater>>,<<USA-MNT095
+Silver Bow>>,<<Silver Bow>>,<<USA-MNT093
+Gladwin>>,<<Gladwin>>,<<USA-MCH051
+Stearns>>,<<Stearns>>,<<USA-MNN145
+Delta>>,<<Delta>>,<<USA-MCH041
+Steele>>,<<Steele>>,<<USA-MNN147
+Dickinson>>,<<Dickinson>>,<<USA-MCH043
+Sherburne>>,<<Sherburne>>,<<USA-MNN141
+Eaton>>,<<Eaton>>,<<USA-MCH045
+Sibley>>,<<Sibley>>,<<USA-MNN143
+Emmet>>,<<Emmet>>,<<USA-MCH047
+Genesee>>,<<Genesee>>,<<USA-MCH049
+Stevens>>,<<Stevens>>,<<USA-MNN149
+Waseca>>,<<Waseca>>,<<USA-MNN161
+Linn>>,<<Linn>>,<<USA-KAN107
+Chesapeake>>,<<Chesapeake>>,<<USA-VRG550
+Logan>>,<<Logan>>,<<USA-KAN109
+Chippewa>>,<<Chippewa>>,<<USA-MCH033
+Leavenworth>>,<<Leavenworth>>,<<USA-KAN103
+Wadena>>,<<Wadena>>,<<USA-MNN159
+Cheboygan>>,<<Cheboygan>>,<<USA-MCH031
+Lincoln>>,<<Lincoln>>,<<USA-KAN105
+Wabasha>>,<<Wabasha>>,<<USA-MNN157
+Clinton>>,<<Clinton>>,<<USA-MCH037
+Traverse>>,<<Traverse>>,<<USA-MNN155
+Lane>>,<<Lane>>,<<USA-KAN101
+Clare>>,<<Clare>>,<<USA-MCH035
+Todd>>,<<Todd>>,<<USA-MNN153
+Crawford>>,<<Crawford>>,<<USA-MCH039
+Iron>>,<<Iron>>,<<USA-MCH071
+Meade>>,<<Meade>>,<<USA-KAN119
+Isabella>>,<<Isabella>>,<<USA-MCH073
+Marshall>>,<<Marshall>>,<<USA-KAN117
+Redwood>>,<<Redwood>>,<<USA-MNN127
+Renville>>,<<Renville>>,<<USA-MNN129
+Lyon>>,<<Lyon>>,<<USA-KAN111
+Ionia>>,<<Ionia>>,<<USA-MCH067
+Iosco>>,<<Iosco>>,<<USA-MCH069
+Pope>>,<<Pope>>,<<USA-MNN121
+Huron>>,<<Huron>>,<<USA-MCH063
+Marion>>,<<Marion>>,<<USA-KAN115
+Ramsey>>,<<Ramsey>>,<<USA-MNN123
+McPherson>>,<<McPherson>>,<<USA-KAN113
+Ingham>>,<<Ingham>>,<<USA-MCH065
+Red Lake>>,<<Red Lake>>,<<USA-MNN125
+Morton>>,<<Morton>>,<<USA-KAN129
+Houghton>>,<<Houghton>>,<<USA-MCH061
+Scott>>,<<Scott>>,<<USA-MNN139
+Rock>>,<<Rock>>,<<USA-MNN133
+Hillsdale>>,<<Hillsdale>>,<<USA-MCH059
+Miami>>,<<Miami>>,<<USA-KAN121
+Rice>>,<<Rice>>,<<USA-MNN131
+Mitchell>>,<<Mitchell>>,<<USA-KAN123
+Gratiot>>,<<Gratiot>>,<<USA-MCH057
+St. Louis>>,<<St. Louis>>,<<USA-MNN137
+Montgomery>>,<<Montgomery>>,<<USA-KAN125
+Grand Traverse>>,<<Grand Traverse>>,<<USA-MCH055
+Roseau>>,<<Roseau>>,<<USA-MNN135
+Gogebic>>,<<Gogebic>>,<<USA-MCH053
+Morris>>,<<Morris>>,<<USA-KAN127
+Lenawee>>,<<Lenawee>>,<<USA-MCH091
+Livingston>>,<<Livingston>>,<<USA-MCH093
+Luce>>,<<Luce>>,<<USA-MCH095
+Osage>>,<<Osage>>,<<USA-KAN139
+Olmsted>>,<<Olmsted>>,<<USA-MNN109
+Nobles>>,<<Nobles>>,<<USA-MNN105
+Norman>>,<<Norman>>,<<USA-MNN107
+Lake>>,<<Lake>>,<<USA-MCH085
+Norton>>,<<Norton>>,<<USA-KAN137
+Murray>>,<<Murray>>,<<USA-MNN101
+Lapeer>>,<<Lapeer>>,<<USA-MCH087
+Ness>>,<<Ness>>,<<USA-KAN135
+Nicollet>>,<<Nicollet>>,<<USA-MNN103
+Neosho>>,<<Neosho>>,<<USA-KAN133
+Leelanau>>,<<Leelanau>>,<<USA-MCH089
+Nemaha>>,<<Nemaha>>,<<USA-KAN131
+Alexandria>>,<<Alexandria>>,<<USA-VRG510
+Keweenaw>>,<<Keweenaw>>,<<USA-MCH083
+Kent>>,<<Kent>>,<<USA-MCH081
+Osborne>>,<<Osborne>>,<<USA-KAN141
+Polk>>,<<Polk>>,<<USA-MNN119
+Pipestone>>,<<Pipestone>>,<<USA-MNN117
+Pine>>,<<Pine>>,<<USA-MNN115
+Bedford>>,<<Bedford>>,<<USA-VRG515
+Kalamazoo>>,<<Kalamazoo>>,<<USA-MCH077
+Phillips>>,<<Phillips>>,<<USA-KAN147
+Pennington>>,<<Pennington>>,<<USA-MNN113
+Pottawatomie>>,<<Pottawatomie>>,<<USA-KAN149
+Jackson>>,<<Jackson>>,<<USA-MCH075
+Otter Tail>>,<<Otter Tail>>,<<USA-MNN111
+Ottawa>>,<<Ottawa>>,<<USA-KAN143
+Pawnee>>,<<Pawnee>>,<<USA-KAN145
+Kalkaska>>,<<Kalkaska>>,<<USA-MCH079
+Robertson>>,<<Robertson>>,<<USA-KEN201
+Lawrence>>,<<Lawrence>>,<<USA-SDA081
+Wyoming>>,<<Wyoming>>,<<USA-WVR109
+Rowan>>,<<Rowan>>,<<USA-KEN205
+Rockcastle>>,<<Rockcastle>>,<<USA-KEN203
+Wood>>,<<Wood>>,<<USA-WVR107
+Baltimore>>,<<Baltimore>>,<<USA-MRY510
+Yamhill>>,<<Yamhill>>,<<USA-ORE071
+Wirt>>,<<Wirt>>,<<USA-WVR105
+Scott>>,<<Scott>>,<<USA-KEN209
+Kingsbury>>,<<Kingsbury>>,<<USA-SDA077
+Wetzel>>,<<Wetzel>>,<<USA-WVR103
+Russell>>,<<Russell>>,<<USA-KEN207
+Lake>>,<<Lake>>,<<USA-SDA079
+Webster>>,<<Webster>>,<<USA-WVR101
+Jerauld>>,<<Jerauld>>,<<USA-SDA073
+Jones>>,<<Jones>>,<<USA-SDA075
+Meade>>,<<Meade>>,<<USA-SDA093
+Marshall>>,<<Marshall>>,<<USA-SDA091
+Shelby>>,<<Shelby>>,<<USA-KEN211
+Mackinac>>,<<Mackinac>>,<<USA-MCH097
+Simpson>>,<<Simpson>>,<<USA-KEN213
+Macomb>>,<<Macomb>>,<<USA-MCH099
+Spencer>>,<<Spencer>>,<<USA-KEN215
+Wallowa>>,<<Wallowa>>,<<USA-ORE063
+Union>>,<<Union>>,<<USA-ORE061
+McPherson>>,<<McPherson>>,<<USA-SDA089
+Taylor>>,<<Taylor>>,<<USA-KEN217
+McCook>>,<<McCook>>,<<USA-SDA087
+Wheeler>>,<<Wheeler>>,<<USA-ORE069
+Todd>>,<<Todd>>,<<USA-KEN219
+Lyman>>,<<Lyman>>,<<USA-SDA085
+Washington>>,<<Washington>>,<<USA-ORE067
+Lincoln>>,<<Lincoln>>,<<USA-SDA083
+Wasco>>,<<Wasco>>,<<USA-ORE065
+Warren>>,<<Warren>>,<<USA-KEN227
+Union>>,<<Union>>,<<USA-KEN225
+Trimble>>,<<Trimble>>,<<USA-KEN223
+Trigg>>,<<Trigg>>,<<USA-KEN221
+Hand>>,<<Hand>>,<<USA-SDA059
+Multnomah>>,<<Multnomah>>,<<USA-ORE051
+Polk>>,<<Polk>>,<<USA-ORE053
+Grant>>,<<Grant>>,<<USA-SDA051
+Sherman>>,<<Sherman>>,<<USA-ORE055
+Gregory>>,<<Gregory>>,<<USA-SDA053
+Tillamook>>,<<Tillamook>>,<<USA-ORE057
+Haakon>>,<<Haakon>>,<<USA-SDA055
+Washington>>,<<Washington>>,<<USA-KEN229
+Umatilla>>,<<Umatilla>>,<<USA-ORE059
+Hamlin>>,<<Hamlin>>,<<USA-SDA057
+Whitley>>,<<Whitley>>,<<USA-KEN235
+Wolfe>>,<<Wolfe>>,<<USA-KEN237
+Wayne>>,<<Wayne>>,<<USA-KEN231
+Jackson>>,<<Jackson>>,<<USA-SDA071
+Webster>>,<<Webster>>,<<USA-KEN233
+Hyde>>,<<Hyde>>,<<USA-SDA069
+Lincoln>>,<<Lincoln>>,<<USA-ORE041
+Hansford>>,<<Hansford>>,<<USA-TEX195
+Harding>>,<<Harding>>,<<USA-SDA063
+Malheur>>,<<Malheur>>,<<USA-ORE045
+Hardeman>>,<<Hardeman>>,<<USA-TEX197
+Hanson>>,<<Hanson>>,<<USA-SDA061
+Linn>>,<<Linn>>,<<USA-ORE043
+Hardin>>,<<Hardin>>,<<USA-TEX199
+Hutchinson>>,<<Hutchinson>>,<<USA-SDA067
+Woodford>>,<<Woodford>>,<<USA-KEN239
+Morrow>>,<<Morrow>>,<<USA-ORE049
+Hughes>>,<<Hughes>>,<<USA-SDA065
+Marion>>,<<Marion>>,<<USA-ORE047
+Hamilton>>,<<Hamilton>>,<<USA-TEX193
+Hall>>,<<Hall>>,<<USA-TEX191
+Lane>>,<<Lane>>,<<USA-ORE039
+Custer>>,<<Custer>>,<<USA-SDA033
+Klamath>>,<<Klamath>>,<<USA-ORE035
+Hale>>,<<Hale>>,<<USA-TEX189
+Davison>>,<<Davison>>,<<USA-SDA035
+Lake>>,<<Lake>>,<<USA-ORE037
+Guadalupe>>,<<Guadalupe>>,<<USA-TEX187
+Jefferson>>,<<Jefferson>>,<<USA-ORE031
+Corson>>,<<Corson>>,<<USA-SDA031
+Grimes>>,<<Grimes>>,<<USA-TEX185
+Josephine>>,<<Josephine>>,<<USA-ORE033
+Day>>,<<Day>>,<<USA-SDA037
+Deuel>>,<<Deuel>>,<<USA-SDA039
+Grayson>>,<<Grayson>>,<<USA-TEX181
+Gregg>>,<<Gregg>>,<<USA-TEX183
+Jackson>>,<<Jackson>>,<<USA-ORE029
+Hood River>>,<<Hood River>>,<<USA-ORE027
+Gonzales>>,<<Gonzales>>,<<USA-TEX177
+Edmunds>>,<<Edmunds>>,<<USA-SDA045
+Harney>>,<<Harney>>,<<USA-ORE025
+Douglas>>,<<Douglas>>,<<USA-SDA043
+Gray>>,<<Gray>>,<<USA-TEX179
+Grant>>,<<Grant>>,<<USA-ORE023
+Glasscock>>,<<Glasscock>>,<<USA-TEX173
+Dewey>>,<<Dewey>>,<<USA-SDA041
+Gilliam>>,<<Gilliam>>,<<USA-ORE021
+Goliad>>,<<Goliad>>,<<USA-TEX175
+Faulk>>,<<Faulk>>,<<USA-SDA049
+Fall River>>,<<Fall River>>,<<USA-SDA047
+Maui>>,<<Maui>>,<<USA-HAW009
+Kauai>>,<<Kauai>>,<<USA-HAW007
+Kalawao>>,<<Kalawao>>,<<USA-HAW005
+Deschutes>>,<<Deschutes>>,<<USA-ORE017
+Honolulu>>,<<Honolulu>>,<<USA-HAW003
+Douglas>>,<<Douglas>>,<<USA-ORE019
+Hawaii>>,<<Hawaii>>,<<USA-HAW001
+Gillespie>>,<<Gillespie>>,<<USA-TEX171
+Gaines>>,<<Gaines>>,<<USA-TEX165
+Frio>>,<<Frio>>,<<USA-TEX163
+Coos>>,<<Coos>>,<<USA-ORE011
+Garza>>,<<Garza>>,<<USA-TEX169
+Brookings>>,<<Brookings>>,<<USA-SDA011
+Crook>>,<<Crook>>,<<USA-ORE013
+Galveston>>,<<Galveston>>,<<USA-TEX167
+Brown>>,<<Brown>>,<<USA-SDA013
+Curry>>,<<Curry>>,<<USA-ORE015
+Brule>>,<<Brule>>,<<USA-SDA015
+Buffalo>>,<<Buffalo>>,<<USA-SDA017
+Butte>>,<<Butte>>,<<USA-SDA019
+Columbia>>,<<Columbia>>,<<USA-ORE009
+Clatsop>>,<<Clatsop>>,<<USA-ORE007
+Freestone>>,<<Freestone>>,<<USA-TEX161
+Baker>>,<<Baker>>,<<USA-ORE001
+Fisher>>,<<Fisher>>,<<USA-TEX151
+Floyd>>,<<Floyd>>,<<USA-TEX153
+Clackamas>>,<<Clackamas>>,<<USA-ORE005
+Foard>>,<<Foard>>,<<USA-TEX155
+Charles Mix>>,<<Charles Mix>>,<<USA-SDA023
+Benton>>,<<Benton>>,<<USA-ORE003
+Campbell>>,<<Campbell>>,<<USA-SDA021
+Fort Bend>>,<<Fort Bend>>,<<USA-TEX157
+Franklin>>,<<Franklin>>,<<USA-TEX159
+Clay>>,<<Clay>>,<<USA-SDA027
+Clark>>,<<Clark>>,<<USA-SDA025
+Codington>>,<<Codington>>,<<USA-SDA029
+Stonewall>>,<<Stonewall>>,<<USA-TEX433
+Sterling>>,<<Sterling>>,<<USA-TEX431
+Graham>>,<<Graham>>,<<USA-ARZ009
+Gila>>,<<Gila>>,<<USA-ARZ007
+Worcester>>,<<Worcester>>,<<USA-MSS027
+Macoupin>>,<<Macoupin>>,<<USA-ILL117
+Coconino>>,<<Coconino>>,<<USA-ARZ005
+Madison>>,<<Madison>>,<<USA-ILL119
+Cochise>>,<<Cochise>>,<<USA-ARZ003
+Plymouth>>,<<Plymouth>>,<<USA-MSS023
+McLean>>,<<McLean>>,<<USA-ILL113
+Tarrant>>,<<Tarrant>>,<<USA-TEX439
+Suffolk>>,<<Suffolk>>,<<USA-MSS025
+Apache>>,<<Apache>>,<<USA-ARZ001
+Macon>>,<<Macon>>,<<USA-ILL115
+Swisher>>,<<Swisher>>,<<USA-TEX437
+Sutton>>,<<Sutton>>,<<USA-TEX435
+Norfolk>>,<<Norfolk>>,<<USA-MSS021
+McHenry>>,<<McHenry>>,<<USA-ILL111
+Anderson>>,<<Anderson>>,<<USA-TEX001
+Andrews>>,<<Andrews>>,<<USA-TEX003
+Archer>>,<<Archer>>,<<USA-TEX009
+Angelina>>,<<Angelina>>,<<USA-TEX005
+Aransas>>,<<Aransas>>,<<USA-TEX007
+Taylor>>,<<Taylor>>,<<USA-TEX441
+Terrell>>,<<Terrell>>,<<USA-TEX443
+McDonough>>,<<McDonough>>,<<USA-ILL109
+Logan>>,<<Logan>>,<<USA-ILL107
+Livingston>>,<<Livingston>>,<<USA-ILL105
+Titus>>,<<Titus>>,<<USA-TEX449
+Lee>>,<<Lee>>,<<USA-ILL103
+Lawrence>>,<<Lawrence>>,<<USA-ILL101
+Terry>>,<<Terry>>,<<USA-TEX445
+Throckmorton>>,<<Throckmorton>>,<<USA-TEX447
+Armstrong>>,<<Armstrong>>,<<USA-TEX011
+Austin>>,<<Austin>>,<<USA-TEX015
+Ogle>>,<<Ogle>>,<<USA-ILL141
+Atascosa>>,<<Atascosa>>,<<USA-TEX013
+Bandera>>,<<Bandera>>,<<USA-TEX019
+Bailey>>,<<Bailey>>,<<USA-TEX017
+Tom Green>>,<<Tom Green>>,<<USA-TEX451
+Bristol>>,<<Bristol>>,<<USA-MSS005
+Moultrie>>,<<Moultrie>>,<<USA-ILL139
+Yuma>>,<<Yuma>>,<<USA-ARZ027
+Dukes>>,<<Dukes>>,<<USA-MSS007
+Trinity>>,<<Trinity>>,<<USA-TEX455
+Essex>>,<<Essex>>,<<USA-MSS009
+Travis>>,<<Travis>>,<<USA-TEX453
+Upshur>>,<<Upshur>>,<<USA-TEX459
+Mercer>>,<<Mercer>>,<<USA-ILL131
+Pinal>>,<<Pinal>>,<<USA-ARZ021
+Tyler>>,<<Tyler>>,<<USA-TEX457
+Monroe>>,<<Monroe>>,<<USA-ILL133
+Barnstable>>,<<Barnstable>>,<<USA-MSS001
+Yavapai>>,<<Yavapai>>,<<USA-ARZ025
+Montgomery>>,<<Montgomery>>,<<USA-ILL135
+Santa Cruz>>,<<Santa Cruz>>,<<USA-ARZ023
+Morgan>>,<<Morgan>>,<<USA-ILL137
+Berkshire>>,<<Berkshire>>,<<USA-MSS003
+Bastrop>>,<<Bastrop>>,<<USA-TEX021
+Baylor>>,<<Baylor>>,<<USA-TEX023
+Bee>>,<<Bee>>,<<USA-TEX025
+Bell>>,<<Bell>>,<<USA-TEX027
+Bexar>>,<<Bexar>>,<<USA-TEX029
+Navajo>>,<<Navajo>>,<<USA-ARZ017
+Middlesex>>,<<Middlesex>>,<<USA-MSS017
+Hampshire>>,<<Hampshire>>,<<USA-MSS015
+Menard>>,<<Menard>>,<<USA-ILL129
+Pima>>,<<Pima>>,<<USA-ARZ019
+Upton>>,<<Upton>>,<<USA-TEX461
+Uvalde>>,<<Uvalde>>,<<USA-TEX463
+Nantucket>>,<<Nantucket>>,<<USA-MSS019
+Val Verde>>,<<Val Verde>>,<<USA-TEX465
+Marshall>>,<<Marshall>>,<<USA-ILL123
+Van Zandt>>,<<Van Zandt>>,<<USA-TEX467
+Marion>>,<<Marion>>,<<USA-ILL121
+Greenlee>>,<<Greenlee>>,<<USA-ARZ011
+Victoria>>,<<Victoria>>,<<USA-TEX469
+Massac>>,<<Massac>>,<<USA-ILL127
+Maricopa>>,<<Maricopa>>,<<USA-ARZ013
+Hampden>>,<<Hampden>>,<<USA-MSS013
+La Paz>>,<<La Paz>>,<<USA-ARZ012
+Mohave>>,<<Mohave>>,<<USA-ARZ015
+Franklin>>,<<Franklin>>,<<USA-MSS011
+Mason>>,<<Mason>>,<<USA-ILL125
+Webb>>,<<Webb>>,<<USA-TEX479
+Washington>>,<<Washington>>,<<USA-TEX477
+Ward>>,<<Ward>>,<<USA-TEX475
+Waller>>,<<Waller>>,<<USA-TEX473
+Walker>>,<<Walker>>,<<USA-TEX471
+Williamson>>,<<Williamson>>,<<USA-TEX491
+Willacy>>,<<Willacy>>,<<USA-TEX489
+Wichita>>,<<Wichita>>,<<USA-TEX485
+Wilbarger>>,<<Wilbarger>>,<<USA-TEX487
+Wharton>>,<<Wharton>>,<<USA-TEX481
+Wheeler>>,<<Wheeler>>,<<USA-TEX483
+Winkler>>,<<Winkler>>,<<USA-TEX495
+Wilson>>,<<Wilson>>,<<USA-TEX493
+Wood>>,<<Wood>>,<<USA-TEX499
+Wise>>,<<Wise>>,<<USA-TEX497
+Weber>>,<<Weber>>,<<USA-UTA057
+Sherman>>,<<Sherman>>,<<USA-KAN181
+Stafford>>,<<Stafford>>,<<USA-KAN185
+Washington>>,<<Washington>>,<<USA-UTA053
+Wayne>>,<<Wayne>>,<<USA-UTA055
+Smith>>,<<Smith>>,<<USA-KAN183
+Stevens>>,<<Stevens>>,<<USA-KAN189
+Stanton>>,<<Stanton>>,<<USA-KAN187
+Williamson>>,<<Williamson>>,<<USA-ILL199
+Will>>,<<Will>>,<<USA-ILL197
+Utah>>,<<Utah>>,<<USA-UTA049
+Uintah>>,<<Uintah>>,<<USA-UTA047
+Scott>>,<<Scott>>,<<USA-KAN171
+Tooele>>,<<Tooele>>,<<USA-UTA045
+Sedgwick>>,<<Sedgwick>>,<<USA-KAN173
+Summit>>,<<Summit>>,<<USA-UTA043
+Seward>>,<<Seward>>,<<USA-KAN175
+Shawnee>>,<<Shawnee>>,<<USA-KAN177
+Warren>>,<<Warren>>,<<USA-ILL187
+Sheridan>>,<<Sheridan>>,<<USA-KAN179
+Washington>>,<<Washington>>,<<USA-ILL189
+White>>,<<White>>,<<USA-ILL193
+Whiteside>>,<<Whiteside>>,<<USA-ILL195
+Wayne>>,<<Wayne>>,<<USA-ILL191
+Wasatch>>,<<Wasatch>>,<<USA-UTA051
+Rooks>>,<<Rooks>>,<<USA-KAN163
+Riley>>,<<Riley>>,<<USA-KAN161
+Saline>>,<<Saline>>,<<USA-KAN169
+Russell>>,<<Russell>>,<<USA-KAN167
+Rush>>,<<Rush>>,<<USA-KAN165
+Pratt>>,<<Pratt>>,<<USA-KAN151
+Republic>>,<<Republic>>,<<USA-KAN157
+Rice>>,<<Rice>>,<<USA-KAN159
+Rawlins>>,<<Rawlins>>,<<USA-KAN153
+Reno>>,<<Reno>>,<<USA-KAN155
+Richland>>,<<Richland>>,<<USA-ILL159
+Midland>>,<<Midland>>,<<USA-MCH111
+Randolph>>,<<Randolph>>,<<USA-ILL157
+Missaukee>>,<<Missaukee>>,<<USA-MCH113
+Putnam>>,<<Putnam>>,<<USA-ILL155
+Garfield>>,<<Garfield>>,<<USA-UTA017
+Pulaski>>,<<Pulaski>>,<<USA-ILL153
+Grand>>,<<Grand>>,<<USA-UTA019
+Montmorency>>,<<Montmorency>>,<<USA-MCH119
+Duchesne>>,<<Duchesne>>,<<USA-UTA013
+Emery>>,<<Emery>>,<<USA-UTA015
+Monroe>>,<<Monroe>>,<<USA-MCH115
+Montcalm>>,<<Montcalm>>,<<USA-MCH117
+Davis>>,<<Davis>>,<<USA-UTA011
+St. Clair>>,<<St. Clair>>,<<USA-ILL163
+Rock Island>>,<<Rock Island>>,<<USA-ILL161
+San Jacinto>>,<<San Jacinto>>,<<USA-TEX407
+Piatt>>,<<Piatt>>,<<USA-ILL147
+Oakland>>,<<Oakland>>,<<USA-MCH125
+San Augustine>>,<<San Augustine>>,<<USA-TEX405
+Pike>>,<<Pike>>,<<USA-ILL149
+Newaygo>>,<<Newaygo>>,<<USA-MCH123
+Sabine>>,<<Sabine>>,<<USA-TEX403
+Daggett>>,<<Daggett>>,<<USA-UTA009
+Muskegon>>,<<Muskegon>>,<<USA-MCH121
+Peoria>>,<<Peoria>>,<<USA-ILL143
+Rusk>>,<<Rusk>>,<<USA-TEX401
+Carbon>>,<<Carbon>>,<<USA-UTA007
+Perry>>,<<Perry>>,<<USA-ILL145
+Cache>>,<<Cache>>,<<USA-UTA005
+Box Elder>>,<<Box Elder>>,<<USA-UTA003
+Beaver>>,<<Beaver>>,<<USA-UTA001
+Ogemaw>>,<<Ogemaw>>,<<USA-MCH129
+Oceana>>,<<Oceana>>,<<USA-MCH127
+Pope>>,<<Pope>>,<<USA-ILL151
+San Patricio>>,<<San Patricio>>,<<USA-TEX409
+Stephenson>>,<<Stephenson>>,<<USA-ILL177
+Sanpete>>,<<Sanpete>>,<<USA-UTA039
+Schleicher>>,<<Schleicher>>,<<USA-TEX413
+Stark>>,<<Stark>>,<<USA-ILL175
+Scurry>>,<<Scurry>>,<<USA-TEX415
+Shackelford>>,<<Shackelford>>,<<USA-TEX417
+Tazewell>>,<<Tazewell>>,<<USA-ILL179
+Shelby>>,<<Shelby>>,<<USA-TEX419
+Piute>>,<<Piute>>,<<USA-UTA031
+Rich>>,<<Rich>>,<<USA-UTA033
+Salt Lake>>,<<Salt Lake>>,<<USA-UTA035
+San Saba>>,<<San Saba>>,<<USA-TEX411
+San Juan>>,<<San Juan>>,<<USA-UTA037
+Sevier>>,<<Sevier>>,<<USA-UTA041
+Union>>,<<Union>>,<<USA-ILL181
+Wabash>>,<<Wabash>>,<<USA-ILL185
+Vermilion>>,<<Vermilion>>,<<USA-ILL183
+Somervell>>,<<Somervell>>,<<USA-TEX425
+Saline>>,<<Saline>>,<<USA-ILL165
+Morgan>>,<<Morgan>>,<<USA-UTA029
+Smith>>,<<Smith>>,<<USA-TEX423
+Sangamon>>,<<Sangamon>>,<<USA-ILL167
+Stephens>>,<<Stephens>>,<<USA-TEX429
+Wabaunsee>>,<<Wabaunsee>>,<<USA-KAN197
+Marquette>>,<<Marquette>>,<<USA-MCH103
+Schuyler>>,<<Schuyler>>,<<USA-ILL169
+Starr>>,<<Starr>>,<<USA-TEX427
+Wallace>>,<<Wallace>>,<<USA-KAN199
+Manistee>>,<<Manistee>>,<<USA-MCH101
+Juab>>,<<Juab>>,<<USA-UTA023
+Thomas>>,<<Thomas>>,<<USA-KAN193
+Mecosta>>,<<Mecosta>>,<<USA-MCH107
+Trego>>,<<Trego>>,<<USA-KAN195
+Iron>>,<<Iron>>,<<USA-UTA021
+Mason>>,<<Mason>>,<<USA-MCH105
+Sherman>>,<<Sherman>>,<<USA-TEX421
+Millard>>,<<Millard>>,<<USA-UTA027
+Kane>>,<<Kane>>,<<USA-UTA025
+Sumner>>,<<Sumner>>,<<USA-KAN191
+Menominee>>,<<Menominee>>,<<USA-MCH109
+Scott>>,<<Scott>>,<<USA-ILL171
+Shelby>>,<<Shelby>>,<<USA-ILL173
+Taos>>,<<Taos>>,<<USA-NME055
+Shelby>>,<<Shelby>>,<<USA-ALB117
+Torrance>>,<<Torrance>>,<<USA-NME057
+Sumter>>,<<Sumter>>,<<USA-ALB119
+Sierra>>,<<Sierra>>,<<USA-NME051
+Russell>>,<<Russell>>,<<USA-ALB113
+Socorro>>,<<Socorro>>,<<USA-NME053
+St. Clair>>,<<St. Clair>>,<<USA-ALB115
+Wayne>>,<<Wayne>>,<<USA-MCH163
+Wexford>>,<<Wexford>>,<<USA-MCH165
+Randolph>>,<<Randolph>>,<<USA-ALB111
+Union>>,<<Union>>,<<USA-NME059
+Washtenaw>>,<<Washtenaw>>,<<USA-MCH161
+Moody>>,<<Moody>>,<<USA-SDA101
+Pennington>>,<<Pennington>>,<<USA-SDA103
+Perkins>>,<<Perkins>>,<<USA-SDA105
+Potter>>,<<Potter>>,<<USA-SDA107
+Pike>>,<<Pike>>,<<USA-ALB109
+Roberts>>,<<Roberts>>,<<USA-SDA109
+Pickens>>,<<Pickens>>,<<USA-ALB107
+San Juan>>,<<San Juan>>,<<USA-NME045
+Perry>>,<<Perry>>,<<USA-ALB105
+Sandoval>>,<<Sandoval>>,<<USA-NME043
+Van Buren>>,<<Van Buren>>,<<USA-MCH159
+Morgan>>,<<Morgan>>,<<USA-ALB103
+Roosevelt>>,<<Roosevelt>>,<<USA-NME041
+Montgomery>>,<<Montgomery>>,<<USA-ALB101
+Schoolcraft>>,<<Schoolcraft>>,<<USA-MCH153
+Sanilac>>,<<Sanilac>>,<<USA-MCH151
+Santa Fe>>,<<Santa Fe>>,<<USA-NME049
+Tuscola>>,<<Tuscola>>,<<USA-MCH157
+San Miguel>>,<<San Miguel>>,<<USA-NME047
+Shiawassee>>,<<Shiawassee>>,<<USA-MCH155
+Sanborn>>,<<Sanborn>>,<<USA-SDA111
+Sully>>,<<Sully>>,<<USA-SDA119
+Stanley>>,<<Stanley>>,<<USA-SDA117
+Spink>>,<<Spink>>,<<USA-SDA115
+Shannon>>,<<Shannon>>,<<USA-SDA113
+St. Joseph>>,<<St. Joseph>>,<<USA-MCH149
+Saginaw>>,<<Saginaw>>,<<USA-MCH145
+St. Clair>>,<<St. Clair>>,<<USA-MCH147
+Presque Isle>>,<<Presque Isle>>,<<USA-MCH141
+Roscommon>>,<<Roscommon>>,<<USA-MCH143
+Wilson>>,<<Wilson>>,<<USA-KAN205
+Todd>>,<<Todd>>,<<USA-SDA121
+Woodson>>,<<Woodson>>,<<USA-KAN207
+Tripp>>,<<Tripp>>,<<USA-SDA123
+Wyandotte>>,<<Wyandotte>>,<<USA-KAN209
+Walworth>>,<<Walworth>>,<<USA-SDA129
+Turner>>,<<Turner>>,<<USA-SDA125
+Union>>,<<Union>>,<<USA-SDA127
+Valencia>>,<<Valencia>>,<<USA-NME061
+Ottawa>>,<<Ottawa>>,<<USA-MCH139
+Otsego>>,<<Otsego>>,<<USA-MCH137
+Oscoda>>,<<Oscoda>>,<<USA-MCH135
+Osceola>>,<<Osceola>>,<<USA-MCH133
+Ontonagon>>,<<Ontonagon>>,<<USA-MCH131
+Washington>>,<<Washington>>,<<USA-KAN201
+Wichita>>,<<Wichita>>,<<USA-KAN203
+Guadalupe>>,<<Guadalupe>>,<<USA-NME019
+Eddy>>,<<Eddy>>,<<USA-NME015
+Grant>>,<<Grant>>,<<USA-NME017
+De Baca>>,<<De Baca>>,<<USA-NME011
+Do?a Ana>>,<<Do?a Ana>>,<<USA-NME013
+Curry>>,<<Curry>>,<<USA-NME009
+Colfax>>,<<Colfax>>,<<USA-NME007
+Chaves>>,<<Chaves>>,<<USA-NME005
+Cibola>>,<<Cibola>>,<<USA-NME006
+Catron>>,<<Catron>>,<<USA-NME003
+Bernalillo>>,<<Bernalillo>>,<<USA-NME001
+Quay>>,<<Quay>>,<<USA-NME037
+Rio Arriba>>,<<Rio Arriba>>,<<USA-NME039
+McKinley>>,<<McKinley>>,<<USA-NME031
+Mora>>,<<Mora>>,<<USA-NME033
+Otero>>,<<Otero>>,<<USA-NME035
+Lincoln>>,<<Lincoln>>,<<USA-NME027
+Los Alamos>>,<<Los Alamos>>,<<USA-NME028
+Lea>>,<<Lea>>,<<USA-NME025
+Luna>>,<<Luna>>,<<USA-NME029
+Hidalgo>>,<<Hidalgo>>,<<USA-NME023
+Harding>>,<<Harding>>,<<USA-NME021
+Comal>>,<<Comal>>,<<USA-TEX091
+Concho>>,<<Concho>>,<<USA-TEX095
+Comanche>>,<<Comanche>>,<<USA-TEX093
+Collingsworth>>,<<Collingsworth>>,<<USA-TEX087
+Collin>>,<<Collin>>,<<USA-TEX085
+Colorado>>,<<Colorado>>,<<USA-TEX089
+Coke>>,<<Coke>>,<<USA-TEX081
+Coleman>>,<<Coleman>>,<<USA-TEX083
+Childress>>,<<Childress>>,<<USA-TEX075
+Clay>>,<<Clay>>,<<USA-TEX077
+Cochran>>,<<Cochran>>,<<USA-TEX079
+St. Louis>>,<<St. Louis>>,<<USA-MOS510
+Cooke>>,<<Cooke>>,<<USA-TEX097
+Coryell>>,<<Coryell>>,<<USA-TEX099
+Burleson>>,<<Burleson>>,<<USA-TEX051
+Yankton>>,<<Yankton>>,<<USA-SDA135
+Brown>>,<<Brown>>,<<USA-TEX049
+Ziebach>>,<<Ziebach>>,<<USA-SDA137
+Brewster>>,<<Brewster>>,<<USA-TEX043
+Brazos>>,<<Brazos>>,<<USA-TEX041
+Brooks>>,<<Brooks>>,<<USA-TEX047
+Briscoe>>,<<Briscoe>>,<<USA-TEX045
+Brazoria>>,<<Brazoria>>,<<USA-TEX039
+Blanco>>,<<Blanco>>,<<USA-TEX031
+Borden>>,<<Borden>>,<<USA-TEX033
+Bosque>>,<<Bosque>>,<<USA-TEX035
+Bowie>>,<<Bowie>>,<<USA-TEX037
+Cherokee>>,<<Cherokee>>,<<USA-TEX073
+Chambers>>,<<Chambers>>,<<USA-TEX071
+Winston>>,<<Winston>>,<<USA-ALB133
+Wilcox>>,<<Wilcox>>,<<USA-ALB131
+Castro>>,<<Castro>>,<<USA-TEX069
+Cass>>,<<Cass>>,<<USA-TEX067
+Carson>>,<<Carson>>,<<USA-TEX065
+Camp>>,<<Camp>>,<<USA-TEX063
+Cameron>>,<<Cameron>>,<<USA-TEX061
+Talladega>>,<<Talladega>>,<<USA-ALB121
+Tallapoosa>>,<<Tallapoosa>>,<<USA-ALB123
+Tuscaloosa>>,<<Tuscaloosa>>,<<USA-ALB125
+Walker>>,<<Walker>>,<<USA-ALB127
+Washington>>,<<Washington>>,<<USA-ALB129
+Calhoun>>,<<Calhoun>>,<<USA-TEX057
+Callahan>>,<<Callahan>>,<<USA-TEX059
+Burnet>>,<<Burnet>>,<<USA-TEX053
+Caldwell>>,<<Caldwell>>,<<USA-TEX055
+Howard>>,<<Howard>>,<<USA-NEB093
+Hooker>>,<<Hooker>>,<<USA-NEB091
+Johnson>>,<<Johnson>>,<<USA-NEB097
+Jefferson>>,<<Jefferson>>,<<USA-NEB095
+Kearney>>,<<Kearney>>,<<USA-NEB099
+Hamilton>>,<<Hamilton>>,<<USA-NEB081
+Harlan>>,<<Harlan>>,<<USA-NEB083
+Hayes>>,<<Hayes>>,<<USA-NEB085
+Hitchcock>>,<<Hitchcock>>,<<USA-NEB087
+Holt>>,<<Holt>>,<<USA-NEB089
+Dundy>>,<<Dundy>>,<<USA-NEB057
+Douglas>>,<<Douglas>>,<<USA-NEB055
+Fillmore>>,<<Fillmore>>,<<USA-NEB059
+Calhoun>>,<<Calhoun>>,<<USA-WVR013
+Cabell>>,<<Cabell>>,<<USA-WVR011
+Doddridge>>,<<Doddridge>>,<<USA-WVR017
+Dodge>>,<<Dodge>>,<<USA-NEB053
+Clay>>,<<Clay>>,<<USA-WVR015
+Dixon>>,<<Dixon>>,<<USA-NEB051
+Northwest Arctic>>,<<Northwest Arctic>>,<<USA-ALK188
+Fayette>>,<<Fayette>>,<<USA-WVR019
+North Slope>>,<<North Slope>>,<<USA-ALK185
+Dakota>>,<<Dakota>>,<<USA-NEB043
+Dawes>>,<<Dawes>>,<<USA-NEB045
+Dawson>>,<<Dawson>>,<<USA-NEB047
+Gilmer>>,<<Gilmer>>,<<USA-WVR021
+Deuel>>,<<Deuel>>,<<USA-NEB049
+Grant>>,<<Grant>>,<<USA-WVR023
+Nome>>,<<Nome>>,<<USA-ALK180
+Greenbrier>>,<<Greenbrier>>,<<USA-WVR025
+Hampshire>>,<<Hampshire>>,<<USA-WVR027
+Hancock>>,<<Hancock>>,<<USA-WVR029
+Custer>>,<<Custer>>,<<USA-NEB041
+Orange>>,<<Orange>>,<<USA-FLA095
+Okeechobee>>,<<Okeechobee>>,<<USA-FLA093
+Palm Beach>>,<<Palm Beach>>,<<USA-FLA099
+Osceola>>,<<Osceola>>,<<USA-FLA097
+Hall>>,<<Hall>>,<<USA-NEB079
+Greeley>>,<<Greeley>>,<<USA-NEB077
+Grant>>,<<Grant>>,<<USA-NEB075
+Gosper>>,<<Gosper>>,<<USA-NEB073
+Garfield>>,<<Garfield>>,<<USA-NEB071
+Garden>>,<<Garden>>,<<USA-NEB069
+Furnas>>,<<Furnas>>,<<USA-NEB065
+Gage>>,<<Gage>>,<<USA-NEB067
+Boone>>,<<Boone>>,<<USA-WVR005
+Franklin>>,<<Franklin>>,<<USA-NEB061
+Braxton>>,<<Braxton>>,<<USA-WVR007
+Frontier>>,<<Frontier>>,<<USA-NEB063
+Barbour>>,<<Barbour>>,<<USA-WVR001
+Berkeley>>,<<Berkeley>>,<<USA-WVR003
+Petersburg>>,<<Petersburg>>,<<USA-ALK195
+Brooke>>,<<Brooke>>,<<USA-WVR009
+Prince of Wales-Hyder>>,<<Prince of Wales-Hyder>>,<<USA-ALK198
+Mobile>>,<<Mobile>>,<<USA-ALB097
+Monroe>>,<<Monroe>>,<<USA-ALB099
+St. Croix>>,<<St. Croix>>,<<USA-WIS109
+Marion>>,<<Marion>>,<<USA-ALB093
+Marshall>>,<<Marshall>>,<<USA-ALB095
+Richland>>,<<Richland>>,<<USA-WIS103
+Racine>>,<<Racine>>,<<USA-WIS101
+Rusk>>,<<Rusk>>,<<USA-WIS107
+Rock>>,<<Rock>>,<<USA-WIS105
+Madison>>,<<Madison>>,<<USA-ALB089
+Taylor>>,<<Taylor>>,<<USA-WIS119
+Macon>>,<<Macon>>,<<USA-ALB087
+Lowndes>>,<<Lowndes>>,<<USA-ALB085
+Limestone>>,<<Limestone>>,<<USA-ALB083
+Sauk>>,<<Sauk>>,<<USA-WIS111
+Marengo>>,<<Marengo>>,<<USA-ALB091
+Sawyer>>,<<Sawyer>>,<<USA-WIS113
+Shawano>>,<<Shawano>>,<<USA-WIS115
+Sheboygan>>,<<Sheboygan>>,<<USA-WIS117
+Westchester>>,<<Westchester>>,<<USA-NYO119
+Washington>>,<<Washington>>,<<USA-NYO115
+Wayne>>,<<Wayne>>,<<USA-NYO117
+Ulster>>,<<Ulster>>,<<USA-NYO111
+Warren>>,<<Warren>>,<<USA-NYO113
+Yates>>,<<Yates>>,<<USA-NYO123
+Wyoming>>,<<Wyoming>>,<<USA-NYO121
+Sullivan>>,<<Sullivan>>,<<USA-NYO105
+Suffolk>>,<<Suffolk>>,<<USA-NYO103
+Tompkins>>,<<Tompkins>>,<<USA-NYO109
+Tioga>>,<<Tioga>>,<<USA-NYO107
+Steuben>>,<<Steuben>>,<<USA-NYO101
+Seminole>>,<<Seminole>>,<<USA-OKL133
+Sequoyah>>,<<Sequoyah>>,<<USA-OKL135
+Covington>>,<<Covington>>,<<USA-MSP031
+Menominee>>,<<Menominee>>,<<USA-WIS078
+Rogers>>,<<Rogers>>,<<USA-OKL131
+Milwaukee>>,<<Milwaukee>>,<<USA-WIS079
+Marquette>>,<<Marquette>>,<<USA-WIS077
+Marinette>>,<<Marinette>>,<<USA-WIS075
+Marathon>>,<<Marathon>>,<<USA-WIS073
+Manitowoc>>,<<Manitowoc>>,<<USA-WIS071
+Baldwin>>,<<Baldwin>>,<<USA-ALB003
+Barbour>>,<<Barbour>>,<<USA-ALB005
+Copiah>>,<<Copiah>>,<<USA-MSP029
+Bibb>>,<<Bibb>>,<<USA-ALB007
+Blount>>,<<Blount>>,<<USA-ALB009
+Clarke>>,<<Clarke>>,<<USA-MSP023
+Claiborne>>,<<Claiborne>>,<<USA-MSP021
+Stephens>>,<<Stephens>>,<<USA-OKL137
+Coahoma>>,<<Coahoma>>,<<USA-MSP027
+Texas>>,<<Texas>>,<<USA-OKL139
+Clay>>,<<Clay>>,<<USA-MSP025
+Autauga>>,<<Autauga>>,<<USA-ALB001
+Washington>>,<<Washington>>,<<USA-OKL147
+Wagoner>>,<<Wagoner>>,<<USA-OKL145
+Tulsa>>,<<Tulsa>>,<<USA-OKL143
+Langlade>>,<<Langlade>>,<<USA-WIS067
+Lincoln>>,<<Lincoln>>,<<USA-WIS069
+Tillman>>,<<Tillman>>,<<USA-OKL141
+La Crosse>>,<<La Crosse>>,<<USA-WIS063
+Big Horn>>,<<Big Horn>>,<<USA-MNT003
+Blaine>>,<<Blaine>>,<<USA-MNT005
+Lafayette>>,<<Lafayette>>,<<USA-WIS065
+Beaverhead>>,<<Beaverhead>>,<<USA-MNT001
+Kewaunee>>,<<Kewaunee>>,<<USA-WIS061
+Choctaw>>,<<Choctaw>>,<<USA-MSP019
+Calhoun>>,<<Calhoun>>,<<USA-ALB015
+Butler>>,<<Butler>>,<<USA-ALB013
+Cherokee>>,<<Cherokee>>,<<USA-ALB019
+Broadwater>>,<<Broadwater>>,<<USA-MNT007
+Chambers>>,<<Chambers>>,<<USA-ALB017
+Carbon>>,<<Carbon>>,<<USA-MNT009
+Bolivar>>,<<Bolivar>>,<<USA-MSP011
+Calhoun>>,<<Calhoun>>,<<USA-MSP013
+Bullock>>,<<Bullock>>,<<USA-ALB011
+Carroll>>,<<Carroll>>,<<USA-MSP015
+Chickasaw>>,<<Chickasaw>>,<<USA-MSP017
+Washita>>,<<Washita>>,<<USA-OKL149
+Kenosha>>,<<Kenosha>>,<<USA-WIS059
+Juneau>>,<<Juneau>>,<<USA-WIS057
+Okmulgee>>,<<Okmulgee>>,<<USA-OKL111
+Osage>>,<<Osage>>,<<USA-OKL113
+Carter>>,<<Carter>>,<<USA-MNT011
+Iron>>,<<Iron>>,<<USA-WIS051
+Chouteau>>,<<Chouteau>>,<<USA-MNT015
+Jefferson>>,<<Jefferson>>,<<USA-WIS055
+Cascade>>,<<Cascade>>,<<USA-MNT013
+Jackson>>,<<Jackson>>,<<USA-WIS053
+Daniels>>,<<Daniels>>,<<USA-MNT019
+Cleburne>>,<<Cleburne>>,<<USA-ALB029
+Custer>>,<<Custer>>,<<USA-MNT017
+Benton>>,<<Benton>>,<<USA-MSP009
+Clarke>>,<<Clarke>>,<<USA-ALB025
+Attala>>,<<Attala>>,<<USA-MSP007
+Clay>>,<<Clay>>,<<USA-ALB027
+Ottawa>>,<<Ottawa>>,<<USA-OKL115
+Amite>>,<<Amite>>,<<USA-MSP005
+Chilton>>,<<Chilton>>,<<USA-ALB021
+Pawnee>>,<<Pawnee>>,<<USA-OKL117
+Choctaw>>,<<Choctaw>>,<<USA-ALB023
+Alcorn>>,<<Alcorn>>,<<USA-MSP003
+Payne>>,<<Payne>>,<<USA-OKL119
+Adams>>,<<Adams>>,<<USA-MSP001
+Green>>,<<Green>>,<<USA-WIS045
+Pittsburg>>,<<Pittsburg>>,<<USA-OKL121
+Green Lake>>,<<Green Lake>>,<<USA-WIS047
+Pottawatomie>>,<<Pottawatomie>>,<<USA-OKL125
+Iowa>>,<<Iowa>>,<<USA-WIS049
+Pontotoc>>,<<Pontotoc>>,<<USA-OKL123
+Dawson>>,<<Dawson>>,<<USA-MNT021
+Deer Lodge>>,<<Deer Lodge>>,<<USA-MNT023
+Forest>>,<<Forest>>,<<USA-WIS041
+Fallon>>,<<Fallon>>,<<USA-MNT025
+Grant>>,<<Grant>>,<<USA-WIS043
+Fergus>>,<<Fergus>>,<<USA-MNT027
+Flathead>>,<<Flathead>>,<<USA-MNT029
+Baker>>,<<Baker>>,<<USA-FLA003
+Covington>>,<<Covington>>,<<USA-ALB039
+Bay>>,<<Bay>>,<<USA-FLA005
+Coosa>>,<<Coosa>>,<<USA-ALB037
+Bradford>>,<<Bradford>>,<<USA-FLA007
+Conecuh>>,<<Conecuh>>,<<USA-ALB035
+Brevard>>,<<Brevard>>,<<USA-FLA009
+Colbert>>,<<Colbert>>,<<USA-ALB033
+Roger Mills>>,<<Roger Mills>>,<<USA-OKL129
+Coffee>>,<<Coffee>>,<<USA-ALB031
+Pushmataha>>,<<Pushmataha>>,<<USA-OKL127
+Alachua>>,<<Alachua>>,<<USA-FLA001
+Golden Valley>>,<<Golden Valley>>,<<USA-MNT037
+Dunn>>,<<Dunn>>,<<USA-WIS033
+Wayne>>,<<Wayne>>,<<USA-IOW185
+Glacier>>,<<Glacier>>,<<USA-MNT035
+Douglas>>,<<Douglas>>,<<USA-WIS031
+Webster>>,<<Webster>>,<<USA-IOW187
+Garfield>>,<<Garfield>>,<<USA-MNT033
+Warren>>,<<Warren>>,<<USA-IOW181
+Gallatin>>,<<Gallatin>>,<<USA-MNT031
+Washington>>,<<Washington>>,<<USA-IOW183
+Fond du Lac>>,<<Fond du Lac>>,<<USA-WIS039
+Florence>>,<<Florence>>,<<USA-WIS037
+Eau Claire>>,<<Eau Claire>>,<<USA-WIS035
+Crenshaw>>,<<Crenshaw>>,<<USA-ALB041
+Cullman>>,<<Cullman>>,<<USA-ALB043
+Dale>>,<<Dale>>,<<USA-ALB045
+Dallas>>,<<Dallas>>,<<USA-ALB047
+DeKalb>>,<<DeKalb>>,<<USA-ALB049
+Van Buren>>,<<Van Buren>>,<<USA-IOW177
+Granite>>,<<Granite>>,<<USA-MNT039
+Wapello>>,<<Wapello>>,<<USA-IOW179
+Union>>,<<Union>>,<<USA-IOW175
+Lake>>,<<Lake>>,<<USA-MNT047
+Taylor>>,<<Taylor>>,<<USA-IOW173
+Lewis and Clark>>,<<Lewis and Clark>>,<<USA-MNT049
+Columbia>>,<<Columbia>>,<<USA-WIS021
+Tama>>,<<Tama>>,<<USA-IOW171
+Jefferson>>,<<Jefferson>>,<<USA-MNT043
+Judith Basin>>,<<Judith Basin>>,<<USA-MNT045
+Noble>>,<<Noble>>,<<USA-OKL103
+Dodge>>,<<Dodge>>,<<USA-WIS027
+Door>>,<<Door>>,<<USA-WIS029
+Muskogee>>,<<Muskogee>>,<<USA-OKL101
+Hill>>,<<Hill>>,<<USA-MNT041
+Crawford>>,<<Crawford>>,<<USA-WIS023
+Dane>>,<<Dane>>,<<USA-WIS025
+Elmore>>,<<Elmore>>,<<USA-ALB051
+Oklahoma>>,<<Oklahoma>>,<<USA-OKL109
+Okfuskee>>,<<Okfuskee>>,<<USA-OKL107
+Etowah>>,<<Etowah>>,<<USA-ALB055
+Nowata>>,<<Nowata>>,<<USA-OKL105
+Escambia>>,<<Escambia>>,<<USA-ALB053
+Franklin>>,<<Franklin>>,<<USA-ALB059
+Fayette>>,<<Fayette>>,<<USA-ALB057
+Story>>,<<Story>>,<<USA-IOW169
+Sioux>>,<<Sioux>>,<<USA-IOW167
+McCone>>,<<McCone>>,<<USA-MNT055
+Lincoln>>,<<Lincoln>>,<<USA-MNT053
+Meagher>>,<<Meagher>>,<<USA-MNT059
+Buffalo>>,<<Buffalo>>,<<USA-WIS011
+Madison>>,<<Madison>>,<<USA-MNT057
+Calumet>>,<<Calumet>>,<<USA-WIS015
+Burnett>>,<<Burnett>>,<<USA-WIS013
+Liberty>>,<<Liberty>>,<<USA-MNT051
+Clark>>,<<Clark>>,<<USA-WIS019
+Chippewa>>,<<Chippewa>>,<<USA-WIS017
+Hale>>,<<Hale>>,<<USA-ALB065
+Henry>>,<<Henry>>,<<USA-ALB067
+Union>>,<<Union>>,<<USA-NJR039
+Geneva>>,<<Geneva>>,<<USA-ALB061
+Sussex>>,<<Sussex>>,<<USA-NJR037
+Greene>>,<<Greene>>,<<USA-ALB063
+Somerset>>,<<Somerset>>,<<USA-NJR035
+Salem>>,<<Salem>>,<<USA-NJR033
+Passaic>>,<<Passaic>>,<<USA-NJR031
+Houston>>,<<Houston>>,<<USA-ALB069
+Woodbury>>,<<Woodbury>>,<<USA-IOW193
+Musselshell>>,<<Musselshell>>,<<USA-MNT065
+Winneshiek>>,<<Winneshiek>>,<<USA-IOW191
+Park>>,<<Park>>,<<USA-MNT067
+Wright>>,<<Wright>>,<<USA-IOW197
+Petroleum>>,<<Petroleum>>,<<USA-MNT069
+Worth>>,<<Worth>>,<<USA-IOW195
+Adams>>,<<Adams>>,<<USA-WIS001
+Lee>>,<<Lee>>,<<USA-ALB081
+Ashland>>,<<Ashland>>,<<USA-WIS003
+Mineral>>,<<Mineral>>,<<USA-MNT061
+Barron>>,<<Barron>>,<<USA-WIS005
+Missoula>>,<<Missoula>>,<<USA-MNT063
+Bayfield>>,<<Bayfield>>,<<USA-WIS007
+Brown>>,<<Brown>>,<<USA-WIS009
+Lauderdale>>,<<Lauderdale>>,<<USA-ALB077
+Lamar>>,<<Lamar>>,<<USA-ALB075
+Jefferson>>,<<Jefferson>>,<<USA-ALB073
+Jackson>>,<<Jackson>>,<<USA-ALB071
+Winnebago>>,<<Winnebago>>,<<USA-IOW189
+Warren>>,<<Warren>>,<<USA-NJR041
+Lawrence>>,<<Lawrence>>,<<USA-ALB079
+Hillsborough>>,<<Hillsborough>>,<<USA-FLA057
+Cumberland>>,<<Cumberland>>,<<USA-NJR011
+Holmes>>,<<Holmes>>,<<USA-FLA059
+Nuckolls>>,<<Nuckolls>>,<<USA-NEB129
+Clark>>,<<Clark>>,<<USA-IND019
+Essex>>,<<Essex>>,<<USA-NJR013
+Hernando>>,<<Hernando>>,<<USA-FLA053
+Cass>>,<<Cass>>,<<USA-IND017
+Gloucester>>,<<Gloucester>>,<<USA-NJR015
+Ketchikan Gateway>>,<<Ketchikan Gateway>>,<<USA-ALK130
+Highlands>>,<<Highlands>>,<<USA-FLA055
+Carroll>>,<<Carroll>>,<<USA-IND015
+Hudson>>,<<Hudson>>,<<USA-NJR017
+Brown>>,<<Brown>>,<<USA-IND013
+Hendry>>,<<Hendry>>,<<USA-FLA051
+Hunterdon>>,<<Hunterdon>>,<<USA-NJR019
+Boone>>,<<Boone>>,<<USA-IND011
+Clay>>,<<Clay>>,<<USA-IND021
+Nemaha>>,<<Nemaha>>,<<USA-NEB127
+Nance>>,<<Nance>>,<<USA-NEB125
+Morrill>>,<<Morrill>>,<<USA-NEB123
+Merrick>>,<<Merrick>>,<<USA-NEB121
+Middlesex>>,<<Middlesex>>,<<USA-NJR023
+Pierce>>,<<Pierce>>,<<USA-NEB139
+Mercer>>,<<Mercer>>,<<USA-NJR021
+Lake>>,<<Lake>>,<<USA-FLA069
+Daviess>>,<<Daviess>>,<<USA-IND027
+Lafayette>>,<<Lafayette>>,<<USA-FLA067
+Morris>>,<<Morris>>,<<USA-NJR027
+Dearborn>>,<<Dearborn>>,<<USA-IND029
+Neshoba>>,<<Neshoba>>,<<USA-MSP099
+Monmouth>>,<<Monmouth>>,<<USA-NJR025
+Jefferson>>,<<Jefferson>>,<<USA-FLA065
+Clinton>>,<<Clinton>>,<<USA-IND023
+Jackson>>,<<Jackson>>,<<USA-FLA063
+Crawford>>,<<Crawford>>,<<USA-IND025
+Ocean>>,<<Ocean>>,<<USA-NJR029
+Indian River>>,<<Indian River>>,<<USA-FLA061
+Decatur>>,<<Decatur>>,<<USA-IND031
+Perkins>>,<<Perkins>>,<<USA-NEB135
+Phelps>>,<<Phelps>>,<<USA-NEB137
+Otoe>>,<<Otoe>>,<<USA-NEB131
+Pawnee>>,<<Pawnee>>,<<USA-NEB133
+Madison>>,<<Madison>>,<<USA-FLA079
+Lee>>,<<Lee>>,<<USA-FLA071
+Leon>>,<<Leon>>,<<USA-FLA073
+Kodiak Island>>,<<Kodiak Island>>,<<USA-ALK150
+Levy>>,<<Levy>>,<<USA-FLA075
+Lowndes>>,<<Lowndes>>,<<USA-MSP087
+Liberty>>,<<Liberty>>,<<USA-FLA077
+Madison>>,<<Madison>>,<<USA-MSP089
+Monroe>>,<<Monroe>>,<<USA-MSP095
+Montgomery>>,<<Montgomery>>,<<USA-MSP097
+Marion>>,<<Marion>>,<<USA-MSP091
+Platte>>,<<Platte>>,<<USA-NEB141
+Manatee>>,<<Manatee>>,<<USA-FLA081
+Marshall>>,<<Marshall>>,<<USA-MSP093
+Red Willow>>,<<Red Willow>>,<<USA-NEB145
+Polk>>,<<Polk>>,<<USA-NEB143
+Rock>>,<<Rock>>,<<USA-NEB149
+Richardson>>,<<Richardson>>,<<USA-NEB147
+Blackford>>,<<Blackford>>,<<USA-IND009
+Atlantic>>,<<Atlantic>>,<<USA-NJR001
+Adams>>,<<Adams>>,<<USA-IND001
+Cape May>>,<<Cape May>>,<<USA-NJR009
+Martin>>,<<Martin>>,<<USA-FLA085
+Allen>>,<<Allen>>,<<USA-IND003
+Lake and Peninsula>>,<<Lake and Peninsula>>,<<USA-ALK164
+Marion>>,<<Marion>>,<<USA-FLA083
+Camden>>,<<Camden>>,<<USA-NJR007
+Bartholomew>>,<<Bartholomew>>,<<USA-IND005
+Leake>>,<<Leake>>,<<USA-MSP079
+Burlington>>,<<Burlington>>,<<USA-NJR005
+Nassau>>,<<Nassau>>,<<USA-FLA089
+Benton>>,<<Benton>>,<<USA-IND007
+Miami-Dade>>,<<Miami-Dade>>,<<USA-FLA086
+Lawrence>>,<<Lawrence>>,<<USA-MSP077
+Bergen>>,<<Bergen>>,<<USA-NJR003
+Monroe>>,<<Monroe>>,<<USA-FLA087
+Lincoln>>,<<Lincoln>>,<<USA-MSP085
+Matanuska-Susitna>>,<<Matanuska-Susitna>>,<<USA-ALK170
+Leflore>>,<<Leflore>>,<<USA-MSP083
+Lee>>,<<Lee>>,<<USA-MSP081
+Okaloosa>>,<<Okaloosa>>,<<USA-FLA091
+Saline>>,<<Saline>>,<<USA-NEB151
+Sarpy>>,<<Sarpy>>,<<USA-NEB153
+Saunders>>,<<Saunders>>,<<USA-NEB155
+Scotts Bluff>>,<<Scotts Bluff>>,<<USA-NEB157
+Seward>>,<<Seward>>,<<USA-NEB159
+Jefferson Davis>>,<<Jefferson Davis>>,<<USA-MSP065
+Jones>>,<<Jones>>,<<USA-MSP067
+Hancock>>,<<Hancock>>,<<USA-IND059
+Broward>>,<<Broward>>,<<USA-FLA011
+Hamilton>>,<<Hamilton>>,<<USA-IND057
+Kemper>>,<<Kemper>>,<<USA-MSP069
+Greene>>,<<Greene>>,<<USA-IND055
+Citrus>>,<<Citrus>>,<<USA-FLA017
+Clay>>,<<Clay>>,<<USA-FLA019
+Calhoun>>,<<Calhoun>>,<<USA-FLA013
+Charlotte>>,<<Charlotte>>,<<USA-FLA015
+Henry>>,<<Henry>>,<<USA-IND065
+Hendricks>>,<<Hendricks>>,<<USA-IND063
+Lafayette>>,<<Lafayette>>,<<USA-MSP071
+Harrison>>,<<Harrison>>,<<USA-IND061
+Lamar>>,<<Lamar>>,<<USA-MSP073
+Lauderdale>>,<<Lauderdale>>,<<USA-MSP075
+Columbia>>,<<Columbia>>,<<USA-FLA023
+Itawamba>>,<<Itawamba>>,<<USA-MSP057
+Collier>>,<<Collier>>,<<USA-FLA021
+Issaquena>>,<<Issaquena>>,<<USA-MSP055
+Haines>>,<<Haines>>,<<USA-ALK100
+Howard>>,<<Howard>>,<<USA-IND067
+Jackson>>,<<Jackson>>,<<USA-MSP059
+Huntington>>,<<Huntington>>,<<USA-IND069
+Hoonah-Angoon>>,<<Hoonah-Angoon>>,<<USA-ALK105
+Dixie>>,<<Dixie>>,<<USA-FLA029
+DeSoto>>,<<DeSoto>>,<<USA-FLA027
+Jasper>>,<<Jasper>>,<<USA-IND073
+Jay>>,<<Jay>>,<<USA-IND075
+Jefferson>>,<<Jefferson>>,<<USA-MSP063
+Jackson>>,<<Jackson>>,<<USA-IND071
+Jasper>>,<<Jasper>>,<<USA-MSP061
+Delaware>>,<<Delaware>>,<<USA-IND035
+Harrison>>,<<Harrison>>,<<USA-MSP047
+Juneau>>,<<Juneau>>,<<USA-ALK110
+Hinds>>,<<Hinds>>,<<USA-MSP049
+DeKalb>>,<<DeKalb>>,<<USA-IND033
+Elkhart>>,<<Elkhart>>,<<USA-IND039
+Grenada>>,<<Grenada>>,<<USA-MSP043
+Duval>>,<<Duval>>,<<USA-FLA031
+Dubois>>,<<Dubois>>,<<USA-IND037
+Hancock>>,<<Hancock>>,<<USA-MSP045
+Escambia>>,<<Escambia>>,<<USA-FLA033
+Flagler>>,<<Flagler>>,<<USA-FLA035
+Lancaster>>,<<Lancaster>>,<<USA-NEB109
+Franklin>>,<<Franklin>>,<<USA-FLA037
+Knox>>,<<Knox>>,<<USA-NEB107
+Gadsden>>,<<Gadsden>>,<<USA-FLA039
+Pierce>>,<<Pierce>>,<<USA-WIS093
+Keith>>,<<Keith>>,<<USA-NEB101
+Polk>>,<<Polk>>,<<USA-WIS095
+Portage>>,<<Portage>>,<<USA-WIS097
+Kimball>>,<<Kimball>>,<<USA-NEB105
+Keya Paha>>,<<Keya Paha>>,<<USA-NEB103
+Price>>,<<Price>>,<<USA-WIS099
+Holmes>>,<<Holmes>>,<<USA-MSP051
+Woodward>>,<<Woodward>>,<<USA-OKL153
+Humphreys>>,<<Humphreys>>,<<USA-MSP053
+Woods>>,<<Woods>>,<<USA-OKL151
+Floyd>>,<<Floyd>>,<<USA-IND043
+Fayette>>,<<Fayette>>,<<USA-IND041
+Kenai Peninsula>>,<<Kenai Peninsula>>,<<USA-ALK122
+Gilchrist>>,<<Gilchrist>>,<<USA-FLA041
+Fountain>>,<<Fountain>>,<<USA-IND045
+George>>,<<George>>,<<USA-MSP039
+Franklin>>,<<Franklin>>,<<USA-IND047
+Franklin>>,<<Franklin>>,<<USA-MSP037
+Gulf>>,<<Gulf>>,<<USA-FLA045
+Fulton>>,<<Fulton>>,<<USA-IND049
+Forrest>>,<<Forrest>>,<<USA-MSP035
+Glades>>,<<Glades>>,<<USA-FLA043
+DeSoto>>,<<DeSoto>>,<<USA-MSP033
+Hardee>>,<<Hardee>>,<<USA-FLA049
+McPherson>>,<<McPherson>>,<<USA-NEB117
+Madison>>,<<Madison>>,<<USA-NEB119
+Hamilton>>,<<Hamilton>>,<<USA-FLA047
+Pepin>>,<<Pepin>>,<<USA-WIS091
+Oconto>>,<<Oconto>>,<<USA-WIS083
+Lincoln>>,<<Lincoln>>,<<USA-NEB111
+Monroe>>,<<Monroe>>,<<USA-WIS081
+Logan>>,<<Logan>>,<<USA-NEB113
+Outagamie>>,<<Outagamie>>,<<USA-WIS087
+Loup>>,<<Loup>>,<<USA-NEB115
+Oneida>>,<<Oneida>>,<<USA-WIS085
+Greene>>,<<Greene>>,<<USA-MSP041
+Ozaukee>>,<<Ozaukee>>,<<USA-WIS089
+Gibson>>,<<Gibson>>,<<USA-IND051
+Grant>>,<<Grant>>,<<USA-IND053
+Marion>>,<<Marion>>,<<USA-IND097
+Fulton>>,<<Fulton>>,<<USA-OHI051
+Madison>>,<<Madison>>,<<USA-IND095
+Gallia>>,<<Gallia>>,<<USA-OHI053
+Lawrence>>,<<Lawrence>>,<<USA-IND093
+LaPorte>>,<<LaPorte>>,<<USA-IND091
+Fayette>>,<<Fayette>>,<<USA-OHI047
+Franklin>>,<<Franklin>>,<<USA-OHI049
+Erie>>,<<Erie>>,<<USA-OHI043
+Lake>>,<<Lake>>,<<USA-IND089
+Fairfield>>,<<Fairfield>>,<<USA-OHI045
+Hancock>>,<<Hancock>>,<<USA-OHI063
+Kosciusko>>,<<Kosciusko>>,<<USA-IND085
+Hamilton>>,<<Hamilton>>,<<USA-OHI061
+LaGrange>>,<<LaGrange>>,<<USA-IND087
+Johnson>>,<<Johnson>>,<<USA-IND081
+Knox>>,<<Knox>>,<<USA-IND083
+Guernsey>>,<<Guernsey>>,<<USA-OHI059
+Greene>>,<<Greene>>,<<USA-OHI057
+Jefferson>>,<<Jefferson>>,<<USA-IND077
+Geauga>>,<<Geauga>>,<<USA-OHI055
+Jennings>>,<<Jennings>>,<<USA-IND079
+Highland>>,<<Highland>>,<<USA-OHI071
+Hocking>>,<<Hocking>>,<<USA-OHI073
+Holmes>>,<<Holmes>>,<<USA-OHI075
+Hardin>>,<<Hardin>>,<<USA-OHI065
+Harrison>>,<<Harrison>>,<<USA-OHI067
+Henry>>,<<Henry>>,<<USA-OHI069
+Albany>>,<<Albany>>,<<USA-WYM001
+Jefferson>>,<<Jefferson>>,<<USA-OHI081
+Converse>>,<<Converse>>,<<USA-WYM009
+Carbon>>,<<Carbon>>,<<USA-WYM007
+Campbell>>,<<Campbell>>,<<USA-WYM005
+Lake>>,<<Lake>>,<<USA-OHI085
+Knox>>,<<Knox>>,<<USA-OHI083
+Big Horn>>,<<Big Horn>>,<<USA-WYM003
+Jackson>>,<<Jackson>>,<<USA-OHI079
+Marshall>>,<<Marshall>>,<<USA-IND099
+Huron>>,<<Huron>>,<<USA-OHI077
+Fremont>>,<<Fremont>>,<<USA-WYM013
+Lucas>>,<<Lucas>>,<<USA-OHI095
+Hardeman>>,<<Hardeman>>,<<USA-TNN069
+Goshen>>,<<Goshen>>,<<USA-WYM015
+Madison>>,<<Madison>>,<<USA-OHI097
+Hancock>>,<<Hancock>>,<<USA-TNN067
+Logan>>,<<Logan>>,<<USA-OHI091
+Hot Springs>>,<<Hot Springs>>,<<USA-WYM017
+Hamilton>>,<<Hamilton>>,<<USA-TNN065
+Fairbanks North Star>>,<<Fairbanks North Star>>,<<USA-ALK090
+Lorain>>,<<Lorain>>,<<USA-OHI093
+Johnson>>,<<Johnson>>,<<USA-WYM019
+Hamblen>>,<<Hamblen>>,<<USA-TNN063
+Crook>>,<<Crook>>,<<USA-WYM011
+Hardin>>,<<Hardin>>,<<USA-TNN071
+Lawrence>>,<<Lawrence>>,<<USA-OHI087
+Licking>>,<<Licking>>,<<USA-OHI089
+Henderson>>,<<Henderson>>,<<USA-TNN077
+Niobrara>>,<<Niobrara>>,<<USA-WYM027
+Henry>>,<<Henry>>,<<USA-TNN079
+Natrona>>,<<Natrona>>,<<USA-WYM025
+Hawkins>>,<<Hawkins>>,<<USA-TNN073
+Haywood>>,<<Haywood>>,<<USA-TNN075
+Park>>,<<Park>>,<<USA-WYM029
+Lincoln>>,<<Lincoln>>,<<USA-WYM023
+Laramie>>,<<Laramie>>,<<USA-WYM021
+Hickman>>,<<Hickman>>,<<USA-TNN081
+Houston>>,<<Houston>>,<<USA-TNN083
+Mahoning>>,<<Mahoning>>,<<USA-OHI099
+Teton>>,<<Teton>>,<<USA-WYM039
+Jackson>>,<<Jackson>>,<<USA-TNN087
+Humphreys>>,<<Humphreys>>,<<USA-TNN085
+Dillingham>>,<<Dillingham>>,<<USA-ALK070
+Sublette>>,<<Sublette>>,<<USA-WYM035
+Sweetwater>>,<<Sweetwater>>,<<USA-WYM037
+Knott>>,<<Knott>>,<<USA-KEN119
+Jefferson>>,<<Jefferson>>,<<USA-TNN089
+Platte>>,<<Platte>>,<<USA-WYM031
+Sheridan>>,<<Sheridan>>,<<USA-WYM033
+Kenton>>,<<Kenton>>,<<USA-KEN117
+Johnson>>,<<Johnson>>,<<USA-KEN115
+Denali>>,<<Denali>>,<<USA-ALK068
+Jessamine>>,<<Jessamine>>,<<USA-KEN113
+Knox>>,<<Knox>>,<<USA-TNN093
+Jefferson>>,<<Jefferson>>,<<USA-KEN111
+Johnson>>,<<Johnson>>,<<USA-TNN091
+Bristol Bay>>,<<Bristol Bay>>,<<USA-ALK060
+Lake>>,<<Lake>>,<<USA-TNN095
+Lauderdale>>,<<Lauderdale>>,<<USA-TNN097
+Hopkins>>,<<Hopkins>>,<<USA-KEN107
+Lawrence>>,<<Lawrence>>,<<USA-TNN099
+Jackson>>,<<Jackson>>,<<USA-KEN109
+Weston>>,<<Weston>>,<<USA-WYM045
+Washakie>>,<<Washakie>>,<<USA-WYM043
+Uinta>>,<<Uinta>>,<<USA-WYM041
+Henry>>,<<Henry>>,<<USA-KEN103
+Hickman>>,<<Hickman>>,<<USA-KEN105
+Bethel>>,<<Bethel>>,<<USA-ALK050
+Henderson>>,<<Henderson>>,<<USA-KEN101
+Chemung>>,<<Chemung>>,<<USA-NYO015
+Chenango>>,<<Chenango>>,<<USA-NYO017
+Clinton>>,<<Clinton>>,<<USA-NYO019
+Plymouth>>,<<Plymouth>>,<<USA-IOW149
+Cayuga>>,<<Cayuga>>,<<USA-NYO011
+Page>>,<<Page>>,<<USA-IOW145
+Chautauqua>>,<<Chautauqua>>,<<USA-NYO013
+Palo Alto>>,<<Palo Alto>>,<<USA-IOW147
+Pocahontas>>,<<Pocahontas>>,<<USA-IOW151
+Polk>>,<<Polk>>,<<USA-IOW153
+Erie>>,<<Erie>>,<<USA-NYO029
+Dutchess>>,<<Dutchess>>,<<USA-NYO027
+Columbia>>,<<Columbia>>,<<USA-NYO021
+Ringgold>>,<<Ringgold>>,<<USA-IOW159
+Poweshiek>>,<<Poweshiek>>,<<USA-IOW157
+Delaware>>,<<Delaware>>,<<USA-NYO025
+Pottawattamie>>,<<Pottawattamie>>,<<USA-IOW155
+Cortland>>,<<Cortland>>,<<USA-NYO023
+Shelby>>,<<Shelby>>,<<USA-IOW165
+Scott>>,<<Scott>>,<<USA-IOW163
+Sac>>,<<Sac>>,<<USA-IOW161
+Genesee>>,<<Genesee>>,<<USA-NYO037
+Greene>>,<<Greene>>,<<USA-NYO039
+Franklin>>,<<Franklin>>,<<USA-NYO033
+Mahaska>>,<<Mahaska>>,<<USA-IOW123
+Fulton>>,<<Fulton>>,<<USA-NYO035
+Marion>>,<<Marion>>,<<USA-IOW125
+Marshall>>,<<Marshall>>,<<USA-IOW127
+Essex>>,<<Essex>>,<<USA-NYO031
+Mills>>,<<Mills>>,<<USA-IOW129
+Mitchell>>,<<Mitchell>>,<<USA-IOW131
+Lewis>>,<<Lewis>>,<<USA-NYO049
+Monroe>>,<<Monroe>>,<<USA-IOW135
+Kings>>,<<Kings>>,<<USA-NYO047
+Monona>>,<<Monona>>,<<USA-IOW133
+Jefferson>>,<<Jefferson>>,<<USA-NYO045
+Muscatine>>,<<Muscatine>>,<<USA-IOW139
+Herkimer>>,<<Herkimer>>,<<USA-NYO043
+Montgomery>>,<<Montgomery>>,<<USA-IOW137
+Hamilton>>,<<Hamilton>>,<<USA-NYO041
+Osceola>>,<<Osceola>>,<<USA-IOW143
+O'Brien>>,<<O'Brien>>,<<USA-IOW141
+Jones>>,<<Jones>>,<<USA-IOW105
+Keokuk>>,<<Keokuk>>,<<USA-IOW107
+Athens>>,<<Athens>>,<<USA-OHI009
+Jefferson>>,<<Jefferson>>,<<USA-IOW101
+Ashtabula>>,<<Ashtabula>>,<<USA-OHI007
+Johnson>>,<<Johnson>>,<<USA-IOW103
+Ashland>>,<<Ashland>>,<<USA-OHI005
+Allen>>,<<Allen>>,<<USA-OHI003
+Kossuth>>,<<Kossuth>>,<<USA-IOW109
+Adams>>,<<Adams>>,<<USA-OHI001
+Lucas>>,<<Lucas>>,<<USA-IOW117
+Louisa>>,<<Louisa>>,<<USA-IOW115
+Carroll>>,<<Carroll>>,<<USA-OHI019
+Linn>>,<<Linn>>,<<USA-IOW113
+Lee>>,<<Lee>>,<<USA-IOW111
+Brown>>,<<Brown>>,<<USA-OHI015
+Butler>>,<<Butler>>,<<USA-OHI017
+Auglaize>>,<<Auglaize>>,<<USA-OHI011
+Lyon>>,<<Lyon>>,<<USA-IOW119
+Belmont>>,<<Belmont>>,<<USA-OHI013
+Madison>>,<<Madison>>,<<USA-IOW121
+Columbiana>>,<<Columbiana>>,<<USA-OHI029
+Clark>>,<<Clark>>,<<USA-OHI023
+Champaign>>,<<Champaign>>,<<USA-OHI021
+Clinton>>,<<Clinton>>,<<USA-OHI027
+Clermont>>,<<Clermont>>,<<USA-OHI025
+Coshocton>>,<<Coshocton>>,<<USA-OHI031
+Allegany>>,<<Allegany>>,<<USA-NYO003
+New Castle>>,<<New Castle>>,<<USA-DEL003
+Kent>>,<<Kent>>,<<USA-DEL001
+Albany>>,<<Albany>>,<<USA-NYO001
+Sussex>>,<<Sussex>>,<<USA-DEL005
+Crawford>>,<<Crawford>>,<<USA-OHI033
+Cattaraugus>>,<<Cattaraugus>>,<<USA-NYO009
+Cuyahoga>>,<<Cuyahoga>>,<<USA-OHI035
+Broome>>,<<Broome>>,<<USA-NYO007
+Darke>>,<<Darke>>,<<USA-OHI037
+Bronx>>,<<Bronx>>,<<USA-NYO005
+Defiance>>,<<Defiance>>,<<USA-OHI039
+Delaware>>,<<Delaware>>,<<USA-OHI041
+White Pine>>,<<White Pine>>,<<USA-NEV033
+Henderson>>,<<Henderson>>,<<USA-ILL071
+Washoe>>,<<Washoe>>,<<USA-NEV031
+Iroquois>>,<<Iroquois>>,<<USA-ILL075
+Henry>>,<<Henry>>,<<USA-ILL073
+Hancock>>,<<Hancock>>,<<USA-ILL067
+Simpson>>,<<Simpson>>,<<USA-MSP127
+Sharkey>>,<<Sharkey>>,<<USA-MSP125
+Hamilton>>,<<Hamilton>>,<<USA-ILL065
+Scott>>,<<Scott>>,<<USA-MSP123
+St. Lucie>>,<<St. Lucie>>,<<USA-FLA111
+Greenup>>,<<Greenup>>,<<USA-KEN089
+Rankin>>,<<Rankin>>,<<USA-MSP121
+Hardin>>,<<Hardin>>,<<USA-ILL069
+Grayson>>,<<Grayson>>,<<USA-KEN085
+Sarasota>>,<<Sarasota>>,<<USA-FLA115
+Santa Rosa>>,<<Santa Rosa>>,<<USA-FLA113
+Green>>,<<Green>>,<<USA-KEN087
+Grant>>,<<Grant>>,<<USA-KEN081
+Sumter>>,<<Sumter>>,<<USA-FLA119
+Smith>>,<<Smith>>,<<USA-MSP129
+Seminole>>,<<Seminole>>,<<USA-FLA117
+Graves>>,<<Graves>>,<<USA-KEN083
+Jefferson>>,<<Jefferson>>,<<USA-ILL081
+Jersey>>,<<Jersey>>,<<USA-ILL083
+Jo Daviess>>,<<Jo Daviess>>,<<USA-ILL085
+Pike>>,<<Pike>>,<<USA-MSP113
+Jackson>>,<<Jackson>>,<<USA-ILL077
+Jasper>>,<<Jasper>>,<<USA-ILL079
+Pontotoc>>,<<Pontotoc>>,<<USA-MSP115
+Hart>>,<<Hart>>,<<USA-KEN099
+Suwannee>>,<<Suwannee>>,<<USA-FLA121
+Perry>>,<<Perry>>,<<USA-MSP111
+Taylor>>,<<Taylor>>,<<USA-FLA123
+Harrison>>,<<Harrison>>,<<USA-KEN097
+Harlan>>,<<Harlan>>,<<USA-KEN095
+Union>>,<<Union>>,<<USA-FLA125
+Seneca>>,<<Seneca>>,<<USA-NYO099
+Hardin>>,<<Hardin>>,<<USA-KEN093
+Volusia>>,<<Volusia>>,<<USA-FLA127
+Schuyler>>,<<Schuyler>>,<<USA-NYO097
+Prentiss>>,<<Prentiss>>,<<USA-MSP117
+Wakulla>>,<<Wakulla>>,<<USA-FLA129
+Hancock>>,<<Hancock>>,<<USA-KEN091
+Schoharie>>,<<Schoharie>>,<<USA-NYO095
+Quitman>>,<<Quitman>>,<<USA-MSP119
+Eureka>>,<<Eureka>>,<<USA-NEV011
+Humboldt>>,<<Humboldt>>,<<USA-NEV013
+Lander>>,<<Lander>>,<<USA-NEV015
+Lincoln>>,<<Lincoln>>,<<USA-NEV017
+Lake>>,<<Lake>>,<<USA-ILL097
+Knox>>,<<Knox>>,<<USA-ILL095
+Washington>>,<<Washington>>,<<USA-MSP151
+Kendall>>,<<Kendall>>,<<USA-ILL093
+Kankakee>>,<<Kankakee>>,<<USA-ILL091
+Union>>,<<Union>>,<<USA-MSP145
+Tunica>>,<<Tunica>>,<<USA-MSP143
+Warren>>,<<Warren>>,<<USA-MSP149
+Kane>>,<<Kane>>,<<USA-ILL089
+Johnson>>,<<Johnson>>,<<USA-ILL087
+Walthall>>,<<Walthall>>,<<USA-MSP147
+Lyon>>,<<Lyon>>,<<USA-NEV019
+Jasper>>,<<Jasper>>,<<USA-IOW099
+Jackson>>,<<Jackson>>,<<USA-IOW097
+Nye>>,<<Nye>>,<<USA-NEV023
+Iowa>>,<<Iowa>>,<<USA-IOW095
+Storey>>,<<Storey>>,<<USA-NEV029
+St. Johns>>,<<St. Johns>>,<<USA-FLA109
+Ida>>,<<Ida>>,<<USA-IOW093
+Pershing>>,<<Pershing>>,<<USA-NEV027
+Humboldt>>,<<Humboldt>>,<<USA-IOW091
+Mineral>>,<<Mineral>>,<<USA-NEV021
+Tishomingo>>,<<Tishomingo>>,<<USA-MSP141
+Stone>>,<<Stone>>,<<USA-MSP131
+Sunflower>>,<<Sunflower>>,<<USA-MSP133
+Tallahatchie>>,<<Tallahatchie>>,<<USA-MSP135
+LaSalle>>,<<LaSalle>>,<<USA-ILL099
+Tate>>,<<Tate>>,<<USA-MSP137
+Polk>>,<<Polk>>,<<USA-FLA105
+Tippah>>,<<Tippah>>,<<USA-MSP139
+Putnam>>,<<Putnam>>,<<USA-FLA107
+Pasco>>,<<Pasco>>,<<USA-FLA101
+Pinellas>>,<<Pinellas>>,<<USA-FLA103
+Howard>>,<<Howard>>,<<USA-IOW089
+Cook>>,<<Cook>>,<<USA-ILL031
+Hancock>>,<<Hancock>>,<<USA-IOW081
+Hardin>>,<<Hardin>>,<<USA-IOW083
+Orange>>,<<Orange>>,<<USA-NYO071
+Harrison>>,<<Harrison>>,<<USA-IOW085
+Henry>>,<<Henry>>,<<USA-IOW087
+Onondaga>>,<<Onondaga>>,<<USA-NYO067
+Hamilton>>,<<Hamilton>>,<<USA-IOW079
+Ontario>>,<<Ontario>>,<<USA-NYO069
+Coles>>,<<Coles>>,<<USA-ILL029
+Niagara>>,<<Niagara>>,<<USA-NYO063
+Oneida>>,<<Oneida>>,<<USA-NYO065
+Clark>>,<<Clark>>,<<USA-ILL023
+Christian>>,<<Christian>>,<<USA-ILL021
+Clinton>>,<<Clinton>>,<<USA-ILL027
+Clay>>,<<Clay>>,<<USA-ILL025
+Douglas>>,<<Douglas>>,<<USA-ILL041
+New York>>,<<New York>>,<<USA-NYO061
+Greene>>,<<Greene>>,<<USA-IOW073
+Fremont>>,<<Fremont>>,<<USA-IOW071
+Guthrie>>,<<Guthrie>>,<<USA-IOW077
+Grundy>>,<<Grundy>>,<<USA-IOW075
+Franklin>>,<<Franklin>>,<<USA-IOW069
+Montgomery>>,<<Montgomery>>,<<USA-NYO057
+Floyd>>,<<Floyd>>,<<USA-IOW067
+Monroe>>,<<Monroe>>,<<USA-NYO055
+Madison>>,<<Madison>>,<<USA-NYO053
+Livingston>>,<<Livingston>>,<<USA-NYO051
+Crawford>>,<<Crawford>>,<<USA-ILL033
+Cumberland>>,<<Cumberland>>,<<USA-ILL035
+DeKalb>>,<<DeKalb>>,<<USA-ILL037
+De Witt>>,<<De Witt>>,<<USA-ILL039
+Nassau>>,<<Nassau>>,<<USA-NYO059
+Ford>>,<<Ford>>,<<USA-ILL053
+Fayette>>,<<Fayette>>,<<USA-ILL051
+Emmet>>,<<Emmet>>,<<USA-IOW063
+Fayette>>,<<Fayette>>,<<USA-IOW065
+Saratoga>>,<<Saratoga>>,<<USA-NYO091
+Dubuque>>,<<Dubuque>>,<<USA-IOW061
+Schenectady>>,<<Schenectady>>,<<USA-NYO093
+Richmond>>,<<Richmond>>,<<USA-NYO085
+Pearl River>>,<<Pearl River>>,<<USA-MSP109
+Rockland>>,<<Rockland>>,<<USA-NYO087
+Panola>>,<<Panola>>,<<USA-MSP107
+Des Moines>>,<<Des Moines>>,<<USA-IOW057
+St. Lawrence>>,<<St. Lawrence>>,<<USA-NYO089
+Dickinson>>,<<Dickinson>>,<<USA-IOW059
+Effingham>>,<<Effingham>>,<<USA-ILL049
+Newton>>,<<Newton>>,<<USA-MSP101
+Edwards>>,<<Edwards>>,<<USA-ILL047
+Edgar>>,<<Edgar>>,<<USA-ILL045
+Oktibbeha>>,<<Oktibbeha>>,<<USA-MSP105
+Noxubee>>,<<Noxubee>>,<<USA-MSP103
+DuPage>>,<<DuPage>>,<<USA-ILL043
+Greene>>,<<Greene>>,<<USA-ILL061
+Grundy>>,<<Grundy>>,<<USA-ILL063
+Delaware>>,<<Delaware>>,<<USA-IOW055
+Decatur>>,<<Decatur>>,<<USA-IOW053
+Rensselaer>>,<<Rensselaer>>,<<USA-NYO083
+Davis>>,<<Davis>>,<<USA-IOW051
+Queens>>,<<Queens>>,<<USA-NYO081
+Oswego>>,<<Oswego>>,<<USA-NYO075
+Dallas>>,<<Dallas>>,<<USA-IOW049
+Orleans>>,<<Orleans>>,<<USA-NYO073
+Morgan>>,<<Morgan>>,<<USA-IND109
+Crawford>>,<<Crawford>>,<<USA-IOW047
+Putnam>>,<<Putnam>>,<<USA-NYO079
+Montgomery>>,<<Montgomery>>,<<USA-IND107
+Otsego>>,<<Otsego>>,<<USA-NYO077
+Clinton>>,<<Clinton>>,<<USA-IOW045
+Gallatin>>,<<Gallatin>>,<<USA-ILL059
+Monroe>>,<<Monroe>>,<<USA-IND105
+Miami>>,<<Miami>>,<<USA-IND103
+Martin>>,<<Martin>>,<<USA-IND101
+Franklin>>,<<Franklin>>,<<USA-ILL055
+Fulton>>,<<Fulton>>,<<USA-ILL057
+Noble>>,<<Noble>>,<<USA-IND113
+Ballard>>,<<Ballard>>,<<USA-KEN007
+Newton>>,<<Newton>>,<<USA-IND111
+Anderson>>,<<Anderson>>,<<USA-KEN005
+Orange>>,<<Orange>>,<<USA-IND117
+Allen>>,<<Allen>>,<<USA-KEN003
+Ohio>>,<<Ohio>>,<<USA-IND115
+Adair>>,<<Adair>>,<<USA-KEN001
+Owen>>,<<Owen>>,<<USA-IND119
+Chase>>,<<Chase>>,<<USA-NEB029
+Butler>>,<<Butler>>,<<USA-NEB023
+Decatur>>,<<Decatur>>,<<USA-TNN039
+Burt>>,<<Burt>>,<<USA-NEB021
+Davidson>>,<<Davidson>>,<<USA-TNN037
+Cedar>>,<<Cedar>>,<<USA-NEB027
+Cass>>,<<Cass>>,<<USA-NEB025
+Coffee>>,<<Coffee>>,<<USA-TNN031
+Cumberland>>,<<Cumberland>>,<<USA-TNN035
+Barren>>,<<Barren>>,<<USA-KEN009
+Crockett>>,<<Crockett>>,<<USA-TNN033
+Boone>>,<<Boone>>,<<USA-KEN015
+Parke>>,<<Parke>>,<<USA-IND121
+Bourbon>>,<<Bourbon>>,<<USA-KEN017
+Perry>>,<<Perry>>,<<USA-IND123
+Bath>>,<<Bath>>,<<USA-KEN011
+Pike>>,<<Pike>>,<<USA-IND125
+Bell>>,<<Bell>>,<<USA-KEN013
+Porter>>,<<Porter>>,<<USA-IND127
+Posey>>,<<Posey>>,<<USA-IND129
+Clay>>,<<Clay>>,<<USA-TNN027
+Cheyenne>>,<<Cheyenne>>,<<USA-NEB033
+Cocke>>,<<Cocke>>,<<USA-TNN029
+Clay>>,<<Clay>>,<<USA-NEB035
+Colfax>>,<<Colfax>>,<<USA-NEB037
+Cuming>>,<<Cuming>>,<<USA-NEB039
+Cheatham>>,<<Cheatham>>,<<USA-TNN021
+Chester>>,<<Chester>>,<<USA-TNN023
+Boyd>>,<<Boyd>>,<<USA-KEN019
+Claiborne>>,<<Claiborne>>,<<USA-TNN025
+Pulaski>>,<<Pulaski>>,<<USA-IND131
+Cherry>>,<<Cherry>>,<<USA-NEB031
+Alexander>>,<<Alexander>>,<<USA-ILL003
+Rush>>,<<Rush>>,<<USA-IND139
+Breathitt>>,<<Breathitt>>,<<USA-KEN025
+Grundy>>,<<Grundy>>,<<USA-TNN061
+Ripley>>,<<Ripley>>,<<USA-IND137
+Bond>>,<<Bond>>,<<USA-ILL005
+Bracken>>,<<Bracken>>,<<USA-KEN023
+Randolph>>,<<Randolph>>,<<USA-IND135
+Bullitt>>,<<Bullitt>>,<<USA-KEN029
+Aleutians East>>,<<Aleutians East>>,<<USA-ALK013
+Putnam>>,<<Putnam>>,<<USA-IND133
+Adams>>,<<Adams>>,<<USA-ILL001
+Breckinridge>>,<<Breckinridge>>,<<USA-KEN027
+Aleutians West>>,<<Aleutians West>>,<<USA-ALK016
+Boone>>,<<Boone>>,<<USA-ILL007
+Blaine>>,<<Blaine>>,<<USA-NEB009
+Boyle>>,<<Boyle>>,<<USA-KEN021
+Brown>>,<<Brown>>,<<USA-ILL009
+Banner>>,<<Banner>>,<<USA-NEB007
+Arthur>>,<<Arthur>>,<<USA-NEB005
+Antelope>>,<<Antelope>>,<<USA-NEB003
+Adams>>,<<Adams>>,<<USA-NEB001
+Greene>>,<<Greene>>,<<USA-TNN059
+St. Joseph>>,<<St. Joseph>>,<<USA-IND141
+Grainger>>,<<Grainger>>,<<USA-TNN057
+Giles>>,<<Giles>>,<<USA-TNN055
+Gibson>>,<<Gibson>>,<<USA-TNN053
+Franklin>>,<<Franklin>>,<<USA-TNN051
+Caldwell>>,<<Caldwell>>,<<USA-KEN033
+Anchorage>>,<<Anchorage>>,<<USA-ALK020
+Cass>>,<<Cass>>,<<USA-ILL017
+Spencer>>,<<Spencer>>,<<USA-IND147
+Calloway>>,<<Calloway>>,<<USA-KEN035
+Starke>>,<<Starke>>,<<USA-IND149
+Carroll>>,<<Carroll>>,<<USA-ILL015
+Campbell>>,<<Campbell>>,<<USA-KEN037
+Scott>>,<<Scott>>,<<USA-IND143
+Calhoun>>,<<Calhoun>>,<<USA-ILL013
+Carlisle>>,<<Carlisle>>,<<USA-KEN039
+Shelby>>,<<Shelby>>,<<USA-IND145
+Bureau>>,<<Bureau>>,<<USA-ILL011
+Buffalo>>,<<Buffalo>>,<<USA-NEB019
+Butler>>,<<Butler>>,<<USA-KEN031
+Champaign>>,<<Champaign>>,<<USA-ILL019
+Boyd>>,<<Boyd>>,<<USA-NEB015
+Brown>>,<<Brown>>,<<USA-NEB017
+Fentress>>,<<Fentress>>,<<USA-TNN049
+Boone>>,<<Boone>>,<<USA-NEB011
+Box Butte>>,<<Box Butte>>,<<USA-NEB013
+Dyer>>,<<Dyer>>,<<USA-TNN045
+Steuben>>,<<Steuben>>,<<USA-IND151
+Fayette>>,<<Fayette>>,<<USA-TNN047
+Sullivan>>,<<Sullivan>>,<<USA-IND153
+DeKalb>>,<<DeKalb>>,<<USA-TNN041
+Dickson>>,<<Dickson>>,<<USA-TNN043
+Carter>>,<<Carter>>,<<USA-KEN043
+Carroll>>,<<Carroll>>,<<USA-KEN041
+Tippecanoe>>,<<Tippecanoe>>,<<USA-IND157
+Clark>>,<<Clark>>,<<USA-KEN049
+Switzerland>>,<<Switzerland>>,<<USA-IND155
+Christian>>,<<Christian>>,<<USA-KEN047
+Casey>>,<<Casey>>,<<USA-KEN045
+Tipton>>,<<Tipton>>,<<USA-IND159
+Vanderburgh>>,<<Vanderburgh>>,<<USA-IND163
+Union>>,<<Union>>,<<USA-IND161
+Clay>>,<<Clay>>,<<USA-KEN051
+Clinton>>,<<Clinton>>,<<USA-KEN053
+Winston>>,<<Winston>>,<<USA-MSP159
+Vermillion>>,<<Vermillion>>,<<USA-IND165
+Daviess>>,<<Daviess>>,<<USA-KEN059
+Wilkinson>>,<<Wilkinson>>,<<USA-MSP157
+Vigo>>,<<Vigo>>,<<USA-IND167
+Wabash>>,<<Wabash>>,<<USA-IND169
+Webster>>,<<Webster>>,<<USA-MSP155
+Crittenden>>,<<Crittenden>>,<<USA-KEN055
+Wayne>>,<<Wayne>>,<<USA-MSP153
+Cumberland>>,<<Cumberland>>,<<USA-KEN057
+Yazoo>>,<<Yazoo>>,<<USA-MSP163
+Warren>>,<<Warren>>,<<USA-IND171
+Yalobusha>>,<<Yalobusha>>,<<USA-MSP161
+Warrick>>,<<Warrick>>,<<USA-IND173
+Washington>>,<<Washington>>,<<USA-IND175
+Edmonson>>,<<Edmonson>>,<<USA-KEN061
+Estill>>,<<Estill>>,<<USA-KEN065
+Elliott>>,<<Elliott>>,<<USA-KEN063
+Fleming>>,<<Fleming>>,<<USA-KEN069
+Walton>>,<<Walton>>,<<USA-FLA131
+Washington>>,<<Washington>>,<<USA-FLA133
+Fayette>>,<<Fayette>>,<<USA-KEN067
+Wells>>,<<Wells>>,<<USA-IND179
+Wayne>>,<<Wayne>>,<<USA-IND177
+Campbell>>,<<Campbell>>,<<USA-TNN013
+Bradley>>,<<Bradley>>,<<USA-TNN011
+Whitley>>,<<Whitley>>,<<USA-IND183
+White>>,<<White>>,<<USA-IND181
+Carter>>,<<Carter>>,<<USA-TNN019
+Carroll>>,<<Carroll>>,<<USA-TNN017
+Cannon>>,<<Cannon>>,<<USA-TNN015
+Floyd>>,<<Floyd>>,<<USA-KEN071
+Franklin>>,<<Franklin>>,<<USA-KEN073
+Fulton>>,<<Fulton>>,<<USA-KEN075
+Gallatin>>,<<Gallatin>>,<<USA-KEN077
+Garrard>>,<<Garrard>>,<<USA-KEN079
+Anderson>>,<<Anderson>>,<<USA-TNN001
+Bedford>>,<<Bedford>>,<<USA-TNN003
+Blount>>,<<Blount>>,<<USA-TNN009
+Benton>>,<<Benton>>,<<USA-TNN005
+Bledsoe>>,<<Bledsoe>>,<<USA-TNN007
+Westmoreland>>,<<Westmoreland>>,<<USA-PEN129
+New Kent>>,<<New Kent>>,<<USA-VRG127
+Haywood>>,<<Haywood>>,<<USA-NCR087
+Harnett>>,<<Harnett>>,<<USA-NCR085
+Henderson>>,<<Henderson>>,<<USA-NCR089
+Hertford>>,<<Hertford>>,<<USA-NCR091
+Hyde>>,<<Hyde>>,<<USA-NCR095
+Hoke>>,<<Hoke>>,<<USA-NCR093
+Washington>>,<<Washington>>,<<USA-PEN125
+Nelson>>,<<Nelson>>,<<USA-VRG125
+Wayne>>,<<Wayne>>,<<USA-PEN127
+Venango>>,<<Venango>>,<<USA-PEN121
+Montgomery>>,<<Montgomery>>,<<USA-VRG121
+Warren>>,<<Warren>>,<<USA-PEN123
+Page>>,<<Page>>,<<USA-VRG139
+Union>>,<<Union>>,<<USA-PEN119
+Orange>>,<<Orange>>,<<USA-VRG137
+Tioga>>,<<Tioga>>,<<USA-PEN117
+Iredell>>,<<Iredell>>,<<USA-NCR097
+Jackson>>,<<Jackson>>,<<USA-NCR099
+Susquehanna>>,<<Susquehanna>>,<<USA-PEN115
+Nottoway>>,<<Nottoway>>,<<USA-VRG135
+Sullivan>>,<<Sullivan>>,<<USA-PEN113
+Northumberland>>,<<Northumberland>>,<<USA-VRG133
+Somerset>>,<<Somerset>>,<<USA-PEN111
+Northampton>>,<<Northampton>>,<<USA-VRG131
+Schuylkill>>,<<Schuylkill>>,<<USA-PEN107
+Prince George>>,<<Prince George>>,<<USA-VRG149
+Snyder>>,<<Snyder>>,<<USA-PEN109
+Franklin>>,<<Franklin>>,<<USA-NCR069
+Yuma>>,<<Yuma>>,<<USA-COL125
+Weld>>,<<Weld>>,<<USA-COL123
+Forsyth>>,<<Forsyth>>,<<USA-NCR067
+Edgecombe>>,<<Edgecombe>>,<<USA-NCR065
+Durham>>,<<Durham>>,<<USA-NCR063
+Gates>>,<<Gates>>,<<USA-NCR073
+Gaston>>,<<Gaston>>,<<USA-NCR071
+Patrick>>,<<Patrick>>,<<USA-VRG141
+Wilson>>,<<Wilson>>,<<USA-TNN189
+Pittsylvania>>,<<Pittsylvania>>,<<USA-VRG143
+Williamson>>,<<Williamson>>,<<USA-TNN187
+Philadelphia>>,<<Philadelphia>>,<<USA-PEN101
+White>>,<<White>>,<<USA-TNN185
+Powhatan>>,<<Powhatan>>,<<USA-VRG145
+Pike>>,<<Pike>>,<<USA-PEN103
+Weakley>>,<<Weakley>>,<<USA-TNN183
+Prince Edward>>,<<Prince Edward>>,<<USA-VRG147
+Potter>>,<<Potter>>,<<USA-PEN105
+Teller>>,<<Teller>>,<<USA-COL119
+Richmond>>,<<Richmond>>,<<USA-VRG159
+San Juan>>,<<San Juan>>,<<USA-COL111
+Greene>>,<<Greene>>,<<USA-NCR079
+San Miguel>>,<<San Miguel>>,<<USA-COL113
+Graham>>,<<Graham>>,<<USA-NCR075
+Sedgwick>>,<<Sedgwick>>,<<USA-COL115
+Summit>>,<<Summit>>,<<USA-COL117
+Granville>>,<<Granville>>,<<USA-NCR077
+Guilford>>,<<Guilford>>,<<USA-NCR081
+Halifax>>,<<Halifax>>,<<USA-NCR083
+Washington>>,<<Washington>>,<<USA-COL121
+Prince William>>,<<Prince William>>,<<USA-VRG153
+Rappahannock>>,<<Rappahannock>>,<<USA-VRG157
+Pulaski>>,<<Pulaski>>,<<USA-VRG155
+Routt>>,<<Routt>>,<<USA-COL107
+Clay>>,<<Clay>>,<<USA-NCR043
+Chowan>>,<<Chowan>>,<<USA-NCR041
+Rio Grande>>,<<Rio Grande>>,<<USA-COL105
+Rio Blanco>>,<<Rio Blanco>>,<<USA-COL103
+Columbus>>,<<Columbus>>,<<USA-NCR047
+Cleveland>>,<<Cleveland>>,<<USA-NCR045
+Pueblo>>,<<Pueblo>>,<<USA-COL101
+Craven>>,<<Craven>>,<<USA-NCR049
+Saguache>>,<<Saguache>>,<<USA-COL109
+Cumberland>>,<<Cumberland>>,<<USA-NCR051
+Currituck>>,<<Currituck>>,<<USA-NCR053
+Dare>>,<<Dare>>,<<USA-NCR055
+Davidson>>,<<Davidson>>,<<USA-NCR057
+Davie>>,<<Davie>>,<<USA-NCR059
+Duplin>>,<<Duplin>>,<<USA-NCR061
+Cabarrus>>,<<Cabarrus>>,<<USA-NCR025
+Burke>>,<<Burke>>,<<USA-NCR023
+Buncombe>>,<<Buncombe>>,<<USA-NCR021
+Wayne>>,<<Wayne>>,<<USA-OHI169
+Lee>>,<<Lee>>,<<USA-VRG105
+Loudoun>>,<<Loudoun>>,<<USA-VRG107
+Louisa>>,<<Louisa>>,<<USA-VRG109
+Warren>>,<<Warren>>,<<USA-OHI165
+Camden>>,<<Camden>>,<<USA-NCR029
+Washington>>,<<Washington>>,<<USA-OHI167
+Caldwell>>,<<Caldwell>>,<<USA-NCR027
+Williams>>,<<Williams>>,<<USA-OHI171
+Wood>>,<<Wood>>,<<USA-OHI173
+King William>>,<<King William>>,<<USA-VRG101
+Lancaster>>,<<Lancaster>>,<<USA-VRG103
+Catawba>>,<<Catawba>>,<<USA-NCR035
+Chatham>>,<<Chatham>>,<<USA-NCR037
+Carteret>>,<<Carteret>>,<<USA-NCR031
+Caswell>>,<<Caswell>>,<<USA-NCR033
+Mecklenburg>>,<<Mecklenburg>>,<<USA-VRG117
+Mathews>>,<<Mathews>>,<<USA-VRG115
+Cherokee>>,<<Cherokee>>,<<USA-NCR039
+Wyandot>>,<<Wyandot>>,<<USA-OHI175
+Middlesex>>,<<Middlesex>>,<<USA-VRG119
+York>>,<<York>>,<<USA-PEN133
+Wyoming>>,<<Wyoming>>,<<USA-PEN131
+Madison>>,<<Madison>>,<<USA-VRG113
+Lunenburg>>,<<Lunenburg>>,<<USA-VRG111
+Stark>>,<<Stark>>,<<USA-OHI151
+Worth>>,<<Worth>>,<<USA-MOS227
+Scioto>>,<<Scioto>>,<<USA-OHI145
+Webster>>,<<Webster>>,<<USA-MOS225
+Sandusky>>,<<Sandusky>>,<<USA-OHI143
+Wayne>>,<<Wayne>>,<<USA-MOS223
+Shelby>>,<<Shelby>>,<<USA-OHI149
+Washington>>,<<Washington>>,<<USA-MOS221
+Seneca>>,<<Seneca>>,<<USA-OHI147
+Wright>>,<<Wright>>,<<USA-MOS229
+Bennington>>,<<Bennington>>,<<USA-VRM003
+Addison>>,<<Addison>>,<<USA-VRM001
+Van Wert>>,<<Van Wert>>,<<USA-OHI161
+Vinton>>,<<Vinton>>,<<USA-OHI163
+Summit>>,<<Summit>>,<<USA-OHI153
+Essex>>,<<Essex>>,<<USA-VRM009
+Trumbull>>,<<Trumbull>>,<<USA-OHI155
+Chittenden>>,<<Chittenden>>,<<USA-VRM007
+Tuscarawas>>,<<Tuscarawas>>,<<USA-OHI157
+Caledonia>>,<<Caledonia>>,<<USA-VRM005
+Union>>,<<Union>>,<<USA-OHI159
+Churchill>>,<<Churchill>>,<<USA-NEV001
+Clark>>,<<Clark>>,<<USA-NEV003
+Douglas>>,<<Douglas>>,<<USA-NEV005
+Elko>>,<<Elko>>,<<USA-NEV007
+Franklin>>,<<Franklin>>,<<USA-VRM011
+Grand Isle>>,<<Grand Isle>>,<<USA-VRM013
+Scott>>,<<Scott>>,<<USA-MOS201
+Lamoille>>,<<Lamoille>>,<<USA-VRM015
+Perry>>,<<Perry>>,<<USA-OHI127
+Paulding>>,<<Paulding>>,<<USA-OHI125
+Orange>>,<<Orange>>,<<USA-VRM017
+Shelby>>,<<Shelby>>,<<USA-MOS205
+Ottawa>>,<<Ottawa>>,<<USA-OHI123
+Orleans>>,<<Orleans>>,<<USA-VRM019
+Shannon>>,<<Shannon>>,<<USA-MOS203
+Noble>>,<<Noble>>,<<USA-OHI121
+Esmeralda>>,<<Esmeralda>>,<<USA-NEV009
+Stone>>,<<Stone>>,<<USA-MOS209
+Stoddard>>,<<Stoddard>>,<<USA-MOS207
+Pickaway>>,<<Pickaway>>,<<USA-OHI129
+Rutland>>,<<Rutland>>,<<USA-VRM021
+Ross>>,<<Ross>>,<<USA-OHI141
+Windham>>,<<Windham>>,<<USA-VRM025
+Washington>>,<<Washington>>,<<USA-VRM023
+Preble>>,<<Preble>>,<<USA-OHI135
+Putnam>>,<<Putnam>>,<<USA-OHI137
+Windsor>>,<<Windsor>>,<<USA-VRM027
+Sullivan>>,<<Sullivan>>,<<USA-MOS211
+Pike>>,<<Pike>>,<<USA-OHI131
+Taney>>,<<Taney>>,<<USA-MOS213
+Portage>>,<<Portage>>,<<USA-OHI133
+Texas>>,<<Texas>>,<<USA-MOS215
+Vernon>>,<<Vernon>>,<<USA-MOS217
+Warren>>,<<Warren>>,<<USA-MOS219
+Richland>>,<<Richland>>,<<USA-OHI139
+Scott>>,<<Scott>>,<<USA-VRG169
+Russell>>,<<Russell>>,<<USA-VRG167
+Rockingham>>,<<Rockingham>>,<<USA-VRG165
+Rockbridge>>,<<Rockbridge>>,<<USA-VRG163
+Roanoke>>,<<Roanoke>>,<<USA-VRG161
+Benton>>,<<Benton>>,<<USA-IOW011
+Miami>>,<<Miami>>,<<USA-OHI109
+Adair>>,<<Adair>>,<<USA-IOW001
+Adams>>,<<Adams>>,<<USA-IOW003
+Mercer>>,<<Mercer>>,<<USA-OHI107
+Allamakee>>,<<Allamakee>>,<<USA-IOW005
+Appanoose>>,<<Appanoose>>,<<USA-IOW007
+Audubon>>,<<Audubon>>,<<USA-IOW009
+Marion>>,<<Marion>>,<<USA-OHI101
+Meigs>>,<<Meigs>>,<<USA-OHI105
+Medina>>,<<Medina>>,<<USA-OHI103
+Spotsylvania>>,<<Spotsylvania>>,<<USA-VRG177
+Stafford>>,<<Stafford>>,<<USA-VRG179
+Smyth>>,<<Smyth>>,<<USA-VRG173
+Southampton>>,<<Southampton>>,<<USA-VRG175
+Shenandoah>>,<<Shenandoah>>,<<USA-VRG171
+Buena Vista>>,<<Buena Vista>>,<<USA-IOW021
+Boone>>,<<Boone>>,<<USA-IOW015
+Morrow>>,<<Morrow>>,<<USA-OHI117
+Black Hawk>>,<<Black Hawk>>,<<USA-IOW013
+Muskingum>>,<<Muskingum>>,<<USA-OHI119
+Buchanan>>,<<Buchanan>>,<<USA-IOW019
+Bremer>>,<<Bremer>>,<<USA-IOW017
+Monroe>>,<<Monroe>>,<<USA-OHI111
+Montgomery>>,<<Montgomery>>,<<USA-OHI113
+Morgan>>,<<Morgan>>,<<USA-OHI115
+Warren>>,<<Warren>>,<<USA-VRG187
+Tazewell>>,<<Tazewell>>,<<USA-VRG185
+Cedar>>,<<Cedar>>,<<USA-IOW031
+Cerro Gordo>>,<<Cerro Gordo>>,<<USA-IOW033
+Sussex>>,<<Sussex>>,<<USA-VRG183
+Surry>>,<<Surry>>,<<USA-VRG181
+Carroll>>,<<Carroll>>,<<USA-IOW027
+Cass>>,<<Cass>>,<<USA-IOW029
+Butler>>,<<Butler>>,<<USA-IOW023
+Calhoun>>,<<Calhoun>>,<<USA-IOW025
+Wise>>,<<Wise>>,<<USA-VRG195
+Wythe>>,<<Wythe>>,<<USA-VRG197
+York>>,<<York>>,<<USA-VRG199
+Clayton>>,<<Clayton>>,<<USA-IOW043
+Clay>>,<<Clay>>,<<USA-IOW041
+Washington>>,<<Washington>>,<<USA-VRG191
+Westmoreland>>,<<Westmoreland>>,<<USA-VRG193
+Clarke>>,<<Clarke>>,<<USA-IOW039
+Chickasaw>>,<<Chickasaw>>,<<USA-IOW037
+Cherokee>>,<<Cherokee>>,<<USA-IOW035
+Wells>>,<<Wells>>,<<USA-NDA103
+Ward>>,<<Ward>>,<<USA-NDA101
+Williams>>,<<Williams>>,<<USA-NDA105
+Lancaster>>,<<Lancaster>>,<<USA-PEN071
+Lawrence>>,<<Lawrence>>,<<USA-PEN073
+Polk>>,<<Polk>>,<<USA-TNN139
+Pickett>>,<<Pickett>>,<<USA-TNN137
+Lebanon>>,<<Lebanon>>,<<USA-PEN075
+Perry>>,<<Perry>>,<<USA-TNN135
+Lehigh>>,<<Lehigh>>,<<USA-PEN077
+Overton>>,<<Overton>>,<<USA-TNN133
+Luzerne>>,<<Luzerne>>,<<USA-PEN079
+Obion>>,<<Obion>>,<<USA-TNN131
+Searcy>>,<<Searcy>>,<<USA-ARK129
+Brunswick>>,<<Brunswick>>,<<USA-NCR019
+Bladen>>,<<Bladen>>,<<USA-NCR017
+Scott>>,<<Scott>>,<<USA-ARK127
+Bertie>>,<<Bertie>>,<<USA-NCR015
+Saline>>,<<Saline>>,<<USA-ARK125
+St. Francis>>,<<St. Francis>>,<<USA-ARK123
+Beaufort>>,<<Beaufort>>,<<USA-NCR013
+Randolph>>,<<Randolph>>,<<USA-ARK121
+Avery>>,<<Avery>>,<<USA-NCR011
+Lycoming>>,<<Lycoming>>,<<USA-PEN081
+Morgan>>,<<Morgan>>,<<USA-TNN129
+Montgomery>>,<<Montgomery>>,<<USA-TNN125
+Mercer>>,<<Mercer>>,<<USA-PEN085
+McKean>>,<<McKean>>,<<USA-PEN083
+Moore>>,<<Moore>>,<<USA-TNN127
+Monroe>>,<<Monroe>>,<<USA-PEN089
+Meigs>>,<<Meigs>>,<<USA-TNN121
+Monroe>>,<<Monroe>>,<<USA-TNN123
+Mifflin>>,<<Mifflin>>,<<USA-PEN087
+Ashe>>,<<Ashe>>,<<USA-NCR009
+Union>>,<<Union>>,<<USA-ARK139
+Alleghany>>,<<Alleghany>>,<<USA-NCR005
+Anson>>,<<Anson>>,<<USA-NCR007
+Alamance>>,<<Alamance>>,<<USA-NCR001
+Sharp>>,<<Sharp>>,<<USA-ARK135
+Alexander>>,<<Alexander>>,<<USA-NCR003
+Stone>>,<<Stone>>,<<USA-ARK137
+Sebastian>>,<<Sebastian>>,<<USA-ARK131
+Sevier>>,<<Sevier>>,<<USA-ARK133
+Morgan>>,<<Morgan>>,<<USA-COL087
+Marshall>>,<<Marshall>>,<<USA-TNN117
+Fayette>>,<<Fayette>>,<<USA-PEN051
+Montrose>>,<<Montrose>>,<<USA-COL085
+Marion>>,<<Marion>>,<<USA-TNN115
+Forest>>,<<Forest>>,<<USA-PEN053
+Montezuma>>,<<Montezuma>>,<<USA-COL083
+Moffat>>,<<Moffat>>,<<USA-COL081
+Maury>>,<<Maury>>,<<USA-TNN119
+Greene>>,<<Greene>>,<<USA-PEN059
+Franklin>>,<<Franklin>>,<<USA-PEN055
+Madison>>,<<Madison>>,<<USA-TNN113
+Macon>>,<<Macon>>,<<USA-TNN111
+Fulton>>,<<Fulton>>,<<USA-PEN057
+Yell>>,<<Yell>>,<<USA-ARK149
+Washington>>,<<Washington>>,<<USA-ARK143
+Van Buren>>,<<Van Buren>>,<<USA-ARK141
+Woodruff>>,<<Woodruff>>,<<USA-ARK147
+Mineral>>,<<Mineral>>,<<USA-COL079
+White>>,<<White>>,<<USA-ARK145
+Indiana>>,<<Indiana>>,<<USA-PEN063
+Lincoln>>,<<Lincoln>>,<<USA-TNN103
+Pitkin>>,<<Pitkin>>,<<USA-COL097
+Huntingdon>>,<<Huntingdon>>,<<USA-PEN061
+Loudon>>,<<Loudon>>,<<USA-TNN105
+Prowers>>,<<Prowers>>,<<USA-COL099
+McMinn>>,<<McMinn>>,<<USA-TNN107
+Park>>,<<Park>>,<<USA-COL093
+McNairy>>,<<McNairy>>,<<USA-TNN109
+Phillips>>,<<Phillips>>,<<USA-COL095
+Lackawanna>>,<<Lackawanna>>,<<USA-PEN069
+Ouray>>,<<Ouray>>,<<USA-COL091
+Juniata>>,<<Juniata>>,<<USA-PEN067
+Jefferson>>,<<Jefferson>>,<<USA-PEN065
+Lewis>>,<<Lewis>>,<<USA-TNN101
+Otero>>,<<Otero>>,<<USA-COL089
+Washington>>,<<Washington>>,<<USA-TNN179
+Warren>>,<<Warren>>,<<USA-TNN177
+Van Buren>>,<<Van Buren>>,<<USA-TNN175
+Union>>,<<Union>>,<<USA-TNN173
+Kiowa>>,<<Kiowa>>,<<USA-COL061
+Lake>>,<<Lake>>,<<USA-COL065
+Kit Carson>>,<<Kit Carson>>,<<USA-COL063
+Jefferson>>,<<Jefferson>>,<<USA-COL059
+Jackson>>,<<Jackson>>,<<USA-COL057
+Wayne>>,<<Wayne>>,<<USA-TNN181
+Sumner>>,<<Sumner>>,<<USA-TNN165
+Tipton>>,<<Tipton>>,<<USA-TNN167
+Stewart>>,<<Stewart>>,<<USA-TNN161
+Sullivan>>,<<Sullivan>>,<<USA-TNN163
+Las Animas>>,<<Las Animas>>,<<USA-COL071
+Lincoln>>,<<Lincoln>>,<<USA-COL073
+Logan>>,<<Logan>>,<<USA-COL075
+Trousdale>>,<<Trousdale>>,<<USA-TNN169
+Mesa>>,<<Mesa>>,<<USA-COL077
+La Plata>>,<<La Plata>>,<<USA-COL067
+Larimer>>,<<Larimer>>,<<USA-COL069
+Unicoi>>,<<Unicoi>>,<<USA-TNN171
+Sequatchie>>,<<Sequatchie>>,<<USA-TNN153
+Scott>>,<<Scott>>,<<USA-TNN151
+Shelby>>,<<Shelby>>,<<USA-TNN157
+Perry>>,<<Perry>>,<<USA-PEN099
+Sevier>>,<<Sevier>>,<<USA-TNN155
+Northampton>>,<<Northampton>>,<<USA-PEN095
+Fremont>>,<<Fremont>>,<<USA-COL043
+Northumberland>>,<<Northumberland>>,<<USA-PEN097
+Smith>>,<<Smith>>,<<USA-TNN159
+El Paso>>,<<El Paso>>,<<USA-COL041
+Montgomery>>,<<Montgomery>>,<<USA-PEN091
+Montour>>,<<Montour>>,<<USA-PEN093
+Elbert>>,<<Elbert>>,<<USA-COL039
+Ouachita>>,<<Ouachita>>,<<USA-ARK103
+Eagle>>,<<Eagle>>,<<USA-COL037
+Newton>>,<<Newton>>,<<USA-ARK101
+Douglas>>,<<Douglas>>,<<USA-COL035
+Phillips>>,<<Phillips>>,<<USA-ARK107
+Perry>>,<<Perry>>,<<USA-ARK105
+Pike>>,<<Pike>>,<<USA-ARK109
+Putnam>>,<<Putnam>>,<<USA-TNN141
+Rhea>>,<<Rhea>>,<<USA-TNN143
+Roane>>,<<Roane>>,<<USA-TNN145
+Hinsdale>>,<<Hinsdale>>,<<USA-COL053
+Robertson>>,<<Robertson>>,<<USA-TNN147
+Huerfano>>,<<Huerfano>>,<<USA-COL055
+Rutherford>>,<<Rutherford>>,<<USA-TNN149
+Gunnison>>,<<Gunnison>>,<<USA-COL051
+Grand>>,<<Grand>>,<<USA-COL049
+Poinsett>>,<<Poinsett>>,<<USA-ARK111
+Garfield>>,<<Garfield>>,<<USA-COL045
+Polk>>,<<Polk>>,<<USA-ARK113
+Gilpin>>,<<Gilpin>>,<<USA-COL047
+Pope>>,<<Pope>>,<<USA-ARK115
+Prairie>>,<<Prairie>>,<<USA-ARK117
+Pulaski>>,<<Pulaski>>,<<USA-ARK119
+Alamosa>>,<<Alamosa>>,<<USA-COL003
+Rolette>>,<<Rolette>>,<<USA-NDA079
+Adams>>,<<Adams>>,<<USA-COL001
+Renville>>,<<Renville>>,<<USA-NDA075
+Archuleta>>,<<Archuleta>>,<<USA-COL007
+Arapahoe>>,<<Arapahoe>>,<<USA-COL005
+Richland>>,<<Richland>>,<<USA-NDA077
+Buchanan>>,<<Buchanan>>,<<USA-VRG027
+Platte>>,<<Platte>>,<<USA-MOS165
+Buckingham>>,<<Buckingham>>,<<USA-VRG029
+Baca>>,<<Baca>>,<<USA-COL009
+Polk>>,<<Polk>>,<<USA-MOS167
+Pulaski>>,<<Pulaski>>,<<USA-MOS169
+Bland>>,<<Bland>>,<<USA-VRG021
+Putnam>>,<<Putnam>>,<<USA-MOS171
+Florence>>,<<Florence>>,<<USA-SCR041
+Botetourt>>,<<Botetourt>>,<<USA-VRG023
+Georgetown>>,<<Georgetown>>,<<USA-SCR043
+Ralls>>,<<Ralls>>,<<USA-MOS173
+Greenville>>,<<Greenville>>,<<USA-SCR045
+Brunswick>>,<<Brunswick>>,<<USA-VRG025
+Randolph>>,<<Randolph>>,<<USA-MOS175
+Greenwood>>,<<Greenwood>>,<<USA-SCR047
+Sheridan>>,<<Sheridan>>,<<USA-NDA083
+Sioux>>,<<Sioux>>,<<USA-NDA085
+Hampton>>,<<Hampton>>,<<USA-SCR049
+Bent>>,<<Bent>>,<<USA-COL011
+Sargent>>,<<Sargent>>,<<USA-NDA081
+Stark>>,<<Stark>>,<<USA-NDA089
+Slope>>,<<Slope>>,<<USA-NDA087
+Reynolds>>,<<Reynolds>>,<<USA-MOS179
+Ray>>,<<Ray>>,<<USA-MOS177
+Wheeler>>,<<Wheeler>>,<<USA-NEB183
+Horry>>,<<Horry>>,<<USA-SCR051
+Caroline>>,<<Caroline>>,<<USA-VRG033
+Ripley>>,<<Ripley>>,<<USA-MOS181
+Campbell>>,<<Campbell>>,<<USA-VRG031
+York>>,<<York>>,<<USA-NEB185
+Charlotte>>,<<Charlotte>>,<<USA-VRG037
+Kershaw>>,<<Kershaw>>,<<USA-SCR055
+St. Clair>>,<<St. Clair>>,<<USA-MOS185
+Charles City>>,<<Charles City>>,<<USA-VRG036
+Ste. Genevieve>>,<<Ste. Genevieve>>,<<USA-MOS186
+Jasper>>,<<Jasper>>,<<USA-SCR053
+Carroll>>,<<Carroll>>,<<USA-VRG035
+St. Charles>>,<<St. Charles>>,<<USA-MOS183
+Webster>>,<<Webster>>,<<USA-NEB181
+Laurens>>,<<Laurens>>,<<USA-SCR059
+Towner>>,<<Towner>>,<<USA-NDA095
+Lancaster>>,<<Lancaster>>,<<USA-SCR057
+Stutsman>>,<<Stutsman>>,<<USA-NDA093
+Steele>>,<<Steele>>,<<USA-NDA091
+Traill>>,<<Traill>>,<<USA-NDA097
+Delta>>,<<Delta>>,<<USA-COL029
+Walsh>>,<<Walsh>>,<<USA-NDA099
+Custer>>,<<Custer>>,<<USA-COL027
+Crowley>>,<<Crowley>>,<<USA-COL025
+Costilla>>,<<Costilla>>,<<USA-COL023
+Kennebec>>,<<Kennebec>>,<<USA-MAI011
+Amherst>>,<<Amherst>>,<<USA-VRG009
+Knox>>,<<Knox>>,<<USA-MAI013
+Lincoln>>,<<Lincoln>>,<<USA-MAI015
+Alleghany>>,<<Alleghany>>,<<USA-VRG005
+Oxford>>,<<Oxford>>,<<USA-MAI017
+St. Francois>>,<<St. Francois>>,<<USA-MOS187
+Amelia>>,<<Amelia>>,<<USA-VRG007
+St. Louis>>,<<St. Louis>>,<<USA-MOS189
+Penobscot>>,<<Penobscot>>,<<USA-MAI019
+McCormick>>,<<McCormick>>,<<USA-SCR065
+Accomack>>,<<Accomack>>,<<USA-VRG001
+Saline>>,<<Saline>>,<<USA-MOS195
+Marion>>,<<Marion>>,<<USA-SCR067
+Schuyler>>,<<Schuyler>>,<<USA-MOS197
+Albemarle>>,<<Albemarle>>,<<USA-VRG003
+Lee>>,<<Lee>>,<<USA-SCR061
+Thurston>>,<<Thurston>>,<<USA-NEB173
+Lexington>>,<<Lexington>>,<<USA-SCR063
+Thomas>>,<<Thomas>>,<<USA-NEB171
+Dolores>>,<<Dolores>>,<<USA-COL033
+Washington>>,<<Washington>>,<<USA-NEB177
+Valley>>,<<Valley>>,<<USA-NEB175
+Denver>>,<<Denver>>,<<USA-COL031
+Marlboro>>,<<Marlboro>>,<<USA-SCR069
+Wayne>>,<<Wayne>>,<<USA-NEB179
+Cheyenne>>,<<Cheyenne>>,<<USA-COL017
+Clear Creek>>,<<Clear Creek>>,<<USA-COL019
+Boulder>>,<<Boulder>>,<<USA-COL013
+Androscoggin>>,<<Androscoggin>>,<<USA-MAI001
+Chaffee>>,<<Chaffee>>,<<USA-COL015
+Broomfield>>,<<Broomfield>>,<<USA-COL014
+Cumberland>>,<<Cumberland>>,<<USA-MAI005
+Saluda>>,<<Saluda>>,<<USA-SCR081
+Aroostook>>,<<Aroostook>>,<<USA-MAI003
+Hancock>>,<<Hancock>>,<<USA-MAI009
+Bedford>>,<<Bedford>>,<<USA-VRG019
+Franklin>>,<<Franklin>>,<<USA-MAI007
+Scotland>>,<<Scotland>>,<<USA-MOS199
+Bath>>,<<Bath>>,<<USA-VRG017
+Pickens>>,<<Pickens>>,<<USA-SCR077
+Augusta>>,<<Augusta>>,<<USA-VRG015
+Orangeburg>>,<<Orangeburg>>,<<USA-SCR075
+Arlington>>,<<Arlington>>,<<USA-VRG013
+Appomattox>>,<<Appomattox>>,<<USA-VRG011
+Sheridan>>,<<Sheridan>>,<<USA-NEB161
+Oconee>>,<<Oconee>>,<<USA-SCR073
+Sherman>>,<<Sherman>>,<<USA-NEB163
+Newberry>>,<<Newberry>>,<<USA-SCR071
+Sioux>>,<<Sioux>>,<<USA-NEB165
+Conejos>>,<<Conejos>>,<<USA-COL021
+Stanton>>,<<Stanton>>,<<USA-NEB167
+Thayer>>,<<Thayer>>,<<USA-NEB169
+Richland>>,<<Richland>>,<<USA-SCR079
+Macon>>,<<Macon>>,<<USA-MOS121
+Madison>>,<<Madison>>,<<USA-MOS123
+Maries>>,<<Maries>>,<<USA-MOS125
+York>>,<<York>>,<<USA-SCR091
+Marion>>,<<Marion>>,<<USA-MOS127
+Mercer>>,<<Mercer>>,<<USA-MOS129
+Spartanburg>>,<<Spartanburg>>,<<USA-SCR083
+Sumter>>,<<Sumter>>,<<USA-SCR085
+Union>>,<<Union>>,<<USA-SCR087
+Williamsburg>>,<<Williamsburg>>,<<USA-SCR089
+Miller>>,<<Miller>>,<<USA-MOS131
+Moniteau>>,<<Moniteau>>,<<USA-MOS135
+Mississippi>>,<<Mississippi>>,<<USA-MOS133
+Montgomery>>,<<Montgomery>>,<<USA-MOS139
+Monroe>>,<<Monroe>>,<<USA-MOS137
+Morgan>>,<<Morgan>>,<<USA-MOS141
+Nodaway>>,<<Nodaway>>,<<USA-MOS147
+Oregon>>,<<Oregon>>,<<USA-MOS149
+New Madrid>>,<<New Madrid>>,<<USA-MOS143
+Newton>>,<<Newton>>,<<USA-MOS145
+Osage>>,<<Osage>>,<<USA-MOS151
+Ozark>>,<<Ozark>>,<<USA-MOS153
+Pettis>>,<<Pettis>>,<<USA-MOS159
+Perry>>,<<Perry>>,<<USA-MOS157
+Pemiscot>>,<<Pemiscot>>,<<USA-MOS155
+Pike>>,<<Pike>>,<<USA-MOS163
+Phelps>>,<<Phelps>>,<<USA-MOS161
+Clarke>>,<<Clarke>>,<<USA-GEO059
+Chattahoochee>>,<<Chattahoochee>>,<<USA-GEO053
+Chatham>>,<<Chatham>>,<<USA-GEO051
+Cherokee>>,<<Cherokee>>,<<USA-GEO057
+Chattooga>>,<<Chattooga>>,<<USA-GEO055
+Catoosa>>,<<Catoosa>>,<<USA-GEO047
+Barnes>>,<<Barnes>>,<<USA-NDA003
+Benson>>,<<Benson>>,<<USA-NDA005
+Charlton>>,<<Charlton>>,<<USA-GEO049
+Adams>>,<<Adams>>,<<USA-NDA001
+Candler>>,<<Candler>>,<<USA-GEO043
+Billings>>,<<Billings>>,<<USA-NDA007
+Bottineau>>,<<Bottineau>>,<<USA-NDA009
+Carroll>>,<<Carroll>>,<<USA-GEO045
+Henry>>,<<Henry>>,<<USA-VRG089
+Henrico>>,<<Henrico>>,<<USA-VRG087
+Hanover>>,<<Hanover>>,<<USA-VRG085
+Halifax>>,<<Halifax>>,<<USA-VRG083
+Greensville>>,<<Greensville>>,<<USA-VRG081
+Bowman>>,<<Bowman>>,<<USA-NDA011
+Camden>>,<<Camden>>,<<USA-GEO039
+Lawrence>>,<<Lawrence>>,<<USA-MOS109
+Burleigh>>,<<Burleigh>>,<<USA-NDA015
+Burke>>,<<Burke>>,<<USA-NDA013
+Lafayette>>,<<Lafayette>>,<<USA-MOS107
+Calhoun>>,<<Calhoun>>,<<USA-GEO037
+Butts>>,<<Butts>>,<<USA-GEO035
+Laclede>>,<<Laclede>>,<<USA-MOS105
+Cavalier>>,<<Cavalier>>,<<USA-NDA019
+Cass>>,<<Cass>>,<<USA-NDA017
+Knox>>,<<Knox>>,<<USA-MOS103
+Burke>>,<<Burke>>,<<USA-GEO033
+Bulloch>>,<<Bulloch>>,<<USA-GEO031
+Johnson>>,<<Johnson>>,<<USA-MOS101
+King and Queen>>,<<King and Queen>>,<<USA-VRG097
+King George>>,<<King George>>,<<USA-VRG099
+Isle of Wight>>,<<Isle of Wight>>,<<USA-VRG093
+James City>>,<<James City>>,<<USA-VRG095
+Highland>>,<<Highland>>,<<USA-VRG091
+Bryan>>,<<Bryan>>,<<USA-GEO029
+Dickey>>,<<Dickey>>,<<USA-NDA021
+Divide>>,<<Divide>>,<<USA-NDA023
+Brantley>>,<<Brantley>>,<<USA-GEO025
+McDonald>>,<<McDonald>>,<<USA-MOS119
+Dunn>>,<<Dunn>>,<<USA-NDA025
+Brooks>>,<<Brooks>>,<<USA-GEO027
+Eddy>>,<<Eddy>>,<<USA-NDA027
+Bibb>>,<<Bibb>>,<<USA-GEO021
+Emmons>>,<<Emmons>>,<<USA-NDA029
+Linn>>,<<Linn>>,<<USA-MOS115
+Bleckley>>,<<Bleckley>>,<<USA-GEO023
+Livingston>>,<<Livingston>>,<<USA-MOS117
+Lewis>>,<<Lewis>>,<<USA-MOS111
+Lincoln>>,<<Lincoln>>,<<USA-MOS113
+Allendale>>,<<Allendale>>,<<USA-SCR005
+Hettinger>>,<<Hettinger>>,<<USA-NDA041
+Aiken>>,<<Aiken>>,<<USA-SCR003
+Fauquier>>,<<Fauquier>>,<<USA-VRG061
+Bamberg>>,<<Bamberg>>,<<USA-SCR009
+Anderson>>,<<Anderson>>,<<USA-SCR007
+Fluvanna>>,<<Fluvanna>>,<<USA-VRG065
+Floyd>>,<<Floyd>>,<<USA-VRG063
+Frederick>>,<<Frederick>>,<<USA-VRG069
+Abbeville>>,<<Abbeville>>,<<USA-SCR001
+Franklin>>,<<Franklin>>,<<USA-VRG067
+Barrow>>,<<Barrow>>,<<USA-GEO013
+Banks>>,<<Banks>>,<<USA-GEO011
+Griggs>>,<<Griggs>>,<<USA-NDA039
+Grant>>,<<Grant>>,<<USA-NDA037
+Ben Hill>>,<<Ben Hill>>,<<USA-GEO017
+Bartow>>,<<Bartow>>,<<USA-GEO015
+York>>,<<York>>,<<USA-MAI031
+Grand Forks>>,<<Grand Forks>>,<<USA-NDA035
+Golden Valley>>,<<Golden Valley>>,<<USA-NDA033
+Berrien>>,<<Berrien>>,<<USA-GEO019
+Foster>>,<<Foster>>,<<USA-NDA031
+Beaufort>>,<<Beaufort>>,<<USA-SCR013
+McIntosh>>,<<McIntosh>>,<<USA-NDA051
+Berkeley>>,<<Berkeley>>,<<USA-SCR015
+Calhoun>>,<<Calhoun>>,<<USA-SCR017
+Giles>>,<<Giles>>,<<USA-VRG071
+Gloucester>>,<<Gloucester>>,<<USA-VRG073
+Charleston>>,<<Charleston>>,<<USA-SCR019
+Goochland>>,<<Goochland>>,<<USA-VRG075
+Grayson>>,<<Grayson>>,<<USA-VRG077
+Greene>>,<<Greene>>,<<USA-VRG079
+Barnwell>>,<<Barnwell>>,<<USA-SCR011
+Washington>>,<<Washington>>,<<USA-MAI029
+Somerset>>,<<Somerset>>,<<USA-MAI025
+Appling>>,<<Appling>>,<<USA-GEO001
+Waldo>>,<<Waldo>>,<<USA-MAI027
+Piscataquis>>,<<Piscataquis>>,<<USA-MAI021
+Logan>>,<<Logan>>,<<USA-NDA047
+Atkinson>>,<<Atkinson>>,<<USA-GEO003
+Sagadahoc>>,<<Sagadahoc>>,<<USA-MAI023
+Bacon>>,<<Bacon>>,<<USA-GEO005
+McHenry>>,<<McHenry>>,<<USA-NDA049
+Baker>>,<<Baker>>,<<USA-GEO007
+Kidder>>,<<Kidder>>,<<USA-NDA043
+LaMoure>>,<<LaMoure>>,<<USA-NDA045
+Baldwin>>,<<Baldwin>>,<<USA-GEO009
+Colleton>>,<<Colleton>>,<<USA-SCR029
+Clarendon>>,<<Clarendon>>,<<USA-SCR027
+Nelson>>,<<Nelson>>,<<USA-NDA063
+Chesterfield>>,<<Chesterfield>>,<<USA-SCR025
+Mountrail>>,<<Mountrail>>,<<USA-NDA061
+Culpeper>>,<<Culpeper>>,<<USA-VRG047
+Chester>>,<<Chester>>,<<USA-SCR023
+Cherokee>>,<<Cherokee>>,<<USA-SCR021
+Craig>>,<<Craig>>,<<USA-VRG045
+Clarke>>,<<Clarke>>,<<USA-VRG043
+Chesterfield>>,<<Chesterfield>>,<<USA-VRG041
+Cumberland>>,<<Cumberland>>,<<USA-VRG049
+McLean>>,<<McLean>>,<<USA-NDA055
+McKenzie>>,<<McKenzie>>,<<USA-NDA053
+Morton>>,<<Morton>>,<<USA-NDA059
+Mercer>>,<<Mercer>>,<<USA-NDA057
+Fairfield>>,<<Fairfield>>,<<USA-SCR039
+Dickenson>>,<<Dickenson>>,<<USA-VRG051
+Dorchester>>,<<Dorchester>>,<<USA-SCR035
+Ramsey>>,<<Ramsey>>,<<USA-NDA071
+Ransom>>,<<Ransom>>,<<USA-NDA073
+Edgefield>>,<<Edgefield>>,<<USA-SCR037
+Darlington>>,<<Darlington>>,<<USA-SCR031
+Essex>>,<<Essex>>,<<USA-VRG057
+Fairfax>>,<<Fairfax>>,<<USA-VRG059
+Dillon>>,<<Dillon>>,<<USA-SCR033
+Dinwiddie>>,<<Dinwiddie>>,<<USA-VRG053
+Oliver>>,<<Oliver>>,<<USA-NDA065
+Pembina>>,<<Pembina>>,<<USA-NDA067
+Pierce>>,<<Pierce>>,<<USA-NDA069
+Nez Perce>>,<<Nez Perce>>,<<USA-IDA069
+Minidoka>>,<<Minidoka>>,<<USA-IDA067
+Madison>>,<<Madison>>,<<USA-IDA065
+Owyhee>>,<<Owyhee>>,<<USA-IDA073
+Waupaca>>,<<Waupaca>>,<<USA-WIS135
+Oneida>>,<<Oneida>>,<<USA-IDA071
+Waukesha>>,<<Waukesha>>,<<USA-WIS133
+Winnebago>>,<<Winnebago>>,<<USA-WIS139
+Waushara>>,<<Waushara>>,<<USA-WIS137
+Washington>>,<<Washington>>,<<USA-WIS131
+Latah>>,<<Latah>>,<<USA-IDA057
+Lemhi>>,<<Lemhi>>,<<USA-IDA059
+Jerome>>,<<Jerome>>,<<USA-IDA053
+Kootenai>>,<<Kootenai>>,<<USA-IDA055
+Vernon>>,<<Vernon>>,<<USA-WIS123
+Lewis>>,<<Lewis>>,<<USA-IDA061
+Vilas>>,<<Vilas>>,<<USA-WIS125
+Lincoln>>,<<Lincoln>>,<<USA-IDA063
+Walworth>>,<<Walworth>>,<<USA-WIS127
+Washburn>>,<<Washburn>>,<<USA-WIS129
+Trempealeau>>,<<Trempealeau>>,<<USA-WIS121
+Washington>>,<<Washington>>,<<USA-IDA087
+Fairfield>>,<<Fairfield>>,<<USA-CNN001
+Payette>>,<<Payette>>,<<USA-IDA075
+Power>>,<<Power>>,<<USA-IDA077
+Shoshone>>,<<Shoshone>>,<<USA-IDA079
+Teton>>,<<Teton>>,<<USA-IDA081
+Twin Falls>>,<<Twin Falls>>,<<USA-IDA083
+Valley>>,<<Valley>>,<<USA-IDA085
+Wood>>,<<Wood>>,<<USA-WIS141
+DeKalb>>,<<DeKalb>>,<<USA-GEO089
+Decatur>>,<<Decatur>>,<<USA-GEO087
+Dawson>>,<<Dawson>>,<<USA-GEO085
+Dade>>,<<Dade>>,<<USA-GEO083
+Dooly>>,<<Dooly>>,<<USA-GEO093
+Dodge>>,<<Dodge>>,<<USA-GEO091
+Beaver>>,<<Beaver>>,<<USA-OKL007
+Early>>,<<Early>>,<<USA-GEO099
+Atoka>>,<<Atoka>>,<<USA-OKL005
+Dougherty>>,<<Dougherty>>,<<USA-GEO095
+Beckham>>,<<Beckham>>,<<USA-OKL009
+Douglas>>,<<Douglas>>,<<USA-GEO097
+Alfalfa>>,<<Alfalfa>>,<<USA-OKL003
+Adair>>,<<Adair>>,<<USA-OKL001
+Clayton>>,<<Clayton>>,<<USA-GEO063
+Clay>>,<<Clay>>,<<USA-GEO061
+Canadian>>,<<Canadian>>,<<USA-OKL017
+Cobb>>,<<Cobb>>,<<USA-GEO067
+Carter>>,<<Carter>>,<<USA-OKL019
+Clinch>>,<<Clinch>>,<<USA-GEO065
+Coffee>>,<<Coffee>>,<<USA-GEO069
+Bryan>>,<<Bryan>>,<<USA-OKL013
+Caddo>>,<<Caddo>>,<<USA-OKL015
+Colquitt>>,<<Colquitt>>,<<USA-GEO071
+Blaine>>,<<Blaine>>,<<USA-OKL011
+Columbia>>,<<Columbia>>,<<USA-GEO073
+Cook>>,<<Cook>>,<<USA-GEO075
+Coal>>,<<Coal>>,<<USA-OKL029
+Coweta>>,<<Coweta>>,<<USA-GEO077
+Cleveland>>,<<Cleveland>>,<<USA-OKL027
+Crawford>>,<<Crawford>>,<<USA-GEO079
+Cimarron>>,<<Cimarron>>,<<USA-OKL025
+Choctaw>>,<<Choctaw>>,<<USA-OKL023
+Cherokee>>,<<Cherokee>>,<<USA-OKL021
+Crisp>>,<<Crisp>>,<<USA-GEO081
+Cotton>>,<<Cotton>>,<<USA-OKL033
+Comanche>>,<<Comanche>>,<<USA-OKL031
+Creek>>,<<Creek>>,<<USA-OKL037
+Craig>>,<<Craig>>,<<USA-OKL035
+Skagway>>,<<Skagway>>,<<USA-ALK230
+Custer>>,<<Custer>>,<<USA-OKL039
+Delaware>>,<<Delaware>>,<<USA-OKL041
+Dewey>>,<<Dewey>>,<<USA-OKL043
+Ellis>>,<<Ellis>>,<<USA-OKL045
+Garfield>>,<<Garfield>>,<<USA-OKL047
+Garvin>>,<<Garvin>>,<<USA-OKL049
+Southeast Fairbanks>>,<<Southeast Fairbanks>>,<<USA-ALK240
+Harper>>,<<Harper>>,<<USA-OKL059
+Harmon>>,<<Harmon>>,<<USA-OKL057
+Greer>>,<<Greer>>,<<USA-OKL055
+Grant>>,<<Grant>>,<<USA-OKL053
+Grady>>,<<Grady>>,<<USA-OKL051
+Bear Lake>>,<<Bear Lake>>,<<USA-IDA007
+Benewah>>,<<Benewah>>,<<USA-IDA009
+Ada>>,<<Ada>>,<<USA-IDA001
+Adams>>,<<Adams>>,<<USA-IDA003
+Bannock>>,<<Bannock>>,<<USA-IDA005
+Jefferson>>,<<Jefferson>>,<<USA-OKL067
+Johnston>>,<<Johnston>>,<<USA-OKL069
+Hughes>>,<<Hughes>>,<<USA-OKL063
+Jackson>>,<<Jackson>>,<<USA-OKL065
+Haskell>>,<<Haskell>>,<<USA-OKL061
+Sitka>>,<<Sitka>>,<<USA-ALK220
+Kingfisher>>,<<Kingfisher>>,<<USA-OKL073
+Kay>>,<<Kay>>,<<USA-OKL071
+Latimer>>,<<Latimer>>,<<USA-OKL077
+Kiowa>>,<<Kiowa>>,<<USA-OKL075
+Le Flore>>,<<Le Flore>>,<<USA-OKL079
+Wrangell>>,<<Wrangell>>,<<USA-ALK275
+Camas>>,<<Camas>>,<<USA-IDA025
+Canyon>>,<<Canyon>>,<<USA-IDA027
+Jefferson>>,<<Jefferson>>,<<USA-MOS099
+Boundary>>,<<Boundary>>,<<USA-IDA021
+Wade Hampton>>,<<Wade Hampton>>,<<USA-ALK270
+Butte>>,<<Butte>>,<<USA-IDA023
+Caribou>>,<<Caribou>>,<<USA-IDA029
+Lincoln>>,<<Lincoln>>,<<USA-OKL081
+Logan>>,<<Logan>>,<<USA-OKL083
+Yukon-Koyukuk>>,<<Yukon-Koyukuk>>,<<USA-ALK290
+Jasper>>,<<Jasper>>,<<USA-MOS097
+Love>>,<<Love>>,<<USA-OKL085
+McClain>>,<<McClain>>,<<USA-OKL087
+Jackson>>,<<Jackson>>,<<USA-MOS095
+Iron>>,<<Iron>>,<<USA-MOS093
+McCurtain>>,<<McCurtain>>,<<USA-OKL089
+Howell>>,<<Howell>>,<<USA-MOS091
+Boise>>,<<Boise>>,<<USA-IDA015
+Blaine>>,<<Blaine>>,<<USA-IDA013
+Bingham>>,<<Bingham>>,<<USA-IDA011
+Yakutat>>,<<Yakutat>>,<<USA-ALK282
+Howard>>,<<Howard>>,<<USA-MOS089
+Bonneville>>,<<Bonneville>>,<<USA-IDA019
+Bonner>>,<<Bonner>>,<<USA-IDA017
+Marshall>>,<<Marshall>>,<<USA-OKL095
+Major>>,<<Major>>,<<USA-OKL093
+McIntosh>>,<<McIntosh>>,<<USA-OKL091
+Murray>>,<<Murray>>,<<USA-OKL099
+Mayes>>,<<Mayes>>,<<USA-OKL097
+Jefferson>>,<<Jefferson>>,<<USA-IDA051
+Fremont>>,<<Fremont>>,<<USA-IDA043
+Gem>>,<<Gem>>,<<USA-IDA045
+Gooding>>,<<Gooding>>,<<USA-IDA047
+Idaho>>,<<Idaho>>,<<USA-IDA049
+Franklin>>,<<Franklin>>,<<USA-IDA041
+Clark>>,<<Clark>>,<<USA-IDA033
+Valdez-Cordova>>,<<Valdez-Cordova>>,<<USA-ALK261
+Cassia>>,<<Cassia>>,<<USA-IDA031
+Custer>>,<<Custer>>,<<USA-IDA037
+Clearwater>>,<<Clearwater>>,<<USA-IDA035
+Elmore>>,<<Elmore>>,<<USA-IDA039
