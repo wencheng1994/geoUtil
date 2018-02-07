@@ -1,0 +1,11 @@
+<web-app>
+	<servlet>
+		<servlet-name>GeoQuery</servlet-name>
+		<servlet-class>com.yonghongtech.geo.QueryServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GeoQuery</servlet-name>
+		<url-pattern>/query/geo</url-pattern>
+
+	</servlet-mapping>
+</web-app>
